@@ -1,7 +1,7 @@
 // 앱 파일을 바꿀 때마다 VERSION을 올리면 기존 캐시가 새 것으로 교체된다.
-const VERSION = "v2";
+const VERSION = "v3";
 const CACHE = "jatuori-" + VERSION;
-const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
+const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png", "./words-middle.js", "./words-high.js", "./words-toefl.js"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));

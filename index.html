@@ -75,115 +75,22 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 </div>
 <div class="bottom"><button class="next" id="next">다음 5개 →</button></div>
 
+<script src="words-middle.js"></script>
+<script src="words-high.js"></script>
+<script src="words-toefl.js"></script>
 <script>
-/* 단어 데이터: [단어, IPA, [[품사,뜻]...], [영문,해석], [영문,해석]] — 예문의 *…* 는 굵게 표시 */
 const LEVELS={middle:"중학교",high:"고등학교",toefl:"토플"};
-const RAW={
-middle:[
-["borrow","/ˈbɒroʊ/",[["동","빌리다"]],["Can I *borrow* your pencil?","네 연필 좀 빌려도 될까?"],["She *borrowed* a book from the library.","그녀는 도서관에서 책을 빌렸다."]],
-["habit","/ˈhæbɪt/",[["명","습관, 버릇"]],["Reading before bed is a good *habit*.","자기 전에 책을 읽는 것은 좋은 습관이다."],["He has a *habit* of biting his nails.","그는 손톱을 물어뜯는 버릇이 있다."]],
-["journey","/ˈdʒɜːrni/",[["명","여행, 여정"]],["The *journey* to the island took two hours.","그 섬까지의 여행은 두 시간 걸렸다."],["We began our *journey* early in the morning.","우리는 아침 일찍 여행을 시작했다."]],
-["neighbor","/ˈneɪbər/",[["명","이웃, 옆 사람"]],["My *neighbor* has a friendly dog.","우리 이웃은 다정한 개를 키운다."],["She waved to her *neighbors* every morning.","그녀는 매일 아침 이웃들에게 손을 흔들었다."]],
-["century","/ˈsentʃəri/",[["명","100년, 세기"]],["This temple is over a *century* old.","이 절은 백 년이 넘었다."],["The 21st *century* began in 2001.","21세기는 2001년에 시작되었다."]],
-["comfortable","/ˈkʌmftəbl/",[["형","편안한, 쾌적한"]],["This sofa is very *comfortable*.","이 소파는 매우 편안하다."],["I feel *comfortable* talking with her.","나는 그녀와 이야기하는 게 편하다."]],
-["decide","/dɪˈsaɪd/",[["동","결정하다, 결심하다"]],["I *decided* to join the art club.","나는 미술 동아리에 들기로 결정했다."],["We can't *decide* where to eat.","우리는 어디서 먹을지 정하지 못한다."]],
-["environment","/ɪnˈvaɪrənmənt/",[["명","환경"]],["We should protect the *environment*.","우리는 환경을 보호해야 한다."],["A quiet *environment* helps me study.","조용한 환경은 내가 공부하는 데 도움이 된다."]],
-["exercise","/ˈeksərsaɪz/",[["명","운동, 연습"],["동","운동하다"]],["Daily *exercise* keeps you healthy.","매일 하는 운동은 건강을 지켜 준다."],["I *exercise* for thirty minutes every day.","나는 매일 30분씩 운동한다."]],
-["festival","/ˈfestɪvl/",[["명","축제"]],["Our town holds a lantern *festival* every spring.","우리 마을은 봄마다 등불 축제를 연다."],["The music *festival* lasts three days.","그 음악 축제는 사흘간 열린다."]],
-["goal","/ɡoʊl/",[["명","목표"],["명","골, 득점"]],["My *goal* is to read fifty books this year.","내 목표는 올해 책 오십 권을 읽는 것이다."],["He scored a *goal* in the last minute.","그는 마지막 순간에 골을 넣었다."]],
-["health","/helθ/",[["명","건강"]],["Good *health* is more important than money.","건강은 돈보다 중요하다."],["Eating vegetables is good for your *health*.","채소를 먹는 것은 건강에 좋다."]],
-["imagine","/ɪˈmædʒɪn/",[["동","상상하다"]],["*Imagine* a world without cars.","자동차가 없는 세상을 상상해 보라."],["I can't *imagine* living without music.","나는 음악 없이 사는 것을 상상할 수 없다."]],
-["invite","/ɪnˈvaɪt/",[["동","초대하다"]],["I *invited* ten friends to my party.","나는 파티에 친구 열 명을 초대했다."],["They *invited* us to dinner on Friday.","그들은 금요일 저녁 식사에 우리를 초대했다."]],
-["knowledge","/ˈnɒlɪdʒ/",[["명","지식"]],["Books are a source of *knowledge*.","책은 지식의 원천이다."],["He has great *knowledge* of history.","그는 역사에 대한 지식이 풍부하다."]],
-["lonely","/ˈloʊnli/",[["형","외로운"]],["She felt *lonely* in the new city.","그녀는 새 도시에서 외로웠다."],["The old man lives a *lonely* life.","그 노인은 외로운 삶을 산다."]],
-["manage","/ˈmænɪdʒ/",[["동","간신히 해내다"],["동","관리하다, 운영하다"]],["I *managed* to finish the homework on time.","나는 숙제를 제때 간신히 끝냈다."],["Her parents *manage* a small bakery.","그녀의 부모님은 작은 빵집을 운영한다."]],
-["necessary","/ˈnesəseri/",[["형","필요한, 필수적인"]],["Water is *necessary* for life.","물은 생명에 필수적이다."],["It is not *necessary* to bring a pen.","펜을 가져올 필요는 없다."]],
-["observe","/əbˈzɜːrv/",[["동","관찰하다"],["동","(규칙 등을) 지키다"]],["We *observed* the stars through a telescope.","우리는 망원경으로 별을 관찰했다."],["Please *observe* the school rules.","학교 규칙을 지켜 주세요."]],
-["polite","/pəˈlaɪt/",[["형","공손한, 예의 바른"]],["He is always *polite* to his teachers.","그는 선생님들께 항상 예의 바르다."],["It is *polite* to say thank you.","고맙다고 말하는 것이 예의다."]],
-["promise","/ˈprɒmɪs/",[["명","약속"],["동","약속하다"]],["I made a *promise* to my brother.","나는 동생과 약속을 했다."],["She *promised* to call me tonight.","그녀는 오늘 밤 전화하겠다고 약속했다."]],
-["protect","/prəˈtekt/",[["동","보호하다, 지키다"]],["Helmets *protect* your head.","헬멧은 머리를 보호한다."],["We must *protect* endangered animals.","우리는 멸종 위기 동물을 보호해야 한다."]],
-["receive","/rɪˈsiːv/",[["동","받다"]],["I *received* a letter from my grandmother.","나는 할머니께 편지를 받았다."],["He *received* a prize for his drawing.","그는 그림으로 상을 받았다."]],
-["recycle","/ˌriːˈsaɪkl/",[["동","재활용하다"]],["We *recycle* paper and plastic bottles.","우리는 종이와 플라스틱 병을 재활용한다."],["Glass can be *recycled* many times.","유리는 여러 번 재활용될 수 있다."]],
-["repeat","/rɪˈpiːt/",[["동","반복하다, 되풀이하다"]],["Could you *repeat* the question?","질문을 다시 말씀해 주시겠어요?"],["Don't *repeat* the same mistake.","같은 실수를 반복하지 마라."]],
-["report","/rɪˈpɔːrt/",[["명","보고서, 보도"],["동","보고하다"]],["I wrote a *report* about whales.","나는 고래에 관한 보고서를 썼다."],["The news *reported* heavy rain tomorrow.","뉴스는 내일 폭우가 온다고 보도했다."]],
-["shy","/ʃaɪ/",[["형","수줍음을 타는"]],["The *shy* boy hid behind his mother.","그 수줍은 소년은 엄마 뒤에 숨었다."],["Don't be *shy*; ask any question.","부끄러워 말고 무엇이든 물어봐."]],
-["succeed","/səkˈsiːd/",[["동","성공하다"]],["If you work hard, you will *succeed*.","열심히 하면 성공할 것이다."],["She *succeeded* in passing the test.","그녀는 시험에 합격하는 데 성공했다."]],
-["travel","/ˈtrævl/",[["동","여행하다"],["명","여행"]],["I want to *travel* around the world.","나는 세계를 여행하고 싶다."],["Air *travel* is faster than going by train.","비행기 여행은 기차보다 빠르다."]],
-["village","/ˈvɪlɪdʒ/",[["명","마을"]],["He grew up in a small *village*.","그는 작은 마을에서 자랐다."],["The *villagers* gathered in the square.","마을 사람들이 광장에 모였다."]]
-],
-high:[
-["acquire","/əˈkwaɪər/",[["동","얻다, 습득하다"]],["Children *acquire* language quickly.","아이들은 언어를 빠르게 습득한다."],["The museum *acquired* a rare painting.","그 박물관은 희귀한 그림을 입수했다."]],
-["consequence","/ˈkɒnsɪkwens/",[["명","결과"],["명","중요성"]],["Every choice has a *consequence*.","모든 선택에는 결과가 따른다."],["The *consequences* of pollution are serious.","오염의 결과는 심각하다."]],
-["crucial","/ˈkruːʃl/",[["형","중대한, 결정적인"]],["Sleep is *crucial* for memory.","수면은 기억에 매우 중요하다."],["Her help was *crucial* to our success.","그녀의 도움은 우리의 성공에 결정적이었다."]],
-["sufficient","/səˈfɪʃnt/",[["형","충분한"]],["We have *sufficient* food for the trip.","우리는 여행에 충분한 음식이 있다."],["Ten dollars is *sufficient* for lunch.","점심에는 10달러면 충분하다."]],
-["adapt","/əˈdæpt/",[["동","적응하다"],["동","개작하다"]],["Animals *adapt* to their surroundings.","동물은 주변 환경에 적응한다."],["The novel was *adapted* into a movie.","그 소설은 영화로 각색되었다."]],
-["ambiguous","/æmˈbɪɡjuəs/",[["형","모호한, 애매한"]],["His answer was *ambiguous*.","그의 대답은 애매했다."],["The sign has an *ambiguous* meaning.","그 표지판은 의미가 모호하다."]],
-["benefit","/ˈbenɪfɪt/",[["명","이익, 혜택"],["동","이익을 얻다"]],["Exercise has many health *benefits*.","운동은 건강에 많은 이점이 있다."],["Students *benefit* from small classes.","학생들은 소규모 수업에서 이득을 얻는다."]],
-["complex","/kəmˈpleks/",[["형","복잡한"],["명","복합 건물 단지"]],["The rules of the game are *complex*.","그 게임의 규칙은 복잡하다."],["A new sports *complex* opened downtown.","시내에 새 종합 체육 시설이 문을 열었다."]],
-["conclude","/kənˈkluːd/",[["동","결론짓다"],["동","끝내다"]],["Scientists *concluded* that the water was safe.","과학자들은 물이 안전하다고 결론지었다."],["The speaker *concluded* with a joke.","연사는 농담으로 연설을 끝냈다."]],
-["contribute","/kənˈtrɪbjuːt/",[["동","기여하다"],["동","기부하다"]],["Everyone *contributed* to the project.","모두가 그 프로젝트에 기여했다."],["She *contributed* ten dollars to the fund.","그녀는 기금에 10달러를 기부했다."]],
-["defend","/dɪˈfend/",[["동","방어하다, 지키다"],["동","옹호하다"]],["The soldiers *defended* the castle.","병사들은 성을 방어했다."],["He *defended* his friend's decision.","그는 친구의 결정을 옹호했다."]],
-["derive","/dɪˈraɪv/",[["동","얻다, 끌어내다"],["동","유래하다"]],["She *derives* great joy from painting.","그녀는 그림에서 큰 기쁨을 얻는다."],["Many English words *derive* from Latin.","많은 영어 단어는 라틴어에서 유래한다."]],
-["distinguish","/dɪˈstɪŋɡwɪʃ/",[["동","구별하다"]],["Can you *distinguish* a frog from a toad?","개구리와 두꺼비를 구별할 수 있니?"],["Twins are hard to *distinguish*.","쌍둥이는 구별하기 어렵다."]],
-["efficient","/ɪˈfɪʃnt/",[["형","효율적인"]],["LED lights are energy *efficient*.","LED 전등은 에너지 효율이 좋다."],["She found a more *efficient* way to study.","그녀는 더 효율적인 공부법을 찾았다."]],
-["emerge","/ɪˈmɜːrdʒ/",[["동","나타나다, 드러나다"]],["The sun *emerged* from behind the clouds.","해가 구름 뒤에서 모습을 드러냈다."],["New problems *emerged* after the change.","변화 이후 새로운 문제들이 나타났다."]],
-["evidence","/ˈevɪdəns/",[["명","증거"]],["There is no *evidence* of life on the moon.","달에 생명체가 있다는 증거는 없다."],["The police collected *evidence* at the scene.","경찰은 현장에서 증거를 수집했다."]],
-["factor","/ˈfæktər/",[["명","요인, 요소"]],["Weather is a key *factor* in farming.","날씨는 농업에서 핵심 요인이다."],["Price was an important *factor* in my choice.","가격은 내 선택의 중요한 요인이었다."]],
-["generate","/ˈdʒenəreɪt/",[["동","만들어 내다, 발생시키다"]],["Wind turbines *generate* electricity.","풍력 터빈은 전기를 만든다."],["The idea *generated* a lot of interest.","그 아이디어는 많은 관심을 불러일으켰다."]],
-["impact","/ˈɪmpækt/",[["명","영향, 충격"]],["Social media has a big *impact* on teenagers.","소셜 미디어는 십 대에게 큰 영향을 준다."],["The car's *impact* with the wall was loud.","차가 벽에 부딪치는 충격음이 컸다."]],
-["indicate","/ˈɪndɪkeɪt/",[["동","나타내다, 가리키다"]],["The arrow *indicates* the exit.","화살표는 출구를 가리킨다."],["Studies *indicate* that sleep affects grades.","연구들은 수면이 성적에 영향을 준다고 나타낸다."]],
-["maintain","/meɪnˈteɪn/",[["동","유지하다"],["동","주장하다"]],["It is hard to *maintain* a healthy diet.","건강한 식단을 유지하기는 어렵다."],["He *maintained* that he was innocent.","그는 자신이 결백하다고 주장했다."]],
-["obtain","/əbˈteɪn/",[["동","얻다, 획득하다"]],["You must *obtain* permission first.","먼저 허가를 받아야 한다."],["She *obtained* a degree in biology.","그녀는 생물학 학위를 땄다."]],
-["perspective","/pərˈspektɪv/",[["명","관점, 시각"]],["Try to see it from her *perspective*.","그녀의 관점에서 생각해 봐."],["Travel gives you a new *perspective* on life.","여행은 삶에 대한 새로운 시각을 준다."]],
-["previous","/ˈpriːviəs/",[["형","이전의, 앞선"]],["The *previous* chapter was easier.","이전 장은 더 쉬웠다."],["I have no *previous* experience.","나는 이전 경험이 없다."]],
-["reluctant","/rɪˈlʌktənt/",[["형","꺼리는, 마지못한"]],["He was *reluctant* to speak in public.","그는 사람들 앞에서 말하기를 꺼렸다."],["She gave a *reluctant* smile.","그녀는 마지못해 미소 지었다."]],
-["resource","/ˈriːsɔːrs/",[["명","자원"],["명","자료"]],["Water is a precious natural *resource*.","물은 소중한 천연자원이다."],["The library offers many learning *resources*.","도서관은 많은 학습 자료를 제공한다."]],
-["significant","/sɪɡˈnɪfɪkənt/",[["형","중요한"],["형","상당한"]],["This is a *significant* discovery.","이것은 중요한 발견이다."],["There was a *significant* rise in prices.","물가가 상당히 올랐다."]],
-["tendency","/ˈtendənsi/",[["명","경향, 성향"]],["He has a *tendency* to be late.","그는 늦는 경향이 있다."],["Prices show a *tendency* to rise in summer.","가격은 여름에 오르는 경향을 보인다."]],
-["urgent","/ˈɜːrdʒənt/",[["형","긴급한"]],["I have an *urgent* message for you.","당신에게 급한 전갈이 있습니다."],["The patient needs *urgent* care.","그 환자는 긴급한 치료가 필요하다."]],
-["vary","/ˈveri/",[["동","다르다, 달라지다"]],["Prices *vary* from store to store.","가격은 가게마다 다르다."],["Opinions *vary* on this topic.","이 주제에 대한 의견은 다양하다."]]
-],
-toefl:[
-["abundant","/əˈbʌndənt/",[["형","풍부한, 많은"]],["Fish are *abundant* in this lake.","이 호수에는 물고기가 풍부하다."],["The region has *abundant* natural resources.","그 지역은 천연자원이 풍부하다."]],
-["dormant","/ˈdɔːrmənt/",[["형","휴면 중인, 잠자는"]],["The seeds stay *dormant* all winter.","씨앗은 겨울 내내 휴면 상태로 있다."],["The volcano has been *dormant* for centuries.","그 화산은 수 세기 동안 활동하지 않았다."]],
-["erode","/ɪˈroʊd/",[["동","침식하다, 서서히 약화시키다"]],["Rivers *erode* rock over millions of years.","강은 수백만 년에 걸쳐 암석을 침식한다."],["Heavy rain *eroded* the hillside.","폭우가 산비탈을 깎아 냈다."]],
-["hypothesis","/haɪˈpɒθəsɪs/",[["명","가설"]],["The scientist tested her *hypothesis* in the lab.","그 과학자는 실험실에서 자신의 가설을 검증했다."],["The data supports our *hypothesis*.","자료는 우리의 가설을 뒷받침한다."]],
-["ancestor","/ˈænsestər/",[["명","조상, 선조"]],["Birds are descended from dinosaur *ancestors*.","새는 공룡 조상에서 진화했다."],["Our *ancestors* farmed this valley.","우리 조상들은 이 계곡에서 농사를 지었다."]],
-["arid","/ˈærɪd/",[["형","매우 건조한"]],["Cacti grow in *arid* regions.","선인장은 건조한 지역에서 자란다."],["The *arid* climate makes farming difficult.","건조한 기후 때문에 농사가 어렵다."]],
-["coastal","/ˈkoʊstl/",[["형","해안의, 연안의"]],["*Coastal* cities face rising sea levels.","해안 도시들은 해수면 상승에 직면해 있다."],["The *coastal* waters are rich in fish.","연안 해역에는 물고기가 풍부하다."]],
-["colony","/ˈkɒləni/",[["명","식민지"],["명","(동물의) 군집"]],["The island was once a Spanish *colony*.","그 섬은 한때 스페인 식민지였다."],["A bee *colony* can have thousands of members.","꿀벌 군집은 수천 마리로 이루어질 수 있다."]],
-["deposit","/dɪˈpɒzɪt/",[["명","매장층, 침전물"],["동","쌓이게 하다, 맡기다"]],["Geologists found a large coal *deposit*.","지질학자들은 큰 석탄 매장층을 발견했다."],["The flood *deposited* mud across the plain.","홍수가 평원 전체에 진흙을 쌓아 놓았다."]],
-["diverse","/daɪˈvɜːrs/",[["형","다양한"]],["The rainforest is home to *diverse* wildlife.","열대우림에는 다양한 야생 동물이 산다."],["The university has a *diverse* student body.","그 대학은 학생 구성이 다양하다."]],
-["dominant","/ˈdɒmɪnənt/",[["형","우세한, 지배적인"]],["Grasses are the *dominant* plants on the plains.","풀은 평원에서 가장 우세한 식물이다."],["Wolves are *dominant* over younger members.","늑대는 어린 구성원들보다 우위에 있다."]],
-["ecosystem","/ˈiːkoʊsɪstəm/",[["명","생태계"]],["A coral reef is a fragile *ecosystem*.","산호초는 취약한 생태계다."],["Pollution can damage the whole *ecosystem*.","오염은 생태계 전체를 훼손할 수 있다."]],
-["extinct","/ɪkˈstɪŋkt/",[["형","멸종한"],["형","활동을 멈춘"]],["Dinosaurs became *extinct* millions of years ago.","공룡은 수백만 년 전에 멸종했다."],["The *extinct* volcano is now a lake.","그 사화산은 지금은 호수가 되었다."]],
-["fossil","/ˈfɒsl/",[["명","화석"]],["Scientists found a *fossil* of an ancient fish.","과학자들은 고대 물고기의 화석을 발견했다."],["Coal is a *fossil* fuel.","석탄은 화석 연료다."]],
-["glacier","/ˈɡleɪʃər/",[["명","빙하"]],["The *glacier* is melting rapidly.","그 빙하는 빠르게 녹고 있다."],["*Glaciers* carved deep valleys in the mountains.","빙하는 산에 깊은 계곡을 새겼다."]],
-["habitat","/ˈhæbɪtæt/",[["명","서식지"]],["Forests are the *habitat* of many birds.","숲은 많은 새의 서식지다."],["Loss of *habitat* threatens the species.","서식지 상실이 그 종을 위협한다."]],
-["inhabit","/ɪnˈhæbɪt/",[["동","서식하다, 거주하다"]],["Penguins *inhabit* the southern hemisphere.","펭귄은 남반구에 서식한다."],["Few people *inhabit* the desert.","사막에는 거주하는 사람이 거의 없다."]],
-["migrate","/ˈmaɪɡreɪt/",[["동","이동하다, 이주하다"]],["Many birds *migrate* south in winter.","많은 새가 겨울에 남쪽으로 이동한다."],["Workers *migrated* to the cities for jobs.","노동자들은 일자리를 찾아 도시로 이주했다."]],
-["nutrient","/ˈnuːtriənt/",[["명","영양소"]],["Plants absorb *nutrients* from the soil.","식물은 토양에서 영양소를 흡수한다."],["Fish provide essential *nutrients*.","생선은 필수 영양소를 제공한다."]],
-["organism","/ˈɔːrɡənɪzəm/",[["명","생물, 유기체"]],["Bacteria are tiny living *organisms*.","세균은 아주 작은 생물이다."],["Each *organism* depends on its environment.","모든 생물은 환경에 의존한다."]],
-["predator","/ˈpredətər/",[["명","포식자"]],["The lion is a top *predator*.","사자는 최상위 포식자다."],["Camouflage helps animals hide from *predators*.","위장은 동물이 포식자로부터 숨도록 돕는다."]],
-["prey","/preɪ/",[["명","먹이, 사냥감"],["동","잡아먹다"]],["Mice are the owl's main *prey*.","쥐는 올빼미의 주된 먹이다."],["Hawks *prey* on small rodents.","매는 작은 설치류를 잡아먹는다."]],
-["species","/ˈspiːʃiːz/",[["명","종(생물 분류)"]],["Thousands of *species* live in the reef.","수천 종이 산호초에 산다."],["This *species* is found only in Madagascar.","이 종은 마다가스카르에서만 발견된다."]],
-["sediment","/ˈsedɪmənt/",[["명","퇴적물, 침전물"]],["The river carries *sediment* to the sea.","강은 퇴적물을 바다로 실어 나른다."],["Layers of *sediment* form sedimentary rock.","퇴적물 층은 퇴적암을 이룬다."]],
-["shelter","/ˈʃeltər/",[["명","은신처, 피난처"],["동","보호하다, 피하다"]],["The cave gave the bears *shelter* from the storm.","동굴은 곰들에게 폭풍을 피할 곳이 되어 주었다."],["Trees *shelter* many small animals.","나무는 많은 작은 동물을 보호해 준다."]],
-["sustain","/səˈsteɪn/",[["동","지속하다, 유지하다"],["동","부양하다"]],["The land cannot *sustain* so many cattle.","그 땅은 그렇게 많은 소를 먹여 살릴 수 없다."],["It is hard to *sustain* growth for decades.","수십 년간 성장을 지속하기는 어렵다."]],
-["terrain","/təˈreɪn/",[["명","지형, 지역"]],["The rocky *terrain* slowed the hikers.","바위투성이 지형이 등산객들을 더디게 했다."],["Rovers explore the Martian *terrain*.","탐사 로버는 화성의 지형을 탐사한다."]],
-["vegetation","/ˌvedʒəˈteɪʃn/",[["명","식물, 초목"]],["Dense *vegetation* covers the hills.","빽빽한 초목이 언덕을 덮고 있다."],["Little *vegetation* grows in the desert.","사막에는 식물이 거의 자라지 않는다."]],
-["volcanic","/vɒlˈkænɪk/",[["형","화산의"]],["*Volcanic* ash covered the town.","화산재가 마을을 뒤덮었다."],["Hawaii was formed by *volcanic* activity.","하와이는 화산 활동으로 만들어졌다."]],
-["fertile","/ˈfɜːrtl/",[["형","비옥한"],["형","번식력 있는"]],["The river delta has *fertile* soil.","강 삼각주는 토양이 비옥하다."],["Only *fertile* eggs will hatch.","수정란만 부화한다."]]
-]};
+/* 단어 데이터: words-*.js 에서 불러온다. 한 줄 = 난이도|단어|발음|뜻(;로 구분, 품사 뒤 공백)|예문1|해석1|예문2|해석2  (예문의 *…* 는 굵게) */
 const WORDS={};
-for(const lv in RAW)WORDS[lv]=RAW[lv].map((r,i)=>({id:lv+"-"+String(i+1).padStart(3,"0"),word:r[0],ipa:r[1],meanings:r[2].slice(0,3),examples:[r[3],r[4]]}));
+for(const lv in LEVELS){
+  WORDS[lv]=((window.WORDDATA&&WORDDATA[lv])||"").split("\n").filter(Boolean).map((line,i)=>{
+    const p=line.split("|");
+    return {id:lv+"-"+String(i+1).padStart(3,"0"),tier:+p[0],word:p[1],ipa:p[2],
+      meanings:p[3].split(";").slice(0,3).map(m=>{const j=m.indexOf(" ");return [m.slice(0,j),m.slice(j+1)];}),
+      examples:[[p[4],p[5]],[p[6],p[7]]]};
+  });
+}
 
-/* ---------- 난이도 (1 쉬움 · 2 보통 · 3 어려움) ---------- */
-const TIERS={
-middle:[["borrow","habit","shy","village","health","goal","invite","lonely","polite","travel"],["journey","neighbor","century","decide","exercise","festival","promise","protect","receive","repeat"],["comfortable","environment","imagine","knowledge","manage","necessary","observe","recycle","report","succeed"]],
-high:[["adapt","benefit","complex","conclude","defend","evidence","factor","impact","previous","resource"],["acquire","contribute","efficient","emerge","generate","indicate","maintain","obtain","urgent","vary"],["consequence","crucial","sufficient","ambiguous","derive","distinguish","perspective","reluctant","significant","tendency"]],
-toefl:[["ancestor","colony","fossil","glacier","habitat","species","migrate","predator","prey","shelter"],["arid","coastal","diverse","dominant","ecosystem","extinct","fertile","organism","nutrient","volcanic"],["abundant","dormant","erode","hypothesis","deposit","inhabit","sediment","sustain","terrain","vegetation"]]};
-for(const lv in WORDS)WORDS[lv].forEach(w=>{w.tier=TIERS[lv].findIndex(t=>t.includes(w.word))+1||2;});
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 // 쉬운 단어 → 어려운 단어 순서, 같은 난이도 안에서는 무작위
 function makeOrder(lv){return [1,2,3].flatMap(t=>shuffle(WORDS[lv].filter(w=>w.tier===t).map(w=>w.id)));}
