@@ -139,7 +139,9 @@ function pickVoice(){
   if(!hasTTS)return;const vs=speechSynthesis.getVoices();if(!vs.length)return;
   const us=vs.filter(v=>/^en[-_]US/i.test(v.lang)),en=vs.filter(v=>/^en/i.test(v.lang));
   const pool=us.length?us:en;
-  voice=pool.find(v=>/natural|neural|premium|enhanced/i.test(v.name))||pool.find(v=>/Google US English|Samantha|Aria|Jenny/i.test(v.name))||pool[0]||null;
+  const local=pool.filter(v=>v.localService!==false);
+  const pick=l=>l.find(v=>/natural|neural|premium|enhanced/i.test(v.name))||l.find(v=>/Samantha|Aria|Jenny|Google US English/i.test(v.name))||l[0]||null;
+  voice=pick(local)||pick(pool);
 }
 if(hasTTS){pickVoice();speechSynthesis.onvoiceschanged=pickVoice;}
 let curUtter=null,hintTimer=null;
@@ -155,16 +157,18 @@ function say(text,rates,btn){
   if(!hasTTS){if(!ttsNoted){ttsNoted=true;toast("이 브라우저는 발음 듣기를 지원하지 않아요. 크롬이나 사파리에서 열어 주세요.");}return;}
   const tok=speakTok;activeBtn=btn;btn.classList.add("on");
   const plain=text.replace(/\*/g,"");
-  let i=0,started=false;
+  let i=0,started=false,tries=0;
   const finish=()=>{btn.classList.remove("on");if(activeBtn===btn)activeBtn=null;};
   const run=()=>{
     if(tok!==speakTok)return;
-    const u=new SpeechSynthesisUtterance(plain);u.lang="en-US";if(voice)u.voice=voice;u.rate=rates[i];
+    const u=new SpeechSynthesisUtterance(plain);u.lang=tries>=2?"en":"en-US";if(voice&&tries===0)u.voice=voice;u.rate=rates[i];
     curUtter=u; // 재생이 끝나기 전에 객체가 수거되어 이벤트가 끊기는 문제 방지
     u.onstart=()=>{started=true;clearTimeout(hintTimer);};
     u.onend=()=>{if(tok!==speakTok)return;i++;if(i<rates.length)setTimeout(run,600);else finish();};
-    u.onerror=e=>{if(tok!==speakTok)return;finish();
-      if(e.error&&e.error!=="canceled"&&e.error!=="interrupted")toast("발음을 재생하지 못했어요 ("+e.error+"). 기기의 음성 설정을 확인해 주세요.");};
+    u.onerror=e=>{if(tok!==speakTok)return;
+      if(e.error==="canceled"||e.error==="interrupted"){finish();return;}
+      if(tries<2){tries++;speechSynthesis.cancel();setTimeout(run,120);return;}
+      finish();toast("발음을 재생하지 못했어요 (오류: "+(e.error||"알 수 없음")+"). 기기의 영어 음성 설정을 확인해 주세요.");};
     try{speechSynthesis.resume();speechSynthesis.speak(u);}catch(err){finish();toast("발음을 재생하지 못했어요.");}
   };
   // 이전 재생을 취소한 직후라면 아주 잠깐 뒤에 시작
