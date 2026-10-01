@@ -1,0 +1,93 @@
+3|ascertain|/ˌæsərˈteɪn/|동 알아내다|Investigators tried to *ascertain* the cause of the fire.|조사관들은 화재의 원인을 알아내려 했다.|It is hard to *ascertain* the truth.|진실을 확인하기는 어렵다.
+2|assert|/əˈsɜːrt/|동 주장하다|The scientist *asserted* that the data was correct.|과학자는 자료가 정확하다고 주장했다.|She *asserted* her right to speak.|그녀는 발언할 권리를 주장했다.
+2|attribute|/əˈtrɪbjuːt/|동 ~의 탓으로 돌리다|Experts *attribute* the rise to warmer weather.|전문가들은 그 증가를 따뜻한 날씨 탓으로 본다.|The painting is *attributed* to Rembrandt.|그 그림은 렘브란트의 작품으로 여겨진다.
+2|augment|/ɔːɡˈment/|동 늘리다, 보강하다|She *augmented* her income by teaching.|그녀는 가르치는 일로 수입을 늘렸다.|The team *augmented* its staff.|팀은 인력을 보강했다.
+2|bolster|/ˈboʊlstər/|동 강화하다, 힘을 북돋우다|New data *bolstered* the theory.|새로운 자료가 그 이론을 뒷받침했다.|The coach tried to *bolster* the team's confidence.|감독은 팀의 자신감을 북돋우려 했다.
+3|circumvent|/ˌsɜːrkəmˈvent/|동 우회하다, 피하다|They found a way to *circumvent* the rule.|그들은 규칙을 피할 방법을 찾았다.|The road *circumvents* the city center.|그 도로는 도심을 우회한다.
+2|concede|/kənˈsiːd/|동 인정하다, 양보하다|He *conceded* that he had made a mistake.|그는 실수를 했음을 인정했다.|The team *conceded* the match.|그 팀은 경기를 내주었다.
+2|connotation|/ˌkɑːnəˈteɪʃn/|명 함축된 의미|The word has a negative *connotation*.|그 단어는 부정적인 함축을 지닌다.|Colors carry different *connotations* across cultures.|색은 문화마다 다른 함의를 지닌다.
+2|constrain|/kənˈstreɪn/|동 제한하다|Budget cuts *constrain* the school's plans.|예산 삭감이 학교의 계획을 제약한다.|Rules *constrain* how scientists can test.|규정은 과학자들의 실험 방식을 제약한다.
+2|culminate|/ˈkʌlmɪneɪt/|동 절정에 이르다|The festival *culminates* in a grand parade.|축제는 성대한 행진으로 절정에 이른다.|Years of work *culminated* in a prize.|수년간의 노력은 수상으로 결실을 맺었다.
+2|curtail|/kɜːrˈteɪl/|동 줄이다, 단축하다|Heavy rain forced them to *curtail* the trip.|폭우로 그들은 여행을 단축해야 했다.|The government *curtailed* spending.|정부는 지출을 삭감했다.
+2|deduce|/dɪˈduːs/|동 추론하다|Detectives *deduced* the thief's identity from clues.|형사들은 단서에서 도둑의 정체를 추론했다.|We can *deduce* the age from the rings.|나이테로 나이를 추론할 수 있다.
+2|detriment|/ˈdetrɪmənt/|명 손해, 해|Skipping sleep is a *detriment* to your health.|잠을 거르는 것은 건강에 해가 된다.|He worked long hours to the *detriment* of his family.|그는 가족을 희생하며 오래 일했다.
+2|deviate|/ˈdiːvieɪt/|동 벗어나다|The results *deviated* from what we expected.|결과는 우리 예상에서 벗어났다.|Don't *deviate* from the plan.|계획에서 벗어나지 마라.
+2|disparate|/ˈdɪspərət/|형 이질적인|The report combines *disparate* sources of data.|그 보고서는 서로 다른 자료 출처를 결합한다.|The two cultures are *disparate*.|그 두 문화는 서로 이질적이다.
+2|dispel|/dɪˈspel/|동 떨쳐 버리다|The sun *dispelled* the morning fog.|해가 아침 안개를 걷어 냈다.|The doctor tried to *dispel* her fears.|의사는 그녀의 두려움을 없애 주려 했다.
+2|disseminate|/dɪˈsemɪneɪt/|동 퍼뜨리다|The group *disseminates* health information.|그 단체는 건강 정보를 퍼뜨린다.|Newspapers *disseminate* news quickly.|신문은 뉴스를 빠르게 전파한다.
+2|elicit|/ɪˈlɪsɪt/|동 이끌어 내다|The question *elicited* a strong response.|그 질문은 강한 반응을 이끌어 냈다.|The teacher tried to *elicit* answers from the class.|선생님은 학급에서 답을 끌어내려 했다.
+2|empirical|/ɪmˈpɪrɪkl/|형 경험적인|The theory needs *empirical* evidence.|그 이론은 경험적 증거가 필요하다.|Scientists rely on *empirical* observation.|과학자들은 경험적 관찰에 의존한다.
+2|endorse|/ɪnˈdɔːrs/|동 지지하다, 보증하다|The mayor *endorsed* the plan.|시장은 그 계획을 지지했다.|The athlete *endorsed* a sports brand.|그 선수는 한 스포츠 브랜드의 광고 모델이 되었다.
+2|enumerate|/ɪˈnuːməreɪt/|동 열거하다|The report *enumerates* the main risks.|보고서는 주요 위험들을 열거한다.|She *enumerated* the reasons for her choice.|그녀는 자신의 선택 이유를 열거했다.
+2|epitome|/ɪˈpɪtəmi/|명 전형, 본보기|She is the *epitome* of kindness.|그녀는 친절의 전형이다.|The building is the *epitome* of modern design.|그 건물은 현대 디자인의 전형이다.
+2|exacerbate|/ɪɡˈzæsərbeɪt/|동 악화시키다|Stress can *exacerbate* the illness.|스트레스는 병을 악화시킬 수 있다.|The drought *exacerbated* the food shortage.|가뭄이 식량 부족을 악화시켰다.
+2|expedite|/ˈekspədaɪt/|동 신속히 처리하다|The office will *expedite* your request.|사무실은 요청을 신속히 처리해 줄 것이다.|Extra staff *expedited* the work.|추가 인력이 일을 앞당겼다.
+2|extrapolate|/ɪkˈstræpəleɪt/|동 추정하다|Scientists *extrapolate* future trends from past data.|과학자들은 과거 자료로 미래 추세를 추정한다.|You can't *extrapolate* from a small sample.|작은 표본에서 일반화할 수는 없다.
+2|facilitate|/fəˈsɪlɪteɪt/|동 용이하게 하다|Computers *facilitate* communication.|컴퓨터는 의사소통을 쉽게 해 준다.|The teacher *facilitated* the discussion.|교사는 토론이 원활하도록 도왔다.
+2|formulate|/ˈfɔːrmjuleɪt/|동 공식화하다|Scientists *formulated* a new theory.|과학자들은 새로운 이론을 정립했다.|She *formulated* a clear plan.|그녀는 분명한 계획을 세웠다.
+2|hypothetical|/ˌhaɪpəˈθetɪkl/|형 가설의|It is only a *hypothetical* case.|그것은 가정적인 사례일 뿐이다.|Consider a *hypothetical* situation.|가상의 상황을 생각해 보라.
+2|illuminate|/ɪˈluːmɪneɪt/|동 밝히다, 설명하다|Lights *illuminated* the stage.|조명이 무대를 비추었다.|The study *illuminates* the causes of the problem.|그 연구는 문제의 원인을 밝혀 준다.
+2|impede|/ɪmˈpiːd/|동 방해하다|Fallen trees *impeded* the rescue.|쓰러진 나무들이 구조를 방해했다.|Poor roads *impede* trade.|나쁜 도로는 무역을 방해한다.
+2|implicit|/ɪmˈplɪsɪt/|형 암시적인|There was an *implicit* promise in his words.|그의 말에는 암묵적인 약속이 담겨 있었다.|*Implicit* rules guide our behavior.|암묵적 규칙이 우리의 행동을 이끈다.
+2|inadvertent|/ˌɪnədˈvɜːrtnt/|형 의도하지 않은|It was an *inadvertent* mistake.|그것은 의도치 않은 실수였다.|The *inadvertent* delay cost them the game.|뜻하지 않은 지연이 그들에게 경기를 내주게 했다.
+2|inception|/ɪnˈsepʃn/|명 시작|The club has grown since its *inception*.|그 동아리는 설립 이후 성장해 왔다.|Since its *inception*, the project has faced problems.|출범 이후 그 프로젝트는 문제를 겪어 왔다.
+2|incidence|/ˈɪnsɪdəns/|명 발생률|The *incidence* of flu rises in winter.|독감 발생률은 겨울에 오른다.|There is a high *incidence* of crime here.|이곳은 범죄 발생률이 높다.
+2|inherent|/ɪnˈhɪrənt/|형 내재된|Risk is *inherent* in any investment.|위험은 모든 투자에 내재해 있다.|The *inherent* beauty of the place is clear.|그곳의 본래 아름다움은 분명하다.
+2|innate|/ɪˈneɪt/|형 타고난|Babies have an *innate* ability to learn.|아기는 배울 수 있는 타고난 능력이 있다.|Fear of heights may be *innate*.|고소공포증은 타고난 것일 수 있다.
+2|integral|/ˈɪntɪɡrəl/|형 필수적인|Exercise is an *integral* part of her routine.|운동은 그녀 일과의 필수 요소다.|Teamwork is *integral* to the project.|팀워크는 그 프로젝트에 필수적이다.
+2|intricate|/ˈɪntrɪkət/|형 복잡한, 정교한|The clock has an *intricate* mechanism.|그 시계는 정교한 장치를 갖고 있다.|She wove an *intricate* pattern.|그녀는 복잡한 무늬를 짰다.
+2|juxtapose|/ˈdʒʌkstəpoʊz/|동 나란히 놓다|The exhibit *juxtaposes* old and new art.|그 전시는 옛 예술과 새 예술을 나란히 놓는다.|The film *juxtaposes* wealth and poverty.|그 영화는 부와 가난을 대비시킨다.
+2|legitimate|/lɪˈdʒɪtɪmət/|형 합법적인, 타당한|She had a *legitimate* reason to be absent.|그녀에게는 결석할 타당한 이유가 있었다.|Is this a *legitimate* business?|이것은 합법적인 사업인가?
+2|mitigate|/ˈmɪtɪɡeɪt/|동 완화하다|Trees *mitigate* the effects of heat.|나무는 더위의 영향을 완화한다.|The new law aims to *mitigate* pollution.|새 법은 오염을 줄이는 것을 목표로 한다.
+2|nuance|/ˈnuːɑːns/|명 미묘한 차이|The translator captured every *nuance* of the poem.|번역가는 시의 모든 뉘앙스를 살렸다.|There is a subtle *nuance* between the two words.|그 두 단어에는 미묘한 차이가 있다.
+2|obsolete|/ˌɑːbsəˈliːt/|형 구식의|The old computers are now *obsolete*.|옛날 컴퓨터는 이제 구식이 되었다.|Technology can make skills *obsolete*.|기술은 기능을 쓸모없게 만들 수 있다.
+2|paradigm|/ˈpærədaɪm/|명 패러다임|The discovery changed the scientific *paradigm*.|그 발견은 과학적 패러다임을 바꿨다.|Online learning is a new *paradigm*.|온라인 학습은 새로운 패러다임이다.
+2|paradox|/ˈpærədɑːks/|명 역설|It is a *paradox* that more choice can cause stress.|선택지가 많을수록 스트레스가 커질 수 있다는 것은 역설이다.|The poem is full of *paradox*.|그 시는 역설로 가득하다.
+2|plausible|/ˈplɔːzəbl/|형 그럴듯한|It's a *plausible* explanation.|그것은 그럴듯한 설명이다.|His story sounded *plausible*.|그의 이야기는 그럴듯하게 들렸다.
+2|precedent|/ˈpresɪdənt/|명 선례|The ruling set a *precedent* for later cases.|그 판결은 이후 사건들의 선례가 되었다.|There is no *precedent* for this situation.|이런 상황은 선례가 없다.
+2|predominant|/prɪˈdɑːmɪnənt/|형 지배적인|English is the *predominant* language of science.|영어는 과학의 지배적인 언어다.|Rain is the *predominant* weather here.|이곳은 비가 주된 날씨다.
+2|preliminary|/prɪˈlɪmɪneri/|형 예비의|The *preliminary* results look promising.|예비 결과는 유망해 보인다.|A *preliminary* meeting was held first.|먼저 예비 회의가 열렸다.
+2|premise|/ˈpremɪs/|명 전제|The argument rests on a false *premise*.|그 주장은 잘못된 전제에 기초한다.|The film's *premise* is simple.|그 영화의 전제는 단순하다.
+2|prolific|/prəˈlɪfɪk/|형 다작의|She is a *prolific* writer.|그녀는 다작하는 작가다.|Rabbits are *prolific* breeders.|토끼는 번식력이 왕성하다.
+2|propagate|/ˈprɑːpəɡeɪt/|동 번식시키다, 전파하다|Plants *propagate* by seeds and cuttings.|식물은 씨앗과 꺾꽂이로 번식한다.|The media *propagated* the rumor.|언론이 그 소문을 퍼뜨렸다.
+2|proponent|/prəˈpoʊnənt/|명 지지자|He is a strong *proponent* of clean energy.|그는 청정 에너지의 강력한 지지자다.|*Proponents* of the law say it saves lives.|그 법의 지지자들은 그것이 생명을 구한다고 말한다.
+2|quantify|/ˈkwɑːntɪfaɪ/|동 수량화하다|It is hard to *quantify* happiness.|행복을 수치로 나타내기는 어렵다.|Researchers *quantified* the damage.|연구자들은 피해를 수치화했다.
+2|rationale|/ˌræʃəˈnæl/|명 근거|What is the *rationale* behind the policy?|그 정책의 근거는 무엇인가?|She explained her *rationale* for the decision.|그녀는 결정의 이유를 설명했다.
+2|rectify|/ˈrektɪfaɪ/|동 바로잡다|The company moved quickly to *rectify* the error.|회사는 오류를 바로잡으려고 신속히 움직였다.|He tried to *rectify* the situation.|그는 상황을 바로잡으려 했다.
+2|redundant|/rɪˈdʌndənt/|형 불필요한|Delete the *redundant* words.|불필요한 단어를 삭제하세요.|Many workers became *redundant* after the merger.|합병 후 많은 직원이 잉여 인력이 되었다.
+2|refute|/rɪˈfjuːt/|동 반박하다|Scientists *refuted* the old theory.|과학자들은 옛 이론을 반박했다.|She *refuted* the claim with evidence.|그녀는 증거로 그 주장을 반박했다.
+2|reiterate|/riˈɪtəreɪt/|동 되풀이하여 말하다|The teacher *reiterated* the instructions.|선생님은 지시 사항을 다시 말했다.|I want to *reiterate* my thanks.|감사의 말씀을 다시 한번 드립니다.
+2|relinquish|/rɪˈlɪŋkwɪʃ/|동 포기하다, 양도하다|The king refused to *relinquish* power.|왕은 권력을 내려놓기를 거부했다.|She *relinquished* her seat to an elderly man.|그녀는 어르신께 자리를 내어드렸다.
+2|replicate|/ˈreplɪkeɪt/|동 복제하다, 재현하다|Other labs could not *replicate* the results.|다른 연구실에서는 결과를 재현하지 못했다.|The cell *replicates* its DNA before dividing.|세포는 분열 전에 DNA를 복제한다.
+2|scrutinize|/ˈskruːtənaɪz/|동 면밀히 조사하다|Auditors *scrutinized* the accounts.|감사관들은 장부를 면밀히 조사했다.|She *scrutinized* the contract before signing.|그녀는 서명하기 전에 계약서를 꼼꼼히 살폈다.
+2|sequential|/sɪˈkwenʃl/|형 순차적인|The tasks must be done in *sequential* order.|작업은 순차적으로 해야 한다.|*Sequential* numbers appeared on the tickets.|표에는 연속 번호가 있었다.
+2|skeptic|/ˈskeptɪk/|명 회의론자|The *skeptic* demanded more proof.|회의론자는 더 많은 증거를 요구했다.|Don't be a *skeptic* about everything.|모든 것에 회의적이지는 마라.
+2|stimulus|/ˈstɪmjələs/|명 자극|A loud noise is a *stimulus* that wakes us.|큰 소리는 우리를 깨우는 자극이다.|Government spending acted as a *stimulus*.|정부 지출이 경기 부양책 역할을 했다.
+2|subordinate|/səˈbɔːrdɪnət/|형 종속된;명 부하|His role is *subordinate* to hers.|그의 역할은 그녀의 역할에 종속된다.|The manager praised her *subordinates*.|관리자는 부하 직원들을 칭찬했다.
+2|substantiate|/səbˈstænʃieɪt/|동 입증하다|You must *substantiate* your claims.|주장을 입증해야 한다.|There is no evidence to *substantiate* the rumor.|그 소문을 입증할 증거는 없다.
+2|supplant|/səˈplænt/|동 대체하다|Cars *supplanted* horses as transport.|자동차가 교통수단으로서 말을 대체했다.|Digital media is *supplanting* print.|디지털 매체가 인쇄물을 대체하고 있다.
+2|tangible|/ˈtændʒəbl/|형 유형의, 실질적인|The project brought *tangible* benefits.|그 프로젝트는 실질적인 이익을 가져왔다.|There was no *tangible* proof.|확실한 증거는 없었다.
+2|tentative|/ˈtentətɪv/|형 잠정적인|They made a *tentative* plan for Friday.|그들은 금요일에 대한 잠정 계획을 세웠다.|The results are only *tentative*.|결과는 잠정적일 뿐이다.
+2|thesis|/ˈθiːsɪs/|명 논문, 논지|She defended her *thesis* in June.|그녀는 6월에 논문을 심사받았다.|The essay's main *thesis* is clear.|에세이의 핵심 논지는 분명하다.
+2|trajectory|/trəˈdʒektəri/|명 궤적|The ball followed a curved *trajectory*.|공은 곡선 궤적을 그렸다.|Her career *trajectory* was impressive.|그녀의 경력 궤적은 인상적이었다.
+2|ubiquitous|/juˈbɪkwɪtəs/|형 어디에나 있는|Smartphones are *ubiquitous* today.|스마트폰은 오늘날 어디에나 있다.|Plastic is *ubiquitous* in the oceans.|플라스틱은 바다 어디에나 있다.
+2|underscore|/ˌʌndərˈskɔːr/|동 강조하다|The accident *underscores* the need for safety.|그 사고는 안전의 필요성을 강조한다.|The report *underscores* the importance of sleep.|보고서는 수면의 중요성을 강조한다.
+2|validate|/ˈvælɪdeɪt/|동 입증하다, 검증하다|The experiment *validated* his theory.|그 실험은 그의 이론을 입증했다.|Please *validate* your ticket before boarding.|탑승 전에 표를 확인받으세요.
+2|versatile|/ˈvɜːrsətl/|형 다재다능한, 용도가 다양한|She is a *versatile* actress.|그녀는 다재다능한 배우다.|Rice is a *versatile* food.|쌀은 활용도가 높은 음식이다.
+2|vindicate|/ˈvɪndɪkeɪt/|동 정당함을 입증하다|The new evidence *vindicated* him.|새 증거가 그의 결백을 입증했다.|The results *vindicated* the scientist's claim.|결과는 그 과학자의 주장이 옳음을 입증했다.
+2|accrue|/əˈkruː/|동 쌓이다, 발생하다|Interest *accrues* on savings.|저축에는 이자가 붙는다.|Benefits *accrue* to those who plan ahead.|미리 계획하는 사람에게 이익이 돌아간다.
+2|adhere|/ədˈhɪr/|동 고수하다, 달라붙다|Students must *adhere* to the rules.|학생들은 규칙을 지켜야 한다.|The tape *adheres* to most surfaces.|그 테이프는 대부분의 표면에 붙는다.
+2|advent|/ˈædvent/|명 도래|The *advent* of the Internet changed everything.|인터넷의 등장은 모든 것을 바꿔 놓았다.|Farming changed with the *advent* of machines.|기계의 등장과 함께 농업이 바뀌었다.
+2|ambivalent|/æmˈbɪvələnt/|형 양면적인|She felt *ambivalent* about the move.|그녀는 이사에 대해 마음이 엇갈렸다.|He has *ambivalent* feelings about fame.|그는 명성에 대해 양가감정을 갖고 있다.
+2|analogous|/əˈnæləɡəs/|형 유사한|The heart is *analogous* to a pump.|심장은 펌프와 유사하다.|The two situations are *analogous*.|두 상황은 유사하다.
+2|analogy|/əˈnælədʒi/|명 비유, 유사|The teacher used an *analogy* to explain the idea.|교사는 개념을 설명하려고 비유를 썼다.|There is an *analogy* between the eye and a camera.|눈과 카메라 사이에는 유사점이 있다.
+2|arbitrary|/ˈɑːrbɪtreri/|형 임의의|The rule seems *arbitrary*.|그 규칙은 임의적으로 보인다.|He made an *arbitrary* choice.|그는 아무렇게나 선택했다.
+2|assimilate|/əˈsɪməleɪt/|동 흡수하다, 동화하다|Children *assimilate* new words quickly.|아이들은 새로운 단어를 빠르게 흡수한다.|Immigrants *assimilated* into the local culture.|이민자들은 현지 문화에 동화되었다.
+2|cohere|/koʊˈhɪr/|동 일관성이 있다, 결합하다|The essay doesn't *cohere* well.|그 에세이는 일관성이 부족하다.|The particles *cohere* to form a solid.|입자들이 결합해 고체를 이룬다.
+2|coherent|/koʊˈhɪrənt/|형 일관된|She gave a *coherent* explanation.|그녀는 조리 있는 설명을 했다.|The plan is not *coherent*.|그 계획은 일관성이 없다.
+2|compatible|/kəmˈpætəbl/|형 호환되는|The software is *compatible* with all phones.|그 소프트웨어는 모든 휴대폰과 호환된다.|They are *compatible* partners.|그들은 잘 맞는 짝이다.
+2|conducive|/kənˈduːsɪv/|형 도움이 되는|Quiet is *conducive* to study.|조용한 환경은 공부에 도움이 된다.|The climate is *conducive* to farming.|그 기후는 농사에 적합하다.
+2|contingent|/kənˈtɪndʒənt/|형 ~에 달려 있는|The trip is *contingent* on good weather.|여행은 날씨가 좋아야 가능하다.|Payment is *contingent* upon results.|지불은 결과에 달려 있다.
+2|converge|/kənˈvɜːrdʒ/|동 한 점에 모이다|The two roads *converge* at the bridge.|두 도로는 다리에서 만난다.|Fans *converged* on the stadium.|팬들이 경기장으로 모여들었다.
+2|cumulative|/ˈkjuːmjələtɪv/|형 누적되는|The *cumulative* effect of small changes is large.|작은 변화의 누적 효과는 크다.|*Cumulative* rainfall reached fifty centimeters.|누적 강수량이 50센티미터에 이르렀다.
+2|discrete|/dɪˈskriːt/|형 별개의|The data fall into three *discrete* groups.|자료는 세 개의 별개 집단으로 나뉜다.|Each task is a *discrete* step.|각 작업은 독립된 단계다.

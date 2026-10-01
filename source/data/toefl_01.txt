@@ -1,0 +1,96 @@
+2|alloy|/ˈælɔɪ/|명 합금|Bronze is an *alloy* of copper and tin.|청동은 구리와 주석의 합금이다.|Engineers use a light *alloy* to build aircraft.|기술자들은 항공기를 만들 때 가벼운 합금을 쓴다.
+3|alluvial|/əˈluːviəl/|형 충적토의|*Alluvial* soil is rich and good for farming.|충적토는 비옥해서 농사에 좋다.|The river deposited *alluvial* deposits across the plain.|강은 평원 전역에 충적 퇴적물을 쌓았다.
+3|aquifer|/ˈækwɪfər/|명 대수층|The town gets its water from an underground *aquifer*.|그 마을은 지하 대수층에서 물을 얻는다.|Heavy pumping has lowered the *aquifer*.|과도한 양수로 대수층의 수위가 낮아졌다.
+3|archipelago|/ˌɑːrkɪˈpeləɡoʊ/|명 군도|Indonesia is an *archipelago* of thousands of islands.|인도네시아는 수천 개의 섬으로 이루어진 군도다.|The *archipelago* was formed by volcanic activity.|그 군도는 화산 활동으로 형성되었다.
+3|atoll|/ˈætɔːl/|명 환초|The island is a ring-shaped coral *atoll*.|그 섬은 고리 모양의 산호 환초다.|Rising seas threaten low *atolls*.|해수면 상승은 낮은 환초들을 위협한다.
+3|basalt|/bəˈsɔːlt/|명 현무암|Lava cooled to form *basalt*.|용암이 식어 현무암이 되었다.|Jeju Island is covered with black *basalt*.|제주도는 검은 현무암으로 덮여 있다.
+3|bedrock|/ˈbedrɑːk/|명 기반암|The soil here lies directly on *bedrock*.|이곳의 흙은 기반암 바로 위에 있다.|Engineers drilled down to the *bedrock*.|기술자들은 기반암까지 시추했다.
+3|biosphere|/ˈbaɪoʊsfɪr/|명 생물권|The *biosphere* includes all living things on Earth.|생물권에는 지구상의 모든 생명체가 포함된다.|Pollution harms the entire *biosphere*.|오염은 생물권 전체에 해를 끼친다.
+2|boulder|/ˈboʊldər/|명 큰 바위|A huge *boulder* rolled down the slope.|거대한 바위가 비탈을 굴러 내려왔다.|Glaciers carried *boulders* for miles.|빙하는 바위를 수 마일 운반했다.
+3|canyon|/ˈkænjən/|명 협곡|The river carved a deep *canyon* over millions of years.|강은 수백만 년에 걸쳐 깊은 협곡을 깎았다.|Tourists hiked along the edge of the *canyon*.|관광객들은 협곡 가장자리를 따라 걸었다.
+3|cavern|/ˈkævərn/|명 대형 동굴|Bats roost in the dark *cavern*.|박쥐들은 어두운 동굴 안에 서식한다.|Water dripped from the roof of the *cavern*.|동굴 천장에서 물이 떨어졌다.
+2|clay|/kleɪ/|명 점토|Potters shape *clay* into bowls.|도공들은 점토를 빚어 그릇을 만든다.|The riverbank was made of thick *clay*.|강둑은 두꺼운 점토로 이루어져 있었다.
+3|continental|/ˌkɑːntɪˈnentl/|형 대륙의|*Continental* drift moves landmasses slowly.|대륙 이동은 땅덩어리를 서서히 움직인다.|The *continental* shelf extends beyond the coast.|대륙붕은 해안 너머로 뻗어 있다.
+2|crust|/krʌst/|명 지각, 껍질|The Earth's *crust* is made of rock.|지구의 지각은 암석으로 이루어져 있다.|A thin *crust* of ice covered the pond.|연못은 얇은 얼음 껍질로 덮여 있었다.
+2|current|/ˈkɜːrənt/|명 흐름, 전류;형 현재의|Ocean *currents* carry warm water north.|해류는 따뜻한 물을 북쪽으로 실어 나른다.|The *current* climate is warmer than in the past.|현재의 기후는 과거보다 따뜻하다.
+3|delta|/ˈdeltə/|명 삼각주|The Nile *delta* is a fertile region.|나일강 삼각주는 비옥한 지역이다.|Sediment builds up at the river's *delta*.|퇴적물은 강의 삼각주에 쌓인다.
+2|dune|/duːn/|명 모래 언덕|Wind shapes sand into *dunes*.|바람은 모래를 모래 언덕으로 빚는다.|Camels crossed the high *dune*.|낙타들이 높은 모래 언덕을 건넜다.
+2|earthquake|/ˈɜːrθkweɪk/|명 지진|A strong *earthquake* shook the city.|강한 지진이 도시를 흔들었다.|Buildings in Japan are designed to resist *earthquakes*.|일본의 건물은 지진에 견디도록 설계된다.
+2|eruption|/ɪˈrʌpʃn/|명 분출, 폭발|The volcano's *eruption* covered the town in ash.|화산 분출로 마을이 재로 뒤덮였다.|Scientists try to predict the next *eruption*.|과학자들은 다음 분출을 예측하려 한다.
+3|estuary|/ˈestʃueri/|명 강어귀|Fish breed in the *estuary* where river meets sea.|강이 바다와 만나는 하구에서 물고기가 번식한다.|The *estuary* is an important bird habitat.|그 하구는 중요한 새 서식지다.
+2|fracture|/ˈfræktʃər/|명 균열;동 금이 가다|A *fracture* in the rock let water seep in.|암석의 균열로 물이 스며들었다.|The earthquake *fractured* the road.|지진으로 도로에 금이 갔다.
+3|geyser|/ˈɡaɪzər/|명 간헐천|The *geyser* shoots hot water into the air.|간헐천은 뜨거운 물을 공중으로 뿜어낸다.|Yellowstone is famous for its *geysers*.|옐로스톤은 간헐천으로 유명하다.
+3|gorge|/ɡɔːrdʒ/|명 협곡, 골짜기|The river rushes through a narrow *gorge*.|강은 좁은 협곡을 급히 흐른다.|They built a bridge across the *gorge*.|그들은 협곡을 가로지르는 다리를 놓았다.
+2|granite|/ˈɡrænɪt/|명 화강암|The mountain is made of hard *granite*.|그 산은 단단한 화강암으로 이루어져 있다.|The kitchen has a *granite* countertop.|그 부엌에는 화강암 조리대가 있다.
+2|gravel|/ˈɡrævl/|명 자갈|A path of *gravel* led to the house.|자갈길이 집으로 이어졌다.|The river bed was covered with *gravel*.|강바닥은 자갈로 덮여 있었다.
+3|groundwater|/ˈɡraʊndwɔːtər/|명 지하수|Wells draw *groundwater* from deep below.|우물은 깊은 지하에서 지하수를 끌어올린다.|Pesticides can pollute *groundwater*.|농약은 지하수를 오염시킬 수 있다.
+2|gulf|/ɡʌlf/|명 만|Oil is found beneath the *Gulf*.|석유는 만 아래에서 발견된다.|A wide *gulf* separates the two countries.|넓은 간극이 두 나라를 갈라놓고 있다.
+3|igneous|/ˈɪɡniəs/|형 화성의|*Igneous* rock forms from cooled magma.|화성암은 식은 마그마에서 만들어진다.|Granite is a common *igneous* rock.|화강암은 흔한 화성암이다.
+2|iceberg|/ˈaɪsbɜːrɡ/|명 빙산|The ship struck an *iceberg*.|배가 빙산에 부딪혔다.|Most of an *iceberg* lies under the water.|빙산의 대부분은 물속에 잠겨 있다.
+3|isthmus|/ˈɪsməs/|명 지협|The Panama *isthmus* links two continents.|파나마 지협은 두 대륙을 잇는다.|A narrow *isthmus* joins the peninsula to the mainland.|좁은 지협이 반도를 본토와 연결한다.
+2|lagoon|/ləˈɡuːn/|명 석호|The calm *lagoon* is perfect for swimming.|잔잔한 석호는 수영하기 좋다.|A coral reef surrounds the *lagoon*.|산호초가 석호를 둘러싸고 있다.
+2|landslide|/ˈlændslaɪd/|명 산사태|Heavy rain caused a *landslide*.|폭우가 산사태를 일으켰다.|The *landslide* blocked the mountain road.|산사태가 산길을 막았다.
+2|lava|/ˈlɑːvə/|명 용암|Red-hot *lava* flowed down the hillside.|시뻘건 용암이 산비탈을 따라 흘렀다.|*Lava* cools to form new rock.|용암은 식어서 새로운 암석이 된다.
+2|limestone|/ˈlaɪmstoʊn/|명 석회암|Caves often form in *limestone*.|동굴은 석회암에서 흔히 생긴다.|The old church is built of *limestone*.|그 오래된 교회는 석회암으로 지어졌다.
+2|magma|/ˈmæɡmə/|명 마그마|*Magma* rises through cracks in the crust.|마그마는 지각의 틈을 따라 올라온다.|The volcano is fed by a chamber of *magma*.|그 화산은 마그마방에서 공급을 받는다.
+2|mantle|/ˈmæntl/|명 맨틀|The *mantle* lies between the crust and the core.|맨틀은 지각과 핵 사이에 있다.|Heat in the *mantle* drives plate movement.|맨틀의 열이 판의 움직임을 일으킨다.
+2|marsh|/mɑːrʃ/|명 습지|Frogs and herons live in the *marsh*.|개구리와 왜가리가 습지에 산다.|The *marsh* absorbs extra rainwater.|습지는 여분의 빗물을 흡수한다.
+3|meander|/miˈændər/|동 구불구불 흐르다|The river *meanders* through the valley.|강은 계곡을 구불구불 흐른다.|We *meandered* along the path without a plan.|우리는 계획 없이 길을 따라 거닐었다.
+3|mesa|/ˈmeɪsə/|명 탁상 대지|A flat-topped *mesa* rose above the desert.|평평한 정상의 탁상 대지가 사막 위로 솟아 있었다.|Erosion carved the *mesa* over time.|침식이 오랜 세월에 걸쳐 그 대지를 깎았다.
+3|metamorphic|/ˌmetəˈmɔːrfɪk/|형 변성의|Marble is a *metamorphic* rock.|대리석은 변성암이다.|Heat and pressure create *metamorphic* rock.|열과 압력은 변성암을 만든다.
+3|meteorite|/ˈmiːtiəraɪt/|명 운석|A *meteorite* landed in the desert.|운석이 사막에 떨어졌다.|The *meteorite* was made of iron.|그 운석은 철로 이루어져 있었다.
+3|moraine|/məˈreɪn/|명 빙퇴석|The glacier left a ridge of *moraine*.|빙하는 빙퇴석의 능선을 남겼다.|Rocks carried by ice form a *moraine*.|얼음에 실려 온 암석이 빙퇴석을 이룬다.
+2|oasis|/oʊˈeɪsɪs/|명 오아시스|Travelers rested at an *oasis* in the desert.|여행자들은 사막의 오아시스에서 쉬었다.|The park is an *oasis* in the busy city.|그 공원은 번잡한 도시 속의 오아시스다.
+2|ore|/ɔːr/|명 광석|Iron *ore* is mined and melted into steel.|철광석은 채굴되어 녹여져 강철이 된다.|The mountain is rich in copper *ore*.|그 산은 구리 광석이 풍부하다.
+3|outcrop|/ˈaʊtkrɑːp/|명 노출된 암석|A rocky *outcrop* stood above the grass.|바위가 드러난 곳이 풀밭 위로 솟아 있었다.|Geologists studied the *outcrop* for fossils.|지질학자들은 화석을 찾으려고 그 노두를 조사했다.
+2|peninsula|/pəˈnɪnsələ/|명 반도|Korea is on a *peninsula*.|한국은 반도에 있다.|The *peninsula* is surrounded by water on three sides.|그 반도는 삼면이 바다로 둘러싸여 있다.
+3|permafrost|/ˈpɜːrməfrɔːst/|명 영구 동토|*Permafrost* covers much of northern Russia.|영구 동토는 러시아 북부의 많은 곳을 덮고 있다.|Melting *permafrost* releases greenhouse gases.|녹는 영구 동토는 온실가스를 방출한다.
+2|plateau|/plæˈtoʊ/|명 고원|The village lies on a high *plateau*.|그 마을은 높은 고원에 있다.|The *plateau* is cold and windy.|그 고원은 춥고 바람이 많이 분다.
+2|pumice|/ˈpʌmɪs/|명 경석|*Pumice* is so light that it floats on water.|경석은 너무 가벼워서 물에 뜬다.|The volcano threw out *pumice* and ash.|화산은 경석과 재를 내뿜었다.
+2|quartz|/kwɔːrts/|명 석영|Sand is mostly made of *quartz*.|모래는 대부분 석영으로 이루어져 있다.|The clock keeps time with a *quartz* crystal.|그 시계는 석영 결정으로 시간을 잰다.
+2|ravine|/rəˈviːn/|명 협곡|A stream ran through the deep *ravine*.|개울이 깊은 협곡을 따라 흘렀다.|The hikers crossed the *ravine* on a rope bridge.|등산객들은 밧줄 다리로 협곡을 건넜다.
+2|reef|/riːf/|명 암초, 산호초|The coral *reef* is home to many fish.|산호초는 많은 물고기의 서식지다.|Ships must avoid the dangerous *reef*.|배는 위험한 암초를 피해야 한다.
+2|ridge|/rɪdʒ/|명 산등성이|The hikers walked along the mountain *ridge*.|등산객들은 산등성이를 따라 걸었다.|A *ridge* of high pressure brought sunny weather.|고기압 능선이 맑은 날씨를 가져왔다.
+2|rift|/rɪft/|명 갈라진 틈|A great *rift* runs through East Africa.|거대한 열곡이 동아프리카를 가로지른다.|The argument caused a *rift* between the friends.|그 말다툼은 친구 사이에 틈을 만들었다.
+2|salinity|/səˈlɪnəti/|명 염도|The *salinity* of the Dead Sea is very high.|사해의 염도는 매우 높다.|Fish need water of the right *salinity*.|물고기는 알맞은 염도의 물이 필요하다.
+2|sandstone|/ˈsændstoʊn/|명 사암|The cliffs are made of red *sandstone*.|절벽은 붉은 사암으로 이루어져 있다.|The temple was carved from *sandstone*.|그 사원은 사암을 깎아 만들었다.
+2|savanna|/səˈvænə/|명 사바나|Lions hunt on the African *savanna*.|사자는 아프리카 사바나에서 사냥한다.|The *savanna* has grass and few trees.|사바나에는 풀이 있고 나무는 적다.
+3|seismic|/ˈsaɪzmɪk/|형 지진의|*Seismic* waves travel through the Earth.|지진파는 지구를 통해 전달된다.|Scientists monitor *seismic* activity daily.|과학자들은 지진 활동을 매일 관측한다.
+2|shale|/ʃeɪl/|명 셰일, 혈암|Natural gas is trapped in layers of *shale*.|천연가스는 셰일층에 갇혀 있다.|The *shale* breaks into thin flat pieces.|셰일은 얇고 평평한 조각으로 부서진다.
+2|shoreline|/ˈʃɔːrlaɪn/|명 해안선|The storm changed the *shoreline*.|폭풍은 해안선을 바꿔 놓았다.|They walked along the rocky *shoreline*.|그들은 바위투성이 해안선을 따라 걸었다.
+2|silt|/sɪlt/|명 침니, 미사|The river deposits rich *silt* on its banks.|강은 둑에 기름진 침니를 쌓는다.|*Silt* filled the old harbor.|침니가 옛 항구를 메웠다.
+2|sinkhole|/ˈsɪŋkhoʊl/|명 싱크홀|A huge *sinkhole* swallowed the road.|거대한 싱크홀이 도로를 삼켰다.|Limestone areas often develop *sinkholes*.|석회암 지역에는 싱크홀이 자주 생긴다.
+2|slope|/sloʊp/|명 경사면|Snow slid down the steep *slope*.|눈이 가파른 경사면을 미끄러져 내렸다.|Vines grow on the sunny *slope*.|포도나무가 볕이 잘 드는 비탈에서 자란다.
+2|stalactite|/stəˈlæktaɪt/|명 종유석|A *stalactite* hung from the cave ceiling.|종유석이 동굴 천장에 매달려 있었다.|Dripping water slowly forms a *stalactite*.|떨어지는 물이 서서히 종유석을 만든다.
+2|strata|/ˈstreɪtə/|명 지층|The cliff shows layers of rock *strata*.|절벽에는 암석 지층이 보인다.|Fossils are found in older *strata*.|화석은 더 오래된 지층에서 발견된다.
+3|subduction|/səbˈdʌkʃn/|명 섭입|*Subduction* occurs where one plate sinks under another.|섭입은 한 판이 다른 판 아래로 가라앉는 곳에서 일어난다.|Volcanoes form above *subduction* zones.|화산은 섭입대 위에 생긴다.
+2|summit|/ˈsʌmɪt/|명 정상;명 정상 회담|They reached the *summit* at dawn.|그들은 새벽에 정상에 도달했다.|Leaders met at an international *summit*.|지도자들이 국제 정상 회담에서 만났다.
+2|swamp|/swɑːmp/|명 늪|Alligators live in the *swamp*.|악어는 늪에 산다.|The *swamp* is full of insects.|늪에는 곤충이 가득하다.
+3|tectonic|/tekˈtɑːnɪk/|형 지각 변동의|*Tectonic* plates move a few centimeters a year.|지각판은 1년에 몇 센티미터씩 움직인다.|Earthquakes occur along *tectonic* boundaries.|지진은 지각판 경계를 따라 일어난다.
+2|tidal|/ˈtaɪdl/|형 조수의|A *tidal* wave hit the coast.|해일이 해안을 덮쳤다.|The mudflats are exposed at low *tidal* levels.|간조 때 갯벌이 드러난다.
+2|topsoil|/ˈtɑːpsɔɪl/|명 표토|Wind blew away the fertile *topsoil*.|바람이 비옥한 표토를 날려 버렸다.|Farmers protect the *topsoil* with cover crops.|농부들은 피복 작물로 표토를 보호한다.
+2|tributary|/ˈtrɪbjəteri/|명 지류|The small river is a *tributary* of the Han.|그 작은 강은 한강의 지류다.|Each *tributary* adds water to the main river.|지류마다 본류에 물을 보탠다.
+2|tsunami|/tsuːˈnɑːmi/|명 쓰나미|The *tsunami* flooded the coastal town.|쓰나미가 해안 마을을 덮쳤다.|An undersea earthquake can cause a *tsunami*.|해저 지진은 쓰나미를 일으킬 수 있다.
+2|tundra|/ˈtʌndrə/|명 툰드라|Reindeer graze on the Arctic *tundra*.|순록은 북극 툰드라에서 풀을 뜯는다.|Few trees grow in the cold *tundra*.|추운 툰드라에는 나무가 거의 자라지 않는다.
+2|valley|/ˈvæli/|명 계곡|A river runs through the green *valley*.|강이 푸른 계곡을 가로질러 흐른다.|Farms fill the wide *valley*.|농장이 넓은 계곡을 채우고 있다.
+2|vent|/vent/|명 분출구, 통풍구|Steam rose from the volcanic *vent*.|화산 분출구에서 증기가 솟아올랐다.|Warm air comes out of the *vent*.|통풍구에서 따뜻한 공기가 나온다.
+2|volcano|/vɑːlˈkeɪnoʊ/|명 화산|Mount Fuji is a famous *volcano*.|후지산은 유명한 화산이다.|The *volcano* erupted last spring.|그 화산은 지난봄에 분출했다.
+2|waterfall|/ˈwɔːtərfɔːl/|명 폭포|Tourists photographed the tall *waterfall*.|관광객들이 높은 폭포를 사진에 담았다.|The *waterfall* roared into the pool below.|폭포는 아래 웅덩이로 굉음을 내며 쏟아졌다.
+2|weathering|/ˈweðərɪŋ/|명 풍화|*Weathering* slowly breaks rocks into soil.|풍화는 암석을 서서히 흙으로 부순다.|Wind and rain cause *weathering* of stone.|바람과 비는 돌의 풍화를 일으킨다.
+2|wetland|/ˈwetlænd/|명 습지|Migratory birds rest in the *wetland*.|철새들은 습지에서 쉰다.|*Wetlands* filter pollution from water.|습지는 물에서 오염 물질을 걸러 준다.
+2|abyss|/əˈbɪs/|명 심연|Strange fish live in the deep ocean *abyss*.|이상한 물고기들이 깊은 바다의 심연에 산다.|He stared into the dark *abyss*.|그는 어두운 심연을 응시했다.
+2|accretion|/əˈkriːʃn/|명 퇴적, 부착|The *accretion* of dust formed the planets.|먼지의 부착이 행성을 만들었다.|Slow *accretion* of sand built the island.|모래가 서서히 쌓여 섬이 만들어졌다.
+2|amber|/ˈæmbər/|명 호박(보석)|An insect was trapped in the *amber*.|곤충이 호박 속에 갇혀 있었다.|*Amber* is fossilized tree resin.|호박은 나무 수액이 화석화된 것이다.
+2|bluff|/blʌf/|명 절벽, 허세|Houses stand on the *bluff* above the sea.|바다 위 절벽에 집들이 서 있다.|He tried to *bluff* his way through the test.|그는 시험을 허세로 넘기려 했다.
+2|cape|/keɪp/|명 곶, 망토|Ships sail around the *cape*.|배들은 곶을 돌아 항해한다.|The hero wore a red *cape*.|영웅은 빨간 망토를 입었다.
+2|chasm|/ˈkæzəm/|명 깊은 틈|A *chasm* opened in the ice.|얼음에 깊은 틈이 벌어졌다.|There is a *chasm* between the two views.|두 견해 사이에는 큰 간극이 있다.
+2|condensation|/ˌkɑːndenˈseɪʃn/|명 응결|*Condensation* formed on the cold window.|차가운 창문에 물방울이 맺혔다.|Clouds form by the *condensation* of water vapor.|구름은 수증기의 응결로 만들어진다.
+2|contour|/ˈkɑːntʊr/|명 윤곽, 등고선|The map shows the *contour* of the hills.|지도는 언덕의 등고선을 보여 준다.|A *contour* line connects points of equal height.|등고선은 높이가 같은 점들을 잇는다.
+2|crevice|/ˈkrevɪs/|명 갈라진 틈|Small plants grow in the rock *crevice*.|작은 식물이 바위틈에서 자란다.|A lizard hid in a *crevice*.|도마뱀이 바위 틈에 숨었다.
+2|crystal|/ˈkrɪstl/|명 결정, 수정|Salt forms a cube-shaped *crystal*.|소금은 정육면체 결정을 이룬다.|The cave walls glittered with *crystals*.|동굴 벽은 결정으로 반짝였다.
+2|drainage|/ˈdreɪnɪdʒ/|명 배수|Good *drainage* keeps the soil from flooding.|배수가 잘 되면 토양이 침수되지 않는다.|The river basin forms a *drainage* area.|하천 유역은 배수 지역을 이룬다.
+2|drift|/drɪft/|동 떠다니다;명 표류|Icebergs *drift* slowly with the current.|빙산은 해류를 따라 천천히 떠다닌다.|Continental *drift* was once a controversial idea.|대륙 이동설은 한때 논란이 많은 생각이었다.
+2|elevation|/ˌelɪˈveɪʃn/|명 고도|The city sits at an *elevation* of two thousand meters.|그 도시는 해발 2천 미터에 위치한다.|Air is thinner at high *elevation*.|높은 고도에서는 공기가 희박하다.
+2|erosion|/ɪˈroʊʒn/|명 침식|*Erosion* wears away the soil on steep hills.|침식은 가파른 언덕의 흙을 깎아 낸다.|Planting trees helps prevent *erosion*.|나무를 심으면 침식을 막는 데 도움이 된다.
+2|evaporation|/ɪˌvæpəˈreɪʃn/|명 증발|*Evaporation* turns water into vapor.|증발은 물을 수증기로 바꾼다.|Heat increases the rate of *evaporation*.|열은 증발 속도를 높인다.
+2|excavate|/ˈekskəveɪt/|동 발굴하다|Archaeologists *excavated* the ancient site.|고고학자들은 고대 유적지를 발굴했다.|Workers *excavated* the tunnel through rock.|인부들은 암석을 뚫어 터널을 파냈다.

@@ -1,0 +1,103 @@
+2|cultivate|/ˈkʌltɪveɪt/|동 경작하다, 기르다|Farmers *cultivate* rice in the valley.|농부들은 계곡에서 벼를 재배한다.|She *cultivated* good habits early in life.|그녀는 어릴 때부터 좋은 습관을 길렀다.
+2|cure|/kjʊr/|명 치료법;동 치료하다|Scientists are looking for a *cure* for cancer.|과학자들은 암의 치료법을 찾고 있다.|The medicine *cured* his cough.|그 약이 그의 기침을 낫게 했다.
+2|currency|/ˈkɜːrənsi/|명 통화, 화폐|The dollar is a common *currency*.|달러는 흔히 쓰이는 통화다.|He exchanged some *currency* at the airport.|그는 공항에서 돈을 환전했다.
+2|curriculum|/kəˈrɪkjələm/|명 교육과정|The school changed its *curriculum*.|학교는 교육과정을 바꾸었다.|Art is part of the *curriculum*.|미술은 교육과정의 일부다.
+2|curve|/kɜːrv/|명 곡선|The road makes a sharp *curve*.|도로가 급하게 휘어진다.|The *curve* on the graph goes up.|그래프의 곡선이 올라간다.
+2|cycle|/ˈsaɪkl/|명 주기, 순환|The water *cycle* includes rain and evaporation.|물의 순환에는 비와 증발이 포함된다.|The moon follows a monthly *cycle*.|달은 한 달 주기를 따른다.
+2|dairy|/ˈderi/|형 유제품의|Cheese is a *dairy* product.|치즈는 유제품이다.|She is allergic to *dairy*.|그녀는 유제품 알레르기가 있다.
+2|damage|/ˈdæmɪdʒ/|명 피해;동 손상시키다|The storm caused serious *damage*.|폭풍이 심각한 피해를 입혔다.|Loud music can *damage* your hearing.|큰 음악은 청력을 손상시킬 수 있다.
+2|deadline|/ˈdedlaɪn/|명 마감 기한|The *deadline* is next Friday.|마감 기한은 다음 주 금요일이다.|I missed the *deadline* for the essay.|나는 에세이 마감을 놓쳤다.
+2|deal|/diːl/|동 다루다;명 거래|The nurse knows how to *deal* with stress.|그 간호사는 스트레스를 다루는 법을 안다.|We made a *deal* with the seller.|우리는 판매자와 거래를 맺었다.
+2|debate|/dɪˈbeɪt/|명 토론;동 토론하다|The class held a *debate* about homework.|반은 숙제에 대한 토론을 열었다.|They *debated* the issue for hours.|그들은 몇 시간 동안 그 문제를 토론했다.
+2|debt|/det/|명 빚|He paid off his *debt*.|그는 빚을 갚았다.|The country has a large *debt*.|그 나라는 빚이 많다.
+2|decade|/ˈdekeɪd/|명 10년|He has lived here for a *decade*.|그는 이곳에서 10년간 살았다.|The *decade* began with a crisis.|그 10년은 위기로 시작되었다.
+2|decay|/dɪˈkeɪ/|동 썩다;명 부패|Sugar makes teeth *decay*.|설탕은 이를 썩게 한다.|The old building fell into *decay*.|그 낡은 건물은 황폐해졌다.
+2|declare|/dɪˈkler/|동 선언하다, 신고하다|The country *declared* independence.|그 나라는 독립을 선언했다.|Do you have anything to *declare*?|신고하실 물품이 있습니까?
+2|decline|/dɪˈklaɪn/|동 감소하다, 거절하다|The number of visitors *declined*.|방문객 수가 감소했다.|She politely *declined* the invitation.|그녀는 초대를 정중히 거절했다.
+2|dedicate|/ˈdedɪkeɪt/|동 바치다, 헌신하다|He *dedicated* his life to teaching.|그는 평생을 가르치는 일에 바쳤다.|She *dedicated* the song to her mother.|그녀는 그 노래를 어머니께 바쳤다.
+2|defeat|/dɪˈfiːt/|동 패배시키다;명 패배|Our team *defeated* the champions.|우리 팀이 챔피언을 물리쳤다.|He accepted the *defeat* calmly.|그는 패배를 담담히 받아들였다.
+2|defect|/ˈdiːfekt/|명 결함|The car has a *defect* in the brakes.|그 차는 브레이크에 결함이 있다.|A small *defect* ruined the vase.|작은 흠 때문에 꽃병을 못 쓰게 되었다.
+2|define|/dɪˈfaɪn/|동 정의하다|How do you *define* success?|성공을 어떻게 정의하니?|The word is *defined* in the dictionary.|그 단어는 사전에 정의되어 있다.
+2|definite|/ˈdefɪnət/|형 확실한, 분명한|We need a *definite* answer.|우리는 확실한 대답이 필요하다.|There is no *definite* plan yet.|아직 확정된 계획은 없다.
+2|degree|/dɪˈɡriː/|명 정도, 도, 학위|The water is five *degrees* Celsius.|물 온도는 섭씨 5도다.|She has a *degree* in law.|그녀는 법학 학위가 있다.
+2|delay|/dɪˈleɪ/|동 지연시키다;명 지연|The flight was *delayed* by fog.|비행기가 안개로 지연되었다.|There was a long *delay* at the airport.|공항에서 오래 지연되었다.
+2|deliberate|/dɪˈlɪbərət/|형 고의적인, 신중한|It was a *deliberate* mistake.|그것은 고의적인 실수였다.|He took a *deliberate* step forward.|그는 신중하게 한 걸음 앞으로 나아갔다.
+2|deliver|/dɪˈlɪvər/|동 배달하다, 전달하다|The postman *delivers* mail every day.|우체부는 매일 우편물을 배달한다.|She *delivered* a short speech.|그녀는 짧은 연설을 했다.
+2|demand|/dɪˈmænd/|명 수요;동 요구하다|There is a high *demand* for fresh fruit.|신선한 과일의 수요가 높다.|The workers *demanded* higher pay.|노동자들은 임금 인상을 요구했다.
+2|democracy|/dɪˈmɑːkrəsi/|명 민주주의|*Democracy* gives people a voice.|민주주의는 국민에게 발언권을 준다.|They fought for *democracy*.|그들은 민주주의를 위해 싸웠다.
+2|demonstrate|/ˈdemənstreɪt/|동 보여 주다, 시위하다|The teacher *demonstrated* the experiment.|선생님이 실험을 시범 보였다.|Crowds *demonstrated* against the law.|군중은 그 법에 반대하는 시위를 했다.
+2|deny|/dɪˈnaɪ/|동 부인하다|He *denied* breaking the window.|그는 창문을 깼다는 것을 부인했다.|She can't *deny* the facts.|그녀는 사실을 부인할 수 없다.
+2|depart|/dɪˈpɑːrt/|동 출발하다|The train *departs* at six.|기차는 여섯 시에 출발한다.|Flights *depart* from gate five.|항공편은 5번 게이트에서 출발한다.
+2|depend|/dɪˈpend/|동 의존하다, ~에 달려 있다|Children *depend* on their parents.|아이들은 부모에게 의존한다.|It *depends* on the weather.|그것은 날씨에 달려 있다.
+2|depict|/dɪˈpɪkt/|동 묘사하다|The painting *depicts* a country scene.|그 그림은 시골 풍경을 묘사한다.|The film *depicts* life in the 1950s.|그 영화는 1950년대의 삶을 그린다.
+2|depress|/dɪˈpres/|동 우울하게 하다|Rainy days *depress* me.|비 오는 날은 나를 우울하게 한다.|He felt *depressed* after the news.|그는 그 소식을 듣고 우울했다.
+2|depth|/depθ/|명 깊이|The *depth* of the lake is ten meters.|호수의 깊이는 10미터다.|She studied the topic in *depth*.|그녀는 그 주제를 깊이 연구했다.
+2|descend|/dɪˈsend/|동 내려가다|The plane began to *descend*.|비행기가 하강하기 시작했다.|They *descended* the stairs slowly.|그들은 계단을 천천히 내려갔다.
+2|describe|/dɪˈskraɪb/|동 묘사하다, 설명하다|Can you *describe* the thief?|도둑의 인상을 설명해 줄 수 있나요?|He *described* his trip in detail.|그는 여행을 자세히 설명했다.
+2|description|/dɪˈskrɪpʃn/|명 묘사, 설명|The *description* of the house was accurate.|그 집에 대한 묘사는 정확했다.|Give a short *description* of yourself.|자신을 간단히 소개해 보세요.
+2|deserve|/dɪˈzɜːrv/|동 ~할 자격이 있다|You *deserve* a rest after the exam.|너는 시험 후에 쉴 자격이 있다.|She *deserves* the prize.|그녀는 그 상을 받을 자격이 있다.
+2|desire|/dɪˈzaɪər/|명 욕구, 바람;동 바라다|She has a strong *desire* to learn.|그녀는 배우고 싶은 욕구가 강하다.|He *desires* peace and quiet.|그는 평화와 고요를 바란다.
+2|desperate|/ˈdespərət/|형 절박한|The family was in *desperate* need of food.|그 가족은 음식이 절실히 필요했다.|He made a *desperate* attempt to escape.|그는 필사적으로 탈출을 시도했다.
+2|despite|/dɪˈspaɪt/|전 ~에도 불구하고|*Despite* the rain, we went out.|비가 왔지만 우리는 밖에 나갔다.|He smiled *despite* the pain.|그는 아픔에도 불구하고 미소 지었다.
+2|destination|/ˌdestɪˈneɪʃn/|명 목적지|We reached our *destination* at noon.|우리는 정오에 목적지에 도착했다.|Jeju is a popular tourist *destination*.|제주는 인기 있는 관광지다.
+2|destiny|/ˈdestəni/|명 운명|He believed it was his *destiny* to be a singer.|그는 가수가 되는 것이 자신의 운명이라고 믿었다.|We can shape our own *destiny*.|우리는 스스로 운명을 만들어 갈 수 있다.
+2|destroy|/dɪˈstrɔɪ/|동 파괴하다|The fire *destroyed* the old house.|화재가 낡은 집을 파괴했다.|Pollution can *destroy* forests.|오염은 숲을 파괴할 수 있다.
+2|detail|/ˈdiːteɪl/|명 세부 사항|He explained the plan in *detail*.|그는 계획을 자세히 설명했다.|Pay attention to every *detail*.|모든 세부 사항에 주의를 기울여라.
+2|detect|/dɪˈtekt/|동 감지하다, 발견하다|Dogs can *detect* tiny smells.|개는 미세한 냄새를 감지할 수 있다.|The alarm *detected* smoke.|경보기가 연기를 감지했다.
+2|determine|/dɪˈtɜːrmɪn/|동 결정하다, 알아내다|Weather will *determine* our plans.|날씨가 우리 계획을 결정할 것이다.|Doctors tried to *determine* the cause.|의사들은 원인을 알아내려 했다.
+2|develop|/dɪˈveləp/|동 발전시키다, 개발하다|The company *developed* a new app.|그 회사는 새 앱을 개발했다.|Children *develop* quickly in their first years.|아이들은 처음 몇 년 동안 빠르게 성장한다.
+2|device|/dɪˈvaɪs/|명 장치, 기기|He invented a small *device* for cleaning.|그는 청소용 작은 장치를 발명했다.|Please turn off all electronic *devices*.|모든 전자 기기를 꺼 주세요.
+2|devote|/dɪˈvoʊt/|동 바치다, 쏟다|She *devotes* an hour to reading each day.|그녀는 매일 한 시간을 독서에 쏟는다.|He *devoted* himself to his family.|그는 가족에게 헌신했다.
+2|diagnose|/ˌdaɪəɡˈnoʊs/|동 진단하다|The doctor *diagnosed* the illness quickly.|의사는 병을 빠르게 진단했다.|She was *diagnosed* with a cold.|그녀는 감기로 진단받았다.
+2|dialogue|/ˈdaɪəlɔːɡ/|명 대화|The movie has funny *dialogue*.|그 영화는 대사가 재미있다.|The two sides opened a *dialogue*.|양측은 대화를 시작했다.
+2|diameter|/daɪˈæmɪtər/|명 지름|The circle has a *diameter* of ten centimeters.|그 원은 지름이 10센티미터다.|Measure the *diameter* of the wheel.|바퀴의 지름을 재어라.
+2|diet|/ˈdaɪət/|명 식단, 식이요법|A healthy *diet* includes vegetables.|건강한 식단에는 채소가 포함된다.|He is on a *diet* to lose weight.|그는 살을 빼려고 다이어트 중이다.
+2|differ|/ˈdɪfər/|동 다르다|Opinions *differ* on this topic.|이 주제에 대해서는 의견이 다르다.|The twins *differ* in personality.|그 쌍둥이는 성격이 다르다.
+2|dig|/dɪɡ/|동 파다|The dog *dug* a hole in the garden.|개가 정원에 구멍을 팠다.|They *dug* a well for water.|그들은 물을 얻으려고 우물을 팠다.
+2|digest|/daɪˈdʒest/|동 소화하다|The stomach *digests* food.|위는 음식을 소화시킨다.|It takes time to *digest* new ideas.|새로운 생각을 소화하는 데는 시간이 걸린다.
+2|digital|/ˈdɪdʒɪtl/|형 디지털의|She bought a *digital* camera.|그녀는 디지털 카메라를 샀다.|We live in a *digital* age.|우리는 디지털 시대에 산다.
+2|dignity|/ˈdɪɡnəti/|명 존엄, 품위|Every person deserves *dignity*.|모든 사람은 존엄을 누릴 자격이 있다.|He lost with *dignity*.|그는 품위 있게 졌다.
+2|dilemma|/dɪˈlemə/|명 딜레마, 곤경|She faced a *dilemma* between two schools.|그녀는 두 학교 사이에서 딜레마에 빠졌다.|It's a real *dilemma* for the team.|그것은 팀에게 정말 진퇴양난이다.
+2|dimension|/dɪˈmenʃn/|명 차원, 크기|Measure the *dimensions* of the room.|방의 크기를 재어 보세요.|The film adds a new *dimension* to the story.|그 영화는 이야기에 새로운 차원을 더한다.
+2|diminish|/dɪˈmɪnɪʃ/|동 줄어들다, 줄이다|The pain *diminished* slowly.|통증이 서서히 줄었다.|Noise *diminishes* with distance.|소음은 거리가 멀수록 줄어든다.
+2|diploma|/dɪˈploʊmə/|명 졸업장|She received her high school *diploma*.|그녀는 고등학교 졸업장을 받았다.|He framed his *diploma*.|그는 졸업장을 액자에 넣었다.
+2|direct|/dɪˈrekt/|형 직접적인;동 지휘하다|Take a *direct* flight to Tokyo.|도쿄행 직항편을 타세요.|He *directed* a short film.|그는 단편 영화를 감독했다.
+2|director|/dɪˈrektər/|명 감독, 책임자|The *director* thanked the actors.|감독은 배우들에게 감사를 전했다.|She is the *director* of the museum.|그녀는 박물관 관장이다.
+2|disability|/ˌdɪsəˈbɪləti/|명 장애|The building is open to people with a *disability*.|그 건물은 장애인에게 개방되어 있다.|He overcame his *disability*.|그는 장애를 극복했다.
+2|disagree|/ˌdɪsəˈɡriː/|동 의견이 다르다|I *disagree* with your plan.|나는 네 계획에 동의하지 않는다.|They *disagreed* about the price.|그들은 가격에 대해 의견이 달랐다.
+2|disappear|/ˌdɪsəˈpɪr/|동 사라지다|The cat *disappeared* behind the door.|고양이가 문 뒤로 사라졌다.|Many species are *disappearing*.|많은 종이 사라지고 있다.
+2|disappoint|/ˌdɪsəˈpɔɪnt/|동 실망시키다|I don't want to *disappoint* my parents.|나는 부모님을 실망시키고 싶지 않다.|She was *disappointed* with the result.|그녀는 결과에 실망했다.
+2|disaster|/dɪˈzæstər/|명 재난, 참사|The flood was a terrible *disaster*.|홍수는 끔찍한 재난이었다.|The trip turned into a *disaster*.|여행은 엉망진창이 되었다.
+2|discipline|/ˈdɪsəplɪn/|명 규율, 훈육|The school has strict *discipline*.|그 학교는 규율이 엄하다.|Learning an instrument takes *discipline*.|악기를 배우려면 자기 절제가 필요하다.
+2|disclose|/dɪsˈkloʊz/|동 공개하다, 밝히다|The company refused to *disclose* the price.|회사는 가격을 공개하기를 거부했다.|He didn't *disclose* his name.|그는 이름을 밝히지 않았다.
+2|discount|/ˈdɪskaʊnt/|명 할인|The shop gives a *discount* to students.|그 가게는 학생에게 할인을 해 준다.|I bought it at a ten percent *discount*.|나는 10퍼센트 할인된 가격에 샀다.
+2|discourage|/dɪsˈkɜːrɪdʒ/|동 낙담시키다, 말리다|Failure shouldn't *discourage* you.|실패가 너를 낙담시키게 두지 마라.|The rain *discouraged* people from going out.|비가 사람들이 외출하는 것을 막았다.
+2|discrimination|/dɪˌskrɪmɪˈneɪʃn/|명 차별|The law bans *discrimination* at work.|그 법은 직장에서의 차별을 금한다.|He fought against racial *discrimination*.|그는 인종 차별에 맞서 싸웠다.
+2|disease|/dɪˈziːz/|명 질병|Washing hands prevents *disease*.|손을 씻으면 질병을 예방한다.|The *disease* spread quickly.|그 병은 빠르게 퍼졌다.
+2|disguise|/dɪsˈɡaɪz/|명 변장;동 변장하다|The thief wore a *disguise*.|도둑은 변장을 했다.|She *disguised* herself as a boy.|그녀는 소년으로 변장했다.
+2|dismiss|/dɪsˈmɪs/|동 해고하다, 묵살하다|The teacher *dismissed* the class early.|선생님은 수업을 일찍 끝내 주셨다.|He *dismissed* the idea as silly.|그는 그 생각을 어리석다며 일축했다.
+2|display|/dɪˈspleɪ/|동 전시하다;명 전시|The museum *displays* old coins.|박물관은 오래된 동전을 전시한다.|The toys are on *display* in the window.|장난감들이 쇼윈도에 진열되어 있다.
+2|dispose|/dɪˈspoʊz/|동 처분하다, 버리다|Please *dispose* of the trash properly.|쓰레기는 올바르게 버려 주세요.|How do you *dispose* of old batteries?|오래된 배터리는 어떻게 처리하니?
+2|dispute|/dɪˈspjuːt/|명 분쟁;동 반박하다|The neighbors had a *dispute* over the fence.|이웃들은 울타리를 두고 분쟁이 있었다.|No one *disputes* the facts.|아무도 그 사실에 이의를 제기하지 않는다.
+2|distant|/ˈdɪstənt/|형 먼, 거리가 있는|They saw a *distant* mountain.|그들은 멀리 있는 산을 보았다.|He has a *distant* relative in Canada.|그는 캐나다에 먼 친척이 있다.
+2|distinct|/dɪˈstɪŋkt/|형 뚜렷한, 별개의|Each flower has a *distinct* smell.|꽃마다 뚜렷한 향이 있다.|The two ideas are *distinct*.|그 두 생각은 별개다.
+2|distract|/dɪˈstrækt/|동 산만하게 하다|Noise *distracts* me from studying.|소음은 공부에 방해가 된다.|Don't *distract* the driver.|운전자의 주의를 흐리지 마라.
+2|distribute|/dɪˈstrɪbjuːt/|동 나누어 주다, 분배하다|The teacher *distributed* the papers.|선생님이 시험지를 나누어 주셨다.|They *distribute* food to the poor.|그들은 가난한 사람들에게 음식을 나누어 준다.
+2|district|/ˈdɪstrɪkt/|명 지역, 구역|He lives in the shopping *district*.|그는 쇼핑 지구에 산다.|The school *district* opened a new school.|학군에서 새 학교를 열었다.
+2|disturb|/dɪˈstɜːrb/|동 방해하다|Please do not *disturb* the guests.|손님들을 방해하지 마세요.|The noise *disturbed* my sleep.|소음이 내 잠을 방해했다.
+2|divide|/dɪˈvaɪd/|동 나누다|*Divide* the cake into six pieces.|케이크를 여섯 조각으로 나누어라.|The river *divides* the city in two.|강이 도시를 둘로 나눈다.
+2|document|/ˈdɑːkjumənt/|명 문서;동 기록하다|Please sign the *document*.|문서에 서명해 주세요.|The film *documents* a year of her life.|그 영화는 그녀의 1년을 기록한다.
+2|domestic|/dəˈmestɪk/|형 국내의, 가정의|The airline offers *domestic* flights.|그 항공사는 국내선을 운영한다.|Dogs are *domestic* animals.|개는 가축화된 동물이다.
+2|dominate|/ˈdɑːmɪneɪt/|동 지배하다|One company *dominates* the market.|한 회사가 시장을 지배한다.|Tall buildings *dominate* the skyline.|높은 건물들이 스카이라인을 압도한다.
+2|donate|/ˈdoʊneɪt/|동 기부하다|She *donated* her old books to the library.|그녀는 헌책을 도서관에 기부했다.|Many people *donate* blood.|많은 사람이 헌혈을 한다.
+2|dose|/doʊs/|명 복용량|Take one *dose* of the medicine twice a day.|하루 두 번 약 한 회분을 드세요.|Don't take a larger *dose*.|더 많은 양을 복용하지 마세요.
+2|draft|/dræft/|명 초안|He wrote the first *draft* of the report.|그는 보고서 초안을 썼다.|Please read my *draft* and give comments.|제 초안을 읽고 의견을 주세요.
+2|drama|/ˈdrɑːmə/|명 연극, 드라마|The school *drama* club performed a play.|학교 연극부가 연극을 공연했다.|My mom watches Korean *dramas*.|엄마는 한국 드라마를 보신다.
+2|dramatic|/drəˈmætɪk/|형 극적인|There was a *dramatic* change in the weather.|날씨가 극적으로 변했다.|The ending was very *dramatic*.|결말이 매우 극적이었다.
+2|drastic|/ˈdræstɪk/|형 급격한, 극단적인|The company took *drastic* measures.|회사는 극단적인 조치를 취했다.|There was a *drastic* drop in prices.|가격이 급격히 떨어졌다.
+2|drought|/draʊt/|명 가뭄|The *drought* destroyed the crops.|가뭄이 농작물을 망쳤다.|It was the worst *drought* in years.|그것은 몇 년 사이 최악의 가뭄이었다.
+2|dull|/dʌl/|형 지루한, 무딘|The lecture was *dull*.|강의는 지루했다.|This knife is too *dull* to cut.|이 칼은 너무 무뎌서 자를 수 없다.
+2|durable|/ˈdʊrəbl/|형 내구성 있는|The bag is made of *durable* material.|그 가방은 튼튼한 소재로 만들어졌다.|*Durable* goods last for years.|내구재는 수년간 쓸 수 있다.
+2|duration|/dʊˈreɪʃn/|명 지속 기간|The *duration* of the movie is two hours.|영화의 상영 시간은 두 시간이다.|It rained for the *duration* of the trip.|여행 내내 비가 왔다.
+2|duty|/ˈduːti/|명 의무, 임무|It is your *duty* to vote.|투표하는 것은 네 의무다.|The nurse is on *duty* tonight.|간호사는 오늘 밤 근무 중이다.
+2|dynamic|/daɪˈnæmɪk/|형 역동적인|She is a *dynamic* leader.|그녀는 역동적인 지도자다.|The city has a *dynamic* culture.|그 도시는 역동적인 문화를 가졌다.

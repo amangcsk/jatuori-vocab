@@ -1,0 +1,103 @@
+2|abdomen|/ˈæbdəmən/|명 복부|The patient complained of pain in the *abdomen*.|환자는 복부 통증을 호소했다.|An insect's body has a head, thorax, and *abdomen*.|곤충의 몸은 머리, 가슴, 배로 이루어진다.
+2|acute|/əˈkjuːt/|형 급성의, 예리한|He was taken to hospital with *acute* pain.|그는 급성 통증으로 병원에 실려 갔다.|Dogs have an *acute* sense of smell.|개는 후각이 예리하다.
+2|allergy|/ˈælərdʒi/|명 알레르기|She has an *allergy* to peanuts.|그녀는 땅콩 알레르기가 있다.|Pollen can trigger an *allergy*.|꽃가루는 알레르기를 일으킬 수 있다.
+2|anesthesia|/ˌænəsˈθiːʒə/|명 마취|The patient was under *anesthesia* during surgery.|환자는 수술 중 마취 상태였다.|Local *anesthesia* numbs only one area.|국소 마취는 한 부위만 마비시킨다.
+2|anemia|/əˈniːmiə/|명 빈혈|Lack of iron can cause *anemia*.|철분 부족은 빈혈을 일으킬 수 있다.|The girl felt tired because of *anemia*.|그 소녀는 빈혈 때문에 피곤했다.
+2|arthritis|/ɑːrˈθraɪtɪs/|명 관절염|*Arthritis* makes it hard to move his fingers.|관절염 때문에 그는 손가락을 움직이기 힘들다.|Many elderly people suffer from *arthritis*.|많은 노인이 관절염을 앓는다.
+2|artery|/ˈɑːrtəri/|명 동맥|Blood travels from the heart through the *arteries*.|혈액은 심장에서 동맥을 따라 흐른다.|A blocked *artery* can cause a heart attack.|막힌 동맥은 심장마비를 일으킬 수 있다.
+2|asthma|/ˈæzmə/|명 천식|*Asthma* makes it hard to breathe.|천식은 숨쉬기 힘들게 한다.|He uses an inhaler for his *asthma*.|그는 천식 때문에 흡입기를 쓴다.
+2|benign|/bɪˈnaɪn/|형 양성의, 온화한|The doctor said the tumor was *benign*.|의사는 종양이 양성이라고 말했다.|He has a *benign* smile.|그는 온화한 미소를 지녔다.
+2|biopsy|/ˈbaɪɑːpsi/|명 생체 검사|The doctor ordered a *biopsy* of the lump.|의사는 혹의 생체 검사를 지시했다.|The *biopsy* showed no cancer.|조직 검사에서 암은 나오지 않았다.
+2|bruise|/bruːz/|명 멍;동 멍들다|He had a large *bruise* on his arm.|그는 팔에 큰 멍이 들었다.|Apples *bruise* easily.|사과는 쉽게 멍이 든다.
+2|cardiac|/ˈkɑːrdiæk/|형 심장의|He suffered *cardiac* arrest.|그는 심정지를 겪었다.|The hospital has a *cardiac* unit.|그 병원에는 심장병동이 있다.
+2|cardiovascular|/ˌkɑːrdioʊˈvæskjələr/|형 심혈관의|Exercise improves *cardiovascular* health.|운동은 심혈관 건강을 향상시킨다.|*Cardiovascular* disease is a leading cause of death.|심혈관 질환은 주요 사망 원인이다.
+2|cholesterol|/kəˈlestərɔːl/|명 콜레스테롤|High *cholesterol* raises the risk of heart disease.|높은 콜레스테롤은 심장병 위험을 높인다.|Oats can lower *cholesterol*.|귀리는 콜레스테롤을 낮출 수 있다.
+2|clinical|/ˈklɪnɪkl/|형 임상의|The drug is in *clinical* trials.|그 약은 임상 시험 중이다.|She did *clinical* research at the hospital.|그녀는 병원에서 임상 연구를 했다.
+2|coma|/ˈkoʊmə/|명 혼수상태|The patient has been in a *coma* for a week.|환자는 일주일째 혼수상태다.|He woke from the *coma* slowly.|그는 서서히 혼수상태에서 깨어났다.
+2|contagious|/kənˈteɪdʒəs/|형 전염성의|The flu is highly *contagious*.|독감은 전염성이 강하다.|Her laughter was *contagious*.|그녀의 웃음은 전염성이 있었다.
+2|cornea|/ˈkɔːrniə/|명 각막|The *cornea* is the clear front part of the eye.|각막은 눈의 투명한 앞부분이다.|He received a *cornea* transplant.|그는 각막 이식을 받았다.
+2|cramp|/kræmp/|명 경련|He got a *cramp* in his leg while swimming.|그는 수영하다가 다리에 쥐가 났다.|She had stomach *cramps*.|그녀는 복통이 있었다.
+2|diabetes|/ˌdaɪəˈbiːtiːz/|명 당뇨병|*Diabetes* affects how the body uses sugar.|당뇨병은 몸이 당을 쓰는 방식에 영향을 준다.|He controls his *diabetes* with diet.|그는 식이요법으로 당뇨를 관리한다.
+2|diagnosis|/ˌdaɪəɡˈnoʊsɪs/|명 진단|Early *diagnosis* improves the chance of recovery.|조기 진단은 회복 가능성을 높인다.|The doctor made a quick *diagnosis*.|의사는 신속히 진단을 내렸다.
+2|dialysis|/daɪˈæləsɪs/|명 투석|The patient needs *dialysis* three times a week.|환자는 주 3회 투석이 필요하다.|The machine performs kidney *dialysis*.|그 기계는 신장 투석을 한다.
+2|dosage|/ˈdoʊsɪdʒ/|명 복용량|Follow the recommended *dosage*.|권장 복용량을 따르세요.|The doctor increased the *dosage*.|의사는 복용량을 늘렸다.
+2|epilepsy|/ˈepɪlepsi/|명 간질|*Epilepsy* causes sudden seizures.|간질은 갑작스러운 발작을 일으킨다.|He takes medicine to control his *epilepsy*.|그는 간질을 조절하려고 약을 먹는다.
+2|fatigue|/fəˈtiːɡ/|명 피로|She felt deep *fatigue* after the long trip.|그녀는 긴 여행 후 깊은 피로를 느꼈다.|Driver *fatigue* causes many accidents.|운전자의 피로는 많은 사고를 일으킨다.
+2|fever|/ˈfiːvər/|명 열|The child had a high *fever*.|아이는 열이 높았다.|The medicine reduces *fever*.|그 약은 열을 내려 준다.
+2|hemoglobin|/ˈhiːməɡloʊbɪn/|명 헤모글로빈|*Hemoglobin* carries oxygen in the blood.|헤모글로빈은 혈액 속에서 산소를 운반한다.|Low *hemoglobin* can cause weakness.|헤모글로빈이 낮으면 무력감이 생길 수 있다.
+2|hereditary|/həˈredɪteri/|형 유전의|The disease is *hereditary*.|그 병은 유전된다.|*Hereditary* traits pass from parents to children.|유전 형질은 부모에게서 자식에게 전해진다.
+2|immunity|/ɪˈmjuːnəti/|명 면역|Vaccines give *immunity* to disease.|백신은 질병에 대한 면역을 준다.|Exercise strengthens your *immunity*.|운동은 면역력을 강화한다.
+2|inflammation|/ˌɪnfləˈmeɪʃn/|명 염증|Ice reduces *inflammation* and pain.|얼음은 염증과 통증을 줄여 준다.|The injury caused *inflammation* in the knee.|부상으로 무릎에 염증이 생겼다.
+2|infection|/ɪnˈfekʃn/|명 감염|The wound became an *infection*.|상처가 감염되었다.|Washing hands prevents *infection*.|손을 씻으면 감염을 막을 수 있다.
+2|insomnia|/ɪnˈsɑːmniə/|명 불면증|Stress can cause *insomnia*.|스트레스는 불면증을 일으킬 수 있다.|She suffers from *insomnia*.|그녀는 불면증을 앓는다.
+2|insulin|/ˈɪnsəlɪn/|명 인슐린|The body uses *insulin* to control blood sugar.|몸은 인슐린으로 혈당을 조절한다.|He injects *insulin* every day.|그는 매일 인슐린 주사를 맞는다.
+2|intestine|/ɪnˈtestɪn/|명 장|Food passes through the small *intestine*.|음식은 소장을 지난다.|Bacteria in the *intestine* help digestion.|장 속의 세균은 소화를 돕는다.
+2|jaundice|/ˈdʒɔːndɪs/|명 황달|The baby had *jaundice* and looked yellow.|아기는 황달로 노랗게 보였다.|*Jaundice* is a sign of a liver problem.|황달은 간 문제의 징후다.
+2|lesion|/ˈliːʒn/|명 병변|A skin *lesion* appeared on his arm.|그의 팔에 피부 병변이 생겼다.|The scan showed a small *lesion*.|검사에서 작은 병변이 보였다.
+2|ligament|/ˈlɪɡəmənt/|명 인대|He tore a *ligament* in his knee.|그는 무릎 인대가 찢어졌다.|*Ligaments* connect bones to each other.|인대는 뼈와 뼈를 연결한다.
+2|malignant|/məˈlɪɡnənt/|형 악성의|The test showed a *malignant* tumor.|검사에서 악성 종양이 나왔다.|*Malignant* cells can spread quickly.|악성 세포는 빠르게 퍼질 수 있다.
+2|malnutrition|/ˌmælnuˈtrɪʃn/|명 영양실조|Many children suffered from *malnutrition*.|많은 아이들이 영양실조에 시달렸다.|The charity fights *malnutrition* in poor regions.|그 자선 단체는 가난한 지역의 영양실조와 싸운다.
+2|migraine|/ˈmaɪɡreɪn/|명 편두통|She gets a *migraine* when she is stressed.|그녀는 스트레스를 받으면 편두통이 온다.|Bright light can trigger a *migraine*.|밝은 빛은 편두통을 일으킬 수 있다.
+2|nausea|/ˈnɔːziə/|명 메스꺼움|The boat ride made him feel *nausea*.|배를 타자 그는 메스꺼움을 느꼈다.|The medicine may cause *nausea*.|그 약은 메스꺼움을 일으킬 수 있다.
+2|obesity|/oʊˈbiːsəti/|명 비만|*Obesity* raises the risk of heart disease.|비만은 심장병 위험을 높인다.|The government tackles childhood *obesity*.|정부는 아동 비만 문제에 대처한다.
+2|pediatric|/ˌpiːdiˈætrɪk/|형 소아과의|She works in a *pediatric* hospital.|그녀는 소아 병원에서 일한다.|A *pediatric* nurse cares for sick children.|소아과 간호사는 아픈 아이들을 돌본다.
+2|placebo|/pləˈsiːboʊ/|명 위약|Half the patients received a *placebo*.|환자의 절반은 위약을 받았다.|The *placebo* effect can relieve symptoms.|위약 효과는 증상을 완화할 수 있다.
+2|pneumonia|/nuːˈmoʊniə/|명 폐렴|He was hospitalized with *pneumonia*.|그는 폐렴으로 입원했다.|*Pneumonia* is a serious lung infection.|폐렴은 심각한 폐 감염이다.
+2|prognosis|/prɑːɡˈnoʊsɪs/|명 예후|The *prognosis* for the patient is good.|그 환자의 예후는 좋다.|Early treatment improves the *prognosis*.|조기 치료는 예후를 좋게 한다.
+2|prosthetic|/prɑːsˈθetɪk/|형 인공의|He walks with a *prosthetic* leg.|그는 의족을 하고 걷는다.|*Prosthetic* limbs have become more advanced.|인공 팔다리는 더욱 발전했다.
+2|pulse|/pʌls/|명 맥박|The nurse checked his *pulse*.|간호사가 그의 맥박을 쟀다.|Her *pulse* quickened with excitement.|그녀는 흥분으로 맥박이 빨라졌다.
+2|rehabilitation|/ˌriːəˌbɪlɪˈteɪʃn/|명 재활|He is in *rehabilitation* after his accident.|그는 사고 후 재활 중이다.|The center offers drug *rehabilitation*.|그 센터는 약물 재활을 제공한다.
+2|remission|/rɪˈmɪʃn/|명 차도, 관해|The cancer is in *remission*.|그 암은 차도를 보이고 있다.|She went into *remission* after treatment.|그녀는 치료 후 병세가 호전되었다.
+2|sedative|/ˈsedətɪv/|명 진정제|The doctor gave him a *sedative*.|의사는 그에게 진정제를 주었다.|The *sedative* helped her sleep.|진정제가 그녀의 잠을 도왔다.
+2|spinal|/ˈspaɪnl/|형 척추의|He suffered a *spinal* injury.|그는 척추 부상을 입었다.|The *spinal* cord carries nerve signals.|척수는 신경 신호를 전달한다.
+2|stroke|/stroʊk/|명 뇌졸중;명 쓰다듬기|Her grandfather had a *stroke* last year.|그녀의 할아버지는 작년에 뇌졸중을 겪었다.|He gave the cat a gentle *stroke*.|그는 고양이를 부드럽게 쓰다듬었다.
+2|surgical|/ˈsɜːrdʒɪkl/|형 수술의|The doctor wore a *surgical* mask.|의사는 수술용 마스크를 썼다.|He needs *surgical* treatment.|그는 수술 치료가 필요하다.
+2|tumor|/ˈtuːmər/|명 종양|The doctors removed the *tumor*.|의사들은 종양을 제거했다.|A brain *tumor* can cause headaches.|뇌종양은 두통을 일으킬 수 있다.
+2|ulcer|/ˈʌlsər/|명 궤양|Stress can worsen a stomach *ulcer*.|스트레스는 위궤양을 악화시킬 수 있다.|The *ulcer* in his mouth was painful.|그의 입 안 궤양은 아팠다.
+2|vaccine|/vækˈsiːn/|명 백신|Scientists developed a *vaccine* for the virus.|과학자들은 그 바이러스의 백신을 개발했다.|The *vaccine* protects against the flu.|그 백신은 독감을 막아 준다.
+2|vaccination|/ˌvæksɪˈneɪʃn/|명 예방 접종|*Vaccination* has nearly wiped out polio.|예방 접종은 소아마비를 거의 없앴다.|Children receive *vaccination* at school.|아이들은 학교에서 예방 접종을 받는다.
+2|vein|/veɪn/|명 정맥, 잎맥|Blood returns to the heart through the *veins*.|혈액은 정맥을 통해 심장으로 돌아온다.|The leaf has a network of *veins*.|잎에는 잎맥이 그물처럼 퍼져 있다.
+2|vitamin|/ˈvaɪtəmɪn/|명 비타민|Oranges are rich in *vitamin* C.|오렌지는 비타민 C가 풍부하다.|The body needs *vitamins* to stay healthy.|몸은 건강을 유지하려면 비타민이 필요하다.
+2|afforestation|/əˌfɔːrɪˈsteɪʃn/|명 조림|*Afforestation* helps restore damaged land.|조림은 훼손된 땅을 복원하는 데 도움이 된다.|The country started an *afforestation* program.|그 나라는 조림 사업을 시작했다.
+2|biodegradable|/ˌbaɪoʊdɪˈɡreɪdəbl/|형 생분해성의|The bags are made of *biodegradable* material.|그 봉지는 생분해성 재료로 만들어졌다.|*Biodegradable* waste breaks down naturally.|생분해성 폐기물은 자연적으로 분해된다.
+2|biofuel|/ˈbaɪoʊfjuːəl/|명 바이오 연료|*Biofuel* is made from plants.|바이오 연료는 식물로 만든다.|Some buses run on *biofuel*.|일부 버스는 바이오 연료로 달린다.
+2|contaminate|/kənˈtæmɪneɪt/|동 오염시키다|Oil *contaminated* the beach.|기름이 해변을 오염시켰다.|Chemicals can *contaminate* drinking water.|화학 물질은 식수를 오염시킬 수 있다.
+2|deforestation|/diːˌfɔːrɪˈsteɪʃn/|명 삼림 벌채|*Deforestation* destroys animal habitats.|삼림 벌채는 동물 서식지를 파괴한다.|The rate of *deforestation* has slowed.|삼림 벌채 속도가 느려졌다.
+2|desertification|/dɪˌzɜːrtɪfɪˈkeɪʃn/|명 사막화|Overgrazing leads to *desertification*.|과도한 방목은 사막화로 이어진다.|*Desertification* threatens farmland in Africa.|사막화는 아프리카의 농지를 위협한다.
+2|ecological|/ˌiːkəˈlɑːdʒɪkl/|형 생태학적인|The oil spill was an *ecological* disaster.|기름 유출은 생태계 재앙이었다.|*Ecological* balance is easily disturbed.|생태 균형은 쉽게 깨진다.
+2|endangered|/ɪnˈdeɪndʒərd/|형 멸종 위기의|The panda is an *endangered* species.|판다는 멸종 위기종이다.|Laws protect *endangered* animals.|법은 멸종 위기 동물을 보호한다.
+2|greenhouse|/ˈɡriːnhaʊs/|명 온실|Tomatoes grow in the *greenhouse* all year.|토마토는 온실에서 일 년 내내 자란다.|*Greenhouse* gases trap heat.|온실가스는 열을 가둔다.
+2|hydroelectric|/ˌhaɪdroʊɪˈlektrɪk/|형 수력 발전의|The dam provides *hydroelectric* power.|그 댐은 수력 발전으로 전력을 공급한다.|A *hydroelectric* plant uses flowing water.|수력 발전소는 흐르는 물을 이용한다.
+2|landfill|/ˈlændfɪl/|명 쓰레기 매립지|Most trash ends up in a *landfill*.|대부분의 쓰레기는 매립지로 간다.|The *landfill* is almost full.|매립지가 거의 찼다.
+2|methane|/ˈmeθeɪn/|명 메탄|Cattle release *methane* into the air.|소는 메탄을 공기 중에 내뿜는다.|*Methane* is a powerful greenhouse gas.|메탄은 강력한 온실가스다.
+2|ozone|/ˈoʊzoʊn/|명 오존|The *ozone* layer blocks harmful rays.|오존층은 해로운 광선을 막는다.|Chemicals damaged the *ozone* layer.|화학 물질이 오존층을 손상시켰다.
+2|pesticide|/ˈpestɪsaɪd/|명 농약|Farmers spray *pesticide* on crops.|농부들은 작물에 농약을 뿌린다.|*Pesticides* can harm bees.|농약은 벌에게 해로울 수 있다.
+2|pollutant|/pəˈluːtənt/|명 오염 물질|Cars release *pollutants* into the air.|자동차는 오염 물질을 공기 중에 내보낸다.|The river contains harmful *pollutants*.|그 강에는 해로운 오염 물질이 있다.
+2|renewable|/rɪˈnuːəbl/|형 재생 가능한|Wind is a *renewable* source of energy.|바람은 재생 가능한 에너지원이다.|The country invests in *renewable* power.|그 나라는 재생 가능 에너지에 투자한다.
+2|sewage|/ˈsuːɪdʒ/|명 하수|The plant cleans *sewage* before release.|처리장은 방류 전에 하수를 정화한다.|Raw *sewage* polluted the beach.|처리되지 않은 하수가 해변을 오염시켰다.
+2|smog|/smɑːɡ/|명 스모그|Heavy *smog* covered the city.|짙은 스모그가 도시를 뒤덮었다.|Traffic adds to the *smog*.|교통량이 스모그를 더한다.
+2|sustainable|/səˈsteɪnəbl/|형 지속 가능한|The farm uses *sustainable* methods.|그 농장은 지속 가능한 방식을 쓴다.|*Sustainable* fishing protects ocean life.|지속 가능한 어업은 바다 생물을 보호한다.
+2|watershed|/ˈwɔːtərʃed/|명 분수령, 유역|The law was a *watershed* in civil rights.|그 법은 시민권의 분수령이었다.|The river's *watershed* covers three provinces.|그 강의 유역은 세 개 도를 아우른다.
+2|acidification|/əˌsɪdɪfɪˈkeɪʃn/|명 산성화|Ocean *acidification* harms shellfish.|해양 산성화는 조개류에 해롭다.|*Acidification* of soil reduces crop yield.|토양 산성화는 작물 수확량을 줄인다.
+2|aerosol|/ˈeroʊsɔːl/|명 에어로졸|*Aerosol* sprays can damage the atmosphere.|에어로졸 스프레이는 대기를 손상시킬 수 있다.|Tiny *aerosol* particles float in the air.|작은 에어로졸 입자가 공기 중에 떠 있다.
+2|arable|/ˈærəbl/|형 경작할 수 있는|*Arable* land is limited in the mountains.|산악 지역은 경작 가능한 땅이 한정되어 있다.|The country has plenty of *arable* land.|그 나라에는 경작지가 많다.
+2|aquaculture|/ˈækwəkʌltʃər/|명 양식업|*Aquaculture* provides much of the world's fish.|양식업은 세계 어류의 많은 부분을 공급한다.|The coast has many *aquaculture* farms.|해안에는 양식장이 많다.
+2|catastrophe|/kəˈtæstrəfi/|명 대재앙|The flood was a *catastrophe* for the village.|홍수는 마을에 대재앙이었다.|Scientists warn of climate *catastrophe*.|과학자들은 기후 재앙을 경고한다.
+2|clearing|/ˈklɪrɪŋ/|명 숲속의 빈터|They camped in a *clearing* in the forest.|그들은 숲속의 빈터에서 야영했다.|The *clearing* was full of wildflowers.|빈터는 들꽃으로 가득했다.
+2|compost|/ˈkɑːmpoʊst/|명 퇴비|Gardeners add *compost* to the soil.|정원사들은 흙에 퇴비를 넣는다.|Kitchen scraps turn into *compost*.|부엌 찌꺼기는 퇴비가 된다.
+2|dam|/dæm/|명 댐|The *dam* controls the river's flow.|댐은 강의 흐름을 조절한다.|Beavers build a *dam* with branches.|비버는 나뭇가지로 댐을 짓는다.
+2|depletion|/dɪˈpliːʃn/|명 고갈|The *depletion* of fish stocks worries scientists.|어족 자원의 고갈은 과학자들을 걱정시킨다.|Ozone *depletion* exposes us to more radiation.|오존 감소는 우리를 더 많은 방사선에 노출시킨다.
+2|discharge|/dɪsˈtʃɑːrdʒ/|동 방출하다;명 방출|Factories *discharge* waste into the river.|공장은 폐기물을 강에 방출한다.|The patient was *discharged* from the hospital.|환자는 퇴원했다.
+2|ecotourism|/ˈiːkoʊtʊrɪzəm/|명 생태 관광|*Ecotourism* supports local conservation.|생태 관광은 지역 보존을 지원한다.|The island promotes *ecotourism*.|그 섬은 생태 관광을 장려한다.
+2|effluent|/ˈefluənt/|명 폐수|Factory *effluent* was dumped into the river.|공장 폐수가 강에 버려졌다.|The plant treats its *effluent* before release.|그 공장은 방류 전에 폐수를 처리한다.
+2|extraction|/ɪkˈstrækʃn/|명 추출, 채굴|The *extraction* of oil damages the land.|석유 채굴은 땅을 해친다.|Tooth *extraction* takes only minutes.|발치는 몇 분이면 끝난다.
+2|fertilizer|/ˈfɜːrtəlaɪzər/|명 비료|Farmers apply *fertilizer* to the fields.|농부들은 밭에 비료를 준다.|Too much *fertilizer* pollutes the water.|비료를 너무 많이 쓰면 물이 오염된다.
+2|geothermal|/ˌdʒiːoʊˈθɜːrml/|형 지열의|Iceland uses *geothermal* energy for heating.|아이슬란드는 난방에 지열 에너지를 쓴다.|*Geothermal* power comes from underground heat.|지열 발전은 땅속의 열에서 나온다.
+2|herbicide|/ˈhɜːrbɪsaɪd/|명 제초제|The farmer sprayed *herbicide* on the weeds.|농부는 잡초에 제초제를 뿌렸다.|Some *herbicides* are harmful to wildlife.|일부 제초제는 야생 동물에 해롭다.
+2|irrigation|/ˌɪrɪˈɡeɪʃn/|명 관개|*Irrigation* brings water to dry fields.|관개는 마른 밭에 물을 가져다준다.|The desert farm depends on *irrigation*.|사막 농장은 관개에 의존한다.
+2|monoculture|/ˈmɑːnoʊkʌltʃər/|명 단일 작물 재배|*Monoculture* can damage the soil.|단일 작물 재배는 토양을 해칠 수 있다.|The farm switched from *monoculture* to varied crops.|그 농장은 단일 재배에서 다양한 작물 재배로 바꿨다.
+2|overfishing|/ˌoʊvərˈfɪʃɪŋ/|명 남획|*Overfishing* has reduced fish numbers.|남획은 물고기 수를 줄였다.|The law limits *overfishing*.|그 법은 남획을 제한한다.
+2|overgrazing|/ˌoʊvərˈɡreɪzɪŋ/|명 과도한 방목|*Overgrazing* destroys grassland.|과도한 방목은 초원을 파괴한다.|The land suffered from *overgrazing*.|그 땅은 과도한 방목으로 피해를 입었다.
+2|reservoir|/ˈrezərvwɑːr/|명 저수지|The city's water comes from a large *reservoir*.|도시의 물은 큰 저수지에서 나온다.|The *reservoir* ran low in summer.|저수지는 여름에 수위가 낮아졌다.
+2|runoff|/ˈrʌnɔːf/|명 유출수|Farm *runoff* pollutes the river.|농경지 유출수가 강을 오염시킨다.|Heavy rain increased the *runoff*.|폭우가 유출수를 늘렸다.
+2|stewardship|/ˈstuːərdʃɪp/|명 관리, 책임 의식|Good *stewardship* protects natural resources.|좋은 관리는 천연자원을 보호한다.|The company is praised for environmental *stewardship*.|그 회사는 환경 관리로 칭찬받는다.

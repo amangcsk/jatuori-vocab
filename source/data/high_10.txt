@@ -1,0 +1,106 @@
+2|protest|/ˈproʊtest/|명 항의;동 항의하다|Students held a *protest* against the new rule.|학생들이 새 규칙에 항의하는 시위를 열었다.|They *protested* outside the building.|그들은 건물 밖에서 항의했다.
+2|proud|/praʊd/|형 자랑스러운|I'm *proud* of you.|나는 네가 자랑스럽다.|She was *proud* of her son.|그녀는 아들이 자랑스러웠다.
+2|provide|/prəˈvaɪd/|동 제공하다|The school *provides* free lunches.|학교는 무료 점심을 제공한다.|Cows *provide* us with milk.|소는 우리에게 우유를 제공한다.
+2|province|/ˈprɑːvɪns/|명 도, 지방|Gyeonggi is the largest *province*.|경기도는 가장 큰 도다.|He comes from a small *province*.|그는 작은 지방 출신이다.
+2|provoke|/prəˈvoʊk/|동 자극하다, 유발하다|Don't *provoke* the dog.|개를 자극하지 마라.|The remark *provoked* an argument.|그 말이 논쟁을 일으켰다.
+2|psychology|/saɪˈkɑːlədʒi/|명 심리학|She is studying *psychology*.|그녀는 심리학을 공부하고 있다.|*Psychology* explains how we think.|심리학은 우리가 어떻게 생각하는지를 설명한다.
+2|public|/ˈpʌblɪk/|형 공공의;명 대중|The park is open to the *public*.|공원은 일반인에게 개방되어 있다.|Don't litter in *public* places.|공공장소에 쓰레기를 버리지 마라.
+2|publish|/ˈpʌblɪʃ/|동 출판하다|The company *publishes* children's books.|그 회사는 어린이 책을 출판한다.|Her first novel was *published* last year.|그녀의 첫 소설은 작년에 출간되었다.
+2|punish|/ˈpʌnɪʃ/|동 처벌하다, 벌주다|Teachers should not *punish* students unfairly.|교사는 학생을 부당하게 벌해서는 안 된다.|He was *punished* for cheating.|그는 부정행위로 벌을 받았다.
+2|purchase|/ˈpɜːrtʃəs/|동 구입하다;명 구매|She *purchased* a new laptop.|그녀는 새 노트북을 구입했다.|Keep your receipt as proof of *purchase*.|구매 증빙으로 영수증을 보관하세요.
+2|pure|/pjʊr/|형 순수한|The ring is made of *pure* gold.|그 반지는 순금으로 만들어졌다.|The mountain air is *pure* and fresh.|산 공기는 맑고 상쾌하다.
+2|purpose|/ˈpɜːrpəs/|명 목적|What is the *purpose* of your visit?|방문 목적이 무엇입니까?|He did it on *purpose*.|그는 일부러 그랬다.
+2|pursue|/pərˈsuː/|동 추구하다, 뒤쫓다|She wants to *pursue* a career in music.|그녀는 음악 분야의 직업을 추구하고 싶어 한다.|The police *pursued* the car.|경찰이 그 차를 뒤쫓았다.
+2|qualify|/ˈkwɑːlɪfaɪ/|동 자격을 얻다|Our team *qualified* for the finals.|우리 팀은 결승전 출전 자격을 얻었다.|You must *qualify* before you can compete.|출전하려면 먼저 자격을 얻어야 한다.
+2|quality|/ˈkwɑːləti/|명 품질, 자질|This shop sells high-*quality* shoes.|이 가게는 질 좋은 신발을 판다.|Honesty is a great *quality*.|정직은 훌륭한 자질이다.
+2|quantity|/ˈkwɑːntəti/|명 양, 수량|A large *quantity* of water was wasted.|많은 양의 물이 낭비되었다.|Quality is more important than *quantity*.|양보다 질이 중요하다.
+2|quote|/kwoʊt/|동 인용하다;명 인용구|She *quoted* a line from the poem.|그녀는 시의 한 구절을 인용했다.|I like this *quote* from Einstein.|나는 아인슈타인의 이 인용구가 좋다.
+2|radical|/ˈrædɪkl/|형 근본적인, 급진적인|The school made *radical* changes.|학교는 근본적인 변화를 단행했다.|He has *radical* ideas.|그는 급진적인 생각을 가졌다.
+2|random|/ˈrændəm/|형 무작위의|Pick a *random* number.|아무 숫자나 하나 고르세요.|The winners were chosen at *random*.|당첨자는 무작위로 뽑혔다.
+2|range|/reɪndʒ/|명 범위;동 이르다|The store sells a wide *range* of products.|그 가게는 다양한 제품을 판다.|Prices *range* from five to fifty dollars.|가격은 5달러에서 50달러에 이른다.
+2|rank|/ræŋk/|명 순위, 계급|He holds the *rank* of captain.|그는 대위 계급이다.|The school *ranks* first in the city.|그 학교는 시에서 1위다.
+2|rapid|/ˈræpɪd/|형 빠른|The city has seen *rapid* growth.|그 도시는 빠르게 성장해 왔다.|There was a *rapid* change in weather.|날씨가 급격히 변했다.
+2|rare|/rer/|형 드문|Snow is *rare* in this region.|이 지역에서는 눈이 드물다.|It's a *rare* chance to see a whale.|고래를 볼 수 있는 드문 기회다.
+2|rate|/reɪt/|명 비율, 속도, 요금|The birth *rate* has fallen.|출생률이 떨어졌다.|The hotel *rate* is fifty dollars a night.|그 호텔 요금은 하룻밤에 50달러다.
+2|ratio|/ˈreɪʃioʊ/|명 비율|The *ratio* of boys to girls is two to one.|남학생 대 여학생의 비율은 2대 1이다.|Mix water and rice in a three-to-one *ratio*.|물과 쌀을 3대 1의 비율로 섞어라.
+2|rational|/ˈræʃnəl/|형 이성적인|He made a *rational* decision.|그는 이성적인 결정을 내렸다.|Humans are *rational* beings.|인간은 이성적인 존재다.
+2|raw|/rɔː/|형 날것의, 가공되지 않은|Don't eat *raw* meat.|날고기를 먹지 마라.|The factory imports *raw* materials.|그 공장은 원자재를 수입한다.
+2|react|/riˈækt/|동 반응하다|How did she *react* to the news?|그녀는 그 소식에 어떻게 반응했니?|Metals *react* with acid.|금속은 산과 반응한다.
+2|realize|/ˈriːəlaɪz/|동 깨닫다, 실현하다|I *realized* I had left my bag.|나는 가방을 두고 왔다는 것을 깨달았다.|She *realized* her dream of becoming a doctor.|그녀는 의사가 되겠다는 꿈을 이루었다.
+2|reality|/riˈæləti/|명 현실|He couldn't face *reality*.|그는 현실을 마주할 수 없었다.|Her dream became *reality*.|그녀의 꿈이 현실이 되었다.
+2|reason|/ˈriːzn/|명 이유|What is the *reason* for the delay?|지연된 이유가 무엇입니까?|There is no *reason* to worry.|걱정할 이유가 없다.
+2|reasonable|/ˈriːznəbl/|형 합리적인, 적당한|The price is *reasonable*.|가격이 적당하다.|It's a *reasonable* request.|그것은 합리적인 요청이다.
+2|rebel|/ˈrebl/|명 반항자;동 반항하다|The teenager became a *rebel*.|그 십 대는 반항아가 되었다.|He *rebelled* against his parents.|그는 부모에게 반항했다.
+2|recall|/rɪˈkɔːl/|동 기억해 내다, 회수하다|I can't *recall* his name.|그의 이름이 기억나지 않는다.|The company *recalled* the faulty cars.|회사는 결함이 있는 차를 회수했다.
+2|recent|/ˈriːsnt/|형 최근의|Have you seen his *recent* film?|그의 최신 영화를 봤니?|There was a *recent* change in the schedule.|최근에 일정이 바뀌었다.
+2|reception|/rɪˈsepʃn/|명 접수처, 환영회|Please ask at *reception*.|접수처에 문의하세요.|The wedding *reception* was held outdoors.|결혼 피로연은 야외에서 열렸다.
+2|recognize|/ˈrekəɡnaɪz/|동 알아보다, 인정하다|I didn't *recognize* him with a beard.|나는 수염 난 그를 알아보지 못했다.|Everyone *recognizes* her talent.|모두가 그녀의 재능을 인정한다.
+2|recommend|/ˌrekəˈmend/|동 추천하다|Can you *recommend* a good book?|좋은 책을 추천해 줄래?|The doctor *recommended* more rest.|의사는 더 쉬라고 권했다.
+2|record|/rɪˈkɔːrd/|동 기록하다;명 기록|*Record* your results in the table.|결과를 표에 기록하세요.|She broke the school *record*.|그녀는 학교 기록을 깼다.
+2|recover|/rɪˈkʌvər/|동 회복하다|He *recovered* quickly from the flu.|그는 독감에서 빠르게 회복했다.|The police *recovered* the stolen car.|경찰은 도난 차량을 되찾았다.
+2|recruit|/rɪˈkruːt/|동 모집하다|The club is *recruiting* new members.|그 동아리는 새 회원을 모집하고 있다.|The company *recruited* ten graduates.|그 회사는 졸업생 열 명을 채용했다.
+2|reduce|/rɪˈduːs/|동 줄이다|We should *reduce* plastic waste.|우리는 플라스틱 쓰레기를 줄여야 한다.|The shop *reduced* its prices.|그 가게는 가격을 내렸다.
+2|refer|/rɪˈfɜːr/|동 언급하다, 참조하다|The teacher *referred* to page ten.|선생님은 10쪽을 언급하셨다.|*Refer* to the map for directions.|길은 지도를 참조하세요.
+2|reference|/ˈrefrəns/|명 참고, 언급|Use a dictionary for *reference*.|참고용으로 사전을 사용해라.|He made no *reference* to the accident.|그는 그 사고를 언급하지 않았다.
+2|reflect|/rɪˈflekt/|동 반사하다, 반성하다|The lake *reflected* the mountains.|호수가 산을 비추었다.|Take time to *reflect* on your mistakes.|자신의 실수를 되돌아볼 시간을 가져라.
+2|reform|/rɪˈfɔːrm/|명 개혁;동 개혁하다|The government promised education *reform*.|정부는 교육 개혁을 약속했다.|They *reformed* the school system.|그들은 학교 제도를 개혁했다.
+2|refuge|/ˈrefjuːdʒ/|명 피난처|They took *refuge* from the storm in a cave.|그들은 폭풍을 피해 동굴로 피신했다.|The island is a *refuge* for birds.|그 섬은 새들의 보호구역이다.
+2|refuse|/rɪˈfjuːz/|동 거절하다|He *refused* to answer the question.|그는 질문에 답하기를 거부했다.|She *refused* the offer politely.|그녀는 제안을 정중히 거절했다.
+2|regard|/rɪˈɡɑːrd/|동 간주하다;명 존경|Many people *regard* her as a hero.|많은 사람이 그녀를 영웅으로 여긴다.|He has great *regard* for his teacher.|그는 선생님을 깊이 존경한다.
+2|region|/ˈriːdʒən/|명 지역|The *region* is famous for its tea.|그 지역은 차로 유명하다.|Snow falls in the northern *region*.|북쪽 지역에는 눈이 내린다.
+2|register|/ˈredʒɪstər/|동 등록하다|You must *register* before the class.|수업 전에 등록해야 한다.|She *registered* for the contest.|그녀는 대회에 등록했다.
+2|regret|/rɪˈɡret/|동 후회하다;명 후회|I *regret* saying that.|그 말을 한 것을 후회한다.|He felt deep *regret* for his actions.|그는 자신의 행동을 깊이 후회했다.
+2|regular|/ˈreɡjələr/|형 규칙적인, 정기적인|Take *regular* exercise.|규칙적으로 운동해라.|He is a *regular* customer.|그는 단골손님이다.
+2|regulate|/ˈreɡjuleɪt/|동 규제하다, 조절하다|The government *regulates* food safety.|정부는 식품 안전을 규제한다.|The body *regulates* its temperature.|몸은 체온을 조절한다.
+2|reinforce|/ˌriːɪnˈfɔːrs/|동 강화하다|They *reinforced* the wall with steel.|그들은 벽을 철로 보강했다.|Practice *reinforces* learning.|연습은 학습을 강화한다.
+2|reject|/rɪˈdʒekt/|동 거절하다|The company *rejected* his application.|회사는 그의 지원서를 거절했다.|She *rejected* the idea.|그녀는 그 생각을 거부했다.
+2|relate|/rɪˈleɪt/|동 관련시키다|The story *relates* to my own life.|그 이야기는 내 삶과 관련이 있다.|I can *relate* to her feelings.|나는 그녀의 감정에 공감한다.
+2|relative|/ˈrelətɪv/|명 친척;형 상대적인|All my *relatives* came to the wedding.|내 친척들이 모두 결혼식에 왔다.|It's a *relative* term.|그것은 상대적인 용어다.
+2|release|/rɪˈliːs/|동 풀어 주다, 출시하다|They *released* the bird into the wild.|그들은 새를 야생으로 풀어 주었다.|The band will *release* a new album.|그 밴드는 새 앨범을 낼 것이다.
+2|relevant|/ˈreləvənt/|형 관련 있는|Only bring *relevant* documents.|관련 서류만 가져오세요.|His question was not *relevant*.|그의 질문은 관련이 없었다.
+2|reliable|/rɪˈlaɪəbl/|형 믿을 수 있는|He is a *reliable* friend.|그는 믿음직한 친구다.|This is a *reliable* source of news.|이것은 믿을 만한 뉴스 출처다.
+2|relief|/rɪˈliːf/|명 안도, 구호|What a *relief* that you're safe!|네가 무사해서 정말 다행이야!|The charity sent *relief* to the flood area.|자선 단체는 홍수 지역에 구호품을 보냈다.
+2|relieve|/rɪˈliːv/|동 덜어 주다|This medicine will *relieve* the pain.|이 약은 통증을 덜어 줄 것이다.|I was *relieved* to hear the news.|나는 그 소식을 듣고 안도했다.
+2|religion|/rɪˈlɪdʒən/|명 종교|People of every *religion* live here.|모든 종교의 사람들이 이곳에 산다.|She studies world *religions*.|그녀는 세계 종교를 연구한다.
+2|rely|/rɪˈlaɪ/|동 의지하다|You can *rely* on me.|나를 믿어도 된다.|Many people *rely* on public transport.|많은 사람이 대중교통에 의존한다.
+2|remain|/rɪˈmeɪn/|동 남아 있다|Only three seats *remain*.|좌석이 세 개만 남아 있다.|Please *remain* seated.|자리에 계속 앉아 계세요.
+2|remark|/rɪˈmɑːrk/|명 발언;동 말하다|He made a funny *remark*.|그는 웃긴 말을 했다.|She *remarked* that it was cold.|그녀는 춥다고 말했다.
+2|remedy|/ˈremədi/|명 치료법, 해결책|Honey is a home *remedy* for a cough.|꿀은 기침에 좋은 민간요법이다.|There is no easy *remedy*.|쉬운 해결책은 없다.
+2|remind|/rɪˈmaɪnd/|동 상기시키다|*Remind* me to call her.|그녀에게 전화하라고 내게 일깨워 줘.|This song *reminds* me of summer.|이 노래는 여름을 떠올리게 한다.
+2|remote|/rɪˈmoʊt/|형 외진, 원격의|They live in a *remote* village.|그들은 외진 마을에 산다.|Use the *remote* control.|리모컨을 사용하세요.
+2|remove|/rɪˈmuːv/|동 제거하다|Please *remove* your shoes.|신발을 벗어 주세요.|He *removed* the stain from the shirt.|그는 셔츠의 얼룩을 제거했다.
+2|render|/ˈrendər/|동 ~하게 만들다|The news *rendered* her speechless.|그 소식에 그녀는 말문이 막혔다.|The company *renders* excellent service.|그 회사는 훌륭한 서비스를 제공한다.
+2|renew|/rɪˈnuː/|동 갱신하다|I need to *renew* my passport.|나는 여권을 갱신해야 한다.|She *renewed* her library card.|그녀는 도서관 카드를 갱신했다.
+2|rent|/rent/|동 빌리다;명 임대료|They *rent* a small apartment.|그들은 작은 아파트를 임차한다.|The *rent* is due on Friday.|임대료는 금요일까지 내야 한다.
+2|repair|/rɪˈper/|동 수리하다|He *repaired* the broken window.|그는 깨진 창문을 수리했다.|The car is being *repaired*.|그 차는 수리 중이다.
+2|replace|/rɪˈpleɪs/|동 대체하다|*Replace* the old battery.|오래된 배터리를 교체하세요.|Robots will *replace* some jobs.|로봇이 일부 직업을 대체할 것이다.
+2|reply|/rɪˈplaɪ/|동 대답하다;명 답장|She didn't *reply* to my message.|그녀는 내 메시지에 답하지 않았다.|I'm waiting for his *reply*.|나는 그의 답장을 기다리고 있다.
+2|represent|/ˌreprɪˈzent/|동 대표하다, 나타내다|She *represents* her school in the contest.|그녀는 대회에서 학교를 대표한다.|The red line *represents* sales.|빨간 선은 판매량을 나타낸다.
+2|republic|/rɪˈpʌblɪk/|명 공화국|Korea is a *republic*.|한국은 공화국이다.|The country became a *republic* in 1948.|그 나라는 1948년에 공화국이 되었다.
+2|reputation|/ˌrepjuˈteɪʃn/|명 평판|The restaurant has a good *reputation*.|그 식당은 평판이 좋다.|He built his *reputation* slowly.|그는 서서히 명성을 쌓았다.
+2|request|/rɪˈkwest/|명 요청;동 요청하다|I have a *request* to make.|부탁드릴 것이 있어요.|She *requested* a window seat.|그녀는 창가 자리를 요청했다.
+2|require|/rɪˈkwaɪər/|동 필요로 하다, 요구하다|The job *requires* patience.|그 일은 인내심이 필요하다.|Students are *required* to wear uniforms.|학생들은 교복을 입어야 한다.
+2|rescue|/ˈreskjuː/|동 구조하다;명 구조|Firefighters *rescued* the cat from the tree.|소방관들이 나무에서 고양이를 구조했다.|The *rescue* team arrived quickly.|구조대가 빠르게 도착했다.
+2|research|/ˈriːsɜːrtʃ/|명 연구;동 조사하다|The scientist did *research* on sleep.|그 과학자는 수면에 대해 연구했다.|*Research* the topic before you write.|쓰기 전에 주제를 조사해라.
+2|resemble|/rɪˈzembl/|동 닮다|She *resembles* her mother.|그녀는 어머니를 닮았다.|The two houses *resemble* each other.|두 집은 서로 닮았다.
+2|reserve|/rɪˈzɜːrv/|동 예약하다, 따로 두다|I *reserved* a table for four.|나는 4인 테이블을 예약했다.|These seats are *reserved* for guests.|이 좌석은 손님용으로 따로 마련되어 있다.
+2|reside|/rɪˈzaɪd/|동 거주하다|He *resides* in London.|그는 런던에 거주한다.|Many families *reside* in this building.|많은 가족이 이 건물에 거주한다.
+2|resign|/rɪˈzaɪn/|동 사임하다|The manager *resigned* last week.|관리자는 지난주에 사임했다.|She *resigned* from the team.|그녀는 팀에서 물러났다.
+2|resist|/rɪˈzɪst/|동 저항하다, 참다|I couldn't *resist* the chocolate cake.|나는 초콜릿 케이크의 유혹을 이길 수 없었다.|The villagers *resisted* the change.|마을 사람들은 변화에 저항했다.
+2|resolve|/rɪˈzɑːlv/|동 해결하다, 결심하다|They *resolved* the problem quickly.|그들은 문제를 빠르게 해결했다.|She *resolved* to study harder.|그녀는 더 열심히 공부하기로 결심했다.
+2|respond|/rɪˈspɑːnd/|동 응답하다|He didn't *respond* to my email.|그는 내 이메일에 응답하지 않았다.|Dogs *respond* to their names.|개는 자기 이름에 반응한다.
+2|response|/rɪˈspɑːns/|명 대답, 반응|I'm waiting for a *response*.|나는 답변을 기다리고 있다.|The *response* to the show was positive.|그 쇼에 대한 반응은 긍정적이었다.
+2|responsible|/rɪˈspɑːnsəbl/|형 책임 있는|She is *responsible* for the project.|그녀는 그 프로젝트의 책임자다.|He is a *responsible* student.|그는 책임감 있는 학생이다.
+2|restore|/rɪˈstɔːr/|동 복원하다, 회복시키다|They *restored* the old temple.|그들은 오래된 절을 복원했다.|Rest will *restore* your energy.|휴식은 에너지를 회복시켜 줄 것이다.
+2|restrict|/rɪˈstrɪkt/|동 제한하다|The law *restricts* the use of phones.|그 법은 휴대폰 사용을 제한한다.|Parking is *restricted* to residents.|주차는 주민에게만 제한된다.
+2|result|/rɪˈzʌlt/|명 결과;동 결과로 생기다|The test *result* was good.|시험 결과가 좋았다.|The accident *resulted* from carelessness.|그 사고는 부주의에서 비롯되었다.
+2|retain|/rɪˈteɪn/|동 유지하다, 간직하다|Plastic *retains* heat well.|플라스틱은 열을 잘 보존한다.|She *retained* her title as champion.|그녀는 챔피언 타이틀을 지켰다.
+2|retire|/rɪˈtaɪər/|동 은퇴하다|My grandfather *retired* at sixty.|할아버지는 예순에 은퇴하셨다.|The star player will *retire* next year.|그 스타 선수는 내년에 은퇴할 것이다.
+2|reveal|/rɪˈviːl/|동 드러내다|The magician *revealed* his secret.|마술사는 자신의 비밀을 드러냈다.|The test *revealed* a problem.|검사에서 문제가 드러났다.
+2|revenue|/ˈrevənuː/|명 수익, 세입|The shop's *revenue* grew this year.|그 가게의 수익이 올해 늘었다.|Tourism brings *revenue* to the city.|관광은 도시에 수입을 가져온다.
+2|reverse|/rɪˈvɜːrs/|형 반대의;동 뒤집다|Read the list in *reverse* order.|목록을 거꾸로 읽어라.|The driver *reversed* the car.|운전자는 차를 후진시켰다.
+2|review|/rɪˈvjuː/|동 복습하다;명 평론|*Review* your notes before the test.|시험 전에 노트를 복습해라.|The film got a good *review*.|그 영화는 좋은 평을 받았다.
+2|revise|/rɪˈvaɪz/|동 수정하다|I *revised* my essay twice.|나는 에세이를 두 번 수정했다.|The company *revised* its plan.|회사는 계획을 수정했다.
+2|revolution|/ˌrevəˈluːʃn/|명 혁명|The French *Revolution* changed Europe.|프랑스 혁명은 유럽을 바꿔 놓았다.|The Internet caused a *revolution* in communication.|인터넷은 소통에 혁명을 일으켰다.
+2|reward|/rɪˈwɔːrd/|명 보상;동 보상하다|He got a *reward* for finding the dog.|그는 개를 찾아 준 대가로 사례를 받았다.|Hard work is *rewarded*.|노력은 보상받는다.
+2|rhythm|/ˈrɪðəm/|명 리듬|The drummer kept a steady *rhythm*.|드러머는 일정한 리듬을 유지했다.|She moves to the *rhythm* of the music.|그녀는 음악의 리듬에 맞춰 움직인다.

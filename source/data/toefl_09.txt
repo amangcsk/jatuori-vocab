@@ -1,0 +1,89 @@
+2|aggression|/əˈɡreʃn/|명 공격성|Hunger can increase *aggression* in animals.|굶주림은 동물의 공격성을 높일 수 있다.|The study looked at *aggression* in children.|그 연구는 아동의 공격성을 살폈다.
+2|amnesia|/æmˈniːʒə/|명 기억 상실|The blow to his head caused *amnesia*.|머리를 맞아 그는 기억 상실이 생겼다.|She suffered from temporary *amnesia*.|그녀는 일시적 기억 상실을 겪었다.
+2|aptitude|/ˈæptɪtuːd/|명 적성|The test measures a student's *aptitude* for math.|그 시험은 학생의 수학 적성을 측정한다.|He has a natural *aptitude* for languages.|그는 언어에 타고난 소질이 있다.
+2|attachment|/əˈtætʃmənt/|명 애착, 첨부 파일|Infants form an *attachment* to their parents.|영아는 부모에게 애착을 형성한다.|Open the *attachment* to see the photo.|첨부 파일을 열어 사진을 보세요.
+3|catharsis|/kəˈθɑːrsɪs/|명 카타르시스|The tragedy gave the audience a sense of *catharsis*.|그 비극은 관객에게 카타르시스를 주었다.|Writing in a diary can be a *catharsis*.|일기를 쓰는 것은 마음을 정화하는 일이 될 수 있다.
+2|compulsion|/kəmˈpʌlʃn/|명 강박, 충동|He felt a *compulsion* to check the door again.|그는 문을 다시 확인해야 한다는 강박을 느꼈다.|Shopping became a *compulsion* for her.|쇼핑은 그녀에게 충동이 되었다.
+2|conditioning|/kənˈdɪʃnɪŋ/|명 조건 형성|Pavlov studied classical *conditioning* in dogs.|파블로프는 개의 고전적 조건 형성을 연구했다.|Athletes work on physical *conditioning*.|운동선수들은 체력 단련에 힘쓴다.
+2|consciousness|/ˈkɑːnʃəsnəs/|명 의식|The patient lost *consciousness* for a minute.|환자는 1분간 의식을 잃었다.|Scientists study the nature of *consciousness*.|과학자들은 의식의 본질을 연구한다.
+2|delusion|/dɪˈluːʒn/|명 망상|He lives under the *delusion* that he is famous.|그는 자신이 유명하다는 망상 속에 산다.|The patient suffered *delusions*.|환자는 망상에 시달렸다.
+2|denial|/dɪˈnaɪəl/|명 부인, 거부|She is in *denial* about the problem.|그녀는 그 문제를 인정하지 않고 있다.|The company issued a *denial*.|회사는 부인 성명을 냈다.
+2|dissonance|/ˈdɪsənəns/|명 부조화|Cognitive *dissonance* occurs when beliefs conflict.|인지 부조화는 신념이 충돌할 때 생긴다.|The music was full of *dissonance*.|그 음악은 불협화음으로 가득했다.
+2|ego|/ˈiːɡoʊ/|명 자아, 자존심|His *ego* was hurt by the criticism.|그의 자존심은 비판에 상처받았다.|Freud described the id, *ego*, and superego.|프로이트는 이드, 자아, 초자아를 설명했다.
+2|empathy|/ˈempəθi/|명 공감|A good nurse shows *empathy* for patients.|좋은 간호사는 환자에게 공감을 보인다.|Reading novels can build *empathy*.|소설을 읽으면 공감 능력을 키울 수 있다.
+2|euphoria|/juːˈfɔːriə/|명 도취감|The team felt *euphoria* after winning.|팀은 우승 후 도취감을 느꼈다.|A runner may feel *euphoria* after a long race.|주자는 긴 경주 후 쾌감을 느낄 수 있다.
+2|hallucination|/həˌluːsɪˈneɪʃn/|명 환각|The drug caused *hallucinations*.|그 약은 환각을 일으켰다.|He thought it was a *hallucination*.|그는 그것이 환각이라고 생각했다.
+2|hypnosis|/hɪpˈnoʊsɪs/|명 최면|She quit smoking with *hypnosis*.|그녀는 최면으로 담배를 끊었다.|The patient was put under *hypnosis*.|환자는 최면 상태에 들어갔다.
+2|inhibition|/ˌɪnhɪˈbɪʃn/|명 억제|Alcohol lowers *inhibition*.|술은 억제력을 낮춘다.|She lost her *inhibitions* on stage.|그녀는 무대에서 거리낌이 없어졌다.
+2|intuition|/ˌɪntuˈɪʃn/|명 직관|Trust your *intuition* when choosing.|고를 때는 직관을 믿어라.|Her *intuition* told her something was wrong.|그녀의 직감은 무언가 잘못되었다고 말했다.
+2|introspection|/ˌɪntrəˈspekʃn/|명 내성, 자기 성찰|Quiet time encourages *introspection*.|조용한 시간은 자기 성찰을 북돋는다.|The diary shows his deep *introspection*.|그 일기는 그의 깊은 자기 성찰을 보여 준다.
+2|neurosis|/nʊˈroʊsɪs/|명 신경증|Freud studied *neurosis* in patients.|프로이트는 환자들의 신경증을 연구했다.|Anxiety is common in *neurosis*.|불안은 신경증에서 흔하다.
+2|obsession|/əbˈseʃn/|명 집착|Her *obsession* with cleanliness worried her family.|청결에 대한 그녀의 집착은 가족을 걱정시켰다.|He has an *obsession* with old maps.|그는 옛 지도에 집착한다.
+2|phobia|/ˈfoʊbiə/|명 공포증|He has a *phobia* of heights.|그는 고소공포증이 있다.|A *phobia* is an extreme, unreasonable fear.|공포증은 극심하고 비합리적인 두려움이다.
+2|psychosis|/saɪˈkoʊsɪs/|명 정신병|Doctors treat *psychosis* with medicine and therapy.|의사들은 약물과 치료로 정신병을 다룬다.|*Psychosis* can distort a person's sense of reality.|정신병은 현실감을 왜곡할 수 있다.
+2|reflex|/ˈriːfleks/|명 반사 작용|The knee jerk is a natural *reflex*.|무릎 반사는 자연스러운 반사 작용이다.|She has quick *reflexes*.|그녀는 반사 신경이 빠르다.
+2|repression|/rɪˈpreʃn/|명 억압|Freud wrote about the *repression* of memories.|프로이트는 기억의 억압에 대해 썼다.|The people suffered political *repression*.|사람들은 정치적 억압을 겪었다.
+2|schizophrenia|/ˌskɪtsoʊˈfriːniə/|명 조현병|*Schizophrenia* is a serious mental illness.|조현병은 심각한 정신 질환이다.|The study looked at treatments for *schizophrenia*.|그 연구는 조현병 치료법을 살폈다.
+2|self-esteem|/ˌself ɪˈstiːm/|명 자존감|Praise can build a child's *self-esteem*.|칭찬은 아이의 자존감을 키울 수 있다.|Bullying damaged her *self-esteem*.|괴롭힘은 그녀의 자존감을 상하게 했다.
+2|subconscious|/ˌsʌbˈkɑːnʃəs/|형 잠재의식의|Fears can hide in the *subconscious* mind.|두려움은 잠재의식 속에 숨어 있을 수 있다.|He acted from a *subconscious* desire.|그는 잠재의식적 욕구에서 행동했다.
+2|pedagogy|/ˈpedəɡɑːdʒi/|명 교육학|She studied *pedagogy* to become a teacher.|그녀는 교사가 되려고 교육학을 공부했다.|Modern *pedagogy* encourages active learning.|현대 교육학은 능동적 학습을 장려한다.
+2|numeracy|/ˈnuːmərəsi/|명 수리 능력|The school stresses literacy and *numeracy*.|학교는 읽기 쓰기와 수리 능력을 강조한다.|*Numeracy* is needed in everyday life.|수리 능력은 일상생활에 필요하다.
+2|tuition|/tuˈɪʃn/|명 수업료|University *tuition* costs a lot.|대학 수업료는 많이 든다.|She gets private *tuition* in math.|그녀는 수학 개인 교습을 받는다.
+2|seminar|/ˈsemɪnɑːr/|명 세미나|He attended a *seminar* on climate change.|그는 기후 변화에 관한 세미나에 참석했다.|The class is run as a small *seminar*.|그 수업은 소규모 세미나로 진행된다.
+2|syllabus|/ˈsɪləbəs/|명 강의 계획서|Check the *syllabus* for the reading list.|읽기 목록은 강의 계획서에서 확인하세요.|The professor handed out the *syllabus*.|교수는 강의 계획서를 나눠 주었다.
+2|tutorial|/tuːˈtɔːriəl/|명 개별 지도, 설명서|The students attended a weekly *tutorial*.|학생들은 주간 개별 지도에 참석했다.|He followed an online *tutorial*.|그는 온라인 설명 영상을 따라 했다.
+2|vocational|/voʊˈkeɪʃənl/|형 직업의|She took a *vocational* course in nursing.|그녀는 간호 직업 과정을 들었다.|*Vocational* schools train students for jobs.|직업 학교는 학생들에게 직무 교육을 한다.
+2|alphabet|/ˈælfəbet/|명 알파벳, 문자 체계|Children learn the *alphabet* first.|아이들은 먼저 알파벳을 배운다.|The Korean *alphabet* was created in 1443.|한글은 1443년에 창제되었다.
+2|colloquial|/kəˈloʊkwiəl/|형 구어체의|The word is *colloquial* and informal.|그 단어는 구어체이며 격식 없는 말이다.|He writes in a *colloquial* style.|그는 구어체 문체로 쓴다.
+2|consonant|/ˈkɑːnsənənt/|명 자음|"B" is a *consonant*, and "A" is a vowel.|"B"는 자음이고 "A"는 모음이다.|The word begins with a *consonant* sound.|그 단어는 자음 소리로 시작한다.
+2|etymology|/ˌetɪˈmɑːlədʒi/|명 어원|The *etymology* of the word is Latin.|그 단어의 어원은 라틴어다.|She is interested in word *etymology*.|그녀는 단어의 어원에 관심이 있다.
+2|grammar|/ˈɡræmər/|명 문법|English *grammar* can be tricky.|영어 문법은 까다로울 수 있다.|She corrects the *grammar* in my essays.|그녀는 내 에세이의 문법을 고쳐 준다.
+2|idiom|/ˈɪdiəm/|명 관용구|"Break a leg" is an English *idiom*.|"Break a leg"는 영어 관용구다.|Learning *idioms* makes speech natural.|관용구를 익히면 말이 자연스러워진다.
+2|inflection|/ɪnˈflekʃn/|명 어미 변화, 억양|The *inflection* of the verb shows tense.|동사의 어형 변화는 시제를 보여 준다.|His voice rose in *inflection* at the end.|그의 목소리는 끝에서 억양이 올라갔다.
+2|lexicon|/ˈleksɪkɑːn/|명 어휘 목록|Medicine has its own *lexicon*.|의학에는 고유의 어휘가 있다.|The word entered the common *lexicon*.|그 단어는 일상 어휘에 들어갔다.
+2|linguistic|/lɪŋˈɡwɪstɪk/|형 언어의|Children show amazing *linguistic* ability.|아이들은 놀라운 언어 능력을 보인다.|The country has great *linguistic* diversity.|그 나라는 언어가 매우 다양하다.
+2|morpheme|/ˈmɔːrfiːm/|명 형태소|"Unhappy" has two *morphemes*.|"unhappy"에는 형태소가 두 개 있다.|A *morpheme* is the smallest unit of meaning.|형태소는 의미의 가장 작은 단위다.
+2|orthography|/ɔːrˈθɑːɡrəfi/|명 철자법|English *orthography* is full of exceptions.|영어 철자법은 예외로 가득하다.|The reform changed the *orthography*.|그 개혁은 철자법을 바꿨다.
+2|phonetic|/fəˈnetɪk/|형 음성의|The dictionary uses *phonetic* symbols.|사전은 음성 기호를 쓴다.|She studied *phonetic* patterns in speech.|그녀는 발화의 음성 패턴을 연구했다.
+2|pronunciation|/prəˌnʌnsiˈeɪʃn/|명 발음|His English *pronunciation* is excellent.|그의 영어 발음은 훌륭하다.|Check the *pronunciation* of the word.|그 단어의 발음을 확인해라.
+2|semantic|/sɪˈmæntɪk/|형 의미의|*Semantic* differences can cause misunderstanding.|의미상의 차이는 오해를 일으킬 수 있다.|She studies *semantic* change in words.|그녀는 단어의 의미 변화를 연구한다.
+2|slang|/slæŋ/|명 속어|Teenagers use a lot of *slang*.|십 대들은 속어를 많이 쓴다.|The word is *slang* for money.|그 단어는 돈을 뜻하는 속어다.
+2|syntax|/ˈsɪntæks/|명 구문론|*Syntax* studies how words form sentences.|구문론은 단어가 문장을 이루는 방식을 연구한다.|The program has a *syntax* error.|그 프로그램에는 구문 오류가 있다.
+2|syllable|/ˈsɪləbl/|명 음절|"Banana" has three *syllables*.|"banana"는 음절이 세 개다.|The stress falls on the first *syllable*.|강세는 첫 음절에 있다.
+2|vernacular|/vərˈnækjələr/|명 일상어, 토착어|The book is written in the *vernacular*.|그 책은 일상어로 쓰였다.|Latin gave way to the *vernacular*.|라틴어는 토착어에 자리를 내주었다.
+2|vowel|/ˈvaʊəl/|명 모음|"A", "E", and "I" are *vowels*.|"A", "E", "I"는 모음이다.|The *vowel* sound is long.|그 모음 소리는 길다.
+2|axiom|/ˈæksiəm/|명 공리|It is an *axiom* that all humans seek happiness.|모든 인간이 행복을 추구한다는 것은 공리다.|Geometry is built on a few *axioms*.|기하학은 몇 개의 공리 위에 세워져 있다.
+2|dogma|/ˈdɔːɡmə/|명 교리, 독단|Scientists should not accept *dogma* blindly.|과학자는 독단을 맹목적으로 받아들여서는 안 된다.|The church held to strict *dogma*.|교회는 엄격한 교리를 고수했다.
+2|empiricism|/ɪmˈpɪrɪsɪzəm/|명 경험주의|*Empiricism* says knowledge comes from experience.|경험주의는 지식이 경험에서 온다고 말한다.|Locke was a leader of *empiricism*.|로크는 경험주의의 선구자였다.
+2|epistemology|/ɪˌpɪstəˈmɑːlədʒi/|명 인식론|*Epistemology* asks how we know things.|인식론은 우리가 어떻게 아는지를 묻는다.|The course covers ethics and *epistemology*.|그 과정은 윤리학과 인식론을 다룬다.
+2|existentialism|/ˌeɡzɪˈstenʃəlɪzəm/|명 실존주의|*Existentialism* stresses individual freedom.|실존주의는 개인의 자유를 강조한다.|Sartre was a leader of *existentialism*.|사르트르는 실존주의의 대표자였다.
+2|fatalism|/ˈfeɪtəlɪzəm/|명 운명론|*Fatalism* holds that events are fixed in advance.|운명론은 사건이 미리 정해져 있다고 본다.|His *fatalism* made him accept defeat.|그의 운명론은 그가 패배를 받아들이게 했다.
+2|hedonism|/ˈhiːdənɪzəm/|명 쾌락주의|*Hedonism* treats pleasure as the highest good.|쾌락주의는 쾌락을 최고의 선으로 본다.|The film criticizes modern *hedonism*.|그 영화는 현대의 쾌락주의를 비판한다.
+2|idealism|/aɪˈdiːəlɪzəm/|명 이상주의|Youthful *idealism* inspired the movement.|젊은 이상주의가 그 운동에 영감을 주었다.|Philosophical *idealism* stresses the mind.|철학적 관념론은 정신을 강조한다.
+2|metaphysics|/ˌmetəˈfɪzɪks/|명 형이상학|*Metaphysics* deals with the nature of reality.|형이상학은 실재의 본질을 다룬다.|Aristotle wrote a book on *metaphysics*.|아리스토텔레스는 형이상학에 관한 책을 썼다.
+2|nihilism|/ˈnaɪəlɪzəm/|명 허무주의|*Nihilism* rejects all meaning and value.|허무주의는 모든 의미와 가치를 부정한다.|The novel explores *nihilism* in modern life.|그 소설은 현대 삶의 허무주의를 탐구한다.
+2|pragmatism|/ˈpræɡmətɪzəm/|명 실용주의|American *pragmatism* values practical results.|미국 실용주의는 실질적 결과를 중시한다.|Her *pragmatism* helped her solve problems.|그녀의 실용적 태도는 문제 해결에 도움이 되었다.
+2|rationalism|/ˈræʃnəlɪzəm/|명 합리주의|*Rationalism* trusts reason over feeling.|합리주의는 감정보다 이성을 신뢰한다.|Descartes is linked to *rationalism*.|데카르트는 합리주의와 연결된다.
+2|skepticism|/ˈskeptɪsɪzəm/|명 회의주의|The claim was met with *skepticism*.|그 주장은 회의적인 반응을 얻었다.|Healthy *skepticism* drives scientific progress.|건전한 회의는 과학의 진보를 이끈다.
+2|stoicism|/ˈstoʊɪsɪzəm/|명 금욕주의|The soldier faced pain with *stoicism*.|병사는 금욕적으로 고통을 견뎠다.|*Stoicism* teaches calm in hardship.|스토아 철학은 역경 속에서의 평정을 가르친다.
+2|utilitarianism|/juːˌtɪlɪˈteriənɪzəm/|명 공리주의|*Utilitarianism* seeks the greatest good for the most people.|공리주의는 최대 다수의 최대 행복을 추구한다.|Mill defended *utilitarianism*.|밀은 공리주의를 옹호했다.
+2|affinity|/əˈfɪnəti/|명 친밀감, 유사성|She has an *affinity* for animals.|그녀는 동물에 대한 친밀감이 있다.|There is an *affinity* between the two languages.|두 언어 사이에는 유사성이 있다.
+2|anomaly|/əˈnɑːməli/|명 이상 현상|The result was an *anomaly* in the data.|그 결과는 자료 속의 이상치였다.|Snow in the desert is a rare *anomaly*.|사막의 눈은 드문 이상 현상이다.
+2|archetype|/ˈɑːrkitaɪp/|명 원형|The hero is an *archetype* in many stories.|영웅은 많은 이야기의 원형이다.|Jung studied the *archetypes* of the mind.|융은 마음의 원형을 연구했다.
+2|bipolar|/baɪˈpoʊlər/|형 양극성의|He was diagnosed with *bipolar* disorder.|그는 양극성 장애 진단을 받았다.|The world became *bipolar* during the Cold War.|냉전 시기에 세계는 양극 체제가 되었다.
+2|chromatic|/kroʊˈmætɪk/|형 색채의, 반음계의|The *chromatic* scale uses all twelve notes.|반음계는 열두 음을 모두 쓴다.|The artist used rich *chromatic* tones.|그 화가는 풍부한 색조를 썼다.
+2|cognate|/ˈkɑːɡneɪt/|명 동계어|"Night" and "Nacht" are *cognates*.|"night"와 "Nacht"는 동계어다.|*Cognates* make learning a related language easier.|동계어는 관련된 언어를 배우기 쉽게 해 준다.
+2|corollary|/ˈkɔːrəleri/|명 필연적 결과|Higher prices are a *corollary* of shortages.|가격 상승은 부족의 필연적 결과다.|The proof has an important *corollary*.|그 증명에는 중요한 따름 정리가 있다.
+2|dichotomy|/daɪˈkɑːtəmi/|명 이분법|There is a *dichotomy* between theory and practice.|이론과 실천 사이에는 이분법적 간극이 있다.|The essay rejects the simple *dichotomy*.|그 에세이는 단순한 이분법을 거부한다.
+2|dogmatic|/dɔːɡˈmætɪk/|형 독단적인|He is *dogmatic* about his opinions.|그는 자기 의견에 독단적이다.|A *dogmatic* teacher rejects new ideas.|독단적인 교사는 새로운 생각을 거부한다.
+2|empathize|/ˈempəθaɪz/|동 공감하다|I can *empathize* with his situation.|나는 그의 처지에 공감할 수 있다.|Good listeners *empathize* with others.|잘 듣는 사람은 남에게 공감한다.
+2|heuristic|/hjʊˈrɪstɪk/|형 발견적인|Children use *heuristic* methods to solve puzzles.|아이들은 발견적 방법으로 퍼즐을 푼다.|The software uses a *heuristic* approach.|그 소프트웨어는 휴리스틱 접근법을 쓴다.
+2|hierarchical|/ˌhaɪəˈrɑːrkɪkl/|형 계층적인|The company has a *hierarchical* structure.|그 회사는 계층적 구조를 가졌다.|Ants live in a *hierarchical* society.|개미는 계층 사회에서 산다.
+2|inference|/ˈɪnfərəns/|명 추론|From the clues, we can draw an *inference*.|단서에서 우리는 추론을 끌어낼 수 있다.|The *inference* was based on weak evidence.|그 추론은 약한 증거에 기초했다.
+2|introspective|/ˌɪntrəˈspektɪv/|형 내성적인|She is a quiet, *introspective* girl.|그녀는 조용하고 생각이 깊은 소녀다.|The book is an *introspective* look at childhood.|그 책은 어린 시절을 성찰하는 시선을 담고 있다.
+2|metacognition|/ˌmetəkɑːɡˈnɪʃn/|명 메타인지|*Metacognition* means thinking about your own thinking.|메타인지는 자신의 생각에 대해 생각하는 것이다.|Good learners use *metacognition*.|좋은 학습자는 메타인지를 활용한다.
+2|mnemonic|/nɪˈmɑːnɪk/|명 기억법|A *mnemonic* helped him remember the planets.|기억법이 그가 행성 이름을 외우는 데 도움을 주었다.|She used a *mnemonic* device for the list.|그녀는 목록을 외우려고 암기 장치를 썼다.
+2|oxymoron|/ˌɑːksiˈmɔːrɑːn/|명 모순어법|"Deafening silence" is an *oxymoron*.|"귀가 먹먹한 침묵"은 모순어법이다.|The phrase "jumbo shrimp" is an *oxymoron*.|"jumbo shrimp"라는 표현은 모순어법이다.
+2|rudimentary|/ˌruːdɪˈmentri/|형 기초적인|He has only a *rudimentary* knowledge of French.|그는 프랑스어를 기초적으로만 안다.|The tools were *rudimentary* but effective.|그 도구들은 원시적이었지만 효과적이었다.
+2|taxonomy|/tækˈsɑːnəmi/|명 분류학|Biologists use *taxonomy* to classify species.|생물학자들은 분류학으로 종을 분류한다.|The *taxonomy* groups animals by features.|그 분류법은 동물을 특징에 따라 묶는다.
+2|theorem|/ˈθɪrəm/|명 정리|He proved a famous *theorem* in geometry.|그는 기하학의 유명한 정리를 증명했다.|The Pythagorean *theorem* involves right triangles.|피타고라스 정리는 직각삼각형에 관한 것이다.

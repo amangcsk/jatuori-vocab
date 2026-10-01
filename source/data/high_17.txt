@@ -1,0 +1,98 @@
+2|garment|/ˈɡɑːrmənt/|명 의복|She sewed a warm *garment* for winter.|그녀는 겨울용 따뜻한 옷을 지었다.|The factory makes cotton *garments*.|그 공장은 면 의류를 만든다.
+2|gear|/ɡɪr/|명 장비, 기어|He packed his camping *gear*.|그는 캠핑 장비를 챙겼다.|The bike has ten *gears*.|그 자전거는 기어가 열 단이다.
+2|generic|/dʒəˈnerɪk/|형 일반적인, 상표 없는|This is a *generic* medicine.|이것은 복제 의약품이다.|The email was a *generic* reply.|그 이메일은 판에 박힌 답장이었다.
+2|glimpse|/ɡlɪmps/|명 흘긋 봄;동 언뜻 보다|I caught a *glimpse* of the singer.|나는 그 가수를 흘긋 보았다.|She *glimpsed* a deer in the woods.|그녀는 숲에서 사슴을 언뜻 보았다.
+2|gorgeous|/ˈɡɔːrdʒəs/|형 아주 멋진|The view from the hotel was *gorgeous*.|호텔에서 본 경치는 아주 멋졌다.|She wore a *gorgeous* dress.|그녀는 화려한 드레스를 입었다.
+2|gossip|/ˈɡɑːsɪp/|명 소문, 험담|Don't spread *gossip* about others.|남에 대한 험담을 퍼뜨리지 마라.|They sat and *gossiped* all afternoon.|그들은 오후 내내 앉아 수다를 떨었다.
+2|graceful|/ˈɡreɪsfl/|형 우아한|The dancer was *graceful*.|그 무용수는 우아했다.|The swan made a *graceful* turn.|백조는 우아하게 방향을 틀었다.
+2|graph|/ɡræf/|명 그래프|The *graph* shows sales for each month.|그래프는 월별 판매량을 보여 준다.|Draw a *graph* of the results.|결과를 그래프로 그려라.
+2|gravity|/ˈɡrævəti/|명 중력|*Gravity* pulls objects toward the Earth.|중력은 물체를 지구 쪽으로 끌어당긴다.|There is less *gravity* on the moon.|달에는 중력이 더 약하다.
+2|greet|/ɡriːt/|동 인사하다|She *greeted* the guests at the door.|그녀는 문에서 손님들에게 인사했다.|They *greeted* each other with a smile.|그들은 미소로 서로에게 인사했다.
+2|grid|/ɡrɪd/|명 격자, 전력망|The city streets form a *grid*.|도시의 거리는 격자 모양을 이룬다.|The storm damaged the power *grid*.|폭풍이 전력망을 손상시켰다.
+2|grip|/ɡrɪp/|동 꽉 잡다;명 쥐는 힘|He *gripped* the rope tightly.|그는 밧줄을 꽉 잡았다.|The tires have a good *grip*.|그 타이어는 접지력이 좋다.
+2|groan|/ɡroʊn/|동 신음하다|He *groaned* with pain.|그는 아파서 신음했다.|The students *groaned* at the homework.|학생들은 숙제에 투덜거렸다.
+2|guardian|/ˈɡɑːrdiən/|명 보호자|A child needs a legal *guardian*.|아이에게는 법적 보호자가 필요하다.|The dog is the *guardian* of the house.|그 개는 집의 수호자다.
+2|guidance|/ˈɡaɪdns/|명 지도, 안내|The students need *guidance* from teachers.|학생들은 교사의 지도가 필요하다.|She gave *guidance* on choosing a career.|그녀는 진로 선택에 대해 조언해 주었다.
+2|gym|/dʒɪm/|명 체육관|He goes to the *gym* every morning.|그는 매일 아침 체육관에 간다.|The school *gym* was full of people.|학교 체육관은 사람들로 가득했다.
+2|hail|/heɪl/|명 우박;동 환호하다|*Hail* hit the roof loudly.|우박이 지붕을 시끄럽게 때렸다.|They *hailed* him as a hero.|그들은 그를 영웅으로 환호했다.
+2|hammer|/ˈhæmər/|명 망치|He drove the nail with a *hammer*.|그는 망치로 못을 박았다.|The judge hit the desk with a *hammer*.|판사는 망치로 책상을 쳤다.
+2|handicap|/ˈhændikæp/|명 장애, 불리한 조건|Poor eyesight is a *handicap* for a pilot.|나쁜 시력은 조종사에게 불리하다.|He overcame his physical *handicap*.|그는 신체적 장애를 극복했다.
+2|handy|/ˈhændi/|형 유용한, 손에 닿는|A small knife is *handy* on trips.|작은 칼은 여행 때 유용하다.|Keep a flashlight *handy*.|손전등을 가까이에 두세요.
+2|harmony|/ˈhɑːrməni/|명 조화|The singers sang in *harmony*.|가수들이 화음을 맞춰 노래했다.|People live in *harmony* with nature.|사람들은 자연과 조화롭게 산다.
+2|hasty|/ˈheɪsti/|형 성급한|Don't make a *hasty* decision.|성급한 결정을 하지 마라.|He made a *hasty* retreat.|그는 급히 물러났다.
+2|haunt|/hɔːnt/|동 출몰하다, 계속 떠오르다|People say a ghost *haunts* the house.|사람들은 그 집에 유령이 출몰한다고 말한다.|The memory *haunted* him for years.|그 기억은 수년간 그를 괴롭혔다.
+2|headquarters|/ˈhedkwɔːrtərz/|명 본부|The company's *headquarters* is in Seoul.|그 회사의 본사는 서울에 있다.|The army set up *headquarters* in the town.|군대는 마을에 본부를 설치했다.
+2|heap|/hiːp/|명 더미|A *heap* of leaves lay on the lawn.|잔디밭에 낙엽 더미가 있었다.|There was a *heap* of dirty dishes.|더러운 접시가 한 무더기 쌓여 있었다.
+2|hedge|/hedʒ/|명 산울타리|A tall *hedge* surrounds the garden.|높은 산울타리가 정원을 둘러싸고 있다.|He trimmed the *hedge* in spring.|그는 봄에 산울타리를 다듬었다.
+2|heir|/er/|명 상속인|The prince is the *heir* to the throne.|왕자는 왕위 계승자다.|She is the *heir* to a large fortune.|그녀는 큰 재산의 상속인이다.
+2|helmet|/ˈhelmɪt/|명 헬멧|Always wear a *helmet* when you ride.|탈 때는 항상 헬멧을 써라.|The soldier took off his *helmet*.|병사는 헬멧을 벗었다.
+2|hence|/hens/|부 그러므로|It rained, *hence* the delay.|비가 와서 지연되었다.|He is ill, and *hence* cannot come.|그는 아파서 올 수 없다.
+2|herb|/hɜːrb/|명 허브|She grows *herbs* in the kitchen.|그녀는 부엌에서 허브를 기른다.|Mint is a common *herb*.|민트는 흔한 허브다.
+2|herd|/hɜːrd/|명 떼|A *herd* of cows crossed the road.|소 떼가 길을 건넜다.|The shepherd led the *herd* home.|목동은 가축 떼를 집으로 몰았다.
+2|hint|/hɪnt/|명 암시, 힌트|Give me a *hint*.|힌트를 줘.|He dropped a *hint* about the surprise.|그는 깜짝 선물에 대해 넌지시 암시했다.
+2|hollow|/ˈhɑːloʊ/|형 속이 빈|The tree trunk was *hollow*.|그 나무 줄기는 속이 비어 있었다.|Her words sounded *hollow*.|그녀의 말은 공허하게 들렸다.
+2|homeland|/ˈhoʊmlænd/|명 고국|He longed to return to his *homeland*.|그는 고국으로 돌아가기를 그리워했다.|Many left their *homeland* to find work.|많은 사람이 일을 찾아 고국을 떠났다.
+2|honor|/ˈɑːnər/|명 명예;동 존경하다|It is an *honor* to meet you.|뵙게 되어 영광입니다.|They *honored* the soldiers with a ceremony.|그들은 의식으로 병사들을 기렸다.
+2|hook|/hʊk/|명 갈고리, 낚싯바늘|Hang your coat on the *hook*.|코트를 걸이에 걸어라.|The fish took the *hook*.|물고기가 낚싯바늘을 물었다.
+2|hospitality|/ˌhɑːspɪˈtæləti/|명 환대|We thanked them for their *hospitality*.|우리는 그들의 환대에 감사했다.|The village is known for its warm *hospitality*.|그 마을은 따뜻한 환대로 유명하다.
+2|hostage|/ˈhɑːstɪdʒ/|명 인질|The *hostages* were freed safely.|인질들은 안전하게 풀려났다.|They held him *hostage* for a week.|그들은 그를 일주일간 인질로 잡았다.
+2|hurdle|/ˈhɜːrdl/|명 장애물, 허들|The runner jumped over the *hurdle*.|주자는 허들을 뛰어넘었다.|Money was the biggest *hurdle*.|돈이 가장 큰 장애물이었다.
+2|hydrogen|/ˈhaɪdrədʒən/|명 수소|Water contains *hydrogen* and oxygen.|물에는 수소와 산소가 들어 있다.|*Hydrogen* is the lightest gas.|수소는 가장 가벼운 기체다.
+2|idle|/ˈaɪdl/|형 게으른, 한가한|He spent the day *idle* at home.|그는 집에서 빈둥거리며 하루를 보냈다.|The factory machines stood *idle*.|공장 기계들이 멈춰 있었다.
+2|idol|/ˈaɪdl/|명 우상|The singer is a teen *idol*.|그 가수는 십 대들의 우상이다.|She hung posters of her *idol*.|그녀는 우상의 포스터를 걸었다.
+2|ignorant|/ˈɪɡnərənt/|형 무지한|He is *ignorant* of the rules.|그는 규칙을 모른다.|It is *ignorant* to judge without knowing.|알지도 못하고 판단하는 것은 무지한 일이다.
+2|illusion|/ɪˈluːʒn/|명 환상, 착각|The magician created an *illusion*.|마술사는 착시를 만들어 냈다.|He has no *illusions* about the job.|그는 그 일에 대해 환상이 없다.
+2|imaginary|/ɪˈmædʒɪneri/|형 상상의|The child has an *imaginary* friend.|그 아이에게는 상상 속 친구가 있다.|Dragons are *imaginary* creatures.|용은 상상의 생물이다.
+2|imitate|/ˈɪmɪteɪt/|동 모방하다|Parrots can *imitate* human speech.|앵무새는 사람 말을 흉내 낼 수 있다.|She *imitated* her teacher's voice.|그녀는 선생님의 목소리를 흉내 냈다.
+2|immense|/ɪˈmens/|형 막대한|The ship is of *immense* size.|그 배는 엄청난 크기다.|He felt *immense* pride.|그는 엄청난 자부심을 느꼈다.
+2|immortal|/ɪˈmɔːrtl/|형 불멸의|The gods were *immortal*.|신들은 불멸이었다.|The poet's words are *immortal*.|그 시인의 말은 불멸이다.
+2|impatient|/ɪmˈpeɪʃnt/|형 참을성 없는|The *impatient* customer left the line.|참을성 없는 손님은 줄을 떠났다.|Don't be *impatient* with the child.|아이에게 조급해하지 마라.
+2|impulse|/ˈɪmpʌls/|명 충동|He bought it on *impulse*.|그는 충동적으로 그것을 샀다.|She resisted the *impulse* to laugh.|그녀는 웃고 싶은 충동을 참았다.
+2|inch|/ɪntʃ/|명 인치|The snow was six *inches* deep.|눈이 6인치 깊이로 쌓였다.|He moved an *inch* closer.|그는 1인치 더 가까이 다가갔다.
+2|inclusive|/ɪnˈkluːsɪv/|형 포함하는|The price is *inclusive* of tax.|가격은 세금을 포함한다.|The school aims to be *inclusive*.|그 학교는 모두를 포용하는 것을 목표로 한다.
+2|indifferent|/ɪnˈdɪfrənt/|형 무관심한|He seemed *indifferent* to the news.|그는 그 소식에 무관심해 보였다.|Don't be *indifferent* to others' pain.|남의 고통에 무관심하지 마라.
+2|indignant|/ɪnˈdɪɡnənt/|형 분개한|She was *indignant* at the rude comment.|그녀는 무례한 말에 분개했다.|The crowd grew *indignant*.|군중은 분개하기 시작했다.
+2|induce|/ɪnˈduːs/|동 유발하다, 설득하다|The drug can *induce* sleep.|그 약은 졸음을 유발할 수 있다.|Nothing could *induce* him to leave.|무엇도 그가 떠나도록 설득하지 못했다.
+2|indulge|/ɪnˈdʌldʒ/|동 마음껏 즐기다|She *indulged* in a bar of chocolate.|그녀는 초콜릿 한 판을 마음껏 즐겼다.|Don't *indulge* the child too much.|아이를 너무 오냐오냐하지 마라.
+2|inferior|/ɪnˈfɪriər/|형 열등한|The cheap shoes were of *inferior* quality.|그 싼 신발은 품질이 떨어졌다.|Don't feel *inferior* to others.|남에게 열등감을 느끼지 마라.
+2|infinite|/ˈɪnfɪnət/|형 무한한|The universe seems *infinite*.|우주는 무한해 보인다.|She has *infinite* patience.|그녀는 한없는 인내심을 갖고 있다.
+2|ingredient|/ɪnˈɡriːdiənt/|명 재료|Mix all the *ingredients* together.|모든 재료를 함께 섞으세요.|Sugar is the main *ingredient*.|설탕이 주재료다.
+2|inhabitant|/ɪnˈhæbɪtənt/|명 주민|The town has ten thousand *inhabitants*.|그 마을에는 주민이 1만 명 있다.|The *inhabitants* welcomed us.|주민들이 우리를 환영했다.
+2|injection|/ɪnˈdʒekʃn/|명 주사|The nurse gave him an *injection*.|간호사가 그에게 주사를 놓았다.|I am afraid of *injections*.|나는 주사가 무섭다.
+2|injustice|/ɪnˈdʒʌstɪs/|명 불의|They fought against *injustice*.|그들은 불의에 맞서 싸웠다.|It was an *injustice* to blame him.|그를 탓하는 것은 부당한 일이었다.
+2|inn|/ɪn/|명 여관|They stayed at a small *inn*.|그들은 작은 여관에 묵었다.|The old *inn* serves hot meals.|그 오래된 여관은 따뜻한 식사를 낸다.
+2|insane|/ɪnˈseɪn/|형 제정신이 아닌|You must be *insane* to go out in this storm.|이 폭풍에 나가다니 제정신이 아니구나.|The noise was driving him *insane*.|소음이 그를 미치게 만들었다.
+2|inspection|/ɪnˈspekʃn/|명 점검, 검사|The *inspection* found no problems.|점검에서 문제가 발견되지 않았다.|The cars go through an annual *inspection*.|자동차는 해마다 검사를 받는다.
+2|integrate|/ˈɪntɪɡreɪt/|동 통합하다|The school *integrates* art and science.|그 학교는 미술과 과학을 통합한다.|She *integrated* quickly into the team.|그녀는 팀에 빠르게 녹아들었다.
+2|integrity|/ɪnˈteɡrəti/|명 진실성, 청렴|He is a man of *integrity*.|그는 청렴한 사람이다.|The judge's *integrity* was never questioned.|판사의 청렴성은 의심받은 적이 없다.
+2|intellect|/ˈɪntəlekt/|명 지성|She has a sharp *intellect*.|그녀는 날카로운 지성을 갖고 있다.|Reading develops the *intellect*.|독서는 지성을 키운다.
+2|intersection|/ˌɪntərˈsekʃn/|명 교차로|Turn left at the next *intersection*.|다음 교차로에서 좌회전하세요.|There was an accident at the *intersection*.|교차로에서 사고가 났다.
+2|intimidate|/ɪnˈtɪmɪdeɪt/|동 위협하다|Don't let the big dog *intimidate* you.|큰 개가 너를 겁주게 두지 마라.|He felt *intimidated* by the crowd.|그는 군중에게 위축되었다.
+2|invaluable|/ɪnˈvæljuəbl/|형 매우 귀중한|Her advice was *invaluable*.|그녀의 조언은 매우 귀중했다.|This experience is *invaluable* to me.|이 경험은 내게 아주 값지다.
+2|jargon|/ˈdʒɑːrɡən/|명 전문 용어|The report is full of technical *jargon*.|그 보고서는 전문 용어로 가득하다.|Avoid *jargon* when you explain.|설명할 때는 전문 용어를 피해라.
+2|jewel|/ˈdʒuːəl/|명 보석|The crown was covered with *jewels*.|왕관은 보석으로 덮여 있었다.|She kept the *jewel* in a box.|그녀는 보석을 상자에 보관했다.
+2|jog|/dʒɑːɡ/|동 조깅하다|He *jogs* around the park every morning.|그는 매일 아침 공원을 조깅한다.|She went for a *jog* after dinner.|그녀는 저녁 식사 후 조깅을 했다.
+2|jungle|/ˈdʒʌŋɡl/|명 정글|Tigers live in the *jungle*.|호랑이는 정글에 산다.|They hacked a path through the *jungle*.|그들은 정글을 헤치며 길을 냈다.
+2|junior|/ˈdʒuːniər/|형 손아래의;명 후배|He is a *junior* member of the team.|그는 팀의 신입 구성원이다.|She is two years my *junior*.|그녀는 나보다 두 살 어리다.
+2|kidney|/ˈkɪdni/|명 신장|The *kidney* cleans the blood.|신장은 혈액을 깨끗이 한다.|He needs a *kidney* transplant.|그는 신장 이식이 필요하다.
+2|kindergarten|/ˈkɪndərɡɑːrtn/|명 유치원|My little sister goes to *kindergarten*.|내 여동생은 유치원에 다닌다.|The *kindergarten* has a small playground.|그 유치원에는 작은 놀이터가 있다.
+2|knot|/nɑːt/|명 매듭|He tied a *knot* in the rope.|그는 밧줄에 매듭을 지었다.|I can't untie this *knot*.|이 매듭을 풀 수 없다.
+2|ladder|/ˈlædər/|명 사다리|He climbed the *ladder* to the roof.|그는 사다리를 타고 지붕에 올랐다.|She moved up the career *ladder*.|그녀는 직장 내 사다리를 올랐다.
+2|lamb|/læm/|명 어린 양|A *lamb* followed its mother.|새끼 양이 어미를 따라갔다.|We had roast *lamb* for dinner.|우리는 저녁으로 구운 양고기를 먹었다.
+2|lane|/leɪn/|명 좁은 길, 차선|The car moved into the left *lane*.|차는 왼쪽 차선으로 들어갔다.|A quiet *lane* led to the farm.|조용한 오솔길이 농장으로 이어졌다.
+2|laser|/ˈleɪzər/|명 레이저|The doctor used a *laser* for the surgery.|의사는 수술에 레이저를 썼다.|A *laser* pointer is useful in class.|레이저 포인터는 수업에 유용하다.
+2|lasting|/ˈlæstɪŋ/|형 지속되는|They built a *lasting* friendship.|그들은 오래가는 우정을 쌓았다.|The war had a *lasting* effect.|그 전쟁은 오래가는 영향을 미쳤다.
+2|lavish|/ˈlævɪʃ/|형 호화로운|They held a *lavish* party.|그들은 호화로운 파티를 열었다.|The hotel has a *lavish* lobby.|그 호텔에는 호화로운 로비가 있다.
+2|lawn|/lɔːn/|명 잔디밭|He mows the *lawn* every Saturday.|그는 토요일마다 잔디를 깎는다.|Children played on the *lawn*.|아이들이 잔디밭에서 놀았다.
+2|leak|/liːk/|동 새다;명 누출|The roof *leaks* when it rains.|지붕은 비가 오면 샌다.|There is a gas *leak* in the kitchen.|부엌에 가스 누출이 있다.
+2|lenient|/ˈliːniənt/|형 관대한|The teacher was *lenient* with the late students.|선생님은 지각한 학생들에게 관대했다.|The judge gave a *lenient* sentence.|판사는 관대한 판결을 내렸다.
+2|liable|/ˈlaɪəbl/|형 ~할 책임이 있는|The owner is *liable* for the damage.|주인은 피해에 책임이 있다.|Glass is *liable* to break.|유리는 깨지기 쉽다.
+2|lighthouse|/ˈlaɪthaʊs/|명 등대|The *lighthouse* guides ships at night.|등대는 밤에 배를 안내한다.|We climbed to the top of the *lighthouse*.|우리는 등대 꼭대기에 올랐다.
+2|limb|/lɪm/|명 팔다리, 큰 가지|He broke a *limb* in the fall.|그는 넘어져서 팔다리가 부러졌다.|A large *limb* fell from the tree.|큰 나뭇가지가 나무에서 떨어졌다.
+2|linger|/ˈlɪŋɡər/|동 오래 머물다|The smell of bread *lingered* in the kitchen.|빵 냄새가 부엌에 오래 남았다.|We *lingered* over coffee.|우리는 커피를 마시며 오래 앉아 있었다.
+2|lumber|/ˈlʌmbər/|명 목재|They bought *lumber* to build a fence.|그들은 울타리를 만들려고 목재를 샀다.|The truck carried *lumber* to the mill.|트럭이 목재를 제재소로 날랐다.
+2|lump|/lʌmp/|명 덩어리|There was a *lump* of sugar in the cup.|컵에 각설탕 한 덩어리가 있었다.|He felt a *lump* in his throat.|그는 목이 메는 것을 느꼈다.
+2|lyrics|/ˈlɪrɪks/|명 가사|I know all the *lyrics* of this song.|나는 이 노래의 가사를 모두 안다.|The *lyrics* are about friendship.|가사는 우정에 관한 것이다.
+2|magnet|/ˈmæɡnɪt/|명 자석|The *magnet* attracts iron.|자석은 철을 끌어당긴다.|She put a *magnet* on the fridge.|그녀는 냉장고에 자석을 붙였다.
+2|mansion|/ˈmænʃn/|명 대저택|The rich man lives in a huge *mansion*.|그 부자는 거대한 저택에 산다.|The old *mansion* is now a museum.|그 오래된 저택은 지금 박물관이다.
+2|marathon|/ˈmærəθɑːn/|명 마라톤|He ran a *marathon* last spring.|그는 지난봄에 마라톤을 뛰었다.|The *marathon* course is forty-two kilometers.|마라톤 코스는 42킬로미터다.

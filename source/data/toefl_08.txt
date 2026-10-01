@@ -1,0 +1,90 @@
+2|austerity|/ɔːˈsterəti/|명 긴축|The government introduced *austerity* measures.|정부는 긴축 조치를 도입했다.|Years of *austerity* hurt public services.|수년간의 긴축은 공공 서비스에 타격을 주었다.
+2|bankruptcy|/ˈbæŋkrʌptsi/|명 파산|The company filed for *bankruptcy*.|그 회사는 파산을 신청했다.|Debt pushed the store into *bankruptcy*.|빚 때문에 가게는 파산했다.
+2|boom|/buːm/|명 호황;동 급증하다|The city enjoyed an economic *boom*.|그 도시는 경제 호황을 누렸다.|Sales *boomed* during the holidays.|휴가철에 매출이 급증했다.
+2|capitalize|/ˈkæpɪtəlaɪz/|동 이용하다, 자본화하다|The shop *capitalized* on the holiday rush.|그 가게는 휴가철 붐비는 때를 활용했다.|Companies *capitalize* on new trends.|기업들은 새로운 유행을 이용한다.
+2|competitive|/kəmˈpetətɪv/|형 경쟁력 있는|The firm offers *competitive* prices.|그 회사는 경쟁력 있는 가격을 제시한다.|The job market is very *competitive*.|취업 시장은 매우 경쟁이 치열하다.
+2|deflation|/dɪˈfleɪʃn/|명 디플레이션|*Deflation* makes prices fall over time.|디플레이션은 시간이 지나며 물가를 떨어뜨린다.|Japan struggled with *deflation* for years.|일본은 수년간 디플레이션에 시달렸다.
+2|depreciate|/dɪˈpriːʃieɪt/|동 가치가 떨어지다|Cars *depreciate* quickly after purchase.|자동차는 구매 후 가치가 빠르게 떨어진다.|The currency *depreciated* sharply.|통화 가치가 급락했다.
+2|deregulate|/diːˈreɡjuleɪt/|동 규제를 완화하다|The government decided to *deregulate* the industry.|정부는 그 산업의 규제를 완화하기로 했다.|The airlines were *deregulated* in 1978.|항공사들은 1978년에 규제가 풀렸다.
+2|dividend|/ˈdɪvɪdend/|명 배당금|Shareholders received a *dividend*.|주주들은 배당금을 받았다.|The company pays a yearly *dividend*.|그 회사는 해마다 배당금을 지급한다.
+2|downturn|/ˈdaʊntɜːrn/|명 침체|The economy suffered a sharp *downturn*.|경제가 급격한 침체를 겪었다.|Sales saw a *downturn* this spring.|이번 봄 매출이 하락했다.
+2|equity|/ˈekwəti/|명 지분, 공평|He owns *equity* in the company.|그는 그 회사의 지분을 소유한다.|The law aims to promote *equity* in schools.|그 법은 학교에서의 공평성을 높이려는 것이다.
+2|fluctuation|/ˌflʌktʃuˈeɪʃn/|명 변동|There are daily *fluctuations* in oil prices.|유가는 매일 변동이 있다.|Temperature *fluctuations* damaged the crops.|기온 변동이 농작물을 해쳤다.
+2|franchise|/ˈfræntʃaɪz/|명 프랜차이즈|He opened a coffee shop *franchise*.|그는 커피숍 프랜차이즈를 열었다.|The *franchise* has hundreds of branches.|그 프랜차이즈는 지점이 수백 개다.
+2|gross|/ɡroʊs/|형 총계의|The company's *gross* income was high.|그 회사의 총수입은 높았다.|*Gross* domestic product measures a nation's output.|국내총생산은 한 나라의 생산량을 나타낸다.
+2|import|/ˈɪmpɔːrt/|명 수입품;동 수입하다|Oil is a major *import*.|석유는 주요 수입품이다.|The country *imports* most of its food.|그 나라는 식량 대부분을 수입한다.
+2|insolvency|/ɪnˈsɑːlvənsi/|명 지급 불능|The firm faced *insolvency*.|그 회사는 지급 불능 위기에 처했다.|*Insolvency* means being unable to pay debts.|지급 불능은 빚을 갚을 수 없는 상태를 뜻한다.
+2|liability|/ˌlaɪəˈbɪləti/|명 책임, 부채|The company accepted *liability* for the damage.|회사는 손해에 대한 책임을 인정했다.|Debts are a financial *liability*.|빚은 재정적 부담이다.
+2|merger|/ˈmɜːrdʒər/|명 합병|The *merger* created a huge company.|합병으로 거대한 회사가 생겼다.|Workers feared job losses after the *merger*.|직원들은 합병 후 일자리 감소를 걱정했다.
+2|microeconomics|/ˌmaɪkroʊˌekəˈnɑːmɪks/|명 미시 경제학|*Microeconomics* studies individual choices.|미시 경제학은 개인의 선택을 연구한다.|She took a course in *microeconomics*.|그녀는 미시 경제학 수업을 들었다.
+2|negotiation|/nɪˌɡoʊʃiˈeɪʃn/|명 협상|The *negotiation* lasted two days.|협상은 이틀간 이어졌다.|Prices are open to *negotiation*.|가격은 협상 가능하다.
+2|outsourcing|/ˈaʊtsɔːrsɪŋ/|명 외주|*Outsourcing* lowered the company's costs.|외주는 회사의 비용을 낮췄다.|The firm relies on *outsourcing* for customer service.|그 회사는 고객 서비스를 외주에 의존한다.
+2|overhead|/ˈoʊvərhed/|명 간접비|Rent and power add to *overhead* costs.|임대료와 전기료는 간접비를 늘린다.|The shop kept its *overhead* low.|그 가게는 간접비를 낮게 유지했다.
+2|payroll|/ˈpeɪroʊl/|명 급여 대장|The company has fifty people on its *payroll*.|그 회사는 급여 대상 직원이 50명이다.|The *payroll* is paid on the last Friday.|급여는 마지막 금요일에 지급된다.
+2|portfolio|/pɔːrtˈfoʊlioʊ/|명 포트폴리오|She built a diverse investment *portfolio*.|그녀는 다양한 투자 포트폴리오를 구성했다.|The artist showed her *portfolio* to the gallery.|그 예술가는 갤러리에 작품집을 보여 주었다.
+2|premium|/ˈpriːmiəm/|명 보험료, 할증금|The insurance *premium* is due monthly.|보험료는 매달 납부해야 한다.|Fresh products sell at a *premium*.|신선한 제품은 웃돈을 받고 팔린다.
+2|quota|/ˈkwoʊtə/|명 할당량|The factory met its monthly *quota*.|공장은 월 할당량을 채웠다.|The country set a *quota* on imports.|그 나라는 수입 할당제를 시행했다.
+2|retail|/ˈriːteɪl/|명 소매|He works in *retail*.|그는 소매업에서 일한다.|The *retail* price is higher than the wholesale price.|소매가는 도매가보다 높다.
+2|royalty|/ˈrɔɪəlti/|명 인세, 왕족|The author earns a *royalty* on each book.|저자는 책 한 권마다 인세를 받는다.|The *royalty* family greeted the crowd.|왕실 가족이 군중에게 인사했다.
+2|shareholder|/ˈʃerhoʊldər/|명 주주|*Shareholders* voted on the plan.|주주들이 그 계획에 대해 투표했다.|The company must satisfy its *shareholders*.|회사는 주주들을 만족시켜야 한다.
+2|speculation|/ˌspekjuˈleɪʃn/|명 추측, 투기|There is *speculation* about his retirement.|그의 은퇴에 대한 추측이 나돈다.|Land *speculation* pushed up prices.|토지 투기가 가격을 끌어올렸다.
+2|stagnation|/stæɡˈneɪʃn/|명 정체|Economic *stagnation* lasted a decade.|경제 정체는 10년간 이어졌다.|Lack of rain caused water *stagnation*.|비가 오지 않아 물이 고였다.
+2|startup|/ˈstɑːrtʌp/|명 신생 기업|She founded a tech *startup*.|그녀는 기술 스타트업을 세웠다.|The *startup* raised money from investors.|그 스타트업은 투자자들로부터 자금을 모았다.
+2|supplier|/səˈplaɪər/|명 공급업체|The firm changed its *supplier*.|그 회사는 공급업체를 바꿨다.|The main *supplier* delivers every week.|주요 공급업체는 매주 배달한다.
+2|taxation|/tækˈseɪʃn/|명 과세|The law changed the system of *taxation*.|그 법은 과세 제도를 바꿨다.|High *taxation* discouraged investment.|높은 세금은 투자를 저해했다.
+2|treasury|/ˈtreʒəri/|명 재무부, 국고|The *Treasury* issued new bonds.|재무부는 새 채권을 발행했다.|The king kept gold in the *treasury*.|왕은 국고에 금을 보관했다.
+2|turnover|/ˈtɜːrnoʊvər/|명 매출액, 이직률|The shop's annual *turnover* is large.|그 가게의 연 매출액은 크다.|High staff *turnover* cost the firm money.|높은 직원 이직률은 회사에 비용을 안겼다.
+2|wholesale|/ˈhoʊlseɪl/|명 도매|They buy goods at *wholesale* prices.|그들은 도매가로 물건을 산다.|The *wholesale* market opens at dawn.|도매 시장은 새벽에 문을 연다.
+2|algorithm|/ˈælɡərɪðəm/|명 알고리즘|The search engine uses a clever *algorithm*.|검색 엔진은 영리한 알고리즘을 쓴다.|Each *algorithm* solves a particular problem.|알고리즘마다 특정 문제를 해결한다.
+2|automation|/ˌɔːtəˈmeɪʃn/|명 자동화|*Automation* replaced many factory jobs.|자동화가 많은 공장 일자리를 대체했다.|The company invested in *automation*.|그 회사는 자동화에 투자했다.
+2|bandwidth|/ˈbændwɪdθ/|명 대역폭|Video calls need a lot of *bandwidth*.|화상 통화는 대역폭이 많이 필요하다.|I don't have the *bandwidth* to take on more work.|나는 일을 더 맡을 여력이 없다.
+2|binary|/ˈbaɪneri/|형 2진법의|Computers use *binary* code of ones and zeros.|컴퓨터는 1과 0으로 된 이진 코드를 쓴다.|*Binary* numbers have only two digits.|이진수는 숫자가 두 개뿐이다.
+3|blockchain|/ˈblɑːktʃeɪn/|명 블록체인|*Blockchain* records transactions securely.|블록체인은 거래를 안전하게 기록한다.|The technology behind the currency is *blockchain*.|그 화폐의 기반 기술은 블록체인이다.
+2|browser|/ˈbraʊzər/|명 브라우저|Open the page in a web *browser*.|웹 브라우저에서 페이지를 여세요.|The *browser* saves your history.|브라우저는 방문 기록을 저장한다.
+2|cipher|/ˈsaɪfər/|명 암호|The spy wrote a message in *cipher*.|스파이는 암호로 메시지를 썼다.|They broke the enemy's *cipher*.|그들은 적의 암호를 풀었다.
+2|database|/ˈdeɪtəbeɪs/|명 데이터베이스|The *database* stores millions of records.|데이터베이스에는 수백만 건의 기록이 저장된다.|She searched the library *database*.|그녀는 도서관 데이터베이스를 검색했다.
+2|encryption|/ɪnˈkrɪpʃn/|명 암호화|*Encryption* protects private messages.|암호화는 개인 메시지를 보호한다.|The app uses strong *encryption*.|그 앱은 강력한 암호화를 쓴다.
+2|firewall|/ˈfaɪərwɔːl/|명 방화벽|A *firewall* blocks unwanted traffic.|방화벽은 원치 않는 접속을 차단한다.|The company upgraded its *firewall*.|그 회사는 방화벽을 업그레이드했다.
+2|hardware|/ˈhɑːrdwer/|명 하드웨어|Computer *hardware* includes the screen and keyboard.|컴퓨터 하드웨어에는 화면과 키보드가 포함된다.|The shop sells *hardware* and tools.|그 가게는 철물과 공구를 판다.
+2|interface|/ˈɪntərfeɪs/|명 인터페이스|The app has a simple *interface*.|그 앱은 인터페이스가 단순하다.|The user *interface* is easy to learn.|사용자 인터페이스는 배우기 쉽다.
+2|malware|/ˈmælwer/|명 악성 프로그램|*Malware* can steal your passwords.|악성 프로그램은 비밀번호를 훔칠 수 있다.|Antivirus software removes *malware*.|백신 프로그램은 악성 코드를 제거한다.
+2|microchip|/ˈmaɪkroʊtʃɪp/|명 마이크로칩|A tiny *microchip* controls the device.|작은 마이크로칩이 그 기기를 제어한다.|The dog has a *microchip* under its skin.|그 개는 피부 밑에 마이크로칩이 있다.
+2|network|/ˈnetwɜːrk/|명 네트워크, 망|The school has a wireless *network*.|학교에는 무선 네트워크가 있다.|He built a *network* of contacts.|그는 인맥 네트워크를 쌓았다.
+2|nanotechnology|/ˌnænoʊtekˈnɑːlədʒi/|명 나노 기술|*Nanotechnology* works at a tiny scale.|나노 기술은 아주 작은 규모에서 작동한다.|Scientists use *nanotechnology* in medicine.|과학자들은 의학에 나노 기술을 쓴다.
+2|pixel|/ˈpɪksl/|명 픽셀|Each *pixel* shows a tiny dot of color.|각 픽셀은 작은 색 점을 보여 준다.|The photo has millions of *pixels*.|그 사진은 수백만 개의 픽셀로 이루어져 있다.
+2|processor|/ˈprɑːsesər/|명 처리 장치|A fast *processor* makes the computer run smoothly.|빠른 처리 장치는 컴퓨터를 부드럽게 돌아가게 한다.|The phone has a powerful *processor*.|그 휴대폰은 강력한 프로세서를 가졌다.
+2|programming|/ˈproʊɡræmɪŋ/|명 프로그래밍|She teaches *programming* to students.|그녀는 학생들에게 프로그래밍을 가르친다.|*Programming* requires logical thinking.|프로그래밍에는 논리적 사고가 필요하다.
+2|prototype|/ˈproʊtətaɪp/|명 시제품|Engineers built a *prototype* of the car.|기술자들은 그 차의 시제품을 만들었다.|The *prototype* was tested for months.|시제품은 몇 달간 시험되었다.
+2|robotics|/roʊˈbɑːtɪks/|명 로봇 공학|She studies *robotics* at university.|그녀는 대학에서 로봇 공학을 공부한다.|*Robotics* has changed manufacturing.|로봇 공학은 제조업을 바꿔 놓았다.
+2|router|/ˈruːtər/|명 라우터|Restart the *router* if the Internet is slow.|인터넷이 느리면 라우터를 재시작하세요.|The wireless *router* sits in the hall.|무선 라우터는 복도에 있다.
+2|semiconductor|/ˌsemikənˈdʌktər/|명 반도체|Korea is a major *semiconductor* producer.|한국은 주요 반도체 생산국이다.|*Semiconductors* power computers and phones.|반도체는 컴퓨터와 휴대폰을 작동시킨다.
+2|server|/ˈsɜːrvər/|명 서버|The website's *server* crashed.|웹사이트 서버가 다운되었다.|Data is stored on a remote *server*.|데이터는 원격 서버에 저장된다.
+2|simulation|/ˌsɪmjuˈleɪʃn/|명 시뮬레이션|Pilots train in a flight *simulation*.|조종사들은 비행 시뮬레이션으로 훈련한다.|The *simulation* predicted the storm's path.|시뮬레이션은 폭풍의 경로를 예측했다.
+2|spreadsheet|/ˈspredʃiːt/|명 스프레드시트|She kept the budget in a *spreadsheet*.|그녀는 예산을 스프레드시트에 정리했다.|Enter the numbers in the *spreadsheet*.|숫자를 스프레드시트에 입력하세요.
+2|wireless|/ˈwaɪərləs/|형 무선의|He uses *wireless* headphones.|그는 무선 헤드폰을 쓴다.|The café offers *wireless* Internet.|그 카페는 무선 인터넷을 제공한다.
+2|upgrade|/ˈʌpɡreɪd/|동 개선하다, 업그레이드하다|The school will *upgrade* its computers.|학교는 컴퓨터를 업그레이드할 것이다.|He *upgraded* to a better phone.|그는 더 좋은 휴대폰으로 바꿨다.
+2|workstation|/ˈwɜːrksteɪʃn/|명 작업대, 업무용 컴퓨터|Each employee has a *workstation*.|직원마다 업무용 자리가 있다.|The *workstation* has two large screens.|그 작업용 컴퓨터에는 큰 화면이 두 개 있다.
+2|acquisition|/ˌækwɪˈzɪʃn/|명 취득, 인수|The firm announced the *acquisition* of a rival.|회사는 경쟁사 인수를 발표했다.|Language *acquisition* begins in infancy.|언어 습득은 유아기에 시작된다.
+2|amortize|/ˈæmərtaɪz/|동 분할 상환하다|They *amortized* the loan over ten years.|그들은 대출을 10년에 걸쳐 분할 상환했다.|The cost is *amortized* over its life.|그 비용은 수명 기간에 걸쳐 분할 상각된다.
+2|audit|/ˈɔːdɪt/|명 감사;동 감사하다|The company passed its yearly *audit*.|그 회사는 연례 감사를 통과했다.|Accountants *audited* the records.|회계사들이 기록을 감사했다.
+2|brokerage|/ˈbroʊkərɪdʒ/|명 중개 업체|He works at a stock *brokerage*.|그는 증권 중개 회사에서 일한다.|The *brokerage* charges a small fee.|그 중개 업체는 소액의 수수료를 받는다.
+2|cartel|/kɑːrˈtel/|명 카르텔|The oil *cartel* controls prices.|석유 카르텔이 가격을 통제한다.|The government broke up the *cartel*.|정부는 카르텔을 해체했다.
+2|clientele|/ˌklaɪənˈtel/|명 고객층|The shop has a loyal *clientele*.|그 가게에는 충성스러운 고객층이 있다.|The restaurant serves an upscale *clientele*.|그 식당은 고급 고객층을 상대한다.
+2|collateral|/kəˈlætərəl/|명 담보|He used his house as *collateral* for the loan.|그는 집을 대출 담보로 썼다.|The bank requires *collateral*.|은행은 담보를 요구한다.
+2|consortium|/kənˈsɔːrʃiəm/|명 컨소시엄|A *consortium* of firms built the bridge.|여러 기업의 컨소시엄이 다리를 지었다.|The universities formed a research *consortium*.|대학들은 연구 컨소시엄을 만들었다.
+2|conglomerate|/kənˈɡlɑːmərət/|명 복합 기업|The *conglomerate* owns hotels and banks.|그 복합 기업은 호텔과 은행을 소유한다.|The firm grew into a huge *conglomerate*.|그 회사는 거대한 복합 기업으로 성장했다.
+2|depreciation|/dɪˌpriːʃiˈeɪʃn/|명 감가상각|The *depreciation* of the machine lowered its value.|기계의 감가상각으로 가치가 떨어졌다.|Currency *depreciation* raises import costs.|통화 가치 하락은 수입 비용을 높인다.
+2|dumping|/ˈdʌmpɪŋ/|명 덤핑|The country accused them of *dumping* steel.|그 나라는 그들이 철강을 덤핑한다고 비난했다.|Illegal *dumping* of waste harms the environment.|폐기물 불법 투기는 환경을 해친다.
+2|embargo|/ɪmˈbɑːrɡoʊ/|명 금수 조치|The country imposed an *embargo* on oil.|그 나라는 석유에 금수 조치를 내렸다.|The trade *embargo* lasted for years.|무역 금지는 수년간 이어졌다.
+2|expenditure|/ɪkˈspendɪtʃər/|명 지출|Government *expenditure* rose sharply.|정부 지출이 급격히 늘었다.|The family cut its monthly *expenditure*.|그 가족은 월 지출을 줄였다.
+2|futures|/ˈfjuːtʃərz/|명 선물 거래|Traders bought oil *futures*.|거래자들은 석유 선물을 샀다.|Wheat *futures* rose on bad weather.|악천후로 밀 선물 가격이 올랐다.
+2|guarantor|/ˌɡærənˈtɔːr/|명 보증인|He acted as *guarantor* for her loan.|그는 그녀의 대출 보증을 섰다.|The bank asked for a *guarantor*.|은행은 보증인을 요구했다.
+2|inventory|/ˈɪnvəntɔːri/|명 재고, 목록|The shop counts its *inventory* every month.|그 가게는 매달 재고를 센다.|Take an *inventory* of the supplies.|물품 목록을 작성하세요.
+2|leverage|/ˈlevərɪdʒ/|명 영향력, 지렛대|The union has little *leverage* in the talks.|노조는 협상에서 영향력이 거의 없다.|You can *leverage* your skills to get a better job.|기술을 활용해 더 나은 일자리를 얻을 수 있다.
+2|logistics|/ləˈdʒɪstɪks/|명 물류|The *logistics* of the event were complex.|행사의 물류는 복잡했다.|She works in shipping and *logistics*.|그녀는 운송과 물류 분야에서 일한다.
+2|markup|/ˈmɑːrkʌp/|명 가격 인상폭|The store adds a ten percent *markup*.|그 가게는 10퍼센트의 마진을 붙인다.|The *markup* on luxury goods is high.|명품의 이윤 폭은 크다.
+2|mortgage|/ˈmɔːrɡɪdʒ/|명 주택 담보 대출|They took out a *mortgage* to buy a house.|그들은 집을 사려고 주택 담보 대출을 받았다.|Monthly *mortgage* payments are high.|월 대출 상환액이 높다.
+2|pension|/ˈpenʃn/|명 연금|He lives on his *pension*.|그는 연금으로 생활한다.|The company offers a good *pension* plan.|그 회사는 좋은 연금 제도를 제공한다.
+2|procurement|/prəˈkjʊrmənt/|명 조달|The *procurement* of supplies takes weeks.|물자 조달에는 몇 주가 걸린다.|She manages hospital *procurement*.|그녀는 병원 조달 업무를 관리한다.
+2|rebate|/ˈriːbeɪt/|명 환급, 할인|Customers receive a *rebate* on purchases.|고객은 구매 시 환급을 받는다.|The government offers a tax *rebate*.|정부는 세금 환급을 제공한다.
+2|remittance|/rɪˈmɪtns/|명 송금|He sends a monthly *remittance* to his family.|그는 가족에게 매달 송금한다.|*Remittances* support many poor families.|해외 송금은 많은 가난한 가정을 돕는다.

@@ -1,0 +1,30 @@
+1|borrow|/ˈbɒroʊ/|동 빌리다|Can I *borrow* your pencil?|네 연필 좀 빌려도 될까?|She *borrowed* a book from the library.|그녀는 도서관에서 책을 빌렸다.
+1|habit|/ˈhæbɪt/|명 습관, 버릇|Reading before bed is a good *habit*.|자기 전에 책을 읽는 것은 좋은 습관이다.|He has a *habit* of biting his nails.|그는 손톱을 물어뜯는 버릇이 있다.
+2|journey|/ˈdʒɜːrni/|명 여행, 여정|The *journey* to the island took two hours.|그 섬까지의 여행은 두 시간 걸렸다.|We began our *journey* early in the morning.|우리는 아침 일찍 여행을 시작했다.
+2|neighbor|/ˈneɪbər/|명 이웃, 옆 사람|My *neighbor* has a friendly dog.|우리 이웃은 다정한 개를 키운다.|She waved to her *neighbors* every morning.|그녀는 매일 아침 이웃들에게 손을 흔들었다.
+2|century|/ˈsentʃəri/|명 100년, 세기|This temple is over a *century* old.|이 절은 백 년이 넘었다.|The 21st *century* began in 2001.|21세기는 2001년에 시작되었다.
+3|comfortable|/ˈkʌmftəbl/|형 편안한, 쾌적한|This sofa is very *comfortable*.|이 소파는 매우 편안하다.|I feel *comfortable* talking with her.|나는 그녀와 이야기하는 게 편하다.
+2|decide|/dɪˈsaɪd/|동 결정하다, 결심하다|I *decided* to join the art club.|나는 미술 동아리에 들기로 결정했다.|We can't *decide* where to eat.|우리는 어디서 먹을지 정하지 못한다.
+3|environment|/ɪnˈvaɪrənmənt/|명 환경|We should protect the *environment*.|우리는 환경을 보호해야 한다.|A quiet *environment* helps me study.|조용한 환경은 내가 공부하는 데 도움이 된다.
+2|exercise|/ˈeksərsaɪz/|명 운동, 연습;동 운동하다|Daily *exercise* keeps you healthy.|매일 하는 운동은 건강을 지켜 준다.|I *exercise* for thirty minutes every day.|나는 매일 30분씩 운동한다.
+2|festival|/ˈfestɪvl/|명 축제|Our town holds a lantern *festival* every spring.|우리 마을은 봄마다 등불 축제를 연다.|The music *festival* lasts three days.|그 음악 축제는 사흘간 열린다.
+1|goal|/ɡoʊl/|명 목표;명 골, 득점|My *goal* is to read fifty books this year.|내 목표는 올해 책 오십 권을 읽는 것이다.|He scored a *goal* in the last minute.|그는 마지막 순간에 골을 넣었다.
+1|health|/helθ/|명 건강|Good *health* is more important than money.|건강은 돈보다 중요하다.|Eating vegetables is good for your *health*.|채소를 먹는 것은 건강에 좋다.
+3|imagine|/ɪˈmædʒɪn/|동 상상하다|*Imagine* a world without cars.|자동차가 없는 세상을 상상해 보라.|I can't *imagine* living without music.|나는 음악 없이 사는 것을 상상할 수 없다.
+1|invite|/ɪnˈvaɪt/|동 초대하다|I *invited* ten friends to my party.|나는 파티에 친구 열 명을 초대했다.|They *invited* us to dinner on Friday.|그들은 금요일 저녁 식사에 우리를 초대했다.
+3|knowledge|/ˈnɒlɪdʒ/|명 지식|Books are a source of *knowledge*.|책은 지식의 원천이다.|He has great *knowledge* of history.|그는 역사에 대한 지식이 풍부하다.
+1|lonely|/ˈloʊnli/|형 외로운|She felt *lonely* in the new city.|그녀는 새 도시에서 외로웠다.|The old man lives a *lonely* life.|그 노인은 외로운 삶을 산다.
+3|manage|/ˈmænɪdʒ/|동 간신히 해내다;동 관리하다, 운영하다|I *managed* to finish the homework on time.|나는 숙제를 제때 간신히 끝냈다.|Her parents *manage* a small bakery.|그녀의 부모님은 작은 빵집을 운영한다.
+3|necessary|/ˈnesəseri/|형 필요한, 필수적인|Water is *necessary* for life.|물은 생명에 필수적이다.|It is not *necessary* to bring a pen.|펜을 가져올 필요는 없다.
+3|observe|/əbˈzɜːrv/|동 관찰하다;동 (규칙 등을) 지키다|We *observed* the stars through a telescope.|우리는 망원경으로 별을 관찰했다.|Please *observe* the school rules.|학교 규칙을 지켜 주세요.
+1|polite|/pəˈlaɪt/|형 공손한, 예의 바른|He is always *polite* to his teachers.|그는 선생님들께 항상 예의 바르다.|It is *polite* to say thank you.|고맙다고 말하는 것이 예의다.
+2|promise|/ˈprɒmɪs/|명 약속;동 약속하다|I made a *promise* to my brother.|나는 동생과 약속을 했다.|She *promised* to call me tonight.|그녀는 오늘 밤 전화하겠다고 약속했다.
+2|protect|/prəˈtekt/|동 보호하다, 지키다|Helmets *protect* your head.|헬멧은 머리를 보호한다.|We must *protect* endangered animals.|우리는 멸종 위기 동물을 보호해야 한다.
+2|receive|/rɪˈsiːv/|동 받다|I *received* a letter from my grandmother.|나는 할머니께 편지를 받았다.|He *received* a prize for his drawing.|그는 그림으로 상을 받았다.
+3|recycle|/ˌriːˈsaɪkl/|동 재활용하다|We *recycle* paper and plastic bottles.|우리는 종이와 플라스틱 병을 재활용한다.|Glass can be *recycled* many times.|유리는 여러 번 재활용될 수 있다.
+2|repeat|/rɪˈpiːt/|동 반복하다, 되풀이하다|Could you *repeat* the question?|질문을 다시 말씀해 주시겠어요?|Don't *repeat* the same mistake.|같은 실수를 반복하지 마라.
+3|report|/rɪˈpɔːrt/|명 보고서, 보도;동 보고하다|I wrote a *report* about whales.|나는 고래에 관한 보고서를 썼다.|The news *reported* heavy rain tomorrow.|뉴스는 내일 폭우가 온다고 보도했다.
+1|shy|/ʃaɪ/|형 수줍음을 타는|The *shy* boy hid behind his mother.|그 수줍은 소년은 엄마 뒤에 숨었다.|Don't be *shy*; ask any question.|부끄러워 말고 무엇이든 물어봐.
+3|succeed|/səkˈsiːd/|동 성공하다|If you work hard, you will *succeed*.|열심히 하면 성공할 것이다.|She *succeeded* in passing the test.|그녀는 시험에 합격하는 데 성공했다.
+1|travel|/ˈtrævl/|동 여행하다;명 여행|I want to *travel* around the world.|나는 세계를 여행하고 싶다.|Air *travel* is faster than going by train.|비행기 여행은 기차보다 빠르다.
+1|village|/ˈvɪlɪdʒ/|명 마을|He grew up in a small *village*.|그는 작은 마을에서 자랐다.|The *villagers* gathered in the square.|마을 사람들이 광장에 모였다.

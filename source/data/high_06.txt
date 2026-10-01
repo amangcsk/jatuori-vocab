@@ -1,0 +1,110 @@
+2|fabric|/ˈfæbrɪk/|명 천, 직물|The dress is made of soft *fabric*.|그 드레스는 부드러운 천으로 만들어졌다.|They sell cotton and silk *fabrics*.|그들은 면과 비단 직물을 판다.
+2|facility|/fəˈsɪləti/|명 시설|The school has a new sports *facility*.|그 학교에는 새 체육 시설이 있다.|The hotel has excellent *facilities*.|그 호텔은 시설이 훌륭하다.
+2|fade|/feɪd/|동 바래다, 사라지다|The colors *faded* in the sun.|색이 햇빛에 바랬다.|The sound slowly *faded* away.|소리가 서서히 사라졌다.
+2|faint|/feɪnt/|형 희미한;동 기절하다|I heard a *faint* noise.|나는 희미한 소리를 들었다.|She almost *fainted* in the heat.|그녀는 더위에 거의 기절할 뻔했다.
+2|faith|/feɪθ/|명 믿음, 신뢰|I have *faith* in my friends.|나는 친구들을 믿는다.|He lost his *faith* in the system.|그는 그 제도에 대한 믿음을 잃었다.
+2|fake|/feɪk/|형 가짜의|The bag turned out to be *fake*.|그 가방은 가짜로 밝혀졌다.|He used a *fake* name.|그는 가짜 이름을 썼다.
+2|fame|/feɪm/|명 명성|The singer rose to *fame* at eighteen.|그 가수는 열여덟 살에 유명해졌다.|Her *fame* spread quickly.|그녀의 명성은 빠르게 퍼졌다.
+2|familiar|/fəˈmɪliər/|형 친숙한|The song sounds *familiar*.|그 노래는 귀에 익다.|I am *familiar* with this area.|나는 이 지역을 잘 안다.
+2|fare|/fer/|명 요금|The bus *fare* is one thousand won.|버스 요금은 천 원이다.|How much is the train *fare*?|기차 요금이 얼마예요?
+2|fascinate|/ˈfæsɪneɪt/|동 매혹하다|Space *fascinates* many children.|우주는 많은 아이들을 매혹시킨다.|I was *fascinated* by the magic show.|나는 마술 쇼에 매료되었다.
+2|fashion|/ˈfæʃn/|명 패션, 유행|She is interested in *fashion*.|그녀는 패션에 관심이 있다.|Short skirts are in *fashion* again.|짧은 치마가 다시 유행이다.
+2|fatal|/ˈfeɪtl/|형 치명적인|The accident was *fatal*.|그 사고는 치명적이었다.|He made a *fatal* mistake.|그는 치명적인 실수를 했다.
+2|fault|/fɔːlt/|명 잘못, 결점|It's my *fault* that we were late.|우리가 늦은 건 내 잘못이다.|Everyone has *faults*.|누구에게나 결점이 있다.
+2|favor|/ˈfeɪvər/|명 호의, 부탁|Can you do me a *favor*?|부탁 하나 들어줄래?|I'm in *favor* of the plan.|나는 그 계획에 찬성한다.
+2|feature|/ˈfiːtʃər/|명 특징, 기능|The phone has many new *features*.|그 휴대폰은 새로운 기능이 많다.|Large eyes are a *feature* of owls.|큰 눈은 올빼미의 특징이다.
+2|federal|/ˈfedərəl/|형 연방의|The *federal* government passed the law.|연방 정부가 그 법을 통과시켰다.|It is a *federal* holiday.|그것은 연방 공휴일이다.
+2|fee|/fiː/|명 요금, 수수료|There is an entrance *fee*.|입장료가 있다.|The school *fee* is due next week.|학비는 다음 주까지 내야 한다.
+2|fiber|/ˈfaɪbər/|명 섬유질|Vegetables are rich in *fiber*.|채소는 섬유질이 풍부하다.|The rope is made of natural *fibers*.|그 밧줄은 천연 섬유로 만들어졌다.
+2|fiction|/ˈfɪkʃn/|명 소설, 허구|She likes to read science *fiction*.|그녀는 공상 과학 소설을 즐겨 읽는다.|The story is pure *fiction*.|그 이야기는 순전한 허구다.
+2|figure|/ˈfɪɡjər/|명 수치, 인물;동 생각하다|The sales *figures* look good.|판매 수치가 좋아 보인다.|She is an important historical *figure*.|그녀는 중요한 역사적 인물이다.
+2|finance|/ˈfaɪnæns/|명 재정, 금융|He studies *finance* at university.|그는 대학에서 금융을 공부한다.|Personal *finance* needs careful planning.|개인 재정은 신중한 계획이 필요하다.
+2|firm|/fɜːrm/|형 단단한, 확고한;명 회사|The bed is too *firm* for me.|그 침대는 내게 너무 딱딱하다.|She works for a law *firm*.|그녀는 법률 회사에서 일한다.
+2|flame|/fleɪm/|명 불꽃|The candle *flame* moved in the wind.|촛불의 불꽃이 바람에 흔들렸다.|The house burst into *flames*.|집이 불길에 휩싸였다.
+2|flash|/flæʃ/|명 번쩍임;동 번쩍이다|A *flash* of lightning lit the sky.|번개가 하늘을 번쩍 밝혔다.|The police car's lights *flashed*.|경찰차의 불빛이 번쩍였다.
+2|flee|/fliː/|동 도망치다|People *fled* from the fire.|사람들이 불길을 피해 도망쳤다.|The thief *fled* the scene.|도둑은 현장에서 달아났다.
+2|flexible|/ˈfleksəbl/|형 유연한|The schedule is *flexible*.|일정은 유연하다.|Rubber is a *flexible* material.|고무는 잘 휘는 재료다.
+2|flow|/floʊ/|동 흐르다;명 흐름|The river *flows* to the sea.|강은 바다로 흐른다.|Traffic *flow* was slow.|교통 흐름이 느렸다.
+2|fluent|/ˈfluːənt/|형 유창한|She is *fluent* in French.|그녀는 프랑스어가 유창하다.|He speaks *fluent* English.|그는 유창한 영어를 한다.
+2|fold|/foʊld/|동 접다|*Fold* the paper in half.|종이를 반으로 접어라.|She *folded* the clothes neatly.|그녀는 옷을 단정하게 갰다.
+2|folk|/foʊk/|명 사람들;형 민속의|Country *folk* are often friendly.|시골 사람들은 대체로 다정하다.|He plays *folk* music on the guitar.|그는 기타로 민속 음악을 연주한다.
+2|forecast|/ˈfɔːrkæst/|명 예보;동 예측하다|The weather *forecast* says it will rain.|일기예보는 비가 올 거라고 한다.|Experts *forecast* a rise in prices.|전문가들은 물가 상승을 예측한다.
+2|foreign|/ˈfɔːrən/|형 외국의|She is learning a *foreign* language.|그녀는 외국어를 배우고 있다.|Many *foreign* tourists visit Seoul.|많은 외국인 관광객이 서울을 찾는다.
+2|form|/fɔːrm/|명 양식, 형태;동 형성하다|Please fill out this *form*.|이 양식을 작성해 주세요.|Ice *forms* when water freezes.|물이 얼면 얼음이 생긴다.
+2|formal|/ˈfɔːrml/|형 격식 있는, 공식적인|You must wear *formal* clothes.|격식 있는 옷을 입어야 한다.|It was a *formal* meeting.|그것은 공식적인 회의였다.
+2|former|/ˈfɔːrmər/|형 이전의|He is a *former* teacher.|그는 전직 교사다.|The *former* mayor attended the event.|전 시장이 행사에 참석했다.
+2|formula|/ˈfɔːrmjələ/|명 공식|Learn the *formula* for the area of a circle.|원의 넓이 공식을 배워라.|There is no magic *formula* for success.|성공에는 마법의 공식이 없다.
+2|fortune|/ˈfɔːrtʃən/|명 재산, 행운|He made a *fortune* in business.|그는 사업으로 큰 재산을 모았다.|By good *fortune*, we found the key.|운 좋게도 우리는 열쇠를 찾았다.
+2|foundation|/faʊnˈdeɪʃn/|명 토대, 재단|The house has a strong *foundation*.|그 집은 토대가 튼튼하다.|The *foundation* gives money to schools.|그 재단은 학교에 기금을 지원한다.
+2|fragile|/ˈfrædʒl/|형 깨지기 쉬운|Be careful; the glass is *fragile*.|조심해, 유리는 깨지기 쉬워.|The *fragile* package was handled gently.|깨지기 쉬운 소포는 조심스럽게 다뤄졌다.
+2|fragment|/ˈfræɡmənt/|명 조각, 파편|She picked up a *fragment* of glass.|그녀는 유리 조각을 주웠다.|Only a *fragment* of the letter remained.|편지의 일부만 남아 있었다.
+2|frame|/freɪm/|명 틀, 액자|He put the photo in a *frame*.|그는 사진을 액자에 넣었다.|The bike has a light *frame*.|그 자전거는 틀이 가볍다.
+2|frank|/fræŋk/|형 솔직한|Let me be *frank* with you.|솔직하게 말할게.|She gave a *frank* answer.|그녀는 솔직하게 대답했다.
+2|freedom|/ˈfriːdəm/|명 자유|People value *freedom* of speech.|사람들은 언론의 자유를 소중히 여긴다.|The prisoner gained his *freedom*.|죄수는 자유를 얻었다.
+2|frequency|/ˈfriːkwənsi/|명 빈도, 주파수|The *frequency* of earthquakes has risen.|지진의 빈도가 늘었다.|Radio waves have different *frequencies*.|전파는 주파수가 다르다.
+2|frequent|/ˈfriːkwənt/|형 잦은|He makes *frequent* trips to Japan.|그는 일본에 자주 간다.|Rain is *frequent* in June.|6월에는 비가 잦다.
+2|friction|/ˈfrɪkʃn/|명 마찰|*Friction* slows down moving objects.|마찰은 움직이는 물체를 느리게 한다.|There was *friction* between the two brothers.|두 형제 사이에 불화가 있었다.
+2|frighten|/ˈfraɪtn/|동 겁먹게 하다|The loud noise *frightened* the baby.|큰 소리가 아기를 놀라게 했다.|Don't be *frightened*; it's only a cat.|겁내지 마, 그냥 고양이야.
+2|frontier|/frʌnˈtɪr/|명 국경, 미개척지|Settlers moved to the *frontier*.|개척민들이 미개척지로 이동했다.|Space is the final *frontier*.|우주는 마지막 개척지다.
+2|frustrate|/ˈfrʌstreɪt/|동 좌절시키다|Slow internet *frustrates* me.|느린 인터넷은 나를 짜증나게 한다.|She felt *frustrated* by the delay.|그녀는 지연 때문에 답답함을 느꼈다.
+2|fuel|/ˈfjuːəl/|명 연료|The car is out of *fuel*.|차에 연료가 떨어졌다.|Oil is a common *fuel*.|석유는 흔한 연료다.
+2|fulfill|/fʊlˈfɪl/|동 이행하다, 이루다|She *fulfilled* her promise.|그녀는 약속을 지켰다.|He worked hard to *fulfill* his dream.|그는 꿈을 이루려고 열심히 일했다.
+2|function|/ˈfʌŋkʃn/|명 기능;동 작동하다|The *function* of the heart is to pump blood.|심장의 기능은 피를 내보내는 것이다.|The machine doesn't *function* properly.|그 기계는 제대로 작동하지 않는다.
+2|fund|/fʌnd/|명 기금;동 자금을 대다|They raised a *fund* for the school.|그들은 학교를 위한 기금을 모았다.|The project is *funded* by the government.|그 프로젝트는 정부가 자금을 댄다.
+2|fundamental|/ˌfʌndəˈmentl/|형 근본적인|Honesty is *fundamental* to friendship.|정직은 우정의 근본이다.|There is a *fundamental* difference between them.|그들 사이에는 근본적인 차이가 있다.
+2|funeral|/ˈfjuːnərəl/|명 장례식|Many people attended the *funeral*.|많은 사람이 장례식에 참석했다.|They held a quiet *funeral*.|그들은 조촐한 장례식을 치렀다.
+2|furniture|/ˈfɜːrnɪtʃər/|명 가구|We bought new *furniture* for the living room.|우리는 거실에 둘 새 가구를 샀다.|The room has little *furniture*.|그 방에는 가구가 거의 없다.
+2|further|/ˈfɜːrðər/|형 더 먼, 추가의|Do you need any *further* help?|더 도움이 필요하세요?|The town is *further* than I thought.|그 마을은 생각보다 더 멀다.
+2|gain|/ɡeɪn/|동 얻다;명 이익|She *gained* experience abroad.|그녀는 해외에서 경험을 쌓았다.|There is no *gain* without effort.|노력 없이는 얻는 것이 없다.
+2|gap|/ɡæp/|명 틈, 격차|There is a *gap* in the fence.|울타리에 틈이 있다.|The *gap* between rich and poor is growing.|빈부 격차가 커지고 있다.
+2|garbage|/ˈɡɑːrbɪdʒ/|명 쓰레기|Take out the *garbage* tonight.|오늘 밤 쓰레기를 내다 버려라.|Put the *garbage* in the bin.|쓰레기는 쓰레기통에 넣어라.
+2|gaze|/ɡeɪz/|동 응시하다|They *gazed* at the stars.|그들은 별을 응시했다.|She *gazed* out of the window.|그녀는 창밖을 바라보았다.
+2|gender|/ˈdʒendər/|명 성별|The form asks for your age and *gender*.|그 양식은 나이와 성별을 묻는다.|The school promotes *gender* equality.|학교는 성평등을 증진한다.
+2|gene|/dʒiːn/|명 유전자|Eye color is decided by *genes*.|눈 색깔은 유전자로 결정된다.|Scientists found the *gene*.|과학자들이 그 유전자를 발견했다.
+2|general|/ˈdʒenrəl/|형 일반적인;명 장군|The *general* opinion is positive.|일반적인 의견은 긍정적이다.|The *general* gave the order.|장군이 명령을 내렸다.
+2|generation|/ˌdʒenəˈreɪʃn/|명 세대|Three *generations* live in the house.|그 집에는 3대가 함께 산다.|The younger *generation* uses phones a lot.|젊은 세대는 휴대폰을 많이 쓴다.
+2|generous|/ˈdʒenərəs/|형 너그러운, 후한|He is *generous* with his time.|그는 시간을 아끼지 않는다.|She left a *generous* tip.|그녀는 후한 팁을 남겼다.
+2|genius|/ˈdʒiːniəs/|명 천재|Einstein was a *genius*.|아인슈타인은 천재였다.|She has a *genius* for music.|그녀는 음악에 천부적 재능이 있다.
+2|genre|/ˈʒɑːnrə/|명 장르|What *genre* of film do you like?|어떤 장르의 영화를 좋아하니?|Fantasy is a popular *genre*.|판타지는 인기 있는 장르다.
+2|gesture|/ˈdʒestʃər/|명 몸짓|He made a *gesture* for us to stop.|그는 우리에게 멈추라는 몸짓을 했다.|A smile is a friendly *gesture*.|미소는 다정한 몸짓이다.
+2|glance|/ɡlæns/|동 흘긋 보다;명 흘긋 봄|She *glanced* at the clock.|그녀는 시계를 흘긋 보았다.|He took a quick *glance* at the menu.|그는 메뉴를 재빨리 훑어보았다.
+2|global|/ˈɡloʊbl/|형 전 세계의|Climate change is a *global* problem.|기후 변화는 전 지구적 문제다.|They sell products in the *global* market.|그들은 세계 시장에 제품을 판다.
+2|glory|/ˈɡlɔːri/|명 영광|The team won *glory* for the country.|그 팀은 나라에 영광을 안겼다.|He lived in the *glory* of his youth.|그는 젊음의 영광 속에 살았다.
+2|govern|/ˈɡʌvərn/|동 통치하다|The king *governed* the land wisely.|왕은 땅을 현명하게 다스렸다.|Laws *govern* how we drive.|법은 우리가 운전하는 방식을 규제한다.
+2|grab|/ɡræb/|동 움켜잡다|He *grabbed* his coat and left.|그는 코트를 움켜쥐고 떠났다.|Let's *grab* a quick snack.|간단히 간식을 먹자.
+2|grade|/ɡreɪd/|명 성적, 학년|She got good *grades* this term.|그녀는 이번 학기에 성적이 좋았다.|He is in the tenth *grade*.|그는 10학년이다.
+2|gradual|/ˈɡrædʒuəl/|형 점진적인|There has been a *gradual* improvement.|점진적인 개선이 있었다.|The change was *gradual*.|변화는 서서히 일어났다.
+2|graduate|/ˈɡrædʒueɪt/|동 졸업하다|She will *graduate* in June.|그녀는 6월에 졸업한다.|He *graduated* from Seoul University.|그는 서울대학교를 졸업했다.
+2|grain|/ɡreɪn/|명 곡물, 알갱이|Farmers harvest *grain* in autumn.|농부들은 가을에 곡물을 수확한다.|A *grain* of sand got in my shoe.|모래알 하나가 신발에 들어갔다.
+2|grant|/ɡrænt/|동 허락하다, 주다;명 보조금|The teacher *granted* our request.|선생님은 우리의 요청을 들어주셨다.|She received a research *grant*.|그녀는 연구 보조금을 받았다.
+2|grateful|/ˈɡreɪtfl/|형 감사하는|I am *grateful* for your help.|도와주셔서 감사합니다.|She was *grateful* to her teacher.|그녀는 선생님께 감사했다.
+2|grave|/ɡreɪv/|형 심각한;명 무덤|The situation is *grave*.|상황이 심각하다.|They visited his *grave* on Sunday.|그들은 일요일에 그의 무덤을 찾았다.
+2|grief|/ɡriːf/|명 슬픔|She was overcome with *grief*.|그녀는 슬픔에 잠겼다.|Time eases *grief*.|시간은 슬픔을 덜어 준다.
+2|grocery|/ˈɡroʊsəri/|명 식료품|I bought *groceries* on the way home.|나는 집에 오는 길에 식료품을 샀다.|She works at a *grocery* store.|그녀는 식료품점에서 일한다.
+2|guarantee|/ˌɡærənˈtiː/|동 보장하다;명 보증|I can't *guarantee* that it will work.|그것이 작동할 거라고 보장할 수 없다.|The phone comes with a one-year *guarantee*.|그 휴대폰은 1년 보증이 있다.
+2|guilty|/ˈɡɪlti/|형 죄책감을 느끼는, 유죄의|I felt *guilty* about lying.|나는 거짓말한 것이 죄책감이 들었다.|The court found him *guilty*.|법원은 그에게 유죄를 선고했다.
+2|halt|/hɔːlt/|동 멈추다;명 정지|The train *halted* at the station.|기차가 역에서 멈췄다.|Work came to a *halt*.|작업이 중단되었다.
+2|handle|/ˈhændl/|동 다루다;명 손잡이|She can *handle* difficult situations.|그녀는 어려운 상황을 잘 다룬다.|The door *handle* is broken.|문 손잡이가 고장 났다.
+2|harbor|/ˈhɑːrbər/|명 항구|The ship entered the *harbor*.|배가 항구로 들어왔다.|Fishing boats filled the *harbor*.|고깃배들이 항구를 가득 메웠다.
+2|hardship|/ˈhɑːrdʃɪp/|명 고난|The family faced great *hardship*.|그 가족은 큰 고난을 겪었다.|He endured *hardship* in his youth.|그는 젊은 시절 고난을 견뎠다.
+2|harm|/hɑːrm/|명 해;동 해를 끼치다|Too much sugar can do *harm*.|설탕을 너무 많이 먹으면 해가 될 수 있다.|The chemical *harms* fish.|그 화학 물질은 물고기에 해를 끼친다.
+2|harsh|/hɑːrʃ/|형 가혹한, 거친|The winter was *harsh* this year.|올해 겨울은 혹독했다.|He gave a *harsh* reply.|그는 매몰차게 대답했다.
+2|harvest|/ˈhɑːrvɪst/|명 수확;동 수확하다|The rice *harvest* was good.|벼 수확이 좋았다.|Farmers *harvest* apples in October.|농부들은 10월에 사과를 수확한다.
+2|hazard|/ˈhæzərd/|명 위험 요소|Ice on the road is a *hazard*.|도로의 얼음은 위험 요소다.|Smoking is a health *hazard*.|흡연은 건강에 해로운 위험 요소다.
+2|headline|/ˈhedlaɪn/|명 신문 표제|The *headline* shocked everyone.|그 헤드라인은 모두를 놀라게 했다.|I only read the *headlines*.|나는 표제만 읽는다.
+2|heal|/hiːl/|동 낫다, 치유하다|The cut will *heal* in a week.|그 상처는 일주일이면 나을 것이다.|Time *heals* all wounds.|시간은 모든 상처를 치유한다.
+2|heritage|/ˈherɪtɪdʒ/|명 유산|The palace is a world *heritage* site.|그 궁전은 세계유산이다.|We must protect our cultural *heritage*.|우리는 문화유산을 지켜야 한다.
+2|hesitate|/ˈhezɪteɪt/|동 망설이다|Don't *hesitate* to ask questions.|질문하기를 주저하지 마세요.|She *hesitated* before answering.|그녀는 대답하기 전에 망설였다.
+2|highlight|/ˈhaɪlaɪt/|동 강조하다;명 하이라이트|The teacher *highlighted* the key words.|선생님은 핵심 단어를 강조했다.|The trip's *highlight* was the boat ride.|여행의 하이라이트는 보트 타기였다.
+2|hire|/ˈhaɪər/|동 고용하다, 빌리다|The shop *hired* two new workers.|그 가게는 새 직원 두 명을 고용했다.|We *hired* a car for the weekend.|우리는 주말 동안 차를 빌렸다.
+2|historic|/hɪˈstɔːrɪk/|형 역사적인|It was a *historic* victory.|그것은 역사적인 승리였다.|We visited a *historic* castle.|우리는 역사적인 성을 방문했다.
+2|horizon|/həˈraɪzn/|명 수평선, 지평선|The sun sank below the *horizon*.|해가 수평선 아래로 졌다.|Travel can broaden your *horizons*.|여행은 시야를 넓혀 준다.
+2|hostile|/ˈhɑːstl/|형 적대적인|The crowd was *hostile* to the speaker.|군중은 연사에게 적대적이었다.|The animal became *hostile* when scared.|그 동물은 겁이 나자 공격적으로 변했다.
+2|household|/ˈhaʊshoʊld/|명 가구, 가정|Each *household* received a notice.|각 가정이 통지서를 받았다.|The *household* chores are shared.|집안일은 나누어 한다.
+2|huge|/hjuːdʒ/|형 거대한|The company made a *huge* profit.|그 회사는 막대한 이익을 냈다.|A *huge* wave hit the beach.|거대한 파도가 해변을 덮쳤다.
+2|humble|/ˈhʌmbl/|형 겸손한, 소박한|He is *humble* despite his success.|그는 성공했음에도 겸손하다.|They live in a *humble* house.|그들은 소박한 집에 산다.
+2|humid|/ˈhjuːmɪd/|형 습한|The summer here is hot and *humid*.|이곳의 여름은 덥고 습하다.|It feels *humid* before rain.|비 오기 전에는 후텁지근하다.
+2|humor|/ˈhjuːmər/|명 유머|He has a good sense of *humor*.|그는 유머 감각이 좋다.|Her *humor* made everyone laugh.|그녀의 유머가 모두를 웃게 했다.
+2|hunt|/hʌnt/|동 사냥하다, 찾다|Lions *hunt* in groups.|사자는 무리를 지어 사냥한다.|I *hunted* for my keys everywhere.|나는 열쇠를 찾아 사방을 뒤졌다.
+2|hybrid|/ˈhaɪbrɪd/|명 혼종;형 하이브리드의|He drives a *hybrid* car.|그는 하이브리드 자동차를 몬다.|The plant is a *hybrid* of two species.|그 식물은 두 종의 잡종이다.
+2|hygiene|/ˈhaɪdʒiːn/|명 위생|Good *hygiene* prevents illness.|좋은 위생 습관은 병을 예방한다.|Wash your hands for *hygiene*.|위생을 위해 손을 씻어라.

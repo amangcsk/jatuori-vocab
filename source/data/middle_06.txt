@@ -1,0 +1,68 @@
+1|meal|/miːl/|명 식사|Breakfast is the first *meal* of the day.|아침은 하루의 첫 식사다.|We shared a simple *meal*.|우리는 간단한 식사를 함께 했다.
+2|mean|/miːn/|동 의미하다;형 심술궂은|What does this word *mean*?|이 단어는 무슨 뜻이니?|Don't be *mean* to your sister.|여동생에게 못되게 굴지 마라.
+1|meat|/miːt/|명 고기|I don't eat *meat*.|나는 고기를 먹지 않는다.|The *meat* is cooking on the grill.|고기가 불판에서 익고 있다.
+1|medicine|/ˈmedsn/|명 약|Take this *medicine* after meals.|이 약을 식후에 드세요.|The doctor gave me some *medicine*.|의사가 내게 약을 주었다.
+1|meet|/miːt/|동 만나다|Nice to *meet* you.|만나서 반갑습니다.|Let's *meet* at the station.|역에서 만나자.
+2|member|/ˈmembər/|명 구성원, 회원|She is a *member* of the chess club.|그녀는 체스 동아리 회원이다.|Every family *member* helped.|가족 구성원 모두가 도왔다.
+2|memory|/ˈmeməri/|명 기억, 추억|I have a good *memory* of that day.|나는 그날의 좋은 추억이 있다.|He has a great *memory* for names.|그는 이름을 잘 기억한다.
+2|message|/ˈmesɪdʒ/|명 메시지, 전갈|I left a *message* on your phone.|네 전화에 메시지를 남겼어.|She sent me a text *message*.|그녀가 내게 문자 메시지를 보냈다.
+2|metal|/ˈmetl/|명 금속|The door is made of *metal*.|그 문은 금속으로 만들어졌다.|Iron is a kind of *metal*.|철은 금속의 일종이다.
+1|middle|/ˈmɪdl/|명 가운데|Stand in the *middle* of the room.|방 한가운데에 서라.|He woke up in the *middle* of the night.|그는 한밤중에 깼다.
+1|mind|/maɪnd/|명 마음, 생각;동 꺼리다|Keep an open *mind*.|열린 마음을 가져라.|Do you *mind* if I sit here?|여기 앉아도 될까요?
+1|minute|/ˈmɪnɪt/|명 분|Wait a *minute*.|잠깐만 기다려.|The bus comes every ten *minutes*.|버스는 10분마다 온다.
+1|mirror|/ˈmɪrər/|명 거울|She looked at herself in the *mirror*.|그녀는 거울 속의 자신을 보았다.|The *mirror* is on the wall.|거울이 벽에 걸려 있다.
+1|miss|/mɪs/|동 놓치다;동 그리워하다|I *missed* the school bus.|나는 스쿨버스를 놓쳤다.|I *miss* my grandmother.|나는 할머니가 그립다.
+1|mistake|/mɪˈsteɪk/|명 실수|I made a *mistake* in my test.|나는 시험에서 실수를 했다.|Everyone makes *mistakes*.|누구나 실수를 한다.
+2|model|/ˈmɒdl/|명 모형, 모델|He builds *model* airplanes.|그는 모형 비행기를 만든다.|She works as a fashion *model*.|그녀는 패션 모델로 일한다.
+2|modern|/ˈmɒdərn/|형 현대의|The city has *modern* buildings.|그 도시에는 현대식 건물들이 있다.|I like *modern* art.|나는 현대 미술을 좋아한다.
+1|money|/ˈmʌni/|명 돈|I saved some *money* for a bike.|나는 자전거를 사려고 돈을 모았다.|*Money* can't buy everything.|돈으로 모든 것을 살 수는 없다.
+1|monkey|/ˈmʌŋki/|명 원숭이|The *monkey* ate a banana.|원숭이가 바나나를 먹었다.|*Monkeys* live in trees.|원숭이는 나무에서 산다.
+1|month|/mʌnθ/|명 달, 개월|There are twelve *months* in a year.|1년은 열두 달이다.|My birthday is next *month*.|내 생일은 다음 달이다.
+1|moon|/muːn/|명 달|The *moon* is full tonight.|오늘 밤은 보름달이다.|We looked at the *moon*.|우리는 달을 바라보았다.
+1|morning|/ˈmɔːrnɪŋ/|명 아침, 오전|I jog every *morning*.|나는 매일 아침 조깅을 한다.|Good *morning*, Mom!|엄마, 안녕히 주무셨어요!
+1|mother|/ˈmʌðər/|명 어머니|My *mother* is a nurse.|우리 어머니는 간호사다.|He called his *mother*.|그는 어머니께 전화했다.
+1|mountain|/ˈmaʊntn/|명 산|We climbed a high *mountain*.|우리는 높은 산을 올랐다.|Snow covers the *mountain*.|산은 눈으로 덮여 있다.
+1|mouse|/maʊs/|명 쥐|A *mouse* ran across the floor.|쥐 한 마리가 바닥을 가로질러 달렸다.|The cat caught a *mouse*.|고양이가 쥐를 잡았다.
+1|mouth|/maʊθ/|명 입|Open your *mouth*, please.|입을 벌려 주세요.|Don't talk with your *mouth* full.|입에 음식을 넣고 말하지 마라.
+1|move|/muːv/|동 움직이다, 이사하다|Please *move* your bag.|가방을 좀 옮겨 주세요.|We will *move* to Daegu.|우리는 대구로 이사할 것이다.
+1|movie|/ˈmuːvi/|명 영화|Let's watch a *movie* tonight.|오늘 밤 영화를 보자.|The *movie* was exciting.|영화는 흥미진진했다.
+2|museum|/mjuˈziːəm/|명 박물관|We visited the history *museum*.|우리는 역사 박물관에 갔다.|The *museum* is closed on Mondays.|박물관은 월요일에 휴관한다.
+1|music|/ˈmjuːzɪk/|명 음악|I listen to *music* every day.|나는 매일 음악을 듣는다.|She plays *music* on the piano.|그녀는 피아노로 음악을 연주한다.
+1|name|/neɪm/|명 이름|What's your *name*?|이름이 뭐니?|Write your *name* here.|여기에 이름을 쓰세요.
+2|nature|/ˈneɪtʃər/|명 자연|I love walking in *nature*.|나는 자연 속을 걷는 것을 좋아한다.|Respect *nature* and wildlife.|자연과 야생 동물을 존중해라.
+1|near|/nɪr/|전 ~가까이에|The park is *near* my house.|공원은 우리 집 가까이에 있다.|Come *near* the fire.|불 가까이로 오렴.
+1|neck|/nek/|명 목|A giraffe has a long *neck*.|기린은 목이 길다.|She wore a scarf around her *neck*.|그녀는 목에 스카프를 둘렀다.
+1|need|/niːd/|동 필요하다|I *need* some help.|나는 도움이 필요하다.|Plants *need* sunlight.|식물은 햇빛이 필요하다.
+1|never|/ˈnevər/|부 결코 ~않다|I have *never* seen snow.|나는 눈을 본 적이 없다.|He is *never* late.|그는 절대 늦지 않는다.
+1|new|/nuː/|형 새로운|I got a *new* phone.|나는 새 휴대폰을 샀다.|She is *new* at our school.|그녀는 우리 학교에 새로 왔다.
+1|news|/nuːz/|명 소식, 뉴스|I have good *news*!|좋은 소식이 있어!|My dad watches the *news* every evening.|아빠는 매일 저녁 뉴스를 보신다.
+1|newspaper|/ˈnuːzpeɪpər/|명 신문|Grandpa reads the *newspaper* in the morning.|할아버지는 아침에 신문을 읽으신다.|The *newspaper* arrived early.|신문이 일찍 도착했다.
+1|night|/naɪt/|명 밤|The stars shine at *night*.|별은 밤에 빛난다.|Good *night*, sleep well.|잘 자요.
+1|noise|/nɔɪz/|명 소음|The *noise* woke me up.|그 소음에 내가 깼다.|Don't make so much *noise*.|너무 시끄럽게 하지 마라.
+1|noon|/nuːn/|명 정오|We eat lunch at *noon*.|우리는 정오에 점심을 먹는다.|The bell rang at *noon*.|종이 정오에 울렸다.
+1|north|/nɔːrθ/|명 북쪽|Birds flew *north* in spring.|새들이 봄에 북쪽으로 날아갔다.|The wind comes from the *north*.|바람은 북쪽에서 온다.
+1|nose|/noʊz/|명 코|A dog has a good *nose*.|개는 코가 좋다.|He blew his *nose*.|그는 코를 풀었다.
+2|note|/noʊt/|명 메모;동 주목하다|I left a *note* on the table.|나는 식탁 위에 메모를 남겼다.|Please *note* the date.|날짜에 유의하세요.
+1|nothing|/ˈnʌθɪŋ/|대 아무것도 ~않다|There is *nothing* in the box.|상자 안에는 아무것도 없다.|I know *nothing* about it.|나는 그것에 대해 아무것도 모른다.
+2|notice|/ˈnoʊtɪs/|동 알아차리다|I *noticed* a new poster.|나는 새 포스터를 알아차렸다.|Did you *notice* her haircut?|그녀의 머리 자른 걸 알아챘니?
+1|number|/ˈnʌmbər/|명 숫자, 번호|What is your phone *number*?|전화번호가 뭐예요?|Seven is my lucky *number*.|7은 내 행운의 숫자다.
+1|nurse|/nɜːrs/|명 간호사|The *nurse* took my temperature.|간호사가 내 체온을 쟀다.|My aunt is a *nurse*.|이모는 간호사다.
+1|ocean|/ˈoʊʃn/|명 바다, 대양|The *ocean* is very deep.|바다는 매우 깊다.|We swam in the *ocean*.|우리는 바다에서 수영했다.
+2|offer|/ˈɔːfər/|동 제공하다, 제안하다|She *offered* me a cup of tea.|그녀는 내게 차 한 잔을 권했다.|They *offered* to help us.|그들은 우리를 돕겠다고 제안했다.
+1|office|/ˈɔːfɪs/|명 사무실|My dad works in an *office*.|아빠는 사무실에서 일하신다.|The principal's *office* is upstairs.|교장실은 위층에 있다.
+1|often|/ˈɔːfn/|부 자주|I *often* walk to school.|나는 자주 걸어서 등교한다.|How *often* do you exercise?|얼마나 자주 운동하니?
+1|oil|/ɔɪl/|명 기름|Heat some *oil* in a pan.|팬에 기름을 달구세요.|The car needs more *oil*.|차에 기름이 더 필요하다.
+1|old|/oʊld/|형 나이 든, 오래된|My grandfather is very *old*.|할아버지는 연세가 아주 많으시다.|This is an *old* bridge.|이것은 오래된 다리다.
+1|once|/wʌns/|부 한 번, 한때|I go to the library *once* a week.|나는 일주일에 한 번 도서관에 간다.|*Once* there was a king.|옛날에 한 왕이 있었다.
+1|open|/ˈoʊpən/|동 열다;형 열린|*Open* your books to page ten.|책 10쪽을 펴라.|The store is *open* until nine.|그 가게는 아홉 시까지 연다.
+1|orange|/ˈɔːrɪndʒ/|명 오렌지;형 주황색의|I peeled an *orange*.|나는 오렌지 껍질을 벗겼다.|She wore an *orange* sweater.|그녀는 주황색 스웨터를 입었다.
+2|order|/ˈɔːrdər/|동 주문하다;명 순서|I *ordered* a pizza.|나는 피자를 주문했다.|Put the cards in *order*.|카드를 순서대로 놓아라.
+1|outside|/ˌaʊtˈsaɪd/|부 밖에|Let's play *outside*.|밖에서 놀자.|It's cold *outside*.|밖은 춥다.
+1|page|/peɪdʒ/|명 쪽, 페이지|Open to *page* twenty.|20쪽을 펴세요.|He tore a *page* out of the book.|그는 책에서 한 쪽을 찢었다.
+1|pain|/peɪn/|명 통증|I feel *pain* in my back.|등에 통증이 느껴진다.|The medicine took away the *pain*.|그 약이 통증을 없애 주었다.
+1|paint|/peɪnt/|동 페인트를 칠하다, 그리다|We *painted* the wall white.|우리는 벽을 하얗게 칠했다.|He likes to *paint* landscapes.|그는 풍경화 그리기를 좋아한다.
+1|pair|/per/|명 한 쌍, 켤레|I bought a *pair* of shoes.|나는 신발 한 켤레를 샀다.|Work in *pairs*.|둘씩 짝지어 활동하세요.
+1|paper|/ˈpeɪpər/|명 종이|Give me a sheet of *paper*.|종이 한 장만 주세요.|The bag is made of *paper*.|그 가방은 종이로 만들어졌다.
+1|parent|/ˈperənt/|명 부모|My *parents* work together.|우리 부모님은 함께 일하신다.|Ask your *parent* for permission.|부모님께 허락을 받아라.
+1|park|/pɑːrk/|명 공원;동 주차하다|We walk our dog in the *park*.|우리는 공원에서 개를 산책시킨다.|You can't *park* here.|여기에는 주차할 수 없습니다.
+1|party|/ˈpɑːrti/|명 파티|She is having a birthday *party*.|그녀는 생일 파티를 연다.|We danced at the *party*.|우리는 파티에서 춤을 췄다.

@@ -1,0 +1,78 @@
+2|barometer|/bəˈrɑːmɪtər/|명 기압계|The *barometer* showed falling pressure.|기압계는 기압이 떨어지고 있음을 보여 주었다.|Sailors watched the *barometer* before the storm.|선원들은 폭풍 전에 기압계를 살폈다.
+2|blizzard|/ˈblɪzərd/|명 눈보라|A fierce *blizzard* closed the roads.|거센 눈보라로 도로가 폐쇄되었다.|They were trapped by the *blizzard*.|그들은 눈보라에 갇혔다.
+2|cyclone|/ˈsaɪkloʊn/|명 사이클론|The *cyclone* destroyed many homes.|사이클론이 많은 집을 파괴했다.|Warnings were issued for the approaching *cyclone*.|다가오는 사이클론에 대한 경보가 발령되었다.
+2|drizzle|/ˈdrɪzl/|명 보슬비|A light *drizzle* fell all morning.|아침 내내 보슬비가 내렸다.|The *drizzle* made the streets slippery.|보슬비로 거리가 미끄러웠다.
+2|gale|/ɡeɪl/|명 강풍|A *gale* blew down the old tree.|강풍이 오래된 나무를 쓰러뜨렸다.|Ships stayed in port during the *gale*.|배들은 강풍 동안 항구에 머물렀다.
+2|humidity|/hjuːˈmɪdəti/|명 습도|The *humidity* is high in summer.|여름에는 습도가 높다.|Mold grows in areas of high *humidity*.|곰팡이는 습도가 높은 곳에서 자란다.
+2|hurricane|/ˈhɜːrəkeɪn/|명 허리케인|The *hurricane* hit the coast at night.|허리케인이 밤에 해안을 강타했다.|Residents evacuated before the *hurricane*.|주민들은 허리케인 전에 대피했다.
+2|meteorology|/ˌmiːtiəˈrɑːlədʒi/|명 기상학|She studied *meteorology* to forecast weather.|그녀는 날씨를 예보하려고 기상학을 공부했다.|*Meteorology* depends on satellite data.|기상학은 위성 자료에 의존한다.
+2|monsoon|/mɑːnˈsuːn/|명 몬순, 장마|The *monsoon* brings heavy rain to Asia.|몬순은 아시아에 폭우를 가져온다.|Farmers wait for the *monsoon* to plant rice.|농부들은 몬순을 기다렸다가 벼를 심는다.
+2|precipitation|/prɪˌsɪpɪˈteɪʃn/|명 강수|The region gets little *precipitation*.|그 지역은 강수량이 적다.|Rain and snow are forms of *precipitation*.|비와 눈은 강수의 형태다.
+2|squall|/skwɔːl/|명 스콜, 돌풍|A sudden *squall* rocked the boat.|갑작스러운 돌풍이 배를 흔들었다.|The sailors rode out the *squall*.|선원들은 돌풍을 견뎌 냈다.
+2|stratosphere|/ˈstrætəsfɪr/|명 성층권|The ozone layer lies in the *stratosphere*.|오존층은 성층권에 있다.|Jet planes fly near the *stratosphere*.|제트기는 성층권 가까이에서 난다.
+2|thermometer|/θərˈmɑːmɪtər/|명 온도계|The *thermometer* read thirty degrees.|온도계는 30도를 가리켰다.|She put a *thermometer* under his arm.|그녀는 그의 겨드랑이에 체온계를 꽂았다.
+2|tornado|/tɔːrˈneɪdoʊ/|명 토네이도|A *tornado* tore through the town.|토네이도가 마을을 휩쓸었다.|The family hid in the cellar during the *tornado*.|가족은 토네이도 동안 지하실에 숨었다.
+2|troposphere|/ˈtroʊpəsfɪr/|명 대류권|Weather occurs in the *troposphere*.|날씨는 대류권에서 일어난다.|The *troposphere* is the lowest layer of the air.|대류권은 대기의 가장 낮은 층이다.
+2|typhoon|/taɪˈfuːn/|명 태풍|The *typhoon* brought strong winds to Korea.|태풍이 한국에 강풍을 몰고 왔다.|Flights were canceled because of the *typhoon*.|태풍 때문에 항공편이 취소되었다.
+2|brackish|/ˈbrækɪʃ/|형 염분이 섞인|The estuary has *brackish* water.|하구에는 기수(汽水)가 있다.|Some fish thrive in *brackish* conditions.|일부 물고기는 기수 환경에서 잘 산다.
+2|buoy|/bɔɪ/|명 부표|A red *buoy* marks the channel.|붉은 부표가 수로를 표시한다.|The ship steered around the *buoy*.|배는 부표를 돌아서 갔다.
+2|coral|/ˈkɔːrəl/|명 산호|*Coral* grows in warm shallow seas.|산호는 따뜻하고 얕은 바다에서 자란다.|Tourists dive to see the colorful *coral*.|관광객들은 알록달록한 산호를 보려고 잠수한다.
+2|krill|/krɪl/|명 크릴|Whales feed on tiny *krill*.|고래는 작은 크릴을 먹는다.|*Krill* swim in huge swarms in the Antarctic.|크릴은 남극에서 거대한 무리를 지어 헤엄친다.
+2|seabed|/ˈsiːbed/|명 해저|Divers explored the *seabed*.|잠수부들은 해저를 탐사했다.|Cables lie on the *seabed*.|케이블은 해저에 놓여 있다.
+2|trench|/trentʃ/|명 해구, 도랑|The Mariana *Trench* is the deepest part of the ocean.|마리아나 해구는 바다에서 가장 깊은 곳이다.|Soldiers dug a *trench* for protection.|병사들은 방어를 위해 참호를 팠다.
+2|upwelling|/ʌpˈwelɪŋ/|명 용승|*Upwelling* brings cold, rich water to the surface.|용승은 차갑고 영양이 풍부한 물을 표면으로 끌어올린다.|Fish gather in areas of *upwelling*.|물고기는 용승 지역에 모인다.
+2|antler|/ˈæntlər/|명 뿔(사슴의)|The deer lost an *antler* in winter.|사슴은 겨울에 뿔 하나를 잃었다.|Male deer use *antlers* in fights.|수사슴은 싸울 때 뿔을 쓴다.
+2|beak|/biːk/|명 부리|The bird cracked the seed with its *beak*.|새는 부리로 씨앗을 깨뜨렸다.|A hawk has a sharp, curved *beak*.|매는 날카롭고 굽은 부리를 가졌다.
+2|carnivorous|/kɑːrˈnɪvərəs/|형 육식성의|The *carnivorous* plant traps insects.|그 식충 식물은 곤충을 잡는다.|Wolves are *carnivorous* animals.|늑대는 육식 동물이다.
+2|claw|/klɔː/|명 발톱|The cat sharpened its *claws* on the post.|고양이는 기둥에 발톱을 갈았다.|The crab has a large *claw*.|그 게는 큰 집게발을 가졌다.
+2|crustacean|/krʌˈsteɪʃn/|명 갑각류|Crabs and shrimp are *crustaceans*.|게와 새우는 갑각류다.|A *crustacean* has a hard outer shell.|갑각류는 단단한 외피를 가졌다.
+2|fin|/fɪn/|명 지느러미|The shark's *fin* appeared above the water.|상어의 지느러미가 수면 위로 나타났다.|Fish steer with their *fins*.|물고기는 지느러미로 방향을 잡는다.
+2|flipper|/ˈflɪpər/|명 지느러미발|Seals use their *flippers* to swim.|물개는 지느러미발로 헤엄친다.|The diver wore a pair of *flippers*.|잠수부는 오리발을 신었다.
+2|fur|/fɜːr/|명 모피, 털|The rabbit has soft white *fur*.|토끼는 부드러운 흰 털을 가졌다.|Thick *fur* keeps polar bears warm.|두꺼운 털은 북극곰을 따뜻하게 한다.
+2|hatch|/hætʃ/|동 부화하다|The eggs will *hatch* in two weeks.|알은 2주 뒤에 부화한다.|Baby turtles *hatch* on the beach.|아기 거북은 해변에서 부화한다.
+2|hoof|/huːf/|명 발굽|The horse's *hoof* needs care.|말의 발굽은 관리가 필요하다.|Deer leave *hoof* prints in the snow.|사슴은 눈 위에 발굽 자국을 남긴다.
+2|mane|/meɪn/|명 갈기|The male lion has a thick *mane*.|수사자는 두꺼운 갈기를 가졌다.|The horse tossed its *mane* in the wind.|말은 바람에 갈기를 휘날렸다.
+2|migratory|/ˈmaɪɡrətɔːri/|형 이동하는|*Migratory* birds travel thousands of miles.|철새는 수천 마일을 이동한다.|The wetland is a stop for *migratory* species.|그 습지는 철새들이 쉬어 가는 곳이다.
+2|nest|/nest/|명 둥지|The bird built a *nest* in the tree.|새는 나무에 둥지를 지었다.|Eagles return to the same *nest* each year.|독수리는 해마다 같은 둥지로 돌아온다.
+2|paw|/pɔː/|명 (동물의) 발|The dog put its *paw* on my knee.|개가 내 무릎에 발을 올렸다.|The cat left *paw* prints on the floor.|고양이는 바닥에 발자국을 남겼다.
+2|pouch|/paʊtʃ/|명 주머니|The baby kangaroo rides in its mother's *pouch*.|아기 캥거루는 어미의 주머니에서 지낸다.|He carried coins in a leather *pouch*.|그는 가죽 주머니에 동전을 넣고 다녔다.
+2|predatory|/ˈpredətɔːri/|형 포식하는|The hawk is a *predatory* bird.|매는 포식성 조류다.|*Predatory* animals hunt other animals.|포식 동물은 다른 동물을 사냥한다.
+2|quill|/kwɪl/|명 깃펜, 가시|He wrote with a feather *quill*.|그는 깃펜으로 썼다.|A porcupine has sharp *quills*.|호저는 날카로운 가시를 가졌다.
+2|shell|/ʃel/|명 껍데기|The turtle hid in its *shell*.|거북이는 껍데기 속에 숨었다.|She collected *shells* on the beach.|그녀는 해변에서 조개껍데기를 모았다.
+2|talon|/ˈtælən/|명 (맹금의) 발톱|The eagle gripped the fish with its *talons*.|독수리는 발톱으로 물고기를 움켜쥐었다.|An owl's *talons* are sharp.|올빼미의 발톱은 날카롭다.
+2|tentacle|/ˈtentəkl/|명 촉수|The octopus has eight *tentacles*.|문어는 촉수가 여덟 개다.|The jellyfish's *tentacles* can sting.|해파리의 촉수는 쏠 수 있다.
+2|tusk|/tʌsk/|명 엄니|The elephant's *tusks* are made of ivory.|코끼리의 엄니는 상아로 되어 있다.|The walrus uses its *tusks* to climb ice.|바다코끼리는 엄니로 얼음 위를 오른다.
+2|venom|/ˈvenəm/|명 독액|The snake's *venom* can kill.|그 뱀의 독은 치명적일 수 있다.|Scientists study spider *venom*.|과학자들은 거미 독을 연구한다.
+2|whisker|/ˈwɪskər/|명 수염|The cat's *whiskers* sense the air.|고양이의 수염은 공기의 흐름을 느낀다.|The mouse twitched its *whiskers*.|쥐는 수염을 실룩거렸다.
+2|wingspan|/ˈwɪŋspæn/|명 날개폭|The eagle has a *wingspan* of two meters.|그 독수리는 날개폭이 2미터다.|The plane's *wingspan* is huge.|그 비행기의 날개폭은 어마어마하다.
+2|composite|/kəmˈpɑːzɪt/|형 합성의;명 복합 재료|The bike frame is made of *composite* material.|그 자전거 프레임은 복합 소재로 만들어졌다.|A *composite* of several photos was used.|여러 사진을 합성한 것이 사용되었다.
+2|elastic|/ɪˈlæstɪk/|형 탄력 있는|Rubber is an *elastic* material.|고무는 탄성이 있는 재료다.|The schedule is *elastic* and can change.|일정은 유동적이라 바뀔 수 있다.
+2|porous|/ˈpɔːrəs/|형 다공성의|*Porous* rock holds water well.|다공성 암석은 물을 잘 머금는다.|A sponge is *porous*.|스펀지는 구멍이 많다.
+2|malleable|/ˈmæliəbl/|형 가단성의, 유연한|Gold is a *malleable* metal.|금은 가공하기 쉬운 금속이다.|Young minds are *malleable*.|어린 정신은 영향을 받기 쉽다.
+2|abrasive|/əˈbreɪsɪv/|형 연마성의, 거친|Sandpaper has an *abrasive* surface.|사포는 표면이 거칠다.|He has an *abrasive* personality.|그는 성격이 거슬린다.
+2|lustrous|/ˈlʌstrəs/|형 광택 있는|The pearl had a *lustrous* shine.|그 진주는 윤기 나는 광택이 있었다.|She had long, *lustrous* hair.|그녀는 윤기 나는 긴 머리를 가졌다.
+2|translucent|/trænsˈluːsnt/|형 반투명한|The *translucent* glass let in soft light.|반투명 유리는 부드러운 빛을 들였다.|The jellyfish is *translucent*.|해파리는 반투명하다.
+2|viscous|/ˈvɪskəs/|형 점성이 있는|Honey is a *viscous* liquid.|꿀은 점성이 있는 액체다.|The oil was thick and *viscous*.|그 기름은 걸쭉하고 끈적였다.
+2|volatile|/ˈvɑːlətl/|형 휘발성의, 불안정한|Gasoline is a *volatile* liquid.|휘발유는 휘발성 액체다.|The market has been *volatile* this year.|올해 시장은 변동이 심했다.
+2|vibrant|/ˈvaɪbrənt/|형 활기찬, 선명한|The city has a *vibrant* arts scene.|그 도시는 활기찬 예술 분야를 갖고 있다.|She wore a *vibrant* red dress.|그녀는 선명한 빨간 드레스를 입었다.
+2|serene|/səˈriːn/|형 고요한|The lake was calm and *serene*.|호수는 잔잔하고 고요했다.|She gave a *serene* smile.|그녀는 평온한 미소를 지었다.
+2|desolate|/ˈdesələt/|형 황량한|The island is a *desolate* place.|그 섬은 황량한 곳이다.|He felt *desolate* after the loss.|그는 상실 이후 쓸쓸함을 느꼈다.
+2|rugged|/ˈrʌɡɪd/|형 울퉁불퉁한|The coast is *rugged* and rocky.|해안은 울퉁불퉁하고 바위투성이다.|He had a *rugged* face.|그는 거친 인상의 얼굴이었다.
+2|secluded|/sɪˈkluːdɪd/|형 외딴|They found a *secluded* beach.|그들은 외딴 해변을 찾았다.|The monastery is in a *secluded* valley.|그 수도원은 외딴 계곡에 있다.
+2|submerge|/səbˈmɜːrdʒ/|동 잠기게 하다|The flood *submerged* the village.|홍수가 마을을 물에 잠기게 했다.|The submarine *submerged* quickly.|잠수함은 재빨리 잠수했다.
+2|subterranean|/ˌsʌbtəˈreɪniən/|형 지하의|The cave leads to a *subterranean* lake.|그 동굴은 지하 호수로 이어진다.|*Subterranean* tunnels connect the buildings.|지하 터널이 건물들을 연결한다.
+2|swarm|/swɔːrm/|명 떼;동 떼 지어 모이다|A *swarm* of bees filled the air.|벌 떼가 공중을 가득 메웠다.|Tourists *swarmed* around the monument.|관광객들이 기념물 주위로 몰려들었다.
+2|terrestrial|/təˈrestriəl/|형 지구의, 육지의|Deer are *terrestrial* animals.|사슴은 육상 동물이다.|Scientists search for *terrestrial* planets.|과학자들은 지구형 행성을 찾는다.
+2|torrent|/ˈtɔːrənt/|명 급류, 쇄도|A *torrent* of water rushed down the hill.|급류가 언덕을 쏟아져 내렸다.|She received a *torrent* of messages.|그녀는 메시지 세례를 받았다.
+2|turbulent|/ˈtɜːrbjələnt/|형 거친, 격동의|The plane hit *turbulent* air.|비행기가 난기류를 만났다.|It was a *turbulent* time in history.|그것은 역사의 격동기였다.
+2|undergrowth|/ˈʌndərɡroʊθ/|명 덤불|Deer hid in the thick *undergrowth*.|사슴은 빽빽한 덤불에 숨었다.|They cut through the *undergrowth*.|그들은 덤불을 헤치고 나아갔다.
+2|uninhabited|/ˌʌnɪnˈhæbɪtɪd/|형 사람이 살지 않는|The island is *uninhabited*.|그 섬은 무인도다.|They found an *uninhabited* cabin.|그들은 사람이 살지 않는 오두막을 발견했다.
+2|verdant|/ˈvɜːrdnt/|형 푸릇푸릇한|The hills were *verdant* after the rain.|비가 온 뒤 언덕은 푸르렀다.|They walked through a *verdant* valley.|그들은 푸른 계곡을 걸었다.
+2|vigilant|/ˈvɪdʒɪlənt/|형 경계하는|Guards remained *vigilant* all night.|경비병들은 밤새 경계를 늦추지 않았다.|Be *vigilant* when traveling alone.|혼자 여행할 때는 경계를 늦추지 마라.
+2|vulnerability|/ˌvʌlnərəˈbɪləti/|명 취약성|The report shows the *vulnerability* of coastal towns.|보고서는 해안 마을의 취약성을 보여 준다.|He admitted his *vulnerability*.|그는 자신의 연약함을 인정했다.
+2|wane|/weɪn/|동 줄어들다|The moon *wanes* after the full moon.|달은 보름 이후 이지러진다.|Public interest began to *wane*.|대중의 관심이 시들기 시작했다.
+2|wither|/ˈwɪðər/|동 시들다|The flowers *withered* in the heat.|꽃이 더위에 시들었다.|The plant *withered* without water.|그 식물은 물 없이 시들었다.
+2|zealous|/ˈzeləs/|형 열성적인|He is a *zealous* supporter of the cause.|그는 그 대의의 열성적인 지지자다.|The *zealous* fans cheered all night.|열광적인 팬들은 밤새 응원했다.
+2|abundance|/əˈbʌndəns/|명 풍부함|Fruit grows in *abundance* on the island.|그 섬에는 과일이 풍부하게 자란다.|There is an *abundance* of evidence.|증거가 풍부하다.
+2|sparse|/spɑːrs/|형 드문드문한|The desert has *sparse* vegetation.|사막에는 식생이 드물다.|The audience was *sparse*.|관객이 드물었다.
+2|stagnant|/ˈstæɡnənt/|형 정체된|The pond water was *stagnant*.|연못물은 고여 있었다.|The economy remained *stagnant*.|경제는 정체된 채였다.

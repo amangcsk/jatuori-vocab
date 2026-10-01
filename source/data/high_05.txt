@@ -1,0 +1,92 @@
+2|eager|/ˈiːɡər/|형 열망하는|The children were *eager* to start the trip.|아이들은 여행을 몹시 시작하고 싶어 했다.|She is *eager* to learn.|그녀는 배우고 싶어 안달이다.
+2|earnest|/ˈɜːrnɪst/|형 진지한|He made an *earnest* effort to win.|그는 이기려고 진지하게 노력했다.|She spoke in an *earnest* voice.|그녀는 진지한 목소리로 말했다.
+2|ecology|/iˈkɑːlədʒi/|명 생태학|She studies the *ecology* of wetlands.|그녀는 습지의 생태를 연구한다.|Pollution harms the *ecology* of the river.|오염은 강의 생태계를 해친다.
+2|economy|/ɪˈkɑːnəmi/|명 경제|The *economy* grew last year.|작년에 경제가 성장했다.|Tourism helps the local *economy*.|관광은 지역 경제에 도움이 된다.
+2|edge|/edʒ/|명 가장자리|He stood at the *edge* of the cliff.|그는 절벽 가장자리에 서 있었다.|Don't put the cup on the *edge* of the table.|컵을 탁자 가장자리에 놓지 마라.
+2|edit|/ˈedɪt/|동 편집하다|She *edited* the video herself.|그녀는 직접 영상을 편집했다.|Please *edit* my essay for mistakes.|제 에세이의 오류를 고쳐 주세요.
+2|edition|/ɪˈdɪʃn/|명 판, 호|This is the first *edition* of the book.|이것은 그 책의 초판이다.|The new *edition* has color pictures.|새 판에는 컬러 사진이 있다.
+2|educate|/ˈedʒukeɪt/|동 교육하다|Schools *educate* young people.|학교는 젊은이들을 교육한다.|He was *educated* in London.|그는 런던에서 교육받았다.
+2|effect|/ɪˈfekt/|명 효과, 영향|The medicine had a quick *effect*.|그 약은 효과가 빨랐다.|Sleep has a big *effect* on mood.|수면은 기분에 큰 영향을 미친다.
+2|effective|/ɪˈfektɪv/|형 효과적인|This is an *effective* way to study.|이것은 효과적인 공부 방법이다.|The new law is *effective* from May.|새 법은 5월부터 효력이 있다.
+2|effort|/ˈefərt/|명 노력|She made an *effort* to speak slowly.|그녀는 천천히 말하려고 노력했다.|It took a lot of *effort* to finish.|끝내는 데 많은 노력이 들었다.
+2|elaborate|/ɪˈlæbərət/|형 정교한|She wore an *elaborate* costume.|그녀는 정교한 의상을 입었다.|They made *elaborate* plans.|그들은 세밀한 계획을 세웠다.
+2|elect|/ɪˈlekt/|동 선출하다|The class *elected* a new president.|반은 새 회장을 선출했다.|She was *elected* mayor.|그녀는 시장으로 선출되었다.
+2|electric|/ɪˈlektrɪk/|형 전기의|He drives an *electric* car.|그는 전기 자동차를 몬다.|Don't touch the *electric* wire.|전선을 만지지 마라.
+2|element|/ˈelɪmənt/|명 요소, 원소|Water is an important *element* of life.|물은 생명의 중요한 요소다.|Oxygen is a chemical *element*.|산소는 화학 원소다.
+2|eliminate|/ɪˈlɪmɪneɪt/|동 제거하다|We must *eliminate* waste.|우리는 낭비를 없애야 한다.|Our team was *eliminated* in the semifinal.|우리 팀은 준결승에서 탈락했다.
+2|elite|/eɪˈliːt/|명 엘리트, 정예|Only the *elite* players made the team.|엘리트 선수들만 팀에 뽑혔다.|The school trains the nation's *elite*.|그 학교는 나라의 엘리트를 길러 낸다.
+2|embarrass|/ɪmˈbærəs/|동 당황하게 하다|His question *embarrassed* her.|그의 질문이 그녀를 당황하게 했다.|I felt *embarrassed* about my mistake.|나는 내 실수가 창피했다.
+2|embrace|/ɪmˈbreɪs/|동 포옹하다, 받아들이다|She *embraced* her friend at the station.|그녀는 역에서 친구를 껴안았다.|The school *embraced* new technology.|학교는 신기술을 받아들였다.
+2|emotion|/ɪˈmoʊʃn/|명 감정|She could not hide her *emotion*.|그녀는 감정을 숨길 수 없었다.|Music can express *emotion*.|음악은 감정을 표현할 수 있다.
+2|emphasis|/ˈemfəsɪs/|명 강조|The school puts *emphasis* on reading.|학교는 독서를 강조한다.|He placed *emphasis* on teamwork.|그는 팀워크에 중점을 두었다.
+2|emphasize|/ˈemfəsaɪz/|동 강조하다|The teacher *emphasized* the importance of sleep.|선생님은 수면의 중요성을 강조했다.|He *emphasized* the main point.|그는 요점을 강조했다.
+2|employ|/ɪmˈplɔɪ/|동 고용하다|The factory *employs* two hundred workers.|그 공장은 노동자 200명을 고용하고 있다.|She was *employed* as a nurse.|그녀는 간호사로 고용되었다.
+2|employee|/ɪmˈplɔɪiː/|명 직원|Each *employee* has a name tag.|직원마다 이름표가 있다.|The company has fifty *employees*.|그 회사는 직원이 50명이다.
+2|enable|/ɪˈneɪbl/|동 가능하게 하다|The app *enables* you to learn anywhere.|그 앱은 어디서든 배울 수 있게 해 준다.|Money *enabled* her to travel.|돈 덕분에 그녀는 여행할 수 있었다.
+2|enclose|/ɪnˈkloʊz/|동 둘러싸다, 동봉하다|A wall *encloses* the garden.|담이 정원을 둘러싸고 있다.|I *enclosed* a photo with the letter.|나는 편지에 사진을 동봉했다.
+2|encounter|/ɪnˈkaʊntər/|동 마주치다;명 만남|We *encountered* a bear on the trail.|우리는 산길에서 곰을 맞닥뜨렸다.|It was a strange *encounter*.|그것은 이상한 만남이었다.
+2|encourage|/ɪnˈkɜːrɪdʒ/|동 격려하다|My teacher *encouraged* me to try again.|선생님은 내가 다시 도전하도록 격려하셨다.|Praise *encourages* children.|칭찬은 아이들에게 용기를 준다.
+2|endanger|/ɪnˈdeɪndʒər/|동 위험에 빠뜨리다|Smoking *endangers* your health.|흡연은 건강을 위험에 빠뜨린다.|The animal is an *endangered* species.|그 동물은 멸종 위기종이다.
+2|endeavor|/ɪnˈdevər/|동 노력하다;명 노력|We *endeavor* to provide good service.|우리는 좋은 서비스를 제공하려 노력한다.|It was a team *endeavor*.|그것은 팀의 노력이었다.
+2|endure|/ɪnˈdʊr/|동 견디다|She *endured* years of hardship.|그녀는 여러 해의 고난을 견뎠다.|I can't *endure* this heat.|나는 이 더위를 참을 수 없다.
+2|enforce|/ɪnˈfɔːrs/|동 시행하다, 집행하다|Police *enforce* the law.|경찰은 법을 집행한다.|The school *enforces* a dress code.|학교는 복장 규정을 시행한다.
+2|engage|/ɪnˈɡeɪdʒ/|동 참여하다, 끌다|Students *engaged* in a lively discussion.|학생들은 활발한 토론에 참여했다.|The game *engages* children's minds.|그 게임은 아이들의 마음을 끈다.
+2|engineer|/ˌendʒɪˈnɪr/|명 기술자, 공학자|He works as a software *engineer*.|그는 소프트웨어 엔지니어로 일한다.|The *engineer* designed the bridge.|기술자가 다리를 설계했다.
+2|enhance|/ɪnˈhæns/|동 높이다, 향상시키다|Music can *enhance* your mood.|음악은 기분을 좋게 할 수 있다.|The garden *enhances* the beauty of the house.|정원이 집의 아름다움을 더해 준다.
+2|enormous|/ɪˈnɔːrməs/|형 거대한|The elephant is an *enormous* animal.|코끼리는 거대한 동물이다.|They spent an *enormous* amount of money.|그들은 엄청난 돈을 썼다.
+2|ensure|/ɪnˈʃʊr/|동 보장하다, 확실히 하다|Please *ensure* the door is locked.|문이 잠겼는지 확인해 주세요.|The law *ensures* equal rights.|그 법은 평등한 권리를 보장한다.
+2|entertain|/ˌentərˈteɪn/|동 즐겁게 하다, 대접하다|The clown *entertained* the children.|광대가 아이들을 즐겁게 했다.|They *entertained* guests at home.|그들은 집에서 손님을 대접했다.
+2|enthusiasm|/ɪnˈθuːziæzəm/|명 열정|She spoke with great *enthusiasm*.|그녀는 큰 열정으로 이야기했다.|His *enthusiasm* for science is clear.|과학에 대한 그의 열정은 분명하다.
+2|entire|/ɪnˈtaɪər/|형 전체의|He read the *entire* book in a day.|그는 하루 만에 책 전체를 읽었다.|The *entire* class passed the test.|반 전체가 시험에 통과했다.
+2|entitle|/ɪnˈtaɪtl/|동 자격을 주다, 제목을 붙이다|This ticket *entitles* you to a free drink.|이 표로 음료를 무료로 받을 수 있다.|The book is *entitled* "Dreams".|그 책의 제목은 "꿈"이다.
+2|entrance|/ˈentrəns/|명 입구, 입학|Meet me at the *entrance*.|입구에서 만나자.|She passed the *entrance* exam.|그녀는 입학시험에 합격했다.
+2|envelope|/ˈenvəloʊp/|명 봉투|Put the letter in an *envelope*.|편지를 봉투에 넣으세요.|He sealed the *envelope*.|그는 봉투를 봉했다.
+2|envy|/ˈenvi/|명 부러움;동 부러워하다|I felt *envy* when I saw his new bike.|그의 새 자전거를 보고 부러웠다.|She *envies* her sister's talent.|그녀는 언니의 재능을 부러워한다.
+2|epidemic|/ˌepɪˈdemɪk/|명 유행병|The flu *epidemic* closed many schools.|독감 유행으로 많은 학교가 문을 닫았다.|Doctors fought the *epidemic*.|의사들은 전염병과 싸웠다.
+2|episode|/ˈepɪsoʊd/|명 에피소드, 일화|I watched the last *episode* of the series.|나는 그 시리즈의 마지막 편을 보았다.|It was a funny *episode* in my life.|그것은 내 인생의 웃긴 일화였다.
+2|equip|/ɪˈkwɪp/|동 갖추다|The lab is *equipped* with new computers.|그 실험실에는 새 컴퓨터가 갖춰져 있다.|The school *equips* students with useful skills.|학교는 학생들에게 유용한 기술을 갖추게 한다.
+2|equivalent|/ɪˈkwɪvələnt/|형 동등한;명 상당하는 것|One dollar is *equivalent* to about a thousand won.|1달러는 대략 천 원에 해당한다.|What is the Korean *equivalent* of this word?|이 단어에 해당하는 한국어가 무엇이니?
+2|era|/ˈɪrə/|명 시대|We live in the *era* of the smartphone.|우리는 스마트폰의 시대에 산다.|The film is set in the Victorian *era*.|그 영화는 빅토리아 시대가 배경이다.
+2|erase|/ɪˈreɪs/|동 지우다|Please *erase* the board.|칠판을 지워 주세요.|He *erased* the file by mistake.|그는 실수로 파일을 지웠다.
+2|error|/ˈerər/|명 오류, 실수|There is an *error* in the report.|보고서에 오류가 있다.|The computer showed an *error* message.|컴퓨터에 오류 메시지가 떴다.
+2|essay|/ˈeseɪ/|명 에세이, 수필|I wrote an *essay* about my hero.|나는 내 영웅에 관한 에세이를 썼다.|The *essay* is due on Monday.|그 에세이는 월요일까지 제출해야 한다.
+2|essence|/ˈesns/|명 본질|The *essence* of the story is hope.|그 이야기의 본질은 희망이다.|Time is of the *essence*.|시간이 가장 중요하다.
+2|essential|/ɪˈsenʃl/|형 필수적인|Water is *essential* for life.|물은 생명에 필수적이다.|Good sleep is *essential* for students.|충분한 수면은 학생에게 필수적이다.
+2|establish|/ɪˈstæblɪʃ/|동 설립하다, 확립하다|The school was *established* in 1950.|그 학교는 1950년에 설립되었다.|They *established* a new club.|그들은 새 동아리를 만들었다.
+2|estate|/ɪˈsteɪt/|명 사유지, 재산|The family lives on a large *estate*.|그 가족은 넓은 사유지에 산다.|He works in real *estate*.|그는 부동산업에 종사한다.
+2|estimate|/ˈestɪmeɪt/|동 추정하다;명 견적|They *estimate* that fifty people came.|그들은 오십 명쯤 왔다고 추정한다.|Can I get an *estimate* for the repair?|수리 견적을 받을 수 있을까요?
+2|ethnic|/ˈeθnɪk/|형 민족의|The city has many *ethnic* restaurants.|그 도시에는 여러 민족 음식점이 있다.|They celebrate their *ethnic* heritage.|그들은 자신들의 민족 유산을 기념한다.
+2|evaluate|/ɪˈvæljueɪt/|동 평가하다|Teachers *evaluate* students' work.|교사는 학생들의 과제를 평가한다.|We need to *evaluate* the results.|우리는 결과를 평가해야 한다.
+2|evaporate|/ɪˈvæpəreɪt/|동 증발하다|Water *evaporates* in the sun.|물은 햇빛에 증발한다.|The puddle *evaporated* by noon.|웅덩이는 정오쯤 말라 버렸다.
+2|eventually|/ɪˈventʃuəli/|부 결국|*Eventually* the rain stopped.|결국 비가 그쳤다.|He *eventually* found his keys.|그는 마침내 열쇠를 찾았다.
+2|evident|/ˈevɪdənt/|형 분명한|It was *evident* that she was upset.|그녀가 화가 났다는 것이 분명했다.|The result was *evident* to everyone.|결과는 모두에게 분명했다.
+2|evil|/ˈiːvl/|형 사악한;명 악|The story is about an *evil* witch.|그 이야기는 사악한 마녀에 관한 것이다.|Good defeats *evil* in the end.|결국 선이 악을 이긴다.
+2|evolve|/ɪˈvɑːlv/|동 진화하다, 발전하다|Birds *evolved* from dinosaurs.|새는 공룡에서 진화했다.|The game has *evolved* over the years.|그 게임은 해마다 발전해 왔다.
+2|exceed|/ɪkˈsiːd/|동 초과하다|Do not *exceed* the speed limit.|제한 속도를 초과하지 마세요.|The cost *exceeded* our budget.|비용이 예산을 초과했다.
+2|exception|/ɪkˈsepʃn/|명 예외|Every rule has an *exception*.|모든 규칙에는 예외가 있다.|Everyone, without *exception*, must attend.|예외 없이 모두 참석해야 한다.
+2|excess|/ɪkˈses/|명 초과, 과잉|Remove the *excess* water.|남은 물을 제거해라.|He eats in *excess*.|그는 과식한다.
+2|exclude|/ɪkˈskluːd/|동 제외하다|Please don't *exclude* anyone.|아무도 제외하지 마세요.|The price *excludes* tax.|가격에는 세금이 포함되지 않는다.
+2|executive|/ɪɡˈzekjətɪv/|명 임원, 경영진|She is an *executive* at a large bank.|그녀는 대형 은행의 임원이다.|The *executive* signed the contract.|그 임원이 계약서에 서명했다.
+2|exhaust|/ɪɡˈzɔːst/|동 지치게 하다, 다 써 버리다|The long run *exhausted* him.|오래 달려서 그는 녹초가 되었다.|We *exhausted* our supply of water.|우리는 물을 다 써 버렸다.
+2|exhibit|/ɪɡˈzɪbɪt/|동 전시하다;명 전시품|The artist will *exhibit* her paintings.|그 화가는 자신의 그림을 전시할 것이다.|The museum has a new *exhibit*.|박물관에 새 전시품이 있다.
+2|exist|/ɪɡˈzɪst/|동 존재하다|Dinosaurs no longer *exist*.|공룡은 더 이상 존재하지 않는다.|Do ghosts really *exist*?|유령이 정말 존재할까?
+2|exit|/ˈeɡzɪt/|명 출구;동 나가다|Use the emergency *exit*.|비상구를 이용하세요.|Please *exit* through the back door.|뒷문으로 나가 주세요.
+2|exotic|/ɪɡˈzɑːtɪk/|형 이국적인|We ate *exotic* fruit on the trip.|우리는 여행에서 이국적인 과일을 먹었다.|She keeps *exotic* birds as pets.|그녀는 이국적인 새를 반려동물로 키운다.
+2|expand|/ɪkˈspænd/|동 확장하다, 팽창하다|The company plans to *expand* abroad.|그 회사는 해외로 확장할 계획이다.|Metal *expands* when heated.|금속은 가열되면 팽창한다.
+2|expedition|/ˌekspəˈdɪʃn/|명 탐험, 원정|They joined an *expedition* to the South Pole.|그들은 남극 탐험에 참여했다.|The *expedition* took six months.|그 탐험은 여섯 달이 걸렸다.
+2|expense|/ɪkˈspens/|명 비용|Travel *expenses* were high.|여행 경비가 많이 들었다.|He finished the project at great *expense*.|그는 큰 비용을 들여 프로젝트를 끝냈다.
+2|experiment|/ɪkˈsperɪmənt/|명 실험;동 실험하다|We did an *experiment* in science class.|우리는 과학 시간에 실험을 했다.|Scientists *experimented* with new materials.|과학자들은 새로운 재료로 실험했다.
+2|expert|/ˈekspɜːrt/|명 전문가|She is an *expert* on birds.|그녀는 새 전문가다.|Ask an *expert* for advice.|전문가에게 조언을 구해라.
+2|expire|/ɪkˈspaɪər/|동 만료되다|My passport *expires* next month.|내 여권은 다음 달에 만료된다.|The coupon has *expired*.|쿠폰이 만료되었다.
+2|explode|/ɪkˈsploʊd/|동 폭발하다|The firework *exploded* in the sky.|불꽃이 하늘에서 터졌다.|The bomb *exploded* with a loud noise.|폭탄이 큰 소리를 내며 폭발했다.
+2|exploit|/ɪkˈsplɔɪt/|동 이용하다, 착취하다|Companies *exploit* natural resources.|기업들은 천연자원을 이용한다.|It is wrong to *exploit* workers.|노동자를 착취하는 것은 잘못이다.
+2|explore|/ɪkˈsplɔːr/|동 탐험하다, 탐구하다|We *explored* the cave with flashlights.|우리는 손전등으로 동굴을 탐험했다.|Scientists *explore* the deep sea.|과학자들은 심해를 탐사한다.
+2|export|/ˈekspɔːrt/|동 수출하다;명 수출|Korea *exports* cars and phones.|한국은 자동차와 휴대폰을 수출한다.|Rice is a major *export*.|쌀은 주요 수출품이다.
+2|expose|/ɪkˈspoʊz/|동 노출시키다, 폭로하다|Don't *expose* the film to light.|필름을 빛에 노출시키지 마라.|The reporter *exposed* the fraud.|기자는 그 사기를 폭로했다.
+2|express|/ɪkˈspres/|동 표현하다;형 급행의|She *expressed* her thanks in a card.|그녀는 카드로 감사를 표현했다.|We took the *express* train.|우리는 급행열차를 탔다.
+2|extend|/ɪkˈstend/|동 연장하다, 뻗다|They *extended* the deadline by a week.|그들은 마감을 일주일 연장했다.|The road *extends* to the sea.|길은 바다까지 뻗어 있다.
+2|extent|/ɪkˈstent/|명 범위, 정도|The *extent* of the damage was huge.|피해의 범위는 엄청났다.|To some *extent*, you are right.|어느 정도는 네 말이 맞다.
+2|external|/ɪkˈstɜːrnl/|형 외부의|The *external* walls are painted white.|외벽은 흰색으로 칠해져 있다.|He connected an *external* drive.|그는 외장 드라이브를 연결했다.
+2|extra|/ˈekstrə/|형 추가의|Do you need an *extra* blanket?|담요가 더 필요하세요?|She gets *extra* pay on weekends.|그녀는 주말에 추가 수당을 받는다.
+2|extraordinary|/ɪkˈstrɔːrdneri/|형 비범한, 놀라운|She has an *extraordinary* memory.|그녀는 놀라운 기억력을 가졌다.|It was an *extraordinary* day.|비범한 하루였다.
+2|extreme|/ɪkˈstriːm/|형 극심한, 극단적인|The desert has *extreme* heat.|사막은 극심한 더위가 있다.|He enjoys *extreme* sports.|그는 익스트림 스포츠를 즐긴다.

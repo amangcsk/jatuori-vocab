@@ -1,0 +1,107 @@
+2|abolish|/əˈbɑːlɪʃ/|동 폐지하다|Britain *abolished* the slave trade in 1807.|영국은 1807년에 노예 무역을 폐지했다.|The city voted to *abolish* the old tax.|시는 옛 세금을 폐지하기로 표결했다.
+2|agrarian|/əˈɡreriən/|형 농업의|The nation was largely *agrarian* until the 1900s.|그 나라는 1900년대까지 대체로 농업 사회였다.|*Agrarian* reform gave land to farmers.|농지 개혁은 농민에게 땅을 주었다.
+2|antiquity|/ænˈtɪkwəti/|명 고대|Many temples survive from *antiquity*.|많은 신전이 고대로부터 남아 있다.|The vase is an object of great *antiquity*.|그 꽃병은 매우 오래된 유물이다.
+2|archaeology|/ˌɑːrkiˈɑːlədʒi/|명 고고학|*Archaeology* reveals how ancient people lived.|고고학은 고대인들의 생활을 밝혀 준다.|She studied *archaeology* in Egypt.|그녀는 이집트에서 고고학을 공부했다.
+2|archive|/ˈɑːrkaɪv/|명 기록 보관소|Historians searched the national *archive*.|역사가들은 국립 기록 보관소를 뒤졌다.|Old photographs are kept in the *archive*.|오래된 사진들은 보관소에 있다.
+2|artifact|/ˈɑːrtɪfækt/|명 유물, 인공물|The museum displays ancient *artifacts*.|박물관은 고대 유물을 전시한다.|Archaeologists found a bronze *artifact*.|고고학자들은 청동 유물을 발견했다.
+2|baroque|/bəˈroʊk/|형 바로크 양식의|Bach wrote *baroque* music.|바흐는 바로크 음악을 작곡했다.|The church has a *baroque* design.|그 교회는 바로크 양식이다.
+2|besiege|/bɪˈsiːdʒ/|동 포위 공격하다|The army *besieged* the city for months.|군대는 몇 달 동안 도시를 포위했다.|Reporters *besieged* the actor.|기자들이 그 배우를 에워쌌다.
+2|chronicle|/ˈkrɑːnɪkl/|명 연대기;동 기록하다|The monk wrote a *chronicle* of the kingdom.|수도사는 왕국의 연대기를 썼다.|The book *chronicles* the history of the town.|그 책은 마을의 역사를 기록한다.
+2|chronology|/krəˈnɑːlədʒi/|명 연대순|The museum arranged the tools in *chronology*.|박물관은 도구를 연대순으로 배열했다.|A *chronology* of events helps us understand.|사건의 연대표는 이해를 돕는다.
+2|classical|/ˈklæsɪkl/|형 고전의|He studies *classical* Greek literature.|그는 고전 그리스 문학을 공부한다.|She plays *classical* music on the piano.|그녀는 피아노로 클래식 음악을 연주한다.
+2|cathedral|/kəˈθiːdrəl/|명 대성당|The *cathedral* took centuries to build.|그 대성당은 짓는 데 수 세기가 걸렸다.|Tourists admired the *cathedral*'s stained glass.|관광객들은 대성당의 스테인드글라스에 감탄했다.
+2|ceramic|/səˈræmɪk/|형 도자기의|The *ceramic* bowl is hundreds of years old.|그 도자기 그릇은 수백 년 되었다.|The artist makes *ceramic* tiles.|그 예술가는 도자기 타일을 만든다.
+2|colossal|/kəˈlɑːsl/|형 거대한|The statue was *colossal* in size.|그 조각상은 크기가 거대했다.|It was a *colossal* waste of money.|그것은 엄청난 돈 낭비였다.
+2|conquest|/ˈkɑːŋkwest/|명 정복|The *conquest* of Peru changed history.|페루의 정복은 역사를 바꿨다.|Her *conquest* of Everest made news.|그녀의 에베레스트 정복은 뉴스가 되었다.
+2|crusade|/kruːˈseɪd/|명 십자군, 운동|The knights set out on a *crusade*.|기사들은 십자군 원정에 나섰다.|She led a *crusade* against pollution.|그녀는 오염 반대 운동을 이끌었다.
+2|decree|/dɪˈkriː/|명 법령, 포고|The king issued a *decree* on taxes.|왕은 세금에 대한 칙령을 내렸다.|The government *decreed* a day of mourning.|정부는 애도의 날을 선포했다.
+2|deity|/ˈdeɪəti/|명 신|The Greeks worshipped many *deities*.|그리스인들은 많은 신을 숭배했다.|A temple was built for the sun *deity*.|태양신을 위한 신전이 지어졌다.
+2|edict|/ˈiːdɪkt/|명 칙령|The emperor's *edict* banned the practice.|황제의 칙령은 그 관행을 금했다.|An *edict* was posted in every town.|칙령이 모든 마을에 게시되었다.
+2|epoch|/ˈepɑːk/|명 시대|The invention marked a new *epoch*.|그 발명은 새로운 시대를 열었다.|The Ice Age was a long *epoch*.|빙하기는 긴 시대였다.
+2|fortress|/ˈfɔːrtrəs/|명 요새|The *fortress* stood on a high hill.|요새는 높은 언덕 위에 서 있었다.|The army could not capture the *fortress*.|군대는 요새를 점령하지 못했다.
+2|fresco|/ˈfreskoʊ/|명 프레스코화|Michelangelo painted a *fresco* on the ceiling.|미켈란젤로는 천장에 프레스코화를 그렸다.|The *fresco* has survived for centuries.|그 프레스코화는 수 세기를 견뎌 왔다.
+2|genealogy|/ˌdʒiːniˈɑːlədʒi/|명 족보, 계보|He researched his family's *genealogy*.|그는 자기 가문의 족보를 조사했다.|*Genealogy* has become a popular hobby.|계보 조사는 인기 있는 취미가 되었다.
+2|gothic|/ˈɡɑːθɪk/|형 고딕 양식의|The *Gothic* cathedral has pointed arches.|고딕 대성당에는 뾰족한 아치가 있다.|She loves *Gothic* novels.|그녀는 고딕 소설을 좋아한다.
+2|guild|/ɡɪld/|명 길드, 동업 조합|Medieval craftsmen joined a *guild*.|중세 장인들은 길드에 가입했다.|The *guild* set prices for goods.|길드는 상품 가격을 정했다.
+2|heresy|/ˈherəsi/|명 이단|The church punished *heresy* harshly.|교회는 이단을 가혹하게 처벌했다.|His new theory was seen as *heresy*.|그의 새 이론은 이단으로 여겨졌다.
+2|hieroglyph|/ˈhaɪrəɡlɪf/|명 상형 문자|*Hieroglyphs* cover the temple walls.|상형 문자가 신전 벽을 덮고 있다.|Scholars finally decoded the *hieroglyphs*.|학자들은 마침내 상형 문자를 해독했다.
+2|humanism|/ˈhjuːmənɪzəm/|명 인문주의|Renaissance *humanism* revived classical learning.|르네상스 인문주의는 고전 학문을 부활시켰다.|*Humanism* focuses on human values.|인문주의는 인간의 가치에 중점을 둔다.
+2|icon|/ˈaɪkɑːn/|명 아이콘, 상징|She became a cultural *icon*.|그녀는 문화적 아이콘이 되었다.|Click the *icon* to open the file.|아이콘을 눌러 파일을 여세요.
+2|imperial|/ɪmˈpɪriəl/|형 제국의|The *imperial* palace stood in the capital.|황궁은 수도에 있었다.|*Imperial* armies marched across Asia.|제국의 군대는 아시아를 가로질러 행군했다.
+2|inscription|/ɪnˈskrɪpʃn/|명 비문|An *inscription* on the stone told the king's story.|돌의 비문은 왕의 이야기를 전했다.|The ring bears an *inscription*.|그 반지에는 글귀가 새겨져 있다.
+2|invasion|/ɪnˈveɪʒn/|명 침략|The *invasion* began at dawn.|침략은 새벽에 시작되었다.|The town suffered a foreign *invasion*.|그 마을은 외세의 침략을 겪었다.
+2|kingdom|/ˈkɪŋdəm/|명 왕국|The *kingdom* was rich in gold.|그 왕국은 금이 풍부했다.|The animal *kingdom* includes millions of species.|동물계에는 수백만 종이 있다.
+2|legion|/ˈliːdʒən/|명 군단|A Roman *legion* had thousands of soldiers.|로마 군단은 수천 명의 병사로 이루어졌다.|The *legion* marched across the Alps.|군단은 알프스를 넘어 행군했다.
+2|manuscript|/ˈmænjuskrɪpt/|명 원고, 필사본|The monk copied the *manuscript* by hand.|수도사는 필사본을 손으로 베꼈다.|She sent her *manuscript* to a publisher.|그녀는 출판사에 원고를 보냈다.
+2|medieval|/ˌmediˈiːvl/|형 중세의|*Medieval* towns were surrounded by walls.|중세의 도시들은 성벽으로 둘러싸여 있었다.|They visited a *medieval* castle.|그들은 중세 성을 방문했다.
+2|mercenary|/ˈmɜːrsəneri/|명 용병|The king hired *mercenaries* to fight.|왕은 용병을 고용해 싸우게 했다.|The *mercenary* fought for pay, not for honor.|용병은 명예가 아닌 돈을 위해 싸웠다.
+2|mosaic|/moʊˈzeɪɪk/|명 모자이크|The floor is covered with a Roman *mosaic*.|바닥은 로마 모자이크로 덮여 있다.|The city is a *mosaic* of cultures.|그 도시는 여러 문화가 어우러진 모자이크다.
+2|mummy|/ˈmʌmi/|명 미라|The Egyptian *mummy* is three thousand years old.|그 이집트 미라는 3천 년 되었다.|Scientists scanned the *mummy*.|과학자들이 미라를 스캔했다.
+2|mythology|/mɪˈθɑːlədʒi/|명 신화|Greek *mythology* has many gods and heroes.|그리스 신화에는 많은 신과 영웅이 있다.|She teaches Norse *mythology*.|그녀는 북유럽 신화를 가르친다.
+2|nobility|/noʊˈbɪləti/|명 귀족|The *nobility* owned most of the land.|귀족이 땅의 대부분을 소유했다.|He was born into the *nobility*.|그는 귀족 가문에서 태어났다.
+2|oracle|/ˈɔːrəkl/|명 신탁|The Greeks consulted the *oracle* at Delphi.|그리스인들은 델포이의 신탁을 구했다.|The *oracle* predicted a great war.|신탁은 큰 전쟁을 예언했다.
+2|papyrus|/pəˈpaɪrəs/|명 파피루스|Ancient Egyptians wrote on *papyrus*.|고대 이집트인들은 파피루스에 글을 썼다.|A scroll of *papyrus* was found in the tomb.|무덤에서 파피루스 두루마리가 발견되었다.
+2|parchment|/ˈpɑːrtʃmənt/|명 양피지|Monks wrote on *parchment* made from sheepskin.|수도사들은 양가죽으로 만든 양피지에 글을 썼다.|The *parchment* had faded over time.|양피지는 시간이 지나며 바랬다.
+2|pilgrim|/ˈpɪlɡrɪm/|명 순례자|*Pilgrims* walk to the holy site each year.|순례자들은 해마다 성지까지 걸어간다.|The *pilgrims* traveled by ship to America.|순례자들은 배를 타고 아메리카로 갔다.
+2|plague|/pleɪɡ/|명 전염병, 역병|The *plague* killed millions in Europe.|역병은 유럽에서 수백만 명을 죽였다.|A *plague* of locusts destroyed the crops.|메뚜기 떼가 농작물을 망쳤다.
+2|pottery|/ˈpɑːtəri/|명 도자기|The ancient *pottery* was decorated with patterns.|그 고대 도자기는 무늬로 장식되어 있었다.|She takes a *pottery* class on weekends.|그녀는 주말에 도자기 수업을 듣는다.
+2|relic|/ˈrelɪk/|명 유물|The temple is a *relic* of an ancient age.|그 사원은 고대의 유물이다.|The *relic* was kept in a glass case.|그 유물은 유리 상자에 보관되었다.
+2|renaissance|/ˌrenəˈsɑːns/|명 르네상스, 부흥|The *Renaissance* began in Italy.|르네상스는 이탈리아에서 시작되었다.|The city is enjoying a cultural *renaissance*.|그 도시는 문화적 부흥을 누리고 있다.
+2|revolt|/rɪˈvoʊlt/|명 반란;동 반란을 일으키다|The peasants rose in *revolt*.|농민들이 반란을 일으켰다.|The soldiers *revolted* against the king.|병사들이 왕에게 반기를 들었다.
+2|ruins|/ˈruːɪnz/|명 폐허, 유적|They explored the *ruins* of an ancient city.|그들은 고대 도시의 유적을 탐험했다.|The temple lay in *ruins*.|사원은 폐허가 되어 있었다.
+2|sarcophagus|/sɑːrˈkɑːfəɡəs/|명 석관|The pharaoh was buried in a stone *sarcophagus*.|파라오는 석관에 묻혔다.|Archaeologists opened the *sarcophagus*.|고고학자들은 석관을 열었다.
+2|scribe|/skraɪb/|명 필경사|A *scribe* copied the royal laws.|필경사가 왕의 법을 베꼈다.|Trained *scribes* kept the records.|훈련된 필경사들이 기록을 맡았다.
+2|sculpture|/ˈskʌlptʃər/|명 조각|The park has a bronze *sculpture*.|그 공원에는 청동 조각이 있다.|Michelangelo created the famous *sculpture* of David.|미켈란젤로는 다비드라는 유명한 조각을 만들었다.
+2|serf|/sɜːrf/|명 농노|A *serf* worked the lord's land.|농노는 영주의 땅을 일구었다.|The *serfs* were not free to leave.|농노들은 마음대로 떠날 수 없었다.
+2|siege|/siːdʒ/|명 포위 공격|The *siege* of the city lasted a year.|도시 포위는 1년간 이어졌다.|People suffered hunger during the *siege*.|포위 중에 사람들은 굶주림을 겪었다.
+2|stronghold|/ˈstrɔːŋhoʊld/|명 요새, 근거지|The castle was the rebels' *stronghold*.|성은 반군의 근거지였다.|The party's *stronghold* is the north.|그 정당의 텃밭은 북부다.
+2|temple|/ˈtempl/|명 사원|Monks live in the mountain *temple*.|승려들은 산사에 산다.|The *temple* was built in the 8th century.|그 사원은 8세기에 지어졌다.
+2|throne|/θroʊn/|명 왕좌|The prince inherited the *throne*.|왕자는 왕위를 물려받았다.|The king sat on his golden *throne*.|왕은 금빛 왕좌에 앉았다.
+2|tomb|/tuːm/|명 무덤|Archaeologists discovered a royal *tomb*.|고고학자들은 왕의 무덤을 발견했다.|The *tomb* was filled with gold.|무덤은 금으로 가득 차 있었다.
+2|treatise|/ˈtriːtɪs/|명 논문, 학술서|Newton wrote a *treatise* on light.|뉴턴은 빛에 관한 논문을 썼다.|The scholar's *treatise* shaped the debate.|그 학자의 저서는 논쟁의 방향을 정했다.
+2|tyranny|/ˈtɪrəni/|명 폭정|The people suffered under *tyranny*.|사람들은 폭정 아래 고통받았다.|The revolt ended the king's *tyranny*.|반란은 왕의 폭정을 끝냈다.
+2|vassal|/ˈvæsl/|명 봉신|The *vassal* swore loyalty to his lord.|봉신은 영주에게 충성을 맹세했다.|The small kingdom became a *vassal* state.|그 작은 왕국은 속국이 되었다.
+2|warrior|/ˈwɔːriər/|명 전사|The *warrior* fought bravely in battle.|전사는 전투에서 용감히 싸웠다.|Samurai were Japanese *warriors*.|사무라이는 일본의 전사였다.
+2|allegory|/ˈæləɡɔːri/|명 우화, 풍자|The story is an *allegory* about greed.|그 이야기는 탐욕에 관한 우화다.|The novel can be read as a political *allegory*.|그 소설은 정치적 알레고리로 읽을 수 있다.
+2|allusion|/əˈluːʒn/|명 암시, 인유|The poem makes an *allusion* to an old myth.|그 시는 옛 신화를 암시한다.|He made a subtle *allusion* to her past.|그는 그녀의 과거를 은근히 암시했다.
+2|ambiguity|/ˌæmbɪˈɡjuːəti/|명 모호함|The *ambiguity* of the law caused confusion.|그 법의 모호함이 혼란을 일으켰다.|There is deliberate *ambiguity* in the ending.|결말에는 의도적인 모호함이 있다.
+2|anecdote|/ˈænɪkdoʊt/|명 일화|He told an amusing *anecdote* about his youth.|그는 젊은 시절의 재미있는 일화를 이야기했다.|The speech opened with a short *anecdote*.|연설은 짧은 일화로 시작되었다.
+2|aria|/ˈɑːriə/|명 아리아|The soprano sang a beautiful *aria*.|소프라노는 아름다운 아리아를 불렀다.|The opera is famous for its *arias*.|그 오페라는 아리아로 유명하다.
+2|ballad|/ˈbæləd/|명 발라드|The singer performed an old folk *ballad*.|가수는 옛 민요 발라드를 불렀다.|The *ballad* tells the story of a lost love.|그 발라드는 잃어버린 사랑 이야기를 한다.
+2|canon|/ˈkænən/|명 정전, 표준 작품|The novel is part of the literary *canon*.|그 소설은 문학 정전의 일부다.|Shakespeare's plays are central to the *canon*.|셰익스피어의 희곡은 정전의 중심이다.
+2|caricature|/ˈkærɪkətʃʊr/|명 풍자화|The newspaper printed a *caricature* of the mayor.|신문은 시장의 풍자화를 실었다.|The *caricature* exaggerated his big nose.|그 풍자화는 그의 큰 코를 과장했다.
+2|choreography|/ˌkɔːriˈɑːɡrəfi/|명 안무|The *choreography* of the ballet was stunning.|그 발레의 안무는 놀라웠다.|She studied *choreography* in New York.|그녀는 뉴욕에서 안무를 공부했다.
+2|composition|/ˌkɑːmpəˈzɪʃn/|명 구성, 작곡|The *composition* of the painting is balanced.|그 그림의 구도는 균형 잡혀 있다.|Mozart's early *compositions* are still played.|모차르트의 초기 작품은 지금도 연주된다.
+2|critique|/krɪˈtiːk/|명 비평|She wrote a thoughtful *critique* of the film.|그녀는 그 영화에 대한 사려 깊은 비평을 썼다.|The paper offers a *critique* of modern art.|그 논문은 현대 미술에 대한 비평을 제시한다.
+2|elegy|/ˈelədʒi/|명 비가|The poet wrote an *elegy* for his friend.|시인은 친구를 위한 애가를 썼다.|The *elegy* mourns the passing of time.|그 비가는 흘러간 세월을 애도한다.
+2|epigram|/ˈepɪɡræm/|명 경구|His famous *epigram* is still quoted.|그의 유명한 경구는 지금도 인용된다.|The poem ends with a clever *epigram*.|시는 기발한 경구로 끝난다.
+2|fable|/ˈfeɪbl/|명 우화|Aesop's *fable* teaches a moral lesson.|이솝 우화는 도덕적 교훈을 준다.|The children read a *fable* about a fox.|아이들은 여우에 관한 우화를 읽었다.
+2|figurative|/ˈfɪɡjərətɪv/|형 비유적인|Poets often use *figurative* language.|시인들은 흔히 비유적 언어를 쓴다.|"Heart of stone" is a *figurative* phrase.|"돌 같은 마음"은 비유적 표현이다.
+2|imagery|/ˈɪmɪdʒəri/|명 이미지, 비유|The poem is full of vivid *imagery*.|그 시는 생생한 이미지로 가득하다.|Religious *imagery* appears throughout the film.|종교적 이미지가 영화 전반에 나온다.
+2|irony|/ˈaɪrəni/|명 아이러니, 반어|The *irony* is that the fire station burned down.|아이러니하게도 소방서가 불에 탔다.|The writer uses *irony* to criticize society.|작가는 사회를 비판하려고 반어를 쓴다.
+2|lyric|/ˈlɪrɪk/|형 서정적인;명 가사|He wrote a *lyric* poem about spring.|그는 봄에 관한 서정시를 썼다.|The song's *lyrics* are very touching.|그 노래의 가사는 매우 감동적이다.
+2|metaphor|/ˈmetəfɔːr/|명 은유|"Time is money" is a common *metaphor*.|"시간은 돈이다"는 흔한 은유다.|The poet uses the sea as a *metaphor* for life.|시인은 바다를 삶의 은유로 쓴다.
+2|motif|/moʊˈtiːf/|명 모티프, 주제|A recurring *motif* in the film is water.|영화에서 반복되는 모티프는 물이다.|The pattern uses a floral *motif*.|그 무늬는 꽃 모티프를 쓴다.
+2|narrative|/ˈnærətɪv/|명 서사, 이야기|The novel has a complex *narrative*.|그 소설은 복잡한 서사를 가졌다.|She wrote a personal *narrative* about her trip.|그녀는 자신의 여행에 관한 수기를 썼다.
+2|novelist|/ˈnɑːvəlɪst/|명 소설가|The *novelist* won a major prize.|그 소설가는 주요 상을 받았다.|She is a best-selling *novelist*.|그녀는 베스트셀러 소설가다.
+2|ode|/oʊd/|명 송시|Keats wrote an *ode* to a nightingale.|키츠는 나이팅게일에 바치는 송시를 썼다.|The poem is an *ode* to the sea.|그 시는 바다에 바치는 송가다.
+2|palette|/ˈpælət/|명 팔레트, 색조|The painter mixed colors on his *palette*.|화가는 팔레트에서 색을 섞었다.|The film uses a muted color *palette*.|그 영화는 차분한 색조를 쓴다.
+2|parody|/ˈpærədi/|명 패러디|The show is a *parody* of a famous movie.|그 쇼는 유명한 영화의 패러디다.|He wrote a funny *parody* of the song.|그는 그 노래의 재미있는 패러디를 썼다.
+2|pastoral|/ˈpæstərəl/|형 전원의|The painting shows a *pastoral* scene of sheep.|그 그림은 양들이 있는 전원 풍경을 보여 준다.|Beethoven's Sixth Symphony is called the *Pastoral*.|베토벤의 6번 교향곡은 '전원'이라 불린다.
+2|playwright|/ˈpleɪraɪt/|명 극작가|The *playwright* wrote a dozen comedies.|극작가는 열두 편의 희극을 썼다.|Shakespeare is a famous *playwright*.|셰익스피어는 유명한 극작가다.
+2|portray|/pɔːrˈtreɪ/|동 묘사하다, 연기하다|The film *portrays* life in the 1920s.|그 영화는 1920년대의 삶을 묘사한다.|She *portrayed* the queen in the play.|그녀는 연극에서 여왕 역을 맡았다.
+2|prose|/proʊz/|명 산문|The novel is written in simple *prose*.|그 소설은 간결한 산문으로 쓰였다.|Poetry is more compact than *prose*.|시는 산문보다 압축적이다.
+2|protagonist|/proʊˈtæɡənɪst/|명 주인공|The *protagonist* overcomes many challenges.|주인공은 많은 시련을 극복한다.|The story's *protagonist* is a young orphan.|그 이야기의 주인공은 어린 고아다.
+2|rhetoric|/ˈretərɪk/|명 수사법, 미사여구|The speech was full of powerful *rhetoric*.|연설은 강력한 수사로 가득했다.|Empty *rhetoric* will not solve the problem.|공허한 말로는 문제를 해결할 수 없다.
+2|satire|/ˈsætaɪər/|명 풍자|The novel is a *satire* of modern politics.|그 소설은 현대 정치에 대한 풍자다.|*Satire* uses humor to criticize society.|풍자는 유머로 사회를 비판한다.
+2|sonnet|/ˈsɑːnɪt/|명 소네트|A *sonnet* has fourteen lines.|소네트는 14행으로 이루어져 있다.|Shakespeare wrote more than a hundred *sonnets*.|셰익스피어는 소네트를 100편 넘게 썼다.
+2|stanza|/ˈstænzə/|명 연(시의)|The first *stanza* describes the sunrise.|첫 연은 해돋이를 묘사한다.|Each *stanza* of the poem has four lines.|그 시의 각 연은 네 줄이다.
+2|symbolism|/ˈsɪmbəlɪzəm/|명 상징주의|The *symbolism* of the white whale is debated.|흰 고래의 상징성은 논쟁거리다.|The painter's work is rich in *symbolism*.|그 화가의 작품은 상징으로 풍부하다.
+2|verse|/vɜːrs/|명 운문, 연|The play is written in *verse*.|그 희곡은 운문으로 쓰였다.|They sang the first *verse* of the song.|그들은 노래의 1절을 불렀다.
+2|vignette|/vɪnˈjet/|명 짧은 묘사글|The book is a collection of short *vignettes*.|그 책은 짧은 스케치들을 모은 것이다.|She wrote a *vignette* of village life.|그녀는 마을 생활을 짧게 묘사한 글을 썼다.
+2|abstraction|/æbˈstrækʃn/|명 추상|The painting is a bold *abstraction* of color.|그 그림은 색의 대담한 추상이다.|Justice is an *abstraction*.|정의는 추상적 개념이다.
+2|aesthetics|/esˈθetɪks/|명 미학|She teaches the *aesthetics* of film.|그녀는 영화 미학을 가르친다.|*Aesthetics* is the study of beauty.|미학은 아름다움을 연구한다.
+2|apprenticeship|/əˈprentɪsʃɪp/|명 도제 제도|He served a five-year *apprenticeship* as a carpenter.|그는 목수로서 5년간 견습 생활을 했다.|The *apprenticeship* taught him many skills.|그 견습 기간은 그에게 많은 기술을 가르쳤다.
+2|bard|/bɑːrd/|명 음유 시인|The *bard* sang of ancient heroes.|음유 시인은 고대 영웅들을 노래했다.|Shakespeare is called the *Bard* of Avon.|셰익스피어는 에이번의 시인으로 불린다.
+2|bust|/bʌst/|명 흉상|A marble *bust* of the emperor stood in the hall.|황제의 대리석 흉상이 홀에 서 있었다.|The sculptor made a bronze *bust*.|조각가는 청동 흉상을 만들었다.
+2|calligraphy|/kəˈlɪɡrəfi/|명 서예|She practices Chinese *calligraphy*.|그녀는 중국 서예를 연습한다.|The *calligraphy* on the scroll was beautiful.|두루마리의 서예는 아름다웠다.

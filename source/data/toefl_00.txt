@@ -1,0 +1,30 @@
+3|abundant|/əˈbʌndənt/|형 풍부한, 많은|Fish are *abundant* in this lake.|이 호수에는 물고기가 풍부하다.|The region has *abundant* natural resources.|그 지역은 천연자원이 풍부하다.
+3|dormant|/ˈdɔːrmənt/|형 휴면 중인, 잠자는|The seeds stay *dormant* all winter.|씨앗은 겨울 내내 휴면 상태로 있다.|The volcano has been *dormant* for centuries.|그 화산은 수 세기 동안 활동하지 않았다.
+3|erode|/ɪˈroʊd/|동 침식하다, 서서히 약화시키다|Rivers *erode* rock over millions of years.|강은 수백만 년에 걸쳐 암석을 침식한다.|Heavy rain *eroded* the hillside.|폭우가 산비탈을 깎아 냈다.
+3|hypothesis|/haɪˈpɒθəsɪs/|명 가설|The scientist tested her *hypothesis* in the lab.|그 과학자는 실험실에서 자신의 가설을 검증했다.|The data supports our *hypothesis*.|자료는 우리의 가설을 뒷받침한다.
+1|ancestor|/ˈænsestər/|명 조상, 선조|Birds are descended from dinosaur *ancestors*.|새는 공룡 조상에서 진화했다.|Our *ancestors* farmed this valley.|우리 조상들은 이 계곡에서 농사를 지었다.
+2|arid|/ˈærɪd/|형 매우 건조한|Cacti grow in *arid* regions.|선인장은 건조한 지역에서 자란다.|The *arid* climate makes farming difficult.|건조한 기후 때문에 농사가 어렵다.
+2|coastal|/ˈkoʊstl/|형 해안의, 연안의|*Coastal* cities face rising sea levels.|해안 도시들은 해수면 상승에 직면해 있다.|The *coastal* waters are rich in fish.|연안 해역에는 물고기가 풍부하다.
+1|colony|/ˈkɒləni/|명 식민지;명 (동물의) 군집|The island was once a Spanish *colony*.|그 섬은 한때 스페인 식민지였다.|A bee *colony* can have thousands of members.|꿀벌 군집은 수천 마리로 이루어질 수 있다.
+3|deposit|/dɪˈpɒzɪt/|명 매장층, 침전물;동 쌓이게 하다, 맡기다|Geologists found a large coal *deposit*.|지질학자들은 큰 석탄 매장층을 발견했다.|The flood *deposited* mud across the plain.|홍수가 평원 전체에 진흙을 쌓아 놓았다.
+2|diverse|/daɪˈvɜːrs/|형 다양한|The rainforest is home to *diverse* wildlife.|열대우림에는 다양한 야생 동물이 산다.|The university has a *diverse* student body.|그 대학은 학생 구성이 다양하다.
+2|dominant|/ˈdɒmɪnənt/|형 우세한, 지배적인|Grasses are the *dominant* plants on the plains.|풀은 평원에서 가장 우세한 식물이다.|Wolves are *dominant* over younger members.|늑대는 어린 구성원들보다 우위에 있다.
+2|ecosystem|/ˈiːkoʊsɪstəm/|명 생태계|A coral reef is a fragile *ecosystem*.|산호초는 취약한 생태계다.|Pollution can damage the whole *ecosystem*.|오염은 생태계 전체를 훼손할 수 있다.
+2|extinct|/ɪkˈstɪŋkt/|형 멸종한;형 활동을 멈춘|Dinosaurs became *extinct* millions of years ago.|공룡은 수백만 년 전에 멸종했다.|The *extinct* volcano is now a lake.|그 사화산은 지금은 호수가 되었다.
+1|fossil|/ˈfɒsl/|명 화석|Scientists found a *fossil* of an ancient fish.|과학자들은 고대 물고기의 화석을 발견했다.|Coal is a *fossil* fuel.|석탄은 화석 연료다.
+1|glacier|/ˈɡleɪʃər/|명 빙하|The *glacier* is melting rapidly.|그 빙하는 빠르게 녹고 있다.|*Glaciers* carved deep valleys in the mountains.|빙하는 산에 깊은 계곡을 새겼다.
+1|habitat|/ˈhæbɪtæt/|명 서식지|Forests are the *habitat* of many birds.|숲은 많은 새의 서식지다.|Loss of *habitat* threatens the species.|서식지 상실이 그 종을 위협한다.
+3|inhabit|/ɪnˈhæbɪt/|동 서식하다, 거주하다|Penguins *inhabit* the southern hemisphere.|펭귄은 남반구에 서식한다.|Few people *inhabit* the desert.|사막에는 거주하는 사람이 거의 없다.
+1|migrate|/ˈmaɪɡreɪt/|동 이동하다, 이주하다|Many birds *migrate* south in winter.|많은 새가 겨울에 남쪽으로 이동한다.|Workers *migrated* to the cities for jobs.|노동자들은 일자리를 찾아 도시로 이주했다.
+2|nutrient|/ˈnuːtriənt/|명 영양소|Plants absorb *nutrients* from the soil.|식물은 토양에서 영양소를 흡수한다.|Fish provide essential *nutrients*.|생선은 필수 영양소를 제공한다.
+2|organism|/ˈɔːrɡənɪzəm/|명 생물, 유기체|Bacteria are tiny living *organisms*.|세균은 아주 작은 생물이다.|Each *organism* depends on its environment.|모든 생물은 환경에 의존한다.
+1|predator|/ˈpredətər/|명 포식자|The lion is a top *predator*.|사자는 최상위 포식자다.|Camouflage helps animals hide from *predators*.|위장은 동물이 포식자로부터 숨도록 돕는다.
+1|prey|/preɪ/|명 먹이, 사냥감;동 잡아먹다|Mice are the owl's main *prey*.|쥐는 올빼미의 주된 먹이다.|Hawks *prey* on small rodents.|매는 작은 설치류를 잡아먹는다.
+1|species|/ˈspiːʃiːz/|명 종(생물 분류)|Thousands of *species* live in the reef.|수천 종이 산호초에 산다.|This *species* is found only in Madagascar.|이 종은 마다가스카르에서만 발견된다.
+3|sediment|/ˈsedɪmənt/|명 퇴적물, 침전물|The river carries *sediment* to the sea.|강은 퇴적물을 바다로 실어 나른다.|Layers of *sediment* form sedimentary rock.|퇴적물 층은 퇴적암을 이룬다.
+1|shelter|/ˈʃeltər/|명 은신처, 피난처;동 보호하다, 피하다|The cave gave the bears *shelter* from the storm.|동굴은 곰들에게 폭풍을 피할 곳이 되어 주었다.|Trees *shelter* many small animals.|나무는 많은 작은 동물을 보호해 준다.
+3|sustain|/səˈsteɪn/|동 지속하다, 유지하다;동 부양하다|The land cannot *sustain* so many cattle.|그 땅은 그렇게 많은 소를 먹여 살릴 수 없다.|It is hard to *sustain* growth for decades.|수십 년간 성장을 지속하기는 어렵다.
+3|terrain|/təˈreɪn/|명 지형, 지역|The rocky *terrain* slowed the hikers.|바위투성이 지형이 등산객들을 더디게 했다.|Rovers explore the Martian *terrain*.|탐사 로버는 화성의 지형을 탐사한다.
+3|vegetation|/ˌvedʒəˈteɪʃn/|명 식물, 초목|Dense *vegetation* covers the hills.|빽빽한 초목이 언덕을 덮고 있다.|Little *vegetation* grows in the desert.|사막에는 식물이 거의 자라지 않는다.
+2|volcanic|/vɒlˈkænɪk/|형 화산의|*Volcanic* ash covered the town.|화산재가 마을을 뒤덮었다.|Hawaii was formed by *volcanic* activity.|하와이는 화산 활동으로 만들어졌다.
+2|fertile|/ˈfɜːrtl/|형 비옥한;형 번식력 있는|The river delta has *fertile* soil.|강 삼각주는 토양이 비옥하다.|Only *fertile* eggs will hatch.|수정란만 부화한다.

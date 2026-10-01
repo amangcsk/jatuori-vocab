@@ -1,0 +1,75 @@
+2|abdominal|/æbˈdɑːmɪnl/|형 복부의|He did *abdominal* exercises every morning.|그는 매일 아침 복근 운동을 했다.|She felt *abdominal* pain after lunch.|그녀는 점심 후 복통을 느꼈다.
+2|anatomical|/ˌænəˈtɑːmɪkl/|형 해부학적인|The book has *anatomical* drawings of the heart.|그 책에는 심장의 해부도가 실려 있다.|There are *anatomical* differences between the two species.|두 종 사이에는 해부학적 차이가 있다.
+2|cartilage|/ˈkɑːrtəlɪdʒ/|명 연골|*Cartilage* cushions the joints.|연골은 관절을 완충한다.|Sharks have skeletons made of *cartilage*.|상어의 뼈대는 연골로 되어 있다.
+2|cerebral|/səˈriːbrəl/|형 대뇌의, 지적인|The *cerebral* cortex controls thinking.|대뇌 피질은 사고를 담당한다.|He prefers *cerebral* books to action novels.|그는 액션 소설보다 지적인 책을 선호한다.
+2|cranium|/ˈkreɪniəm/|명 두개골|The *cranium* protects the brain.|두개골은 뇌를 보호한다.|The doctor examined the *cranium* on the X-ray.|의사는 엑스레이로 두개골을 살폈다.
+2|epidermis|/ˌepɪˈdɜːrmɪs/|명 표피|The *epidermis* is the outer layer of skin.|표피는 피부의 바깥층이다.|Sunlight can damage the *epidermis*.|햇빛은 표피를 손상시킬 수 있다.
+2|esophagus|/ɪˈsɑːfəɡəs/|명 식도|Food passes down the *esophagus* to the stomach.|음식은 식도를 따라 위로 내려간다.|He felt a burning pain in his *esophagus*.|그는 식도에 타는 듯한 통증을 느꼈다.
+2|follicle|/ˈfɑːlɪkl/|명 모낭|Each hair grows from a *follicle*.|머리카락은 모낭에서 자란다.|The *follicle* became infected.|모낭에 염증이 생겼다.
+2|jaw|/dʒɔː/|명 턱|The boxer broke his *jaw*.|그 권투 선수는 턱뼈가 부러졌다.|A shark's *jaw* is full of teeth.|상어의 턱에는 이빨이 가득하다.
+2|joint|/dʒɔɪnt/|명 관절;형 공동의|The knee is the largest *joint* in the body.|무릎은 몸에서 가장 큰 관절이다.|They made a *joint* statement.|그들은 공동 성명을 냈다.
+2|lung|/lʌŋ/|명 폐|Smoke damages the *lungs*.|연기는 폐를 손상시킨다.|The diver held air in his *lungs*.|잠수부는 폐에 공기를 머금었다.
+2|marrow|/ˈmæroʊ/|명 골수|Blood cells are made in bone *marrow*.|혈구는 골수에서 만들어진다.|He donated bone *marrow* to his brother.|그는 형에게 골수를 기증했다.
+2|nostril|/ˈnɑːstrəl/|명 콧구멍|Air enters through the *nostrils*.|공기는 콧구멍으로 들어온다.|The horse's *nostrils* flared.|말의 콧구멍이 벌름거렸다.
+2|pancreas|/ˈpæŋkriəs/|명 췌장|The *pancreas* produces insulin.|췌장은 인슐린을 만든다.|He had surgery on his *pancreas*.|그는 췌장 수술을 받았다.
+2|skeletal|/ˈskelɪtl/|형 골격의|*Skeletal* muscles move the bones.|골격근은 뼈를 움직인다.|The animal's *skeletal* structure is light.|그 동물의 골격 구조는 가볍다.
+2|skull|/skʌl/|명 두개골|The *skull* protects the brain.|두개골은 뇌를 보호한다.|Archaeologists found an ancient *skull*.|고고학자들은 고대 두개골을 발견했다.
+2|spine|/spaɪn/|명 척추, 가시|He injured his *spine* in a fall.|그는 넘어져서 척추를 다쳤다.|The cactus is covered with sharp *spines*.|선인장은 날카로운 가시로 덮여 있다.
+2|tendon|/ˈtendən/|명 힘줄|He tore a *tendon* in his ankle.|그는 발목 힘줄이 찢어졌다.|*Tendons* connect muscles to bones.|힘줄은 근육을 뼈에 연결한다.
+2|thorax|/ˈθɔːræks/|명 흉부|The insect's *thorax* carries its legs and wings.|곤충의 가슴에는 다리와 날개가 붙어 있다.|The doctor examined the patient's *thorax*.|의사는 환자의 흉부를 살폈다.
+2|vertebra|/ˈvɜːrtɪbrə/|명 척추뼈|A *vertebra* in his neck was cracked.|그의 목 척추뼈에 금이 갔다.|The spine consists of many *vertebrae*.|척추는 많은 척추뼈로 이루어져 있다.
+2|accommodation|/əˌkɑːməˈdeɪʃn/|명 숙박 시설, 적응|The price includes *accommodation* and meals.|가격에는 숙박과 식사가 포함된다.|The eye's *accommodation* adjusts its focus.|눈의 조절 작용은 초점을 맞춘다.
+2|adjoining|/əˈdʒɔɪnɪŋ/|형 인접한|We booked two *adjoining* rooms.|우리는 붙어 있는 방 두 개를 예약했다.|The shop is in the *adjoining* building.|그 가게는 옆 건물에 있다.
+2|affiliate|/əˈfɪlieɪt/|동 제휴하다;명 계열사|The college is *affiliated* with the university.|그 대학은 종합대학과 제휴되어 있다.|The company is an *affiliate* of a larger group.|그 회사는 더 큰 그룹의 계열사다.
+2|alignment|/əˈlaɪnmənt/|명 정렬|The mechanic checked the wheel *alignment*.|정비사는 바퀴 정렬을 점검했다.|The planets are in *alignment* tonight.|오늘 밤 행성들이 일렬로 늘어서 있다.
+2|allotment|/əˈlɑːtmənt/|명 할당|Each family got an *allotment* of land.|각 가정은 땅을 할당받았다.|The water *allotment* was reduced.|물 배정량이 줄었다.
+2|anecdotal|/ˌænɪkˈdoʊtl/|형 일화적인|The evidence is only *anecdotal*.|그 증거는 일화에 불과하다.|She gave *anecdotal* accounts of the trip.|그녀는 여행에 대한 일화들을 들려주었다.
+2|annotation|/ˌænəˈteɪʃn/|명 주석|The text includes helpful *annotations*.|그 글에는 유용한 주석이 달려 있다.|She added an *annotation* in the margin.|그녀는 여백에 주석을 달았다.
+2|apex|/ˈeɪpeks/|명 꼭대기|The *apex* of the pyramid is a point.|피라미드의 꼭대기는 뾰족하다.|She reached the *apex* of her career.|그녀는 경력의 정점에 이르렀다.
+2|appendix|/əˈpendɪks/|명 부록, 맹장|The details are in the *appendix*.|세부 사항은 부록에 있다.|He had his *appendix* removed.|그는 맹장 수술을 받았다.
+2|arbitration|/ˌɑːrbɪˈtreɪʃn/|명 중재|The dispute went to *arbitration*.|분쟁은 중재에 회부되었다.|Both sides accepted the *arbitration*.|양측은 중재를 받아들였다.
+2|attribution|/ˌætrɪˈbjuːʃn/|명 귀속, 출처 표기|The *attribution* of the painting is disputed.|그 그림의 작가 귀속은 논란이 있다.|Always include *attribution* when quoting.|인용할 때는 항상 출처를 밝혀라.
+2|bilateral|/baɪˈlætərəl/|형 양자 간의|The two countries signed a *bilateral* agreement.|두 나라는 양자 협정에 서명했다.|*Bilateral* talks began on Monday.|양자 회담이 월요일에 시작되었다.
+2|circumference|/sərˈkʌmfərəns/|명 둘레, 원주|Measure the *circumference* of the tree.|나무의 둘레를 재어라.|The Earth's *circumference* is about 40,000 km.|지구의 둘레는 약 4만 킬로미터다.
+2|colloquium|/kəˈloʊkwiəm/|명 학술 토론회|She presented her paper at a *colloquium*.|그녀는 학술 토론회에서 논문을 발표했다.|The *colloquium* drew many scholars.|그 토론회에는 많은 학자가 모였다.
+2|conjunction|/kənˈdʒʌŋkʃn/|명 접속사, 결합|"And" is a *conjunction*.|"and"는 접속사다.|The festival was held in *conjunction* with the fair.|축제는 박람회와 함께 열렸다.
+2|correspondence|/ˌkɔːrəˈspɑːndəns/|명 서신, 일치|Their *correspondence* lasted many years.|그들의 서신 왕래는 수년간 이어졌다.|There is little *correspondence* between theory and practice.|이론과 실제는 거의 일치하지 않는다.
+2|cranial|/ˈkreɪniəl/|형 두개골의|The doctor examined the *cranial* nerves.|의사는 뇌신경을 검사했다.|A *cranial* injury needs urgent care.|두부 손상은 응급 처치가 필요하다.
+2|crucible|/ˈkruːsɪbl/|명 도가니|Metal was melted in a *crucible*.|금속은 도가니에서 녹여졌다.|The city was a *crucible* of new ideas.|그 도시는 새로운 사상의 용광로였다.
+2|decipher|/dɪˈsaɪfər/|동 해독하다|Scholars *deciphered* the ancient script.|학자들은 고대 문자를 해독했다.|I can't *decipher* his handwriting.|나는 그의 필체를 알아볼 수 없다.
+2|deduction|/dɪˈdʌkʃn/|명 추론, 공제|The detective made a clever *deduction*.|형사는 기발한 추론을 했다.|A tax *deduction* lowers the amount you owe.|세금 공제는 낼 금액을 낮춘다.
+2|derivative|/dɪˈrɪvətɪv/|형 파생된;명 파생어|The film felt *derivative* of older movies.|그 영화는 옛 영화들의 아류 같았다.|"Happiness" is a *derivative* of "happy".|"happiness"는 "happy"의 파생어다.
+2|disposition|/ˌdɪspəˈzɪʃn/|명 성향|He has a cheerful *disposition*.|그는 쾌활한 성향을 가졌다.|The *disposition* of the troops changed.|병력 배치가 바뀌었다.
+2|domesticate|/dəˈmestɪkeɪt/|동 길들이다|Humans *domesticated* wolves into dogs.|인간은 늑대를 길들여 개로 만들었다.|Wheat was *domesticated* over ten thousand years ago.|밀은 1만 년도 더 전에 작물로 길들여졌다.
+2|ecstasy|/ˈekstəsi/|명 황홀경|The fans screamed in *ecstasy*.|팬들은 황홀경에 빠져 소리를 질렀다.|She was in *ecstasy* at the news.|그녀는 그 소식에 몹시 기뻐했다.
+2|embark|/ɪmˈbɑːrk/|동 승선하다, 착수하다|Passengers *embarked* at noon.|승객들은 정오에 승선했다.|She *embarked* on a new career.|그녀는 새로운 경력에 첫발을 내디뎠다.
+2|enrollment|/ɪnˈroʊlmənt/|명 등록, 입학|*Enrollment* at the school has risen.|그 학교의 등록 학생 수가 늘었다.|*Enrollment* closes on Friday.|등록은 금요일에 마감된다.
+2|ephemeral|/ɪˈfemərəl/|형 덧없는|Fame can be *ephemeral*.|명성은 덧없을 수 있다.|The beauty of the cherry blossoms is *ephemeral*.|벚꽃의 아름다움은 덧없다.
+2|exodus|/ˈeksədəs/|명 대이동|The war caused a mass *exodus* from the city.|전쟁은 도시에서의 대규모 탈출을 낳았다.|There was an *exodus* of workers to the cities.|노동자들이 도시로 대거 이동했다.
+2|fallacy|/ˈfæləsi/|명 오류, 그릇된 믿음|It is a *fallacy* that bigger is always better.|클수록 항상 좋다는 것은 잘못된 생각이다.|The argument contains a logical *fallacy*.|그 주장에는 논리적 오류가 있다.
+2|figurine|/ˌfɪɡjəˈriːn/|명 작은 조각상|She collects porcelain *figurines*.|그녀는 도자기 인형을 수집한다.|An ancient clay *figurine* was found in the tomb.|고대 점토 조각상이 무덤에서 발견되었다.
+2|gestation|/dʒeˈsteɪʃn/|명 임신 기간|The *gestation* period of an elephant is twenty-two months.|코끼리의 임신 기간은 22개월이다.|The idea had a long *gestation*.|그 아이디어는 오랜 구상 기간을 거쳤다.
+2|hemisphere|/ˈhemɪsfɪr/|명 반구|Korea is in the northern *hemisphere*.|한국은 북반구에 있다.|The brain has two *hemispheres*.|뇌는 두 개의 반구로 이루어져 있다.
+2|homogeneous|/ˌhoʊməˈdʒiːniəs/|형 균질한|The mixture is *homogeneous*.|그 혼합물은 균질하다.|The country is fairly *homogeneous*.|그 나라는 비교적 동질적이다.
+2|hypothesize|/haɪˈpɑːθəsaɪz/|동 가설을 세우다|Scientists *hypothesize* that water exists on Mars.|과학자들은 화성에 물이 있다고 가정한다.|She *hypothesized* a link between sleep and memory.|그녀는 수면과 기억 사이의 연관을 가정했다.
+2|inhibit|/ɪnˈhɪbɪt/|동 억제하다|Cold *inhibits* the growth of the plant.|추위는 식물의 성장을 억제한다.|Fear can *inhibit* learning.|두려움은 학습을 억제할 수 있다.
+2|innovate|/ˈɪnəveɪt/|동 혁신하다|Companies must *innovate* to survive.|기업은 살아남으려면 혁신해야 한다.|She *innovated* a new teaching method.|그녀는 새로운 교수법을 개발했다.
+2|inquire|/ɪnˈkwaɪər/|동 문의하다|I *inquired* about the price.|나는 가격을 문의했다.|Please *inquire* at the front desk.|안내 데스크에 문의하세요.
+2|insular|/ˈɪnsələr/|형 섬의, 편협한|The *insular* climate is mild.|섬 기후는 온화하다.|The village has an *insular* attitude.|그 마을 사람들은 폐쇄적인 태도를 지녔다.
+2|interdisciplinary|/ˌɪntərˈdɪsəplɪneri/|형 학제 간의|She leads an *interdisciplinary* research team.|그녀는 학제 간 연구팀을 이끈다.|The university offers an *interdisciplinary* course.|그 대학은 학제 간 강좌를 제공한다.
+2|intersect|/ˌɪntərˈsekt/|동 교차하다|The two roads *intersect* near the bridge.|두 도로는 다리 근처에서 교차한다.|Their interests *intersect* in music.|그들의 관심사는 음악에서 겹친다.
+2|keystone|/ˈkiːstoʊn/|명 핵심, 쐐기돌|Honesty is the *keystone* of trust.|정직은 신뢰의 핵심이다.|The *keystone* holds the arch together.|쐐기돌이 아치를 지탱한다.
+2|latitude|/ˈlætɪtuːd/|명 위도, 자유재량|Seoul lies at thirty-seven degrees north *latitude*.|서울은 북위 37도에 있다.|The teacher gave students some *latitude*.|교사는 학생들에게 어느 정도 재량을 주었다.
+2|longitude|/ˈlɑːndʒɪtuːd/|명 경도|Sailors measure *longitude* using clocks.|선원들은 시계로 경도를 측정한다.|The map shows lines of *latitude* and *longitude*.|지도에는 위도선과 경도선이 표시되어 있다.
+2|meridian|/məˈrɪdiən/|명 자오선|The prime *meridian* passes through Greenwich.|본초 자오선은 그리니치를 지난다.|The sun crosses the *meridian* at noon.|해는 정오에 자오선을 지난다.
+2|nomenclature|/ˈnoʊmənkleɪtʃər/|명 명명법|Chemical *nomenclature* follows strict rules.|화학 명명법은 엄격한 규칙을 따른다.|The *nomenclature* of species is standardized.|종의 명칭은 표준화되어 있다.
+2|paleontology|/ˌpeɪlɪɑːnˈtɑːlədʒi/|명 고생물학|*Paleontology* studies fossils of ancient life.|고생물학은 고대 생물의 화석을 연구한다.|He dreamed of a career in *paleontology*.|그는 고생물학자가 되는 꿈을 꾸었다.
+2|parameter|/pəˈræmɪtər/|명 매개변수, 한계|The experiment has strict *parameters*.|그 실험에는 엄격한 변수 범위가 있다.|Set the *parameters* before you begin.|시작하기 전에 조건을 정하세요.
+2|perimeter|/pəˈrɪmɪtər/|명 둘레|Guards walked the *perimeter* of the camp.|경비병들은 야영지의 외곽을 돌았다.|Find the *perimeter* of the square.|정사각형의 둘레를 구하라.
+2|quadrant|/ˈkwɑːdrənt/|명 사분면|The graph is divided into four *quadrants*.|그래프는 네 개의 사분면으로 나뉜다.|The point lies in the upper right *quadrant*.|그 점은 오른쪽 위 사분면에 있다.
+2|quantum|/ˈkwɑːntəm/|형 양자의, 비약적인|*Quantum* physics studies the smallest particles.|양자 물리학은 가장 작은 입자를 연구한다.|The new model was a *quantum* leap forward.|새 모델은 비약적 도약이었다.
+2|sector|/ˈsektər/|명 부문|The tech *sector* is growing fast.|기술 부문은 빠르게 성장하고 있다.|The city has a large service *sector*.|그 도시는 서비스 부문이 크다.
+2|spatial|/ˈspeɪʃl/|형 공간의|Architects need good *spatial* skills.|건축가는 뛰어난 공간 능력이 필요하다.|The map shows *spatial* patterns of rainfall.|지도는 강우의 공간적 패턴을 보여 준다.
+2|taxonomic|/ˌtæksəˈnɑːmɪk/|형 분류학의|The animal belongs to a different *taxonomic* group.|그 동물은 다른 분류군에 속한다.|*Taxonomic* work organizes living things.|분류학적 연구는 생물을 체계적으로 정리한다.
+2|zoological|/ˌzuːəˈlɑːdʒɪkl/|형 동물학의|The city has a *zoological* garden.|그 도시에는 동물원이 있다.|She joined a *zoological* expedition.|그녀는 동물학 탐사에 참여했다.
+2|zygote|/ˈzaɪɡoʊt/|명 접합자|A *zygote* forms when egg and sperm unite.|난자와 정자가 결합하면 접합자가 생긴다.|The *zygote* divides into many cells.|접합자는 여러 세포로 분열한다.

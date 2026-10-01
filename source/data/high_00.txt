@@ -1,0 +1,30 @@
+2|acquire|/əˈkwaɪər/|동 얻다, 습득하다|Children *acquire* language quickly.|아이들은 언어를 빠르게 습득한다.|The museum *acquired* a rare painting.|그 박물관은 희귀한 그림을 입수했다.
+3|consequence|/ˈkɒnsɪkwens/|명 결과;명 중요성|Every choice has a *consequence*.|모든 선택에는 결과가 따른다.|The *consequences* of pollution are serious.|오염의 결과는 심각하다.
+3|crucial|/ˈkruːʃl/|형 중대한, 결정적인|Sleep is *crucial* for memory.|수면은 기억에 매우 중요하다.|Her help was *crucial* to our success.|그녀의 도움은 우리의 성공에 결정적이었다.
+3|sufficient|/səˈfɪʃnt/|형 충분한|We have *sufficient* food for the trip.|우리는 여행에 충분한 음식이 있다.|Ten dollars is *sufficient* for lunch.|점심에는 10달러면 충분하다.
+1|adapt|/əˈdæpt/|동 적응하다;동 개작하다|Animals *adapt* to their surroundings.|동물은 주변 환경에 적응한다.|The novel was *adapted* into a movie.|그 소설은 영화로 각색되었다.
+3|ambiguous|/æmˈbɪɡjuəs/|형 모호한, 애매한|His answer was *ambiguous*.|그의 대답은 애매했다.|The sign has an *ambiguous* meaning.|그 표지판은 의미가 모호하다.
+1|benefit|/ˈbenɪfɪt/|명 이익, 혜택;동 이익을 얻다|Exercise has many health *benefits*.|운동은 건강에 많은 이점이 있다.|Students *benefit* from small classes.|학생들은 소규모 수업에서 이득을 얻는다.
+1|complex|/kəmˈpleks/|형 복잡한;명 복합 건물 단지|The rules of the game are *complex*.|그 게임의 규칙은 복잡하다.|A new sports *complex* opened downtown.|시내에 새 종합 체육 시설이 문을 열었다.
+1|conclude|/kənˈkluːd/|동 결론짓다;동 끝내다|Scientists *concluded* that the water was safe.|과학자들은 물이 안전하다고 결론지었다.|The speaker *concluded* with a joke.|연사는 농담으로 연설을 끝냈다.
+2|contribute|/kənˈtrɪbjuːt/|동 기여하다;동 기부하다|Everyone *contributed* to the project.|모두가 그 프로젝트에 기여했다.|She *contributed* ten dollars to the fund.|그녀는 기금에 10달러를 기부했다.
+1|defend|/dɪˈfend/|동 방어하다, 지키다;동 옹호하다|The soldiers *defended* the castle.|병사들은 성을 방어했다.|He *defended* his friend's decision.|그는 친구의 결정을 옹호했다.
+3|derive|/dɪˈraɪv/|동 얻다, 끌어내다;동 유래하다|She *derives* great joy from painting.|그녀는 그림에서 큰 기쁨을 얻는다.|Many English words *derive* from Latin.|많은 영어 단어는 라틴어에서 유래한다.
+3|distinguish|/dɪˈstɪŋɡwɪʃ/|동 구별하다|Can you *distinguish* a frog from a toad?|개구리와 두꺼비를 구별할 수 있니?|Twins are hard to *distinguish*.|쌍둥이는 구별하기 어렵다.
+2|efficient|/ɪˈfɪʃnt/|형 효율적인|LED lights are energy *efficient*.|LED 전등은 에너지 효율이 좋다.|She found a more *efficient* way to study.|그녀는 더 효율적인 공부법을 찾았다.
+2|emerge|/ɪˈmɜːrdʒ/|동 나타나다, 드러나다|The sun *emerged* from behind the clouds.|해가 구름 뒤에서 모습을 드러냈다.|New problems *emerged* after the change.|변화 이후 새로운 문제들이 나타났다.
+1|evidence|/ˈevɪdəns/|명 증거|There is no *evidence* of life on the moon.|달에 생명체가 있다는 증거는 없다.|The police collected *evidence* at the scene.|경찰은 현장에서 증거를 수집했다.
+1|factor|/ˈfæktər/|명 요인, 요소|Weather is a key *factor* in farming.|날씨는 농업에서 핵심 요인이다.|Price was an important *factor* in my choice.|가격은 내 선택의 중요한 요인이었다.
+2|generate|/ˈdʒenəreɪt/|동 만들어 내다, 발생시키다|Wind turbines *generate* electricity.|풍력 터빈은 전기를 만든다.|The idea *generated* a lot of interest.|그 아이디어는 많은 관심을 불러일으켰다.
+1|impact|/ˈɪmpækt/|명 영향, 충격|Social media has a big *impact* on teenagers.|소셜 미디어는 십 대에게 큰 영향을 준다.|The car's *impact* with the wall was loud.|차가 벽에 부딪치는 충격음이 컸다.
+2|indicate|/ˈɪndɪkeɪt/|동 나타내다, 가리키다|The arrow *indicates* the exit.|화살표는 출구를 가리킨다.|Studies *indicate* that sleep affects grades.|연구들은 수면이 성적에 영향을 준다고 나타낸다.
+2|maintain|/meɪnˈteɪn/|동 유지하다;동 주장하다|It is hard to *maintain* a healthy diet.|건강한 식단을 유지하기는 어렵다.|He *maintained* that he was innocent.|그는 자신이 결백하다고 주장했다.
+2|obtain|/əbˈteɪn/|동 얻다, 획득하다|You must *obtain* permission first.|먼저 허가를 받아야 한다.|She *obtained* a degree in biology.|그녀는 생물학 학위를 땄다.
+3|perspective|/pərˈspektɪv/|명 관점, 시각|Try to see it from her *perspective*.|그녀의 관점에서 생각해 봐.|Travel gives you a new *perspective* on life.|여행은 삶에 대한 새로운 시각을 준다.
+1|previous|/ˈpriːviəs/|형 이전의, 앞선|The *previous* chapter was easier.|이전 장은 더 쉬웠다.|I have no *previous* experience.|나는 이전 경험이 없다.
+3|reluctant|/rɪˈlʌktənt/|형 꺼리는, 마지못한|He was *reluctant* to speak in public.|그는 사람들 앞에서 말하기를 꺼렸다.|She gave a *reluctant* smile.|그녀는 마지못해 미소 지었다.
+1|resource|/ˈriːsɔːrs/|명 자원;명 자료|Water is a precious natural *resource*.|물은 소중한 천연자원이다.|The library offers many learning *resources*.|도서관은 많은 학습 자료를 제공한다.
+3|significant|/sɪɡˈnɪfɪkənt/|형 중요한;형 상당한|This is a *significant* discovery.|이것은 중요한 발견이다.|There was a *significant* rise in prices.|물가가 상당히 올랐다.
+3|tendency|/ˈtendənsi/|명 경향, 성향|He has a *tendency* to be late.|그는 늦는 경향이 있다.|Prices show a *tendency* to rise in summer.|가격은 여름에 오르는 경향을 보인다.
+2|urgent|/ˈɜːrdʒənt/|형 긴급한|I have an *urgent* message for you.|당신에게 급한 전갈이 있습니다.|The patient needs *urgent* care.|그 환자는 긴급한 치료가 필요하다.
+2|vary|/ˈveri/|동 다르다, 달라지다|Prices *vary* from store to store.|가격은 가게마다 다르다.|Opinions *vary* on this topic.|이 주제에 대한 의견은 다양하다.

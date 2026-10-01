@@ -1,0 +1,94 @@
+2|abrupt|/əˈbrʌpt/|형 갑작스러운|The meeting came to an *abrupt* end.|회의는 갑작스럽게 끝났다.|There was an *abrupt* change in the weather.|날씨가 갑자기 바뀌었다.
+2|affluence|/ˈæfluəns/|명 풍요, 부유|The city's *affluence* grew with trade.|그 도시의 부는 무역과 함께 커졌다.|Signs of *affluence* were everywhere.|부유함의 흔적이 곳곳에 있었다.
+2|alleviate|/əˈliːvieɪt/|동 완화하다|The medicine *alleviated* his pain.|그 약은 그의 통증을 덜어 주었다.|The charity works to *alleviate* poverty.|그 단체는 빈곤을 줄이려고 활동한다.
+2|ambient|/ˈæmbiənt/|형 주변의|The *ambient* temperature was cold.|주변 온도는 쌀쌀했다.|*Ambient* noise can disturb sleep.|주변 소음은 수면을 방해할 수 있다.
+2|ascend|/əˈsend/|동 오르다|The balloon slowly *ascended* into the sky.|풍선이 천천히 하늘로 올라갔다.|They *ascended* the mountain at dawn.|그들은 새벽에 산을 올랐다.
+2|attain|/əˈteɪn/|동 이루다, 도달하다|She *attained* her goal after years of effort.|그녀는 수년간의 노력 끝에 목표를 이루었다.|The plant can *attain* a height of ten meters.|그 식물은 높이가 10미터에 이를 수 있다.
+2|austere|/ɔːˈstɪr/|형 검소한, 엄격한|The monks lived an *austere* life.|수도사들은 검소한 삶을 살았다.|The room was plain and *austere*.|방은 소박하고 장식이 없었다.
+2|avert|/əˈvɜːrt/|동 피하다, 막다|Quick action *averted* a disaster.|신속한 조치가 재앙을 막았다.|He *averted* his eyes from the scene.|그는 그 장면에서 눈을 돌렸다.
+2|baffle|/ˈbæfl/|동 당황하게 하다|The puzzle *baffled* the experts.|그 수수께끼는 전문가들을 당황시켰다.|I was *baffled* by his strange answer.|나는 그의 이상한 대답에 어리둥절했다.
+2|barren|/ˈbærən/|형 불모의|The desert is a *barren* land.|사막은 불모의 땅이다.|Nothing grows in the *barren* soil.|그 척박한 땅에서는 아무것도 자라지 않는다.
+2|bestow|/bɪˈstoʊ/|동 수여하다|The king *bestowed* a title on the knight.|왕은 기사에게 작위를 수여했다.|The university *bestowed* an honorary degree.|대학은 명예 학위를 수여했다.
+2|bewilder|/bɪˈwɪldər/|동 당혹스럽게 하다|The complex rules *bewildered* the tourists.|복잡한 규칙이 관광객을 당혹시켰다.|She felt *bewildered* by the crowd.|그녀는 인파에 어리둥절했다.
+2|blunt|/blʌnt/|형 무딘, 직설적인|The knife was too *blunt* to cut.|칼이 너무 무뎌서 자를 수 없었다.|He gave a *blunt* answer.|그는 퉁명스럽게 대답했다.
+2|bountiful|/ˈbaʊntɪfl/|형 풍성한|The farmers enjoyed a *bountiful* harvest.|농부들은 풍성한 수확을 누렸다.|The island has *bountiful* fish.|그 섬에는 물고기가 풍부하다.
+2|brittle|/ˈbrɪtl/|형 부서지기 쉬운|Old bones become *brittle*.|오래된 뼈는 부서지기 쉬워진다.|The *brittle* leaves crumbled in his hand.|바삭한 잎이 그의 손에서 바스러졌다.
+2|bulk|/bʌlk/|명 대부분, 부피|The *bulk* of the work is done.|일의 대부분은 끝났다.|They buy rice in *bulk*.|그들은 쌀을 대량으로 산다.
+2|chaotic|/keɪˈɑːtɪk/|형 혼돈의|The market was *chaotic* on the first day.|첫날 시장은 혼란스러웠다.|The *chaotic* traffic delayed everyone.|혼잡한 교통이 모두를 지연시켰다.
+2|clarity|/ˈklærəti/|명 명확성|She spoke with great *clarity*.|그녀는 매우 명료하게 말했다.|The water has remarkable *clarity*.|그 물은 놀랍도록 맑다.
+2|coax|/koʊks/|동 구슬리다|He *coaxed* the cat out from under the bed.|그는 침대 밑에서 고양이를 살살 달래 꺼냈다.|She *coaxed* him into joining.|그녀는 그를 구슬려 참여시켰다.
+2|coincidence|/koʊˈɪnsɪdəns/|명 우연의 일치|It was a pure *coincidence*.|그것은 순전한 우연이었다.|What a *coincidence* to meet you here!|여기서 만나다니 정말 우연이네!
+2|commence|/kəˈmens/|동 시작하다|The ceremony will *commence* at noon.|의식은 정오에 시작된다.|Work *commenced* in March.|공사는 3월에 시작되었다.
+2|complacent|/kəmˈpleɪsnt/|형 안주하는|Don't become *complacent* after one success.|한 번의 성공에 안주하지 마라.|The team grew *complacent* and lost.|팀은 방심하다 패했다.
+2|comply|/kəmˈplaɪ/|동 따르다, 준수하다|All drivers must *comply* with the law.|모든 운전자는 법을 따라야 한다.|The factory failed to *comply* with safety rules.|그 공장은 안전 규정을 지키지 못했다.
+2|concur|/kənˈkɜːr/|동 동의하다|The doctors *concurred* with the diagnosis.|의사들은 그 진단에 동의했다.|I *concur* with your conclusion.|나는 당신의 결론에 동의합니다.
+2|condone|/kənˈdoʊn/|동 용인하다|The school does not *condone* cheating.|학교는 부정행위를 용인하지 않는다.|We cannot *condone* such behavior.|우리는 그런 행동을 묵인할 수 없다.
+2|conjecture|/kənˈdʒektʃər/|명 추측|The report is based on *conjecture*.|그 보고서는 추측에 근거한다.|Scientists made a *conjecture* about the cause.|과학자들은 원인에 대해 추측을 내놓았다.
+2|convoluted|/ˈkɑːnvəluːtɪd/|형 복잡하게 얽힌|The plot of the film was *convoluted*.|그 영화의 줄거리는 복잡하게 꼬여 있었다.|He gave a *convoluted* explanation.|그는 복잡하게 설명했다.
+2|daunting|/ˈdɔːntɪŋ/|형 벅찬|Learning a new language can be *daunting*.|새 언어를 배우는 것은 벅찰 수 있다.|The mountain looked *daunting*.|그 산은 위압적으로 보였다.
+2|deceptive|/dɪˈseptɪv/|형 기만적인|Appearances can be *deceptive*.|겉모습은 기만적일 수 있다.|The calm sea was *deceptive*.|잔잔한 바다는 믿을 것이 못 되었다.
+2|defy|/dɪˈfaɪ/|동 거역하다, 무시하다|The children *defied* their parents' orders.|아이들은 부모의 명령을 거역했다.|The result *defies* explanation.|그 결과는 설명이 불가능하다.
+2|dense|/dens/|형 빽빽한, 밀집한|The *dense* fog slowed the traffic.|짙은 안개가 교통을 느리게 했다.|The forest was too *dense* to walk through.|숲이 너무 빽빽해서 걸어 지나갈 수 없었다.
+2|deplete|/dɪˈpliːt/|동 고갈시키다|Overuse can *deplete* the soil.|과도한 사용은 토양을 고갈시킬 수 있다.|The trip *depleted* our savings.|그 여행으로 우리 저축이 바닥났다.
+2|deprive|/dɪˈpraɪv/|동 박탈하다|Poverty *deprives* children of education.|가난은 아이들에게서 교육을 빼앗는다.|The prisoners were *deprived* of food.|죄수들은 음식을 박탈당했다.
+2|derelict|/ˈderəlɪkt/|형 버려진|They lived in a *derelict* building.|그들은 버려진 건물에 살았다.|The *derelict* ship drifted in the bay.|버려진 배가 만에서 표류했다.
+2|detrimental|/ˌdetrɪˈmentl/|형 해로운|Smoking is *detrimental* to your health.|흡연은 건강에 해롭다.|The noise had a *detrimental* effect on sleep.|그 소음은 수면에 해로운 영향을 주었다.
+2|devoid|/dɪˈvɔɪd/|형 ~이 전혀 없는|The desert is *devoid* of trees.|사막에는 나무가 전혀 없다.|His speech was *devoid* of meaning.|그의 연설은 아무 의미가 없었다.
+2|dictate|/ˈdɪkteɪt/|동 지시하다, 받아쓰게 하다|The weather will *dictate* our plans.|날씨가 우리의 계획을 좌우할 것이다.|The teacher *dictated* the sentence to the class.|교사는 반에 그 문장을 받아쓰게 했다.
+2|diligent|/ˈdɪlɪdʒənt/|형 부지런한|She is a *diligent* student.|그녀는 부지런한 학생이다.|He was *diligent* in his work.|그는 일에 성실했다.
+2|dire|/ˈdaɪər/|형 끔찍한, 심각한|The village was in *dire* need of water.|그 마을은 물이 절실히 필요했다.|The *dire* warning came too late.|심각한 경고는 너무 늦게 나왔다.
+2|discord|/ˈdɪskɔːrd/|명 불화|*Discord* split the family.|불화가 가족을 갈라놓았다.|The song ends in *discord*.|그 노래는 불협화음으로 끝난다.
+2|dismantle|/dɪsˈmæntl/|동 해체하다|Workers *dismantled* the old bridge.|인부들은 낡은 다리를 해체했다.|The program was *dismantled* last year.|그 프로그램은 작년에 폐지되었다.
+2|dispense|/dɪˈspens/|동 나눠 주다|The machine *dispenses* hot drinks.|그 기계는 뜨거운 음료를 내준다.|Pharmacists *dispense* medicine.|약사들은 약을 조제해 준다.
+2|divulge|/daɪˈvʌldʒ/|동 누설하다|He refused to *divulge* the secret.|그는 비밀을 누설하기를 거부했다.|Never *divulge* your password.|비밀번호를 절대 알려 주지 마라.
+2|domain|/doʊˈmeɪn/|명 영역|Science is her *domain*.|과학은 그녀의 영역이다.|The website's *domain* name is easy to remember.|그 웹사이트의 도메인 이름은 외우기 쉽다.
+2|dwindle|/ˈdwɪndl/|동 줄어들다|The village's population *dwindled* over the years.|그 마을의 인구는 해마다 줄어들었다.|Our supplies began to *dwindle*.|우리의 물자가 줄어들기 시작했다.
+2|elusive|/ɪˈluːsɪv/|형 잡기 힘든|The *elusive* leopard is rarely seen.|잡기 힘든 표범은 좀처럼 눈에 띄지 않는다.|Success proved *elusive*.|성공은 좀처럼 손에 잡히지 않았다.
+2|embody|/ɪmˈbɑːdi/|동 구현하다|The statue *embodies* the spirit of freedom.|그 조각상은 자유의 정신을 구현한다.|She *embodies* all that is good in the team.|그녀는 팀의 모든 좋은 점을 대표한다.
+2|eminent|/ˈemɪnənt/|형 저명한|He is an *eminent* scientist.|그는 저명한 과학자다.|The hospital was founded by an *eminent* doctor.|그 병원은 저명한 의사가 세웠다.
+2|enigma|/ɪˈnɪɡmə/|명 수수께끼|The origin of the stone circle remains an *enigma*.|그 환상 열석의 기원은 여전히 수수께끼다.|She is something of an *enigma*.|그녀는 다소 수수께끼 같은 사람이다.
+2|enlighten|/ɪnˈlaɪtn/|동 계몽하다|The book *enlightened* many readers.|그 책은 많은 독자를 깨우쳤다.|Please *enlighten* me about the rules.|규칙에 대해 좀 알려 주세요.
+2|erratic|/ɪˈrætɪk/|형 불규칙한|The weather has been *erratic* lately.|최근 날씨가 불규칙하다.|His *erratic* behavior worried his friends.|그의 변덕스러운 행동은 친구들을 걱정시켰다.
+2|evoke|/ɪˈvoʊk/|동 불러일으키다|The smell *evoked* childhood memories.|그 냄새는 어린 시절의 기억을 불러일으켰다.|The film *evokes* a sense of wonder.|그 영화는 경이로움을 자아낸다.
+2|exhilarating|/ɪɡˈzɪləreɪtɪŋ/|형 신나는|The roller coaster ride was *exhilarating*.|롤러코스터는 짜릿했다.|It was an *exhilarating* experience.|그것은 가슴 설레는 경험이었다.
+2|fathom|/ˈfæðəm/|동 이해하다, 헤아리다|I can't *fathom* why he left.|나는 그가 왜 떠났는지 이해할 수 없다.|The depth of the lake is hard to *fathom*.|호수의 깊이는 가늠하기 어렵다.
+2|feeble|/ˈfiːbl/|형 연약한, 미약한|The *feeble* old man leaned on a cane.|쇠약한 노인은 지팡이에 기대었다.|He made a *feeble* excuse.|그는 궁색한 변명을 했다.
+2|fervent|/ˈfɜːrvənt/|형 열렬한|She is a *fervent* supporter of the team.|그녀는 그 팀의 열렬한 팬이다.|They made a *fervent* appeal for help.|그들은 간절히 도움을 호소했다.
+2|formidable|/ˈfɔːrmɪdəbl/|형 만만찮은|The team faces a *formidable* opponent.|팀은 만만찮은 상대와 마주했다.|The task seemed *formidable*.|그 일은 엄청나게 힘들어 보였다.
+2|frugal|/ˈfruːɡl/|형 검소한|The family lived a *frugal* life.|그 가족은 검소하게 살았다.|She is *frugal* with money.|그녀는 돈을 아껴 쓴다.
+2|futile|/ˈfjuːtl/|형 헛된|All efforts to save the ship were *futile*.|배를 살리려는 모든 노력은 헛수고였다.|It is *futile* to argue with him.|그와 말다툼해 봐야 소용없다.
+2|grim|/ɡrɪm/|형 암울한, 엄숙한|The news from the front was *grim*.|전선의 소식은 암울했다.|He wore a *grim* expression.|그는 굳은 표정을 지었다.
+2|hamper|/ˈhæmpər/|동 방해하다|Heavy snow *hampered* the rescue.|폭설이 구조를 방해했다.|Lack of money *hampered* the project.|자금 부족이 그 프로젝트를 방해했다.
+2|haphazard|/hæpˈhæzərd/|형 무계획적인|The books were arranged in a *haphazard* way.|책들은 되는대로 정리되어 있었다.|His *haphazard* approach led to mistakes.|그의 두서없는 접근은 실수로 이어졌다.
+2|hinder|/ˈhɪndər/|동 방해하다|Thick fog *hindered* the search.|짙은 안개가 수색을 방해했다.|Fear can *hinder* progress.|두려움은 발전을 가로막을 수 있다.
+2|immerse|/ɪˈmɜːrs/|동 담그다, 몰두하다|*Immerse* the cloth in warm water.|천을 따뜻한 물에 담가라.|She *immersed* herself in her studies.|그녀는 공부에 몰두했다.
+2|impending|/ɪmˈpendɪŋ/|형 임박한|The villagers fled the *impending* storm.|마을 사람들은 임박한 폭풍을 피해 달아났다.|There was a sense of *impending* danger.|임박한 위험에 대한 불안감이 있었다.
+2|impoverished|/ɪmˈpɑːvərɪʃt/|형 빈곤한|The *impoverished* family could not pay rent.|가난한 그 가족은 집세를 낼 수 없었다.|Aid was sent to the *impoverished* region.|빈곤 지역에 원조가 보내졌다.
+2|inaugurate|/ɪˈnɔːɡjəreɪt/|동 취임시키다, 개시하다|The president was *inaugurated* in January.|대통령은 1월에 취임했다.|They *inaugurated* the new library with a ceremony.|그들은 의식으로 새 도서관을 개관했다.
+2|incessant|/ɪnˈsesnt/|형 끊임없는|The *incessant* rain flooded the fields.|끊임없는 비가 들판을 침수시켰다.|I couldn't sleep because of the *incessant* noise.|끊이지 않는 소음 때문에 잠을 잘 수 없었다.
+2|indigenous|/ɪnˈdɪdʒənəs/|형 토착의|The *indigenous* people have lived here for centuries.|토착민들은 수 세기 동안 이곳에 살아왔다.|Kangaroos are *indigenous* to Australia.|캥거루는 호주 토착종이다.
+2|indispensable|/ˌɪndɪˈspensəbl/|형 없어서는 안 될|Water is *indispensable* to life.|물은 생명에 없어서는 안 된다.|The phone has become *indispensable*.|휴대폰은 필수품이 되었다.
+2|inexorable|/ɪnˈeksərəbl/|형 멈출 수 없는|The *inexorable* march of time continues.|멈출 수 없는 시간의 행진은 계속된다.|The glacier's *inexorable* advance buried the village.|빙하의 막을 수 없는 전진이 마을을 묻어 버렸다.
+2|infamous|/ˈɪnfəməs/|형 악명 높은|The pirate was *infamous* for his cruelty.|그 해적은 잔혹함으로 악명 높았다.|It is an *infamous* prison.|그곳은 악명 높은 교도소다.
+2|ingenious|/ɪnˈdʒiːniəs/|형 독창적인|She found an *ingenious* solution.|그녀는 기발한 해결책을 찾았다.|The tool is an *ingenious* invention.|그 도구는 기발한 발명품이다.
+2|insatiable|/ɪnˈseɪʃəbl/|형 만족할 줄 모르는|He has an *insatiable* hunger for knowledge.|그는 지식에 대한 끝없는 갈증이 있다.|The children's *insatiable* curiosity amazed us.|아이들의 끝없는 호기심이 우리를 놀라게 했다.
+2|intact|/ɪnˈtækt/|형 온전한|The vase arrived *intact*.|꽃병은 온전한 상태로 도착했다.|The ancient wall remains *intact*.|고대의 성벽은 온전히 남아 있다.
+2|intrinsic|/ɪnˈtrɪnzɪk/|형 본질적인|The coin has little *intrinsic* value.|그 동전은 본래의 가치가 거의 없다.|Curiosity is *intrinsic* to human nature.|호기심은 인간 본성에 내재해 있다.
+2|inundate|/ˈɪnʌndeɪt/|동 범람시키다, 쇄도하다|The river *inundated* the fields.|강이 들판을 범람했다.|The office was *inundated* with calls.|사무실은 전화가 쇄도했다.
+2|irrevocable|/ɪˈrevəkəbl/|형 되돌릴 수 없는|It was an *irrevocable* decision.|그것은 번복할 수 없는 결정이었다.|The damage is *irrevocable*.|그 손상은 되돌릴 수 없다.
+2|lament|/ləˈment/|동 한탄하다|Many people *lament* the loss of old traditions.|많은 사람이 옛 전통의 상실을 한탄한다.|She *lamented* her bad luck.|그녀는 자신의 불운을 한탄했다.
+2|lethargic|/ləˈθɑːrdʒɪk/|형 무기력한|The heat made everyone *lethargic*.|더위가 모두를 무기력하게 만들었다.|The sick child was pale and *lethargic*.|아픈 아이는 창백하고 기운이 없었다.
+2|lucrative|/ˈluːkrətɪv/|형 수익성이 좋은|He found a *lucrative* job in banking.|그는 은행에서 돈 되는 일자리를 구했다.|Tourism is a *lucrative* business here.|이곳에서 관광업은 수익성이 높다.
+2|meager|/ˈmiːɡər/|형 빈약한|They lived on a *meager* income.|그들은 빈약한 수입으로 살았다.|The soup was a *meager* meal.|그 수프는 변변찮은 식사였다.
+2|meticulous|/məˈtɪkjələs/|형 꼼꼼한|She is *meticulous* about her work.|그녀는 일에 철저하다.|The scientist kept *meticulous* records.|과학자는 꼼꼼한 기록을 남겼다.
+2|mundane|/mʌnˈdeɪn/|형 평범한, 세속적인|He wrote about *mundane* daily life.|그는 평범한 일상에 관해 썼다.|The job was *mundane* and boring.|그 일은 평범하고 지루했다.
+2|nostalgia|/nɑːˈstældʒə/|명 향수|Old songs fill her with *nostalgia*.|옛 노래는 그녀에게 향수를 불러일으킨다.|He looked at the photos with *nostalgia*.|그는 향수에 젖어 사진을 보았다.
+2|notorious|/noʊˈtɔːriəs/|형 악명 높은|The road is *notorious* for accidents.|그 도로는 사고로 악명 높다.|He is a *notorious* liar.|그는 악명 높은 거짓말쟁이다.
+2|oblivious|/əˈblɪviəs/|형 알아채지 못하는|He was *oblivious* to the danger.|그는 위험을 알아채지 못했다.|She walked on, *oblivious* of the rain.|그녀는 비를 의식하지 못한 채 계속 걸었다.
+2|opaque|/oʊˈpeɪk/|형 불투명한|The window glass was *opaque*.|창유리는 불투명했다.|The rules were *opaque* to outsiders.|그 규칙은 외부인에게 불분명했다.
+2|ostensible|/ɑːˈstensəbl/|형 표면상의|The *ostensible* reason was safety.|표면상의 이유는 안전이었다.|His *ostensible* purpose was to help.|그의 표면적 목적은 돕는 것이었다.
+2|pervasive|/pərˈveɪsɪv/|형 만연한|Fear was *pervasive* in the city.|도시에는 공포가 만연해 있었다.|Smartphones have a *pervasive* influence.|스마트폰은 널리 영향을 미친다.
+2|pinnacle|/ˈpɪnəkl/|명 정점|The singer reached the *pinnacle* of success.|그 가수는 성공의 정점에 올랐다.|They climbed to the *pinnacle* of the rock.|그들은 바위의 꼭대기에 올랐다.
+2|plummet|/ˈplʌmɪt/|동 급락하다|Prices *plummeted* after the news.|뉴스 이후 가격이 급락했다.|The temperature *plummeted* overnight.|기온이 밤사이 급격히 떨어졌다.
+2|poignant|/ˈpɔɪnjənt/|형 가슴 아픈|It was a *poignant* farewell.|가슴 저미는 작별이었다.|The film tells a *poignant* story.|그 영화는 가슴 뭉클한 이야기를 들려준다.
+2|precarious|/prɪˈkeriəs/|형 불안정한|The climber was in a *precarious* position.|등반가는 위태로운 자리에 있었다.|The company's finances are *precarious*.|회사의 재정은 불안정하다.

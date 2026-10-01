@@ -1,0 +1,91 @@
+2|absorption|/əbˈsɔːrpʃn/|명 흡수|The *absorption* of water by roots is vital for plants.|뿌리의 물 흡수는 식물에게 필수적이다.|Dark surfaces increase heat *absorption*.|어두운 표면은 열 흡수를 늘린다.
+2|acceleration|/əkˌseləˈreɪʃn/|명 가속|*Acceleration* is the rate of change of speed.|가속도는 속도가 변하는 비율이다.|The car's *acceleration* is impressive.|그 차의 가속력은 인상적이다.
+2|alkaline|/ˈælkəlaɪn/|형 알칼리성의|Baking soda is *alkaline*.|베이킹 소다는 알칼리성이다.|*Alkaline* soil is common in dry regions.|알칼리성 토양은 건조한 지역에 흔하다.
+2|atom|/ˈætəm/|명 원자|An *atom* is made of protons, neutrons, and electrons.|원자는 양성자, 중성자, 전자로 이루어진다.|Matter is built from tiny *atoms*.|물질은 작은 원자로 이루어져 있다.
+2|atomic|/əˈtɑːmɪk/|형 원자의|The *atomic* number identifies each element.|원자 번호는 각 원소를 구별한다.|Scientists studied *atomic* structure.|과학자들은 원자 구조를 연구했다.
+2|boiling|/ˈbɔɪlɪŋ/|형 끓는|Water reaches its *boiling* point at 100 degrees Celsius.|물은 섭씨 100도에서 끓는점에 이른다.|Pour *boiling* water over the tea leaves.|찻잎에 끓는 물을 부으세요.
+3|catalyst|/ˈkætəlɪst/|명 촉매|A *catalyst* speeds up a reaction without being used up.|촉매는 소모되지 않으면서 반응을 빠르게 한다.|The speech was a *catalyst* for change.|그 연설은 변화의 촉매제였다.
+3|combustion|/kəmˈbʌstʃən/|명 연소|*Combustion* requires oxygen.|연소에는 산소가 필요하다.|The engine works by the *combustion* of fuel.|그 엔진은 연료의 연소로 작동한다.
+2|conductor|/kənˈdʌktər/|명 전도체, 지휘자|Copper is a good *conductor* of electricity.|구리는 전기의 좋은 전도체다.|The *conductor* raised his baton.|지휘자가 지휘봉을 들었다.
+2|conservation|/ˌkɑːnsərˈveɪʃn/|명 보존, 보전|The *conservation* of energy is a basic law of physics.|에너지 보존은 물리학의 기본 법칙이다.|Wildlife *conservation* needs public support.|야생 동물 보호에는 대중의 지원이 필요하다.
+2|corrosion|/kəˈroʊʒn/|명 부식|Salt water speeds up the *corrosion* of metal.|소금물은 금속의 부식을 빠르게 한다.|Paint protects iron from *corrosion*.|페인트는 철을 부식으로부터 보호한다.
+2|density|/ˈdensəti/|명 밀도|Lead has a high *density*.|납은 밀도가 높다.|Population *density* is high in big cities.|대도시는 인구 밀도가 높다.
+2|diffusion|/dɪˈfjuːʒn/|명 확산|The *diffusion* of perfume fills the room.|향수의 확산으로 방이 향기로 가득 찬다.|The *diffusion* of new ideas takes time.|새로운 생각의 확산에는 시간이 걸린다.
+2|dissolve|/dɪˈzɑːlv/|동 녹이다, 녹다|Sugar *dissolves* in hot water.|설탕은 뜨거운 물에 녹는다.|Stir until the salt *dissolves*.|소금이 녹을 때까지 저으세요.
+2|electron|/ɪˈlektrɑːn/|명 전자|An *electron* carries a negative charge.|전자는 음전하를 띤다.|*Electrons* move around the nucleus.|전자는 원자핵 주위를 움직인다.
+3|entropy|/ˈentrəpi/|명 엔트로피|*Entropy* measures disorder in a system.|엔트로피는 계의 무질서도를 나타낸다.|The *entropy* of the universe tends to increase.|우주의 엔트로피는 증가하는 경향이 있다.
+2|equilibrium|/ˌiːkwɪˈlɪbriəm/|명 평형|The system reached *equilibrium*.|그 계는 평형 상태에 이르렀다.|Nature keeps a delicate *equilibrium*.|자연은 섬세한 균형을 유지한다.
+2|expansion|/ɪkˈspænʃn/|명 팽창, 확장|Heat causes the *expansion* of metals.|열은 금속의 팽창을 일으킨다.|The company planned an *expansion* abroad.|회사는 해외 확장을 계획했다.
+3|fission|/ˈfɪʃn/|명 핵분열|Nuclear *fission* releases huge energy.|핵분열은 엄청난 에너지를 방출한다.|Bacteria multiply by binary *fission*.|세균은 이분법으로 번식한다.
+2|fluid|/ˈfluːɪd/|명 유체;형 유동적인|Water and air are *fluids*.|물과 공기는 유체다.|The situation remained *fluid*.|상황은 유동적인 채로 남아 있었다.
+2|force|/fɔːrs/|명 힘;동 강요하다|Gravity is a *force* that pulls objects down.|중력은 물체를 아래로 당기는 힘이다.|Nobody should *force* you to agree.|누구도 네게 동의를 강요해서는 안 된다.
+3|fusion|/ˈfjuːʒn/|명 융합, 핵융합|The sun's energy comes from nuclear *fusion*.|태양의 에너지는 핵융합에서 나온다.|The restaurant serves Asian *fusion* food.|그 식당은 아시안 퓨전 음식을 낸다.
+2|generator|/ˈdʒenəreɪtər/|명 발전기|A *generator* supplied power during the blackout.|정전 동안 발전기가 전력을 공급했다.|The wind turbine drives a *generator*.|풍력 터빈이 발전기를 돌린다.
+3|hydrocarbon|/ˌhaɪdrəˈkɑːrbən/|명 탄화수소|Oil and gas are made of *hydrocarbons*.|석유와 가스는 탄화수소로 이루어져 있다.|Burning *hydrocarbons* releases carbon dioxide.|탄화수소를 태우면 이산화탄소가 나온다.
+2|inertia|/ɪˈnɜːrʃə/|명 관성|*Inertia* keeps a moving object in motion.|관성은 움직이는 물체가 계속 움직이게 한다.|Fear of change creates *inertia*.|변화에 대한 두려움은 무기력을 낳는다.
+2|insulator|/ˈɪnsəleɪtər/|명 절연체, 단열재|Rubber is a good electrical *insulator*.|고무는 좋은 전기 절연체다.|Wool is a natural heat *insulator*.|양모는 천연 단열재다.
+2|ion|/ˈaɪən/|명 이온|Salt breaks into *ions* in water.|소금은 물에서 이온으로 분리된다.|An *ion* has a positive or negative charge.|이온은 양전하나 음전하를 띤다.
+3|isotope|/ˈaɪsətoʊp/|명 동위원소|Carbon-14 is an *isotope* used for dating fossils.|탄소-14는 화석 연대 측정에 쓰이는 동위원소다.|Each element has several *isotopes*.|각 원소에는 여러 동위원소가 있다.
+2|kinetic|/kɪˈnetɪk/|형 운동의|A moving ball has *kinetic* energy.|움직이는 공에는 운동 에너지가 있다.|The *kinetic* art moves with the wind.|그 키네틱 아트는 바람에 따라 움직인다.
+2|lens|/lenz/|명 렌즈|A magnifying *lens* makes small things look larger.|돋보기 렌즈는 작은 것을 더 커 보이게 한다.|The eye has a *lens* that focuses light.|눈에는 빛을 모으는 수정체가 있다.
+2|magnetic|/mæɡˈnetɪk/|형 자성의|The Earth has a *magnetic* field.|지구에는 자기장이 있다.|A compass uses *magnetic* force.|나침반은 자기력을 이용한다.
+2|matter|/ˈmætər/|명 물질;동 중요하다|Everything is made of *matter*.|모든 것은 물질로 이루어져 있다.|It doesn't *matter* who wins.|누가 이기든 상관없다.
+2|mixture|/ˈmɪkstʃər/|명 혼합물|Air is a *mixture* of gases.|공기는 기체의 혼합물이다.|The soup is a *mixture* of vegetables and beans.|그 수프는 채소와 콩이 섞여 있다.
+2|momentum|/moʊˈmentəm/|명 운동량, 추진력|A heavy truck has great *momentum*.|무거운 트럭은 운동량이 크다.|The team gained *momentum* after the goal.|골 이후 팀은 탄력을 받았다.
+2|neutron|/ˈnuːtrɑːn/|명 중성자|A *neutron* has no electric charge.|중성자는 전하가 없다.|The nucleus contains protons and *neutrons*.|원자핵에는 양성자와 중성자가 있다.
+2|optics|/ˈɑːptɪks/|명 광학|*Optics* is the study of light.|광학은 빛을 연구하는 학문이다.|He works in fiber *optics*.|그는 광섬유 분야에서 일한다.
+2|oxidize|/ˈɑːksɪdaɪz/|동 산화하다|Iron *oxidizes* and forms rust.|철은 산화되어 녹이 슨다.|Cut apples *oxidize* and turn brown.|자른 사과는 산화되어 갈색으로 변한다.
+2|pendulum|/ˈpendʒələm/|명 진자|The *pendulum* swung back and forth.|진자가 앞뒤로 흔들렸다.|A *pendulum* clock keeps steady time.|추시계는 일정하게 시간을 가리킨다.
+2|photon|/ˈfoʊtɑːn/|명 광자|Light is made of tiny particles called *photons*.|빛은 광자라는 작은 입자로 이루어져 있다.|A *photon* carries energy.|광자는 에너지를 운반한다.
+2|plasma|/ˈplæzmə/|명 플라스마, 혈장|*Plasma* is the fourth state of matter.|플라스마는 물질의 네 번째 상태다.|Blood *plasma* carries nutrients.|혈장은 영양소를 운반한다.
+2|polymer|/ˈpɑːlɪmər/|명 고분자|Plastic is a *polymer*.|플라스틱은 고분자다.|Chemists design new *polymers*.|화학자들은 새로운 고분자를 설계한다.
+2|prism|/ˈprɪzəm/|명 프리즘|A *prism* splits white light into colors.|프리즘은 백색광을 여러 색으로 나눈다.|Light passed through the glass *prism*.|빛이 유리 프리즘을 통과했다.
+2|proton|/ˈproʊtɑːn/|명 양성자|A *proton* carries a positive charge.|양성자는 양전하를 띤다.|The number of *protons* defines the element.|양성자의 수가 원소를 결정한다.
+2|radiation|/ˌreɪdiˈeɪʃn/|명 방사선, 복사|Too much *radiation* is harmful.|지나친 방사선은 해롭다.|Sunlight is a form of *radiation*.|햇빛은 복사의 한 형태다.
+2|radioactive|/ˌreɪdioʊˈæktɪv/|형 방사성의|Uranium is a *radioactive* element.|우라늄은 방사성 원소다.|*Radioactive* waste must be stored safely.|방사성 폐기물은 안전하게 보관해야 한다.
+2|refraction|/rɪˈfrækʃn/|명 굴절|The *refraction* of light makes a straw look bent in water.|빛의 굴절 때문에 빨대가 물속에서 꺾여 보인다.|A rainbow results from *refraction* and reflection.|무지개는 굴절과 반사의 결과다.
+2|resistance|/rɪˈzɪstəns/|명 저항|Air *resistance* slows a falling feather.|공기 저항은 떨어지는 깃털을 느리게 한다.|The wire has high electrical *resistance*.|그 전선은 전기 저항이 크다.
+2|solvent|/ˈsɑːlvənt/|명 용매|Water is a common *solvent*.|물은 흔한 용매다.|The paint is cleaned with a *solvent*.|페인트는 용제로 닦아 낸다.
+2|spectrum|/ˈspektrəm/|명 스펙트럼, 범위|A rainbow shows the color *spectrum*.|무지개는 색의 스펙트럼을 보여 준다.|The group covers a wide *spectrum* of opinion.|그 단체는 폭넓은 의견을 아우른다.
+2|thermal|/ˈθɜːrml/|형 열의|*Thermal* energy flows from hot to cold.|열에너지는 뜨거운 곳에서 차가운 곳으로 흐른다.|Bathers enjoy the *thermal* springs.|목욕객들은 온천을 즐긴다.
+2|velocity|/vəˈlɑːsəti/|명 속도(방향 포함)|The *velocity* of sound is about 340 meters per second.|소리의 속도는 초속 약 340미터다.|The ball's *velocity* increased as it fell.|공의 속도는 떨어지면서 증가했다.
+2|voltage|/ˈvoʊltɪdʒ/|명 전압|High *voltage* can be dangerous.|고전압은 위험할 수 있다.|The battery has a *voltage* of nine volts.|그 배터리의 전압은 9볼트다.
+2|wavelength|/ˈweɪvleŋθ/|명 파장|Red light has a long *wavelength*.|붉은빛은 파장이 길다.|Each radio station uses a different *wavelength*.|라디오 방송국마다 다른 파장을 쓴다.
+2|asteroid|/ˈæstərɔɪd/|명 소행성|An *asteroid* hit the Earth millions of years ago.|소행성이 수백만 년 전에 지구와 충돌했다.|Most *asteroids* orbit between Mars and Jupiter.|대부분의 소행성은 화성과 목성 사이를 돈다.
+2|astronomer|/əˈstrɑːnəmər/|명 천문학자|The *astronomer* discovered a new comet.|천문학자는 새로운 혜성을 발견했다.|*Astronomers* use telescopes to study stars.|천문학자들은 망원경으로 별을 연구한다.
+2|aurora|/ɔːˈrɔːrə/|명 오로라|The *aurora* lit up the northern sky.|오로라가 북쪽 하늘을 밝혔다.|People travel to Alaska to see the *aurora*.|사람들은 오로라를 보러 알래스카로 간다.
+2|axis|/ˈæksɪs/|명 축|The Earth spins on its *axis*.|지구는 자전축을 중심으로 돈다.|Plot time on the horizontal *axis*.|가로축에 시간을 표시하세요.
+2|comet|/ˈkɑːmɪt/|명 혜성|The *comet* has a long glowing tail.|혜성은 빛나는 긴 꼬리를 가지고 있다.|Halley's *comet* returns every 76 years.|핼리 혜성은 76년마다 돌아온다.
+2|constellation|/ˌkɑːnstəˈleɪʃn/|명 별자리|Orion is a well-known *constellation*.|오리온은 잘 알려진 별자리다.|Sailors used *constellations* to navigate.|선원들은 별자리로 항해했다.
+2|cosmic|/ˈkɑːzmɪk/|형 우주의|*Cosmic* rays come from outer space.|우주선은 우주 공간에서 온다.|The *cosmic* scale of the universe is hard to imagine.|우주의 규모는 상상하기 어렵다.
+2|cosmos|/ˈkɑːzmɑːs/|명 우주|People have long wondered about the *cosmos*.|사람들은 오래전부터 우주를 궁금해했다.|The *cosmos* contains billions of galaxies.|우주에는 수십억 개의 은하가 있다.
+2|equinox|/ˈiːkwɪnɑːks/|명 춘분·추분|Day and night are equal at the *equinox*.|춘분과 추분에는 낮과 밤의 길이가 같다.|The spring *equinox* falls in March.|춘분은 3월이다.
+2|galaxy|/ˈɡæləksi/|명 은하|Our solar system is in the Milky Way *galaxy*.|우리 태양계는 은하수 은하에 있다.|A *galaxy* contains billions of stars.|은하에는 수십억 개의 별이 있다.
+2|lunar|/ˈluːnər/|형 달의|A *lunar* eclipse turns the moon red.|월식은 달을 붉게 만든다.|The *lunar* cycle lasts about 29 days.|달의 주기는 약 29일이다.
+2|meteor|/ˈmiːtiər/|명 유성|A *meteor* streaked across the night sky.|유성이 밤하늘을 가로질렀다.|We watched the *meteor* shower from the hill.|우리는 언덕에서 유성우를 보았다.
+2|nebula|/ˈnebjələ/|명 성운|A *nebula* is a cloud of gas and dust.|성운은 가스와 먼지 구름이다.|New stars are born in the *nebula*.|새로운 별이 성운에서 태어난다.
+2|orbital|/ˈɔːrbɪtl/|형 궤도의|The satellite's *orbital* path is circular.|위성의 궤도 경로는 원형이다.|*Orbital* speed depends on altitude.|궤도 속도는 고도에 따라 다르다.
+2|planetary|/ˈplænəteri/|형 행성의|The *planetary* system has eight planets.|그 행성계에는 행성이 여덟 개 있다.|*Planetary* motion follows physical laws.|행성의 운동은 물리 법칙을 따른다.
+2|solstice|/ˈsɑːlstɪs/|명 하지·동지|The summer *solstice* is the longest day.|하지는 가장 긴 날이다.|The winter *solstice* marks the shortest day.|동지는 가장 짧은 날이다.
+2|stellar|/ˈstelər/|형 별의, 뛰어난|*Stellar* temperatures can reach millions of degrees.|별의 온도는 수백만 도에 이를 수 있다.|She gave a *stellar* performance.|그녀는 뛰어난 공연을 펼쳤다.
+3|supernova|/ˌsuːpərˈnoʊvə/|명 초신성|A *supernova* is a giant exploding star.|초신성은 거대한 폭발하는 별이다.|The *supernova* shone brighter than a galaxy.|초신성은 은하보다 밝게 빛났다.
+2|telescope|/ˈtelɪskoʊp/|명 망원경|He looked at Saturn through a *telescope*.|그는 망원경으로 토성을 보았다.|The space *telescope* sends back clear images.|우주 망원경은 선명한 영상을 전송한다.
+2|zenith|/ˈziːnɪθ/|명 천정, 절정|The sun reaches its *zenith* at noon.|해는 정오에 천정에 이른다.|The empire was at its *zenith* in the 1600s.|그 제국은 1600년대에 전성기를 맞았다.
+2|acidic|/əˈsɪdɪk/|형 산성의|Lemon juice is *acidic*.|레몬 즙은 산성이다.|*Acidic* rain damages buildings.|산성비는 건물을 훼손한다.
+2|aerodynamic|/ˌeroʊdaɪˈnæmɪk/|형 공기 역학의|The car has an *aerodynamic* shape.|그 차는 공기 역학적인 형태다.|Birds have *aerodynamic* bodies.|새는 공기 역학적인 몸을 가졌다.
+2|ammonia|/əˈmoʊniə/|명 암모니아|*Ammonia* has a sharp smell.|암모니아는 톡 쏘는 냄새가 난다.|Farmers use *ammonia* in fertilizer.|농부들은 비료에 암모니아를 쓴다.
+2|amplify|/ˈæmplɪfaɪ/|동 증폭하다|The speaker *amplifies* the sound.|스피커는 소리를 증폭시킨다.|Social media can *amplify* rumors.|소셜 미디어는 소문을 증폭시킬 수 있다.
+2|buoyancy|/ˈbɔɪənsi/|명 부력|*Buoyancy* helps ships float.|부력은 배가 뜨게 도와준다.|Salt water increases *buoyancy*.|소금물은 부력을 높인다.
+2|calcium|/ˈkælsiəm/|명 칼슘|Milk is rich in *calcium*.|우유는 칼슘이 풍부하다.|Bones need *calcium* to stay strong.|뼈는 튼튼하려면 칼슘이 필요하다.
+2|capillary|/ˈkæpəleri/|명 모세혈관|Blood flows through tiny *capillaries*.|혈액은 아주 작은 모세혈관을 따라 흐른다.|Plants draw water by *capillary* action.|식물은 모세관 현상으로 물을 끌어올린다.
+2|carbonate|/ˈkɑːrbənət/|명 탄산염|Limestone is made of calcium *carbonate*.|석회암은 탄산칼슘으로 이루어져 있다.|Soft drinks are *carbonated* with gas.|청량음료에는 탄산가스가 들어 있다.
+2|centrifugal|/ˌsentrɪˈfjuːɡl/|형 원심의|*Centrifugal* force pushes objects outward.|원심력은 물체를 바깥쪽으로 민다.|The washing machine uses a *centrifugal* spin.|세탁기는 원심 탈수를 쓴다.
+2|coefficient|/ˌkoʊɪˈfɪʃnt/|명 계수|The *coefficient* of friction was measured.|마찰 계수가 측정되었다.|Each variable has a different *coefficient*.|변수마다 계수가 다르다.
+2|compress|/kəmˈpres/|동 압축하다|*Compress* the file to save space.|공간을 아끼려면 파일을 압축하세요.|Gas can be *compressed* into a small tank.|기체는 작은 탱크에 압축할 수 있다.
+2|corrode|/kəˈroʊd/|동 부식시키다|Acid can *corrode* metal.|산은 금속을 부식시킬 수 있다.|The pipes *corroded* over time.|파이프는 시간이 지나며 부식되었다.
+2|crystalline|/ˈkrɪstəlaɪn/|형 결정질의|Salt has a *crystalline* structure.|소금은 결정 구조를 가진다.|The lake water was *crystalline* and clear.|호수 물은 수정처럼 맑았다.
+2|dilute|/daɪˈluːt/|동 희석하다|*Dilute* the juice with water.|주스를 물로 희석하세요.|The solution was *diluted* ten times.|그 용액은 10배로 희석되었다.
+2|distill|/dɪˈstɪl/|동 증류하다|Salt is removed when seawater is *distilled*.|바닷물을 증류하면 소금이 제거된다.|They *distill* spirits from grain.|그들은 곡물로 증류주를 만든다.
+2|dynamics|/daɪˈnæmɪks/|명 역학|Fluid *dynamics* explains how air flows.|유체 역학은 공기가 어떻게 흐르는지 설명한다.|The group *dynamics* changed after he left.|그가 떠난 뒤 집단의 역학 관계가 바뀌었다.
+2|electromagnetic|/ɪˌlektroʊmæɡˈnetɪk/|형 전자기의|Light is an *electromagnetic* wave.|빛은 전자기파다.|*Electromagnetic* fields surround power lines.|전자기장이 송전선 주위를 둘러싼다.
+2|emit|/ɪˈmɪt/|동 방출하다|The sun *emits* light and heat.|태양은 빛과 열을 방출한다.|Factories *emit* smoke into the air.|공장은 연기를 공기 중으로 내뿜는다.

@@ -1,0 +1,99 @@
+2|abroad|/əˈbrɔːd/|부 해외에|She wants to study *abroad*.|그녀는 해외에서 공부하고 싶어 한다.|They travel *abroad* every summer.|그들은 매년 여름 해외여행을 간다.
+2|absence|/ˈæbsəns/|명 결석, 부재|His *absence* was noticed by everyone.|그의 부재는 모두가 알아챘다.|She was punished for her *absence* from class.|그녀는 수업 결석으로 벌을 받았다.
+2|accent|/ˈæksent/|명 억양, 강세|He speaks English with a strong *accent*.|그는 억양이 강한 영어를 한다.|The *accent* is on the first syllable.|강세는 첫 음절에 있다.
+2|acceptable|/əkˈseptəbl/|형 받아들일 만한|The quality is *acceptable*.|품질이 받아들일 만하다.|That behavior is not *acceptable*.|그런 행동은 용납될 수 없다.
+2|accessory|/əkˈsesəri/|명 액세서리, 부속품|She bought a scarf as an *accessory*.|그녀는 액세서리로 스카프를 샀다.|The phone comes with many *accessories*.|그 휴대폰에는 부속품이 많이 딸려 있다.
+2|accidental|/ˌæksɪˈdentl/|형 우연한|It was an *accidental* meeting.|그것은 우연한 만남이었다.|The fire was *accidental*.|그 화재는 우연한 사고였다.
+2|accord|/əˈkɔːrd/|명 일치, 합의|The two sides signed a peace *accord*.|양측은 평화 협정에 서명했다.|She left of her own *accord*.|그녀는 자발적으로 떠났다.
+2|accountable|/əˈkaʊntəbl/|형 책임이 있는|Drivers are *accountable* for their actions.|운전자는 자기 행동에 책임이 있다.|The manager is *accountable* to the board.|관리자는 이사회에 책임을 진다.
+2|additional|/əˈdɪʃənl/|형 추가의|Do you need *additional* help?|추가 도움이 필요하세요?|There is an *additional* charge for delivery.|배달에는 추가 요금이 있다.
+2|adjacent|/əˈdʒeɪsnt/|형 인접한|The school is *adjacent* to the park.|학교는 공원에 인접해 있다.|They live in *adjacent* rooms.|그들은 이웃한 방에 산다.
+2|admiration|/ˌædməˈreɪʃn/|명 감탄, 존경|I have great *admiration* for her courage.|나는 그녀의 용기를 크게 존경한다.|The painting won the *admiration* of critics.|그 그림은 비평가들의 찬사를 받았다.
+2|admission|/ədˈmɪʃn/|명 입장, 입학|*Admission* to the museum is free.|박물관 입장은 무료다.|She got *admission* to a top university.|그녀는 명문 대학에 입학 허가를 받았다.
+2|adore|/əˈdɔːr/|동 아주 좋아하다|She *adores* her little brother.|그녀는 남동생을 아주 아낀다.|I *adore* chocolate ice cream.|나는 초콜릿 아이스크림을 아주 좋아한다.
+2|advocate|/ˈædvəkeɪt/|동 옹호하다;명 옹호자|The group *advocates* clean energy.|그 단체는 청정 에너지를 옹호한다.|She is an *advocate* for children's rights.|그녀는 아동 권리의 옹호자다.
+2|aesthetic|/esˈθetɪk/|형 미적인|The building has great *aesthetic* value.|그 건물은 미적 가치가 크다.|He has a good *aesthetic* sense.|그는 미적 감각이 좋다.
+2|affair|/əˈfer/|명 일, 사건|He doesn't talk about private *affairs*.|그는 사생활 문제를 이야기하지 않는다.|The news covers current *affairs*.|뉴스는 시사 문제를 다룬다.
+2|affection|/əˈfekʃn/|명 애정|She showed great *affection* for her dog.|그녀는 개에게 큰 애정을 보였다.|He has deep *affection* for his hometown.|그는 고향에 깊은 애정을 갖고 있다.
+2|aftermath|/ˈæftərmæθ/|명 여파|The city is still recovering in the *aftermath* of the storm.|그 도시는 폭풍의 여파에서 아직 회복 중이다.|People helped each other in the *aftermath*.|사람들은 그 여파 속에서 서로 도왔다.
+2|agriculture|/ˈæɡrɪkʌltʃər/|명 농업|*Agriculture* is important to the economy.|농업은 경제에 중요하다.|The region is known for its *agriculture*.|그 지역은 농업으로 유명하다.
+2|aid|/eɪd/|명 원조, 도움;동 돕다|The country sent food *aid*.|그 나라는 식량 원조를 보냈다.|The nurse *aided* the injured man.|간호사는 다친 남자를 도왔다.
+2|aircraft|/ˈerkræft/|명 항공기|The *aircraft* landed safely.|항공기가 안전하게 착륙했다.|He designs military *aircraft*.|그는 군용 항공기를 설계한다.
+2|alcohol|/ˈælkəhɔːl/|명 술, 알코올|*Alcohol* is not allowed in the park.|공원에서는 술이 허용되지 않는다.|The drink contains no *alcohol*.|그 음료에는 알코올이 없다.
+2|alike|/əˈlaɪk/|형 비슷한;부 똑같이|The twins look very much *alike*.|쌍둥이는 정말 비슷하게 생겼다.|The teacher treats all students *alike*.|선생님은 모든 학생을 똑같이 대한다.
+2|alliance|/əˈlaɪəns/|명 동맹|The two countries formed an *alliance*.|두 나라는 동맹을 맺었다.|They worked in *alliance* with local groups.|그들은 지역 단체와 연합해 일했다.
+2|allocate|/ˈæləkeɪt/|동 할당하다|The school *allocated* money for new books.|학교는 새 책을 위해 예산을 배정했다.|Time was *allocated* for each speaker.|발표자마다 시간이 배정되었다.
+2|alongside|/əˌlɔːŋˈsaɪd/|전 ~옆에|The boat pulled up *alongside* the dock.|배는 부두 옆에 정박했다.|He worked *alongside* his father.|그는 아버지와 나란히 일했다.
+2|altitude|/ˈæltɪtuːd/|명 고도|The plane flew at a high *altitude*.|비행기는 높은 고도로 날았다.|It is hard to breathe at high *altitude*.|고지대에서는 숨쉬기가 힘들다.
+2|ambassador|/æmˈbæsədər/|명 대사|The *ambassador* met the president.|대사가 대통령을 만났다.|She served as *ambassador* to France.|그녀는 프랑스 대사로 일했다.
+2|amend|/əˈmend/|동 개정하다|They *amended* the rules.|그들은 규칙을 개정했다.|The law was *amended* last year.|그 법은 작년에 개정되었다.
+2|ample|/ˈæmpl/|형 충분한|There is *ample* room for everyone.|모두가 앉을 충분한 공간이 있다.|We have *ample* time to finish.|끝낼 시간이 충분하다.
+2|amuse|/əˈmjuːz/|동 즐겁게 하다|The clown *amused* the children.|광대가 아이들을 즐겁게 했다.|The joke didn't *amuse* him.|그 농담은 그를 즐겁게 하지 못했다.
+2|anchor|/ˈæŋkər/|명 닻;명 앵커|The ship dropped its *anchor*.|배는 닻을 내렸다.|She is a news *anchor*.|그녀는 뉴스 앵커다.
+2|angle|/ˈæŋɡl/|명 각도, 관점|Look at the problem from a different *angle*.|그 문제를 다른 각도에서 보아라.|The ball hit the wall at an *angle*.|공은 비스듬히 벽에 맞았다.
+2|anonymous|/əˈnɑːnɪməs/|형 익명의|The gift came from an *anonymous* donor.|그 선물은 익명의 기부자에게서 왔다.|He received an *anonymous* letter.|그는 익명의 편지를 받았다.
+2|anthem|/ˈænθəm/|명 국가, 찬가|The crowd sang the national *anthem*.|군중은 국가를 불렀다.|The song became the team's *anthem*.|그 노래는 팀의 응원가가 되었다.
+2|antique|/ænˈtiːk/|명 골동품|She collects *antiques*.|그녀는 골동품을 수집한다.|The table is a valuable *antique*.|그 탁자는 값진 골동품이다.
+2|anxiety|/æŋˈzaɪəti/|명 불안|She felt *anxiety* before the speech.|그녀는 연설 전에 불안을 느꼈다.|Exercise can reduce *anxiety*.|운동은 불안을 줄여 줄 수 있다.
+2|apartment|/əˈpɑːrtmənt/|명 아파트|They live in a small *apartment*.|그들은 작은 아파트에 산다.|The *apartment* has two bedrooms.|그 아파트에는 침실이 두 개 있다.
+2|apology|/əˈpɑːlədʒi/|명 사과|He made a public *apology*.|그는 공개 사과를 했다.|Please accept my *apology*.|제 사과를 받아 주세요.
+2|apprentice|/əˈprentɪs/|명 견습생|He worked as a baker's *apprentice*.|그는 제빵사의 견습생으로 일했다.|The *apprentice* learned the skills in two years.|견습생은 2년 만에 기술을 배웠다.
+2|arch|/ɑːrtʃ/|명 아치|The old bridge has a stone *arch*.|그 오래된 다리에는 돌 아치가 있다.|We walked under the *arch*.|우리는 아치 밑을 걸었다.
+2|arena|/əˈriːnə/|명 경기장|The *arena* holds twenty thousand fans.|그 경기장은 2만 명의 팬을 수용한다.|The band played in a large *arena*.|밴드는 큰 공연장에서 연주했다.
+2|argue|/ˈɑːrɡjuː/|동 논쟁하다, 주장하다|They *argued* about money.|그들은 돈 문제로 다투었다.|She *argued* that school should start later.|그녀는 학교가 더 늦게 시작해야 한다고 주장했다.
+2|armed|/ɑːrmd/|형 무장한|The guards were *armed*.|경비병들은 무장하고 있었다.|The *armed* forces protect the country.|군대는 나라를 지킨다.
+2|array|/əˈreɪ/|명 배열, 다수|The shop has an *array* of colorful hats.|그 가게에는 다양한 색의 모자가 늘어서 있다.|An *array* of options was offered.|다양한 선택지가 제시되었다.
+2|arrow|/ˈæroʊ/|명 화살|He shot an *arrow* at the target.|그는 과녁에 화살을 쏘았다.|Follow the *arrow* to the exit.|화살표를 따라 출구로 가세요.
+2|artwork|/ˈɑːrtwɜːrk/|명 미술 작품|The children's *artwork* hangs on the wall.|아이들의 미술 작품이 벽에 걸려 있다.|The museum protects its *artwork*.|박물관은 미술품을 보호한다.
+2|ash|/æʃ/|명 재|The fire left nothing but *ash*.|불은 재만 남겼다.|Volcanic *ash* covered the town.|화산재가 마을을 덮었다.
+2|assault|/əˈsɔːlt/|명 공격, 폭행|He was charged with *assault*.|그는 폭행 혐의로 기소되었다.|The army launched an *assault* at dawn.|군대는 새벽에 공격을 개시했다.
+2|assess|/əˈses/|동 평가하다|Teachers *assess* students every term.|교사는 매 학기 학생들을 평가한다.|Experts *assessed* the damage.|전문가들이 피해를 평가했다.
+2|asset|/ˈæset/|명 자산, 장점|Her kindness is her greatest *asset*.|친절함이 그녀의 가장 큰 장점이다.|The company sold some *assets*.|그 회사는 일부 자산을 팔았다.
+2|athletic|/æθˈletɪk/|형 운동의, 탄탄한|He is tall and *athletic*.|그는 키가 크고 운동 신경이 좋다.|The school has an *athletic* club.|그 학교에는 운동부가 있다.
+2|attorney|/əˈtɜːrni/|명 변호사|The *attorney* defended his client.|변호사는 의뢰인을 변호했다.|She works as a defense *attorney*.|그녀는 변호사로 일한다.
+2|audio|/ˈɔːdioʊ/|명 음향, 오디오|The video has no *audio*.|그 영상에는 소리가 없다.|He sells *audio* equipment.|그는 오디오 장비를 판다.
+2|authentic|/ɔːˈθentɪk/|형 진짜의|The restaurant serves *authentic* Italian food.|그 식당은 정통 이탈리아 음식을 낸다.|The painting is *authentic*.|그 그림은 진품이다.
+2|avenue|/ˈævənuː/|명 큰길|They live on Fifth *Avenue*.|그들은 5번가에 산다.|Trees line the *avenue*.|가로수가 큰길을 따라 늘어서 있다.
+2|aviation|/ˌeɪviˈeɪʃn/|명 항공|He works in the *aviation* industry.|그는 항공 산업에서 일한다.|Modern *aviation* is very safe.|현대 항공은 매우 안전하다.
+2|await|/əˈweɪt/|동 기다리다|We *await* your reply.|답변을 기다립니다.|A surprise *awaits* you at home.|집에 깜짝 선물이 기다리고 있다.
+2|awareness|/əˈwernəs/|명 인식, 자각|The campaign raises *awareness* of recycling.|그 캠페인은 재활용에 대한 인식을 높인다.|She has a strong *awareness* of her mistakes.|그녀는 자기 실수를 강하게 의식한다.
+2|bare|/ber/|형 맨, 벌거벗은|The children ran on the beach in *bare* feet.|아이들은 맨발로 해변을 뛰었다.|The room had only the *bare* essentials.|방에는 꼭 필요한 것만 있었다.
+2|barely|/ˈberli/|부 간신히, 거의 ~않다|She could *barely* hear him.|그녀는 그의 말을 거의 들을 수 없었다.|He *barely* made it to class on time.|그는 간신히 제시간에 수업에 도착했다.
+2|barn|/bɑːrn/|명 헛간|The cows sleep in the *barn*.|소들은 헛간에서 잔다.|They stored hay in the *barn*.|그들은 헛간에 건초를 저장했다.
+2|barrel|/ˈbærəl/|명 통|The wine is kept in oak *barrels*.|와인은 오크 통에 보관된다.|A *barrel* of oil fell off the truck.|기름 한 통이 트럭에서 떨어졌다.
+2|bay|/beɪ/|명 만|The boats rested in the *bay*.|배들이 만에서 쉬고 있었다.|The city is built around a *bay*.|그 도시는 만을 둘러싸고 지어졌다.
+2|beam|/biːm/|명 광선, 들보|A *beam* of light came through the window.|한 줄기 빛이 창문으로 들어왔다.|The roof is held up by wooden *beams*.|지붕은 나무 들보가 받치고 있다.
+2|beast|/biːst/|명 짐승|The *beast* roared in the dark.|짐승이 어둠 속에서 으르렁거렸다.|The story is about a wild *beast*.|그 이야기는 야수에 관한 것이다.
+2|beg|/beɡ/|동 간청하다|He *begged* her to stay.|그는 그녀에게 머물러 달라고 간청했다.|The dog *begged* for food.|개가 먹이를 달라고 졸랐다.
+2|behalf|/bɪˈhæf/|명 ~을 대신하여|I speak on *behalf* of the class.|저는 반을 대표해 말씀드립니다.|She accepted the prize on his *behalf*.|그녀는 그를 대신해 상을 받았다.
+2|bet|/bet/|동 내기하다|I *bet* he will be late.|그가 늦을 거라고 장담해.|They *bet* on the game.|그들은 그 경기에 내기를 걸었다.
+2|betray|/bɪˈtreɪ/|동 배신하다|He *betrayed* his friend's trust.|그는 친구의 신뢰를 저버렸다.|She felt *betrayed* by the lie.|그녀는 그 거짓말에 배신감을 느꼈다.
+2|beverage|/ˈbevərɪdʒ/|명 음료|The café serves hot and cold *beverages*.|그 카페는 뜨겁고 차가운 음료를 낸다.|Soft drinks are popular *beverages*.|탄산음료는 인기 있는 음료다.
+2|bias|/ˈbaɪəs/|명 편견, 편향|The judge showed no *bias*.|판사는 편견을 보이지 않았다.|News should be free of *bias*.|뉴스는 편향이 없어야 한다.
+2|bid|/bɪd/|동 입찰하다;명 시도|He *bid* fifty dollars for the painting.|그는 그 그림에 50달러를 입찰했다.|The city made a *bid* to host the Games.|그 도시는 대회 개최를 신청했다.
+2|bill|/bɪl/|명 계산서, 법안|Can I have the *bill*, please?|계산서 좀 주세요.|The parliament passed a new *bill*.|의회는 새 법안을 통과시켰다.
+2|billion|/ˈbɪljən/|명 10억|Over a *billion* people speak English.|10억 명이 넘는 사람이 영어를 한다.|The project cost two *billion* dollars.|그 프로젝트에는 20억 달러가 들었다.
+2|bitter|/ˈbɪtər/|형 쓴, 매서운|The medicine tastes *bitter*.|그 약은 쓴맛이 난다.|A *bitter* wind blew from the north.|매서운 바람이 북쪽에서 불었다.
+2|bizarre|/bɪˈzɑːr/|형 기이한|He wore a *bizarre* costume.|그는 기이한 의상을 입었다.|It was a *bizarre* coincidence.|그것은 기이한 우연이었다.
+2|blade|/bleɪd/|명 칼날, 잎|The *blade* of the knife is sharp.|그 칼의 날은 날카롭다.|A *blade* of grass moved in the wind.|풀잎 하나가 바람에 흔들렸다.
+2|blast|/blæst/|명 폭발, 강한 바람|The *blast* shook the building.|폭발이 건물을 흔들었다.|A *blast* of cold air hit us.|찬 바람이 우리를 덮쳤다.
+2|blaze|/bleɪz/|명 화염;동 활활 타다|Firefighters fought the *blaze*.|소방관들이 불길과 싸웠다.|The fire *blazed* through the night.|불은 밤새 활활 탔다.
+2|bleak|/bliːk/|형 황량한, 암울한|The future looked *bleak*.|미래가 암울해 보였다.|They stood on a *bleak* hillside.|그들은 황량한 언덕에 서 있었다.
+2|blessing|/ˈblesɪŋ/|명 축복|Good health is a *blessing*.|건강은 축복이다.|They asked for the priest's *blessing*.|그들은 사제의 축복을 청했다.
+2|blink|/blɪŋk/|동 눈을 깜박이다|She *blinked* in the bright light.|그녀는 밝은 빛에 눈을 깜박였다.|Don't *blink*, or you'll miss it.|눈 깜박이면 놓친다.
+2|bold|/boʊld/|형 대담한|She made a *bold* decision.|그녀는 대담한 결정을 내렸다.|The artist uses *bold* colors.|그 화가는 대담한 색을 쓴다.
+2|bolt|/boʊlt/|명 볼트;동 달아나다|He tightened the *bolt* with a wrench.|그는 렌치로 볼트를 조였다.|The horse *bolted* from the barn.|말이 헛간에서 달아났다.
+2|bounce|/baʊns/|동 튀다|The ball *bounced* off the wall.|공이 벽에 맞고 튕겼다.|Children *bounced* on the bed.|아이들이 침대 위에서 뛰었다.
+2|bow|/baʊ/|동 절하다;명 활|He *bowed* to the teacher.|그는 선생님께 절했다.|She tied a red *bow* in her hair.|그녀는 머리에 빨간 리본을 맸다.
+2|brake|/breɪk/|명 브레이크|He hit the *brake* quickly.|그는 재빨리 브레이크를 밟았다.|The bike's *brakes* are broken.|그 자전거의 브레이크가 고장 났다.
+2|breakthrough|/ˈbreɪkθruː/|명 돌파구, 획기적 발전|Scientists made a *breakthrough* in cancer research.|과학자들이 암 연구에서 획기적 발전을 이뤘다.|The talks led to a *breakthrough*.|회담은 돌파구로 이어졌다.
+2|bribe|/braɪb/|명 뇌물;동 매수하다|The official refused the *bribe*.|그 관리는 뇌물을 거절했다.|He tried to *bribe* the guard.|그는 경비를 매수하려 했다.
+2|brick|/brɪk/|명 벽돌|The house is built of red *brick*.|그 집은 붉은 벽돌로 지어졌다.|He laid the *bricks* one by one.|그는 벽돌을 하나씩 쌓았다.
+2|brilliant|/ˈbrɪljənt/|형 훌륭한, 눈부신|She is a *brilliant* scientist.|그녀는 훌륭한 과학자다.|The sun was *brilliant* that day.|그날 해가 눈부셨다.
+2|broad|/brɔːd/|형 넓은|The river is *broad* and deep.|강은 넓고 깊다.|He has a *broad* range of interests.|그는 관심사가 폭넓다.
+2|brutal|/ˈbruːtl/|형 잔인한, 혹독한|The attack was *brutal*.|그 공격은 잔혹했다.|It was a *brutal* winter.|혹독한 겨울이었다.
+2|bubble|/ˈbʌbl/|명 거품, 방울|The child blew soap *bubbles*.|아이는 비눗방울을 불었다.|Air *bubbles* rose to the surface.|공기 방울이 수면으로 올라왔다.
+2|bucket|/ˈbʌkɪt/|명 양동이|He filled the *bucket* with water.|그는 양동이에 물을 채웠다.|A *bucket* of sand was by the door.|문 옆에 모래 한 양동이가 있었다.
+2|bump|/bʌmp/|동 부딪치다;명 혹|I *bumped* into an old friend.|나는 옛 친구와 우연히 마주쳤다.|He has a *bump* on his head.|그의 머리에 혹이 났다.
+2|bundle|/ˈbʌndl/|명 묶음|She carried a *bundle* of letters.|그녀는 편지 한 묶음을 들고 있었다.|The farmer tied the hay in *bundles*.|농부는 건초를 다발로 묶었다.
+2|burst|/bɜːrst/|동 터지다|The balloon *burst* with a loud pop.|풍선이 펑 하고 터졌다.|She *burst* into tears.|그녀는 울음을 터뜨렸다.

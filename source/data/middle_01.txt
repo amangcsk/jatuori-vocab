@@ -1,0 +1,79 @@
+1|able|/ˈeɪbl/|형 할 수 있는, 유능한|She is *able* to swim very fast.|그녀는 매우 빠르게 수영할 수 있다.|He is an *able* student.|그는 유능한 학생이다.
+1|accident|/ˈæksɪdənt/|명 사고;명 우연|There was a car *accident* on the road.|도로에서 교통사고가 났다.|I met her by *accident*.|나는 우연히 그녀를 만났다.
+2|achieve|/əˈtʃiːv/|동 이루다, 달성하다|She worked hard to *achieve* her dream.|그녀는 꿈을 이루려고 열심히 노력했다.|We *achieved* our goal.|우리는 목표를 달성했다.
+1|actor|/ˈæktər/|명 배우|My uncle is a famous *actor*.|우리 삼촌은 유명한 배우다.|The *actor* forgot his lines.|그 배우는 대사를 잊어버렸다.
+2|add|/æd/|동 더하다, 추가하다|*Add* two and three.|2와 3을 더해라.|Please *add* some salt to the soup.|수프에 소금을 조금 넣어 주세요.
+2|address|/ˈædres/|명 주소;동 연설하다|Write your *address* on the card.|카드에 주소를 쓰세요.|The mayor *addressed* the crowd.|시장은 군중에게 연설했다.
+2|adventure|/ədˈventʃər/|명 모험|The book is full of *adventure*.|그 책은 모험으로 가득하다.|We had an *adventure* in the forest.|우리는 숲에서 모험을 했다.
+2|advice|/ədˈvaɪs/|명 조언, 충고|My teacher gave me good *advice*.|선생님께서 내게 좋은 조언을 해 주셨다.|Thank you for your *advice*.|조언해 주셔서 감사합니다.
+1|afraid|/əˈfreɪd/|형 두려워하는|I am *afraid* of spiders.|나는 거미를 무서워한다.|Don't be *afraid* to ask.|묻기를 두려워하지 마라.
+1|age|/eɪdʒ/|명 나이, 시대|What is your *age*?|나이가 어떻게 되세요?|We live in the digital *age*.|우리는 디지털 시대에 산다.
+2|agree|/əˈɡriː/|동 동의하다|I *agree* with your idea.|나는 네 생각에 동의한다.|They *agreed* to meet at noon.|그들은 정오에 만나기로 합의했다.
+1|airport|/ˈerpɔːrt/|명 공항|We arrived at the *airport* early.|우리는 공항에 일찍 도착했다.|The *airport* was very crowded.|공항은 매우 붐볐다.
+2|alarm|/əˈlɑːrm/|명 경보, 알람|The *alarm* rang at six.|알람이 여섯 시에 울렸다.|The fire *alarm* went off.|화재경보기가 울렸다.
+1|alone|/əˈloʊn/|형 혼자, 외로이|He lives *alone* in a small house.|그는 작은 집에서 혼자 산다.|She likes to be *alone* sometimes.|그녀는 가끔 혼자 있는 것을 좋아한다.
+1|already|/ɔːlˈredi/|부 이미, 벌써|I have *already* finished my homework.|나는 벌써 숙제를 끝냈다.|The bus has *already* left.|버스는 이미 떠났다.
+1|angry|/ˈæŋɡri/|형 화난|Dad was *angry* about the broken window.|아빠는 깨진 창문 때문에 화가 나셨다.|Don't get *angry* with me.|나한테 화내지 마.
+1|animal|/ˈænɪml/|명 동물|The zoo has many kinds of *animals*.|동물원에는 여러 종류의 동물이 있다.|Elephants are big *animals*.|코끼리는 큰 동물이다.
+1|answer|/ˈænsər/|명 대답, 정답;동 대답하다|Do you know the *answer*?|정답을 아니?|Please *answer* my question.|내 질문에 대답해 주세요.
+2|appear|/əˈpɪr/|동 나타나다;동 ~인 것 같다|A rainbow *appeared* in the sky.|하늘에 무지개가 나타났다.|She *appears* to be tired.|그녀는 피곤해 보인다.
+2|arrive|/əˈraɪv/|동 도착하다|We *arrived* at the station at noon.|우리는 정오에 역에 도착했다.|When will the train *arrive*?|기차는 언제 도착하나요?
+1|art|/ɑːrt/|명 미술, 예술|I like *art* class the most.|나는 미술 시간이 제일 좋다.|The museum has beautiful *art*.|그 박물관에는 아름다운 예술품이 있다.
+2|attack|/əˈtæk/|동 공격하다;명 공격|The dog *attacked* the stranger.|그 개가 낯선 사람을 공격했다.|The enemy launched an *attack*.|적이 공격을 개시했다.
+2|attend|/əˈtend/|동 참석하다, 다니다|I *attend* a middle school nearby.|나는 근처 중학교에 다닌다.|Will you *attend* the meeting?|회의에 참석할 거니?
+2|attention|/əˈtenʃn/|명 주의, 관심|Pay *attention* to the teacher.|선생님께 주목해라.|The baby needs a lot of *attention*.|아기는 많은 관심이 필요하다.
+2|autumn|/ˈɔːtəm/|명 가을|Leaves turn red in *autumn*.|가을에는 나뭇잎이 붉게 변한다.|*Autumn* is my favorite season.|가을은 내가 제일 좋아하는 계절이다.
+1|baby|/ˈbeɪbi/|명 아기|The *baby* is sleeping now.|아기는 지금 자고 있다.|She has a *baby* brother.|그녀에게는 갓난 남동생이 있다.
+2|backpack|/ˈbækpæk/|명 배낭|He carried a heavy *backpack*.|그는 무거운 배낭을 메고 갔다.|I put my lunch in my *backpack*.|나는 점심을 배낭에 넣었다.
+1|bake|/beɪk/|동 굽다|Mom *bakes* bread every Sunday.|엄마는 일요일마다 빵을 구우신다.|Let's *bake* some cookies.|쿠키를 좀 굽자.
+1|ball|/bɔːl/|명 공|The boy kicked the *ball*.|소년은 공을 찼다.|Throw me the *ball*.|나한테 공을 던져 줘.
+2|bank|/bæŋk/|명 은행;명 둑|I went to the *bank* to get some money.|나는 돈을 찾으러 은행에 갔다.|They sat on the river *bank*.|그들은 강둑에 앉았다.
+1|basket|/ˈbæskɪt/|명 바구니|She put apples in the *basket*.|그녀는 사과를 바구니에 담았다.|The *basket* is full of eggs.|바구니는 달걀로 가득하다.
+1|bear|/ber/|명 곰;동 참다, 견디다|A *bear* lives in the cave.|곰 한 마리가 동굴에 산다.|I can't *bear* this noise.|나는 이 소음을 참을 수 없다.
+1|beautiful|/ˈbjuːtɪfl/|형 아름다운|What a *beautiful* sunset!|정말 아름다운 노을이네!|She has a *beautiful* voice.|그녀는 목소리가 아름답다.
+1|because|/bɪˈkɔːz/|접 ~때문에|I was late *because* it rained.|비가 와서 나는 늦었다.|He smiled *because* he was happy.|그는 행복해서 미소 지었다.
+2|become|/bɪˈkʌm/|동 ~이 되다|I want to *become* a doctor.|나는 의사가 되고 싶다.|It *became* dark outside.|밖이 어두워졌다.
+2|believe|/bɪˈliːv/|동 믿다|I *believe* you.|나는 너를 믿는다.|Do you *believe* in ghosts?|너는 유령을 믿니?
+2|belong|/bɪˈlɔːŋ/|동 속하다, ~의 것이다|This pen *belongs* to me.|이 펜은 내 것이다.|She *belongs* to the school band.|그녀는 학교 밴드에 속해 있다.
+2|between|/bɪˈtwiːn/|전 ~사이에|The shop is *between* the bank and the park.|그 가게는 은행과 공원 사이에 있다.|Choose *between* tea and juice.|차와 주스 중에서 골라라.
+1|bicycle|/ˈbaɪsɪkl/|명 자전거|I ride my *bicycle* to school.|나는 자전거를 타고 학교에 간다.|He bought a new *bicycle*.|그는 새 자전거를 샀다.
+1|bird|/bɜːrd/|명 새|A *bird* is singing in the tree.|새 한 마리가 나무에서 노래하고 있다.|The *bird* built a nest.|그 새는 둥지를 지었다.
+1|birthday|/ˈbɜːrθdeɪ/|명 생일|Today is my *birthday*.|오늘은 내 생일이다.|We sang a *birthday* song.|우리는 생일 노래를 불렀다.
+1|blanket|/ˈblæŋkɪt/|명 담요|She wrapped herself in a warm *blanket*.|그녀는 따뜻한 담요를 둘렀다.|The cat sleeps on the *blanket*.|고양이가 담요 위에서 잔다.
+2|blind|/blaɪnd/|형 눈먼, 시각 장애가 있는|The *blind* man walked with a cane.|그 시각 장애인은 지팡이를 짚고 걸었다.|Love can make people *blind*.|사랑은 사람의 눈을 멀게 할 수 있다.
+2|blow|/bloʊ/|동 불다, 불어오다|The wind *blew* hard last night.|어젯밤 바람이 세게 불었다.|*Blow* out the candles.|촛불을 불어서 꺼라.
+1|boat|/boʊt/|명 배|We crossed the lake by *boat*.|우리는 배로 호수를 건넜다.|A small *boat* floated on the water.|작은 배가 물 위에 떠 있었다.
+2|bone|/boʊn/|명 뼈|He broke a *bone* in his arm.|그는 팔뼈가 부러졌다.|The dog is chewing a *bone*.|개가 뼈를 씹고 있다.
+1|bottle|/ˈbɒtl/|명 병|Please bring a *bottle* of water.|물 한 병을 가져와 주세요.|The *bottle* is empty.|병이 비어 있다.
+2|brave|/breɪv/|형 용감한|The *brave* boy saved his friend.|그 용감한 소년은 친구를 구했다.|It was *brave* of her to speak up.|목소리를 낸 그녀는 용감했다.
+1|bread|/bred/|명 빵|I eat *bread* for breakfast.|나는 아침으로 빵을 먹는다.|She sliced the *bread*.|그녀는 빵을 썰었다.
+2|break|/breɪk/|동 깨다, 부수다;명 휴식|Be careful not to *break* the glass.|유리를 깨지 않게 조심해라.|Let's take a short *break*.|잠깐 쉬자.
+1|breakfast|/ˈbrekfəst/|명 아침 식사|I had eggs for *breakfast*.|나는 아침으로 달걀을 먹었다.|*Breakfast* is ready.|아침 식사가 준비됐어요.
+2|breathe|/briːð/|동 숨 쉬다|Fish can't *breathe* out of water.|물고기는 물 밖에서 숨을 쉴 수 없다.|*Breathe* in slowly.|천천히 숨을 들이쉬어라.
+2|bridge|/brɪdʒ/|명 다리|We walked across the *bridge*.|우리는 다리를 걸어서 건넜다.|The *bridge* is very long.|그 다리는 아주 길다.
+1|bright|/braɪt/|형 밝은;형 똑똑한|The moon is *bright* tonight.|오늘 밤은 달이 밝다.|She is a *bright* student.|그녀는 똑똑한 학생이다.
+1|brother|/ˈbrʌðər/|명 형제, 오빠, 형, 남동생|My *brother* plays soccer.|내 형은 축구를 한다.|I have two *brothers*.|나는 형제가 둘이다.
+2|build|/bɪld/|동 짓다, 만들다|They are *building* a new school.|그들은 새 학교를 짓고 있다.|Birds *build* nests in spring.|새들은 봄에 둥지를 짓는다.
+1|busy|/ˈbɪzi/|형 바쁜|Dad is *busy* today.|아빠는 오늘 바쁘시다.|The street is *busy* in the morning.|그 거리는 아침에 붐빈다.
+2|button|/ˈbʌtn/|명 단추, 버튼|A *button* came off my coat.|내 코트의 단추가 떨어졌다.|Press the red *button*.|빨간 버튼을 눌러라.
+1|cage|/keɪdʒ/|명 새장, 우리|The bird flew out of its *cage*.|새가 새장에서 날아 나갔다.|The lion paced in its *cage*.|사자가 우리 안에서 서성였다.
+1|cake|/keɪk/|명 케이크|We ate chocolate *cake*.|우리는 초콜릿 케이크를 먹었다.|She baked a *cake* for me.|그녀는 나를 위해 케이크를 구웠다.
+2|calendar|/ˈkælɪndər/|명 달력|Mark the date on the *calendar*.|달력에 날짜를 표시해라.|I hung a new *calendar* on the wall.|나는 벽에 새 달력을 걸었다.
+2|camp|/kæmp/|명 야영, 캠프;동 야영하다|We went to summer *camp*.|우리는 여름 캠프에 갔다.|They *camped* by the lake.|그들은 호숫가에서 야영했다.
+1|candy|/ˈkændi/|명 사탕|Too much *candy* is bad for your teeth.|사탕을 너무 많이 먹으면 이에 나쁘다.|He gave me a piece of *candy*.|그는 내게 사탕 한 개를 주었다.
+2|captain|/ˈkæptɪn/|명 선장, 주장|The *captain* steered the ship.|선장은 배를 조종했다.|She is the *captain* of our team.|그녀는 우리 팀의 주장이다.
+1|careful|/ˈkerfl/|형 조심하는|Be *careful* with the hot water.|뜨거운 물을 조심해라.|He is a *careful* driver.|그는 조심스러운 운전자다.
+2|carry|/ˈkæri/|동 나르다, 들고 다니다|Can you *carry* this box?|이 상자를 들 수 있겠니?|She *carries* a small bag.|그녀는 작은 가방을 들고 다닌다.
+1|castle|/ˈkæsl/|명 성|The king lived in a big *castle*.|왕은 큰 성에서 살았다.|We visited an old *castle*.|우리는 오래된 성을 방문했다.
+1|catch|/kætʃ/|동 잡다, (병에) 걸리다|I *caught* a big fish.|나는 큰 물고기를 잡았다.|Wear a coat so you don't *catch* a cold.|감기에 걸리지 않도록 코트를 입어라.
+2|cause|/kɔːz/|명 원인;동 일으키다|Heavy rain was the *cause* of the flood.|폭우가 홍수의 원인이었다.|Smoking can *cause* cancer.|흡연은 암을 일으킬 수 있다.
+2|celebrate|/ˈselɪbreɪt/|동 축하하다|We *celebrate* New Year with family.|우리는 가족과 새해를 축하한다.|They *celebrated* her birthday.|그들은 그녀의 생일을 축하했다.
+1|chair|/tʃer/|명 의자|Please sit on the *chair*.|의자에 앉으세요.|He pulled up a *chair*.|그는 의자를 끌어당겼다.
+2|challenge|/ˈtʃælɪndʒ/|명 도전;동 도전하다|Learning a new language is a *challenge*.|새 언어를 배우는 것은 도전이다.|He *challenged* me to a race.|그는 내게 달리기 시합을 청했다.
+2|change|/tʃeɪndʒ/|동 바꾸다;명 변화, 거스름돈|I want to *change* my hairstyle.|나는 머리 모양을 바꾸고 싶다.|Keep the *change*.|거스름돈은 가지세요.
+2|character|/ˈkærəktər/|명 성격;명 등장인물|She has a strong *character*.|그녀는 성격이 강하다.|My favorite *character* is the hero.|내가 제일 좋아하는 등장인물은 주인공이다.
+1|cheap|/tʃiːp/|형 값싼|This shirt is very *cheap*.|이 셔츠는 아주 싸다.|We found a *cheap* hotel.|우리는 값싼 호텔을 찾았다.
+2|cheer|/tʃɪr/|동 응원하다, 환호하다|The fans *cheered* for the team.|팬들은 팀을 응원했다.|*Cheer* up! Things will get better.|힘내! 상황이 나아질 거야.
+2|choice|/tʃɔɪs/|명 선택|You have a *choice* between two plans.|너에게는 두 계획 중 선택권이 있다.|It was a hard *choice* to make.|그것은 내리기 어려운 선택이었다.
+2|choose|/tʃuːz/|동 고르다, 선택하다|*Choose* a color you like.|좋아하는 색을 골라라.|She *chose* the red dress.|그녀는 빨간 드레스를 골랐다.
+1|circle|/ˈsɜːrkl/|명 원;동 동그라미 치다|Draw a *circle* on the paper.|종이에 원을 그려라.|*Circle* the correct answer.|정답에 동그라미를 쳐라.

@@ -1,0 +1,82 @@
+1|ear|/ɪr/|명 귀|A rabbit has long *ears*.|토끼는 귀가 길다.|She whispered in my *ear*.|그녀는 내 귀에 속삭였다.
+1|early|/ˈɜːrli/|부 일찍;형 이른|I get up *early* every day.|나는 매일 일찍 일어난다.|It was an *early* spring.|이른 봄이었다.
+2|earn|/ɜːrn/|동 (돈을) 벌다|He *earns* money by delivering newspapers.|그는 신문을 배달해서 돈을 번다.|You must *earn* her trust.|너는 그녀의 신뢰를 얻어야 한다.
+1|earth|/ɜːrθ/|명 지구;명 땅|The *Earth* goes around the sun.|지구는 태양 주위를 돈다.|The farmer dug the *earth*.|농부는 땅을 팠다.
+1|east|/iːst/|명 동쪽|The sun rises in the *east*.|해는 동쪽에서 뜬다.|We drove *east* along the coast.|우리는 해안을 따라 동쪽으로 운전했다.
+1|easy|/ˈiːzi/|형 쉬운|The quiz was *easy*.|퀴즈는 쉬웠다.|It's *easy* to make a sandwich.|샌드위치를 만드는 것은 쉽다.
+1|egg|/eɡ/|명 달걀|I ate two *eggs* for breakfast.|나는 아침으로 달걀 두 개를 먹었다.|The bird laid an *egg*.|새가 알을 낳았다.
+2|elderly|/ˈeldərli/|형 나이가 지긋한|Please give your seat to the *elderly*.|어르신께 자리를 양보해 주세요.|An *elderly* man crossed the street.|한 연세 지긋한 남자가 길을 건넜다.
+1|elephant|/ˈelɪfənt/|명 코끼리|An *elephant* has a long nose.|코끼리는 코가 길다.|We saw an *elephant* at the zoo.|우리는 동물원에서 코끼리를 보았다.
+2|elementary|/ˌelɪˈmentri/|형 기본적인, 초등의|He teaches at an *elementary* school.|그는 초등학교에서 가르친다.|This is an *elementary* question.|이것은 기본적인 질문이다.
+1|empty|/ˈempti/|형 빈|The box is *empty*.|상자가 비어 있다.|The street was *empty* at night.|밤에는 거리가 텅 비어 있었다.
+2|end|/end/|명 끝;동 끝나다|I read the book to the *end*.|나는 그 책을 끝까지 읽었다.|The movie *ends* at nine.|영화는 아홉 시에 끝난다.
+2|enemy|/ˈenəmi/|명 적|The soldiers fought the *enemy*.|병사들은 적과 싸웠다.|A cat is a mouse's *enemy*.|고양이는 쥐의 천적이다.
+2|energy|/ˈenərdʒi/|명 에너지, 활력|Children are full of *energy*.|아이들은 활력이 넘친다.|Solar *energy* is clean.|태양 에너지는 깨끗하다.
+1|engine|/ˈendʒɪn/|명 엔진|The car *engine* made a strange noise.|자동차 엔진에서 이상한 소리가 났다.|He fixed the *engine*.|그는 엔진을 고쳤다.
+2|enjoy|/ɪnˈdʒɔɪ/|동 즐기다|I *enjoy* reading comic books.|나는 만화책 읽기를 즐긴다.|We *enjoyed* the party.|우리는 파티를 즐겼다.
+2|enough|/ɪˈnʌf/|형 충분한|We have *enough* food.|우리는 음식이 충분하다.|Are you old *enough* to go alone?|너는 혼자 갈 만큼 컸니?
+2|enter|/ˈentər/|동 들어가다|Please *enter* the room quietly.|조용히 방에 들어가 주세요.|She *entered* the contest.|그녀는 대회에 참가했다.
+2|equal|/ˈiːkwəl/|형 같은, 동등한|Two plus two is *equal* to four.|2 더하기 2는 4와 같다.|All people are *equal*.|모든 사람은 평등하다.
+2|escape|/ɪˈskeɪp/|동 탈출하다, 달아나다|The bird *escaped* from its cage.|새가 새장에서 달아났다.|They *escaped* from the fire.|그들은 불에서 탈출했다.
+2|even|/ˈiːvn/|부 심지어;형 짝수의|He can *even* swim in winter.|그는 겨울에도 수영을 할 수 있다.|Four is an *even* number.|4는 짝수다.
+1|evening|/ˈiːvnɪŋ/|명 저녁|We walk in the *evening*.|우리는 저녁에 산책한다.|Good *evening*, everyone.|여러분, 안녕하세요(저녁 인사).
+2|event|/ɪˈvent/|명 행사, 사건|The school held a special *event*.|학교는 특별 행사를 열었다.|It was the biggest *event* of the year.|그것은 올해 가장 큰 행사였다.
+2|ever|/ˈevər/|부 지금까지, 언젠가|Have you *ever* been to Jeju?|제주도에 가 본 적 있니?|This is the best movie I've *ever* seen.|이것은 내가 본 영화 중 최고다.
+1|everyone|/ˈevriwʌn/|대 모든 사람|*Everyone* likes music.|모든 사람이 음악을 좋아한다.|Hello, *everyone*!|모두 안녕하세요!
+2|exact|/ɪɡˈzækt/|형 정확한|What is the *exact* time?|정확한 시간이 몇 시니?|He gave me the *exact* answer.|그는 내게 정확한 답을 주었다.
+2|example|/ɪɡˈzæmpl/|명 예, 본보기|Give me an *example*.|예를 하나 들어 줘.|She is a good *example* for us.|그녀는 우리에게 좋은 본보기다.
+2|excellent|/ˈeksələnt/|형 훌륭한|You did an *excellent* job.|아주 훌륭하게 해냈구나.|The food was *excellent*.|음식이 훌륭했다.
+2|exchange|/ɪksˈtʃeɪndʒ/|동 교환하다|Let's *exchange* phone numbers.|전화번호를 교환하자.|I *exchanged* the shirt for a bigger one.|나는 셔츠를 더 큰 것으로 교환했다.
+1|excited|/ɪkˈsaɪtɪd/|형 신이 난, 흥분한|The kids are *excited* about the trip.|아이들은 여행 때문에 신이 났다.|I'm so *excited*!|너무 신나!
+2|excuse|/ɪkˈskjuːz/|동 용서하다;명 변명|*Excuse* me, where is the bank?|실례합니다, 은행이 어디죠?|That is not a good *excuse*.|그것은 좋은 변명이 아니다.
+2|expect|/ɪkˈspekt/|동 기대하다, 예상하다|I *expect* it to rain tomorrow.|나는 내일 비가 올 것으로 예상한다.|We *expected* him to win.|우리는 그가 이기리라 기대했다.
+2|expensive|/ɪkˈspensɪv/|형 비싼|This bag is too *expensive*.|이 가방은 너무 비싸다.|They live in an *expensive* house.|그들은 비싼 집에 산다.
+2|experience|/ɪkˈspɪriəns/|명 경험|Traveling is a great *experience*.|여행은 훌륭한 경험이다.|She has a lot of *experience*.|그녀는 경험이 많다.
+2|explain|/ɪkˈspleɪn/|동 설명하다|Can you *explain* this problem?|이 문제를 설명해 줄 수 있니?|He *explained* the rules.|그는 규칙을 설명했다.
+1|eye|/aɪ/|명 눈|She has blue *eyes*.|그녀는 파란 눈을 가졌다.|Close your *eyes* and make a wish.|눈을 감고 소원을 빌어라.
+1|face|/feɪs/|명 얼굴;동 마주하다|Wash your *face* every morning.|매일 아침 얼굴을 씻어라.|The house *faces* the sea.|그 집은 바다를 마주하고 있다.
+2|fact|/fækt/|명 사실|It is a *fact* that the Earth is round.|지구가 둥글다는 것은 사실이다.|Tell me the *facts*.|사실을 말해 줘.
+2|fail|/feɪl/|동 실패하다|Don't be afraid to *fail*.|실패하는 것을 두려워하지 마라.|He *failed* the driving test.|그는 운전 시험에 떨어졌다.
+1|fall|/fɔːl/|동 떨어지다, 넘어지다;명 가을|Leaves *fall* in autumn.|나뭇잎은 가을에 떨어진다.|He *fell* off his bike.|그는 자전거에서 넘어졌다.
+2|false|/fɔːls/|형 거짓의, 틀린|The answer is *false*.|그 답은 틀렸다.|Choose true or *false*.|참 또는 거짓을 고르세요.
+1|family|/ˈfæmli/|명 가족|My *family* has four members.|우리 가족은 네 명이다.|The *family* ate dinner together.|가족이 함께 저녁을 먹었다.
+2|famous|/ˈfeɪməs/|형 유명한|Paris is *famous* for the Eiffel Tower.|파리는 에펠탑으로 유명하다.|She is a *famous* singer.|그녀는 유명한 가수다.
+1|farm|/fɑːrm/|명 농장|They keep cows on the *farm*.|그들은 농장에서 소를 기른다.|My uncle works on a *farm*.|삼촌은 농장에서 일한다.
+1|farmer|/ˈfɑːrmər/|명 농부|The *farmer* planted rice.|농부는 벼를 심었다.|A *farmer* gets up early.|농부는 일찍 일어난다.
+1|fast|/fæst/|형 빠른;부 빠르게|A cheetah is a *fast* animal.|치타는 빠른 동물이다.|He runs very *fast*.|그는 아주 빠르게 달린다.
+1|father|/ˈfɑːðər/|명 아버지|My *father* is a teacher.|우리 아버지는 선생님이시다.|She loves her *father*.|그녀는 아버지를 사랑한다.
+2|favorite|/ˈfeɪvərɪt/|형 가장 좋아하는|Blue is my *favorite* color.|파란색은 내가 가장 좋아하는 색이다.|What's your *favorite* food?|가장 좋아하는 음식이 뭐니?
+2|fear|/fɪr/|명 두려움;동 두려워하다|He has a *fear* of heights.|그는 고소공포증이 있다.|Many people *fear* snakes.|많은 사람이 뱀을 무서워한다.
+2|feed|/fiːd/|동 먹이를 주다|I *feed* my dog twice a day.|나는 하루에 두 번 개에게 먹이를 준다.|She *fed* the baby with a spoon.|그녀는 숟가락으로 아기에게 먹였다.
+1|feel|/fiːl/|동 느끼다|I *feel* happy today.|나는 오늘 행복하다.|Do you *feel* cold?|춥니?
+2|female|/ˈfiːmeɪl/|형 여성의, 암컷의|The *female* bird laid three eggs.|암컷 새가 알을 세 개 낳았다.|Please mark male or *female*.|남성 또는 여성에 표시하세요.
+2|fence|/fens/|명 울타리|A white *fence* surrounds the house.|하얀 울타리가 집을 둘러싸고 있다.|The cat jumped over the *fence*.|고양이가 울타리를 뛰어넘었다.
+1|few|/fjuː/|형 거의 없는, 몇몇의|Only a *few* students came.|몇 명의 학생만 왔다.|I have *few* friends here.|여기에는 친구가 거의 없다.
+1|field|/fiːld/|명 들판, 경기장|Cows are eating grass in the *field*.|소들이 들판에서 풀을 먹고 있다.|They played soccer on the *field*.|그들은 운동장에서 축구를 했다.
+2|fight|/faɪt/|동 싸우다;명 싸움|Don't *fight* with your brother.|동생과 싸우지 마라.|They had a *fight* yesterday.|그들은 어제 싸웠다.
+2|fill|/fɪl/|동 채우다|*Fill* the glass with water.|컵에 물을 채워라.|The room was *filled* with smoke.|방이 연기로 가득 찼다.
+1|film|/fɪlm/|명 영화|We watched a funny *film*.|우리는 웃기는 영화를 봤다.|The *film* starts at seven.|영화는 일곱 시에 시작한다.
+2|final|/ˈfaɪnl/|형 마지막의;명 결승전|This is the *final* question.|이것이 마지막 질문이다.|Our team reached the *final*.|우리 팀은 결승에 올랐다.
+2|find|/faɪnd/|동 찾다, 발견하다|I can't *find* my keys.|열쇠를 찾을 수 없다.|She *found* a wallet on the street.|그녀는 길에서 지갑을 발견했다.
+1|fine|/faɪn/|형 좋은, 괜찮은|I'm *fine*, thank you.|저는 괜찮아요, 고마워요.|It's a *fine* day for a picnic.|소풍 가기에 좋은 날이다.
+1|finger|/ˈfɪŋɡər/|명 손가락|He hurt his *finger*.|그는 손가락을 다쳤다.|She wears a ring on her *finger*.|그녀는 손가락에 반지를 끼고 있다.
+2|finish|/ˈfɪnɪʃ/|동 끝내다|I *finished* my homework at nine.|나는 아홉 시에 숙제를 끝냈다.|When does the class *finish*?|수업은 언제 끝나나요?
+1|fire|/ˈfaɪər/|명 불, 화재|They made a *fire* to cook.|그들은 요리를 하려고 불을 피웠다.|The *fire* spread quickly.|불이 빠르게 번졌다.
+1|first|/fɜːrst/|형 첫 번째의|This is my *first* visit to Seoul.|이번이 내 첫 서울 방문이다.|She came in *first* in the race.|그녀는 경주에서 일등을 했다.
+1|fish|/fɪʃ/|명 물고기;동 낚시하다|We caught many *fish* in the river.|우리는 강에서 물고기를 많이 잡았다.|My dad likes to *fish* on weekends.|아빠는 주말에 낚시를 좋아하신다.
+2|fit|/fɪt/|동 (크기가) 맞다;형 건강한|These shoes don't *fit* me.|이 신발은 내게 맞지 않는다.|He keeps *fit* by running.|그는 달리기로 건강을 유지한다.
+2|fix|/fɪks/|동 고치다, 수리하다|Can you *fix* my bike?|내 자전거를 고쳐 줄 수 있니?|He *fixed* the broken chair.|그는 부서진 의자를 고쳤다.
+1|flag|/flæɡ/|명 깃발|The *flag* waved in the wind.|깃발이 바람에 펄럭였다.|Each country has its own *flag*.|나라마다 고유의 국기가 있다.
+2|flat|/flæt/|형 평평한|The land here is *flat*.|이곳의 땅은 평평하다.|I have a *flat* tire.|타이어가 펑크 났다.
+2|float|/floʊt/|동 뜨다|The boat *floated* on the lake.|배가 호수 위에 떴다.|Wood *floats* on water.|나무는 물에 뜬다.
+1|floor|/flɔːr/|명 바닥, 층|Don't sit on the *floor*.|바닥에 앉지 마라.|My room is on the second *floor*.|내 방은 2층에 있다.
+1|flower|/ˈflaʊər/|명 꽃|She gave me a *flower*.|그녀는 내게 꽃 한 송이를 주었다.|The *flowers* bloom in spring.|꽃은 봄에 핀다.
+1|fly|/flaɪ/|동 날다;명 파리|Birds *fly* south in winter.|새들은 겨울에 남쪽으로 난다.|A *fly* is on the table.|파리 한 마리가 식탁에 앉아 있다.
+2|fog|/fɒɡ/|명 안개|The *fog* was thick this morning.|오늘 아침 안개가 짙었다.|Flights were delayed by *fog*.|비행기들이 안개 때문에 지연되었다.
+2|follow|/ˈfɒloʊ/|동 따라가다, 따르다|*Follow* me, please.|저를 따라오세요.|We must *follow* the rules.|우리는 규칙을 따라야 한다.
+1|food|/fuːd/|명 음식|I love Korean *food*.|나는 한식을 정말 좋아한다.|There is plenty of *food* on the table.|식탁에 음식이 많이 있다.
+1|foot|/fʊt/|명 발;명 피트(길이)|My *foot* hurts.|발이 아프다.|He is six *feet* tall.|그는 키가 6피트다.
+2|forest|/ˈfɔːrɪst/|명 숲|Many animals live in the *forest*.|많은 동물이 숲에 산다.|We walked through the *forest*.|우리는 숲을 지나 걸었다.
+2|forget|/fərˈɡet/|동 잊다|Don't *forget* your umbrella.|우산을 잊지 마라.|I *forgot* her name.|나는 그녀의 이름을 잊어버렸다.
+2|forgive|/fərˈɡɪv/|동 용서하다|Please *forgive* me for being late.|늦은 것을 용서해 주세요.|She *forgave* her brother.|그녀는 동생을 용서했다.
+2|fork|/fɔːrk/|명 포크|I eat noodles with a *fork*.|나는 포크로 국수를 먹는다.|Put the *fork* on the left.|포크는 왼쪽에 놓아라.

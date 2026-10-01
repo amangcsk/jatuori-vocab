@@ -1,0 +1,91 @@
+2|adaptation|/ˌædæpˈteɪʃn/|명 적응|Thick fur is an *adaptation* to cold climates.|두꺼운 털은 추운 기후에 대한 적응이다.|The *adaptation* of species takes many generations.|종의 적응에는 여러 세대가 걸린다.
+2|algae|/ˈældʒiː/|명 조류(藻類)|*Algae* grow quickly in warm, sunny water.|조류는 따뜻하고 햇빛이 드는 물에서 빠르게 자란다.|Fish feed on the *algae* in the pond.|물고기는 연못의 조류를 먹는다.
+2|amphibian|/æmˈfɪbiən/|명 양서류|Frogs and salamanders are *amphibians*.|개구리와 도롱뇽은 양서류다.|An *amphibian* can live on land and in water.|양서류는 육지와 물에서 모두 살 수 있다.
+2|anatomy|/əˈnætəmi/|명 해부학|Medical students study human *anatomy*.|의대생들은 인체 해부학을 공부한다.|The *anatomy* of a bird is suited for flight.|새의 신체 구조는 비행에 알맞다.
+2|antibiotic|/ˌæntibaɪˈɑːtɪk/|명 항생제|The doctor prescribed an *antibiotic*.|의사는 항생제를 처방했다.|Overusing *antibiotics* can create resistant bacteria.|항생제를 남용하면 내성균이 생길 수 있다.
+2|antibody|/ˈæntibɑːdi/|명 항체|The body produces *antibodies* to fight infection.|몸은 감염에 맞서 항체를 만든다.|A vaccine helps the body make *antibodies*.|백신은 몸이 항체를 만들도록 돕는다.
+2|aquatic|/əˈkwɑːtɪk/|형 수중의|Fish are *aquatic* animals.|물고기는 수생 동물이다.|Lilies are *aquatic* plants.|연꽃은 수생 식물이다.
+2|bacteria|/bækˈtɪriə/|명 세균|Some *bacteria* help digest food.|어떤 세균은 음식을 소화하도록 돕는다.|Cooking kills harmful *bacteria*.|조리하면 해로운 세균이 죽는다.
+3|biodiversity|/ˌbaɪoʊdaɪˈvɜːrsəti/|명 생물 다양성|Rainforests have high *biodiversity*.|열대우림은 생물 다양성이 높다.|Habitat loss reduces *biodiversity*.|서식지 상실은 생물 다양성을 줄인다.
+3|biomass|/ˈbaɪoʊmæs/|명 생물량|The total *biomass* of insects is huge.|곤충의 총 생물량은 막대하다.|Wood is a source of *biomass* energy.|목재는 바이오매스 에너지원이다.
+2|botany|/ˈbɑːtəni/|명 식물학|She studies *botany* at university.|그녀는 대학에서 식물학을 공부한다.|*Botany* is the science of plants.|식물학은 식물에 관한 과학이다.
+2|bud|/bʌd/|명 싹, 꽃봉오리|Tiny *buds* appeared on the branches in spring.|봄에 가지에 작은 싹이 돋았다.|The rose *bud* will open soon.|장미 봉오리가 곧 필 것이다.
+2|canopy|/ˈkænəpi/|명 (숲의) 임관|Monkeys live in the forest *canopy*.|원숭이는 숲의 꼭대기 층에 산다.|Sunlight barely passes through the thick *canopy*.|햇빛은 빽빽한 임관을 거의 통과하지 못한다.
+2|carnivore|/ˈkɑːrnɪvɔːr/|명 육식 동물|The lion is a *carnivore*.|사자는 육식 동물이다.|*Carnivores* have sharp teeth for tearing meat.|육식 동물은 고기를 찢기 위한 날카로운 이빨이 있다.
+3|cellulose|/ˈseljuloʊs/|명 셀룰로스|Plant walls are made of *cellulose*.|식물의 세포벽은 셀룰로스로 되어 있다.|Paper is produced from *cellulose* fibers.|종이는 셀룰로스 섬유로 만든다.
+3|chlorophyll|/ˈklɔːrəfɪl/|명 엽록소|*Chlorophyll* gives leaves their green color.|엽록소는 잎에 초록색을 준다.|Plants use *chlorophyll* to capture sunlight.|식물은 엽록소로 햇빛을 포착한다.
+3|chromosome|/ˈkroʊməsoʊm/|명 염색체|Humans have forty-six *chromosomes*.|인간은 염색체가 46개다.|Each *chromosome* carries many genes.|염색체 하나에는 많은 유전자가 있다.
+2|cocoon|/kəˈkuːn/|명 고치|The caterpillar spun a silk *cocoon*.|애벌레는 비단 고치를 지었다.|A butterfly emerged from the *cocoon*.|나비가 고치에서 나왔다.
+2|conifer|/ˈkɑːnɪfər/|명 침엽수|Pines and firs are *conifers*.|소나무와 전나무는 침엽수다.|*Conifers* keep their needles in winter.|침엽수는 겨울에도 바늘잎을 유지한다.
+2|decompose|/ˌdiːkəmˈpoʊz/|동 분해되다|Dead leaves *decompose* and enrich the soil.|죽은 잎은 분해되어 토양을 풍부하게 한다.|Fungi help *decompose* fallen trees.|균류는 쓰러진 나무를 분해하는 것을 돕는다.
+2|digestion|/daɪˈdʒestʃən/|명 소화|*Digestion* begins in the mouth.|소화는 입에서 시작된다.|Fiber helps *digestion*.|섬유질은 소화를 돕는다.
+2|dormancy|/ˈdɔːrmənsi/|명 휴면|Seeds enter *dormancy* in winter.|씨앗은 겨울에 휴면에 들어간다.|The bear's *dormancy* lasts several months.|곰의 휴면은 몇 달간 이어진다.
+2|embryo|/ˈembrioʊ/|명 배아|The *embryo* develops inside the egg.|배아는 알 안에서 자란다.|The seed contains a tiny plant *embryo*.|씨앗에는 작은 식물 배아가 들어 있다.
+2|enzyme|/ˈenzaɪm/|명 효소|*Enzymes* speed up chemical reactions.|효소는 화학 반응을 빠르게 한다.|Saliva contains an *enzyme* that breaks down starch.|침에는 녹말을 분해하는 효소가 들어 있다.
+2|evolution|/ˌevəˈluːʃn/|명 진화|Darwin proposed the theory of *evolution*.|다윈은 진화론을 제안했다.|The *evolution* of birds took millions of years.|새의 진화에는 수백만 년이 걸렸다.
+2|fauna|/ˈfɔːnə/|명 동물상|The island has unique flora and *fauna*.|그 섬에는 독특한 식물상과 동물상이 있다.|Scientists catalog the local *fauna*.|과학자들은 그 지역의 동물군을 목록화한다.
+2|fertilize|/ˈfɜːrtəlaɪz/|동 수정시키다, 비료를 주다|Bees *fertilize* flowers while collecting nectar.|벌은 꿀을 모으며 꽃을 수분시킨다.|Farmers *fertilize* the fields in spring.|농부들은 봄에 밭에 비료를 준다.
+2|flora|/ˈflɔːrə/|명 식물상|Desert *flora* survives on little water.|사막 식물은 적은 물로 살아간다.|The park protects rare native *flora*.|그 공원은 희귀한 토착 식물상을 보호한다.
+2|fungus|/ˈfʌŋɡəs/|명 곰팡이, 균류|A *fungus* grew on the damp wood.|축축한 나무에 곰팡이가 자랐다.|Mushrooms are a kind of *fungus*.|버섯은 균류의 한 종류다.
+2|genetic|/dʒəˈnetɪk/|형 유전의|Eye color is a *genetic* trait.|눈 색깔은 유전적 특성이다.|*Genetic* research helps treat disease.|유전 연구는 질병 치료에 도움이 된다.
+2|germinate|/ˈdʒɜːrmɪneɪt/|동 발아하다|Seeds *germinate* when the soil is warm and wet.|씨앗은 땅이 따뜻하고 촉촉할 때 발아한다.|The beans *germinated* in three days.|콩은 사흘 만에 싹이 텄다.
+2|gill|/ɡɪl/|명 아가미|Fish breathe through their *gills*.|물고기는 아가미로 숨을 쉰다.|The *gills* absorb oxygen from the water.|아가미는 물에서 산소를 흡수한다.
+2|gland|/ɡlænd/|명 분비샘|The sweat *gland* helps cool the body.|땀샘은 몸을 식히도록 돕는다.|The thyroid *gland* controls metabolism.|갑상샘은 신진대사를 조절한다.
+2|herbivore|/ˈhɜːrbɪvɔːr/|명 초식 동물|Cows and deer are *herbivores*.|소와 사슴은 초식 동물이다.|*Herbivores* spend much of the day eating.|초식 동물은 하루 대부분을 먹는 데 쓴다.
+2|hibernate|/ˈhaɪbərneɪt/|동 겨울잠을 자다|Bears *hibernate* in winter.|곰은 겨울에 겨울잠을 잔다.|Some frogs *hibernate* under mud.|어떤 개구리는 진흙 속에서 겨울잠을 잔다.
+2|hormone|/ˈhɔːrmoʊn/|명 호르몬|The *hormone* insulin controls blood sugar.|호르몬인 인슐린은 혈당을 조절한다.|Growth *hormones* affect height.|성장 호르몬은 키에 영향을 미친다.
+2|host|/hoʊst/|명 숙주;명 주최자|The parasite lives inside its *host*.|기생충은 숙주 안에서 산다.|The city will *host* the Olympic Games.|그 도시는 올림픽을 개최한다.
+2|invertebrate|/ɪnˈvɜːrtɪbrət/|명 무척추동물|Worms and insects are *invertebrates*.|벌레와 곤충은 무척추동물이다.|*Invertebrates* make up most animal species.|무척추동물은 동물 종의 대부분을 차지한다.
+2|larva|/ˈlɑːrvə/|명 유충|The *larva* becomes a fly after a few days.|유충은 며칠 뒤 파리가 된다.|Butterfly *larvae* feed on leaves.|나비 유충은 잎을 먹는다.
+2|lichen|/ˈlaɪkən/|명 지의류|*Lichen* grows slowly on bare rock.|지의류는 맨 바위에서 천천히 자란다.|Reindeer eat *lichen* in winter.|순록은 겨울에 지의류를 먹는다.
+2|mammal|/ˈmæml/|명 포유류|Whales are *mammals*, not fish.|고래는 어류가 아니라 포유류다.|A *mammal* feeds its young with milk.|포유류는 새끼에게 젖을 먹인다.
+2|marsupial|/mɑːrˈsuːpiəl/|명 유대류|The kangaroo is a *marsupial*.|캥거루는 유대류다.|*Marsupials* carry their young in a pouch.|유대류는 새끼를 주머니에 넣어 나른다.
+2|membrane|/ˈmembreɪn/|명 막|A thin *membrane* surrounds the cell.|얇은 막이 세포를 둘러싸고 있다.|Water passes through the *membrane*.|물은 막을 통과한다.
+2|metabolism|/məˈtæbəlɪzəm/|명 신진대사|Exercise speeds up your *metabolism*.|운동은 신진대사를 빠르게 한다.|Small animals have a fast *metabolism*.|작은 동물은 신진대사가 빠르다.
+2|microbe|/ˈmaɪkroʊb/|명 미생물|A *microbe* is too small to see.|미생물은 너무 작아서 보이지 않는다.|Some *microbes* are used to make cheese.|어떤 미생물은 치즈를 만드는 데 쓰인다.
+2|microorganism|/ˌmaɪkroʊˈɔːrɡənɪzəm/|명 미생물|*Microorganisms* live in soil and water.|미생물은 토양과 물에서 산다.|Heat kills most *microorganisms*.|열은 대부분의 미생물을 죽인다.
+2|migration|/maɪˈɡreɪʃn/|명 이동, 이주|The annual *migration* of whales covers thousands of miles.|고래의 연례 이동은 수천 마일에 이른다.|Bird *migration* follows the seasons.|철새의 이동은 계절을 따른다.
+3|mitochondria|/ˌmaɪtəˈkɑːndriə/|명 미토콘드리아|*Mitochondria* produce energy for the cell.|미토콘드리아는 세포를 위한 에너지를 만든다.|The cell has hundreds of *mitochondria*.|세포에는 수백 개의 미토콘드리아가 있다.
+2|molecule|/ˈmɑːlɪkjuːl/|명 분자|A water *molecule* has two hydrogen atoms.|물 분자는 수소 원자 두 개를 가진다.|DNA is a very large *molecule*.|DNA는 매우 큰 분자다.
+2|mollusk|/ˈmɑːləsk/|명 연체동물|Snails and clams are *mollusks*.|달팽이와 조개는 연체동물이다.|The octopus is a clever *mollusk*.|문어는 영리한 연체동물이다.
+2|moss|/mɔːs/|명 이끼|*Moss* covers the shady rocks.|이끼가 그늘진 바위를 덮고 있다.|Soft *moss* grew on the tree trunk.|부드러운 이끼가 나무 줄기에 자랐다.
+2|mutation|/mjuːˈteɪʃn/|명 돌연변이|A *mutation* changed the color of the fruit fly's eyes.|돌연변이가 초파리의 눈 색깔을 바꾸었다.|Most *mutations* are harmless.|대부분의 돌연변이는 해롭지 않다.
+2|nectar|/ˈnektər/|명 꿀(식물의)|Bees collect *nectar* from flowers.|벌은 꽃에서 꿀을 모은다.|Hummingbirds drink sweet *nectar*.|벌새는 달콤한 꿀을 마신다.
+2|neuron|/ˈnʊrɑːn/|명 뉴런|A *neuron* sends signals through the brain.|뉴런은 뇌를 통해 신호를 보낸다.|The brain contains billions of *neurons*.|뇌에는 수십억 개의 뉴런이 있다.
+2|nocturnal|/nɑːkˈtɜːrnl/|형 야행성의|Owls are *nocturnal* birds.|올빼미는 야행성 조류다.|*Nocturnal* animals sleep during the day.|야행성 동물은 낮에 잔다.
+2|nucleus|/ˈnuːkliəs/|명 핵|The *nucleus* controls the cell's activities.|핵은 세포의 활동을 조절한다.|The atom's *nucleus* contains protons.|원자의 핵에는 양성자가 있다.
+2|offspring|/ˈɔːfsprɪŋ/|명 새끼, 자손|The mother protects her *offspring*.|어미는 새끼를 보호한다.|Plants produce *offspring* from seeds.|식물은 씨앗으로 자손을 만든다.
+2|omnivore|/ˈɑːmnɪvɔːr/|명 잡식 동물|Bears are *omnivores* that eat plants and meat.|곰은 식물과 고기를 모두 먹는 잡식 동물이다.|Humans are *omnivores*.|인간은 잡식 동물이다.
+2|parasite|/ˈpærəsaɪt/|명 기생충|A tick is a *parasite* that feeds on blood.|진드기는 피를 먹는 기생충이다.|The *parasite* weakened its host.|기생충이 숙주를 약하게 했다.
+2|pathogen|/ˈpæθədʒən/|명 병원체|The *pathogen* spread through contaminated water.|병원체는 오염된 물을 통해 퍼졌다.|Scientists identified the *pathogen* behind the disease.|과학자들은 그 병의 병원체를 확인했다.
+2|petal|/ˈpetl/|명 꽃잎|Each flower has five white *petals*.|꽃마다 흰 꽃잎이 다섯 장 있다.|A red *petal* fell onto the grass.|빨간 꽃잎이 풀밭에 떨어졌다.
+2|photosynthesis|/ˌfoʊtoʊˈsɪnθəsɪs/|명 광합성|Plants make food through *photosynthesis*.|식물은 광합성으로 양분을 만든다.|*Photosynthesis* releases oxygen.|광합성은 산소를 내보낸다.
+2|pigment|/ˈpɪɡmənt/|명 색소|The *pigment* in skin protects it from the sun.|피부의 색소는 햇빛으로부터 피부를 보호한다.|Artists mix *pigments* to make paint.|화가들은 물감을 만들려고 안료를 섞는다.
+2|plankton|/ˈplæŋktən/|명 플랑크톤|Whales feed on tiny *plankton*.|고래는 작은 플랑크톤을 먹는다.|*Plankton* drifts in the ocean currents.|플랑크톤은 해류를 따라 떠다닌다.
+2|pollen|/ˈpɑːlən/|명 꽃가루|Bees carry *pollen* from flower to flower.|벌은 꽃에서 꽃으로 꽃가루를 나른다.|Many people are allergic to *pollen*.|많은 사람이 꽃가루 알레르기가 있다.
+2|pollinate|/ˈpɑːlɪneɪt/|동 수분하다|Insects *pollinate* many crops.|곤충은 많은 작물을 수분시킨다.|Wind can *pollinate* grasses.|바람은 풀을 수분시킬 수 있다.
+2|population|/ˌpɑːpjuˈleɪʃn/|명 개체 수, 인구|The wolf *population* has recovered.|늑대 개체 수가 회복되었다.|The city has a *population* of a million.|그 도시의 인구는 백만 명이다.
+2|predation|/prɪˈdeɪʃn/|명 포식|*Predation* controls the number of small animals.|포식은 작은 동물의 수를 조절한다.|Birds suffer high *predation* near the ground.|새들은 땅 가까이에서 높은 포식 위험을 겪는다.
+2|primate|/ˈpraɪmeɪt/|명 영장류|Monkeys and apes are *primates*.|원숭이와 유인원은 영장류다.|Humans are also *primates*.|인간도 영장류다.
+2|protein|/ˈproʊtiːn/|명 단백질|Meat and beans are rich in *protein*.|고기와 콩은 단백질이 풍부하다.|The body uses *protein* to build muscle.|몸은 단백질로 근육을 만든다.
+2|reproduce|/ˌriːprəˈduːs/|동 번식하다, 재현하다|Rabbits *reproduce* quickly.|토끼는 빠르게 번식한다.|The experiment could not be *reproduced*.|그 실험은 재현되지 않았다.
+2|reptile|/ˈreptaɪl/|명 파충류|Snakes and lizards are *reptiles*.|뱀과 도마뱀은 파충류다.|A *reptile* warms itself in the sun.|파충류는 햇볕을 쬐어 몸을 데운다.
+2|respiration|/ˌrespəˈreɪʃn/|명 호흡|Cells use oxygen during *respiration*.|세포는 호흡하는 동안 산소를 쓴다.|Fish carry out *respiration* with their gills.|물고기는 아가미로 호흡한다.
+2|rodent|/ˈroʊdnt/|명 설치류|Mice and squirrels are *rodents*.|쥐와 다람쥐는 설치류다.|A *rodent* gnaws to keep its teeth short.|설치류는 이빨이 짧게 유지되도록 갉는다.
+2|sap|/sæp/|명 수액|Maple *sap* is boiled to make syrup.|단풍나무 수액은 졸여서 시럽을 만든다.|*Sap* flows up through the trunk in spring.|봄에는 수액이 줄기를 따라 올라간다.
+2|scavenger|/ˈskævɪndʒər/|명 청소 동물|Vultures are *scavengers* that eat dead animals.|독수리는 죽은 동물을 먹는 청소 동물이다.|Hyenas act as both hunters and *scavengers*.|하이에나는 사냥꾼이자 청소 동물이기도 하다.
+2|seedling|/ˈsiːdlɪŋ/|명 묘목, 모종|Water the *seedling* every day.|모종에 매일 물을 주어라.|The young *seedling* pushed through the soil.|어린 묘목이 흙을 뚫고 올라왔다.
+2|spore|/spɔːr/|명 포자|Ferns reproduce by *spores*.|양치식물은 포자로 번식한다.|The wind carried the mushroom's *spores*.|바람이 버섯의 포자를 실어 날랐다.
+3|symbiosis|/ˌsɪmbaɪˈoʊsɪs/|명 공생|The relationship between bees and flowers is *symbiosis*.|벌과 꽃의 관계는 공생이다.|*Symbiosis* helps both species survive.|공생은 두 종 모두가 살아남도록 돕는다.
+2|toxin|/ˈtɑːksɪn/|명 독소|The frog's skin releases a *toxin*.|그 개구리의 피부는 독소를 내뿜는다.|The liver removes *toxins* from the blood.|간은 혈액에서 독소를 제거한다.
+2|vertebrate|/ˈvɜːrtɪbrət/|명 척추동물|Fish, birds, and mammals are *vertebrates*.|어류, 조류, 포유류는 척추동물이다.|A *vertebrate* has a backbone.|척추동물은 등뼈가 있다.
+2|virus|/ˈvaɪrəs/|명 바이러스|The flu is caused by a *virus*.|독감은 바이러스가 일으킨다.|A *virus* spreads from person to person.|바이러스는 사람에서 사람으로 퍼진다.
+2|wildlife|/ˈwaɪldlaɪf/|명 야생 동물|The park protects *wildlife*.|그 공원은 야생 동물을 보호한다.|Roads can harm local *wildlife*.|도로는 지역 야생 동물에게 해를 줄 수 있다.
+2|zoology|/zuˈɑːlədʒi/|명 동물학|She majored in *zoology*.|그녀는 동물학을 전공했다.|*Zoology* is the study of animals.|동물학은 동물을 연구하는 학문이다.
+2|ape|/eɪp/|명 유인원|The gorilla is a large *ape*.|고릴라는 큰 유인원이다.|An *ape* has no tail.|유인원은 꼬리가 없다.
+2|bark|/bɑːrk/|명 나무껍질;동 짖다|The deer ate the tree *bark*.|사슴은 나무껍질을 먹었다.|The dog *barked* at the stranger.|개가 낯선 사람에게 짖었다.
+2|camouflage|/ˈkæməflɑːʒ/|명 위장|The chameleon uses *camouflage* to hide.|카멜레온은 숨기 위해 위장을 한다.|Spots give the fawn good *camouflage*.|반점은 새끼 사슴에게 좋은 위장이 된다.
+2|carcass|/ˈkɑːrkəs/|명 사체|Vultures circled over the *carcass*.|독수리들이 사체 위를 맴돌았다.|The *carcass* of the whale washed ashore.|고래의 사체가 해안으로 밀려왔다.
+2|colonize|/ˈkɑːlənaɪz/|동 군락을 이루다, 식민지로 삼다|Plants *colonize* new land after a fire.|식물은 불이 난 뒤 새 땅에 군락을 이룬다.|Europeans *colonized* parts of Africa.|유럽인들은 아프리카 일부를 식민지로 삼았다.
+2|cultivation|/ˌkʌltɪˈveɪʃn/|명 재배|The *cultivation* of rice needs a lot of water.|벼 재배에는 많은 물이 필요하다.|Tea *cultivation* spread across Asia.|차 재배는 아시아 전역으로 퍼졌다.
+2|descendant|/dɪˈsendənt/|명 후손|Birds are the *descendants* of dinosaurs.|새는 공룡의 후손이다.|She is a *descendant* of the royal family.|그녀는 왕가의 후손이다.
