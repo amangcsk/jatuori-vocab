@@ -30,6 +30,8 @@ h1{font-size:19px;margin:0}
 .bar i{display:block;height:100%;background:var(--ok);width:0;transition:width .3s}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-top:12px;transition:opacity .2s}
 .card.done{opacity:.55}
+.card.carry{border-color:var(--accent)}
+.tag{display:inline-block;font-size:12px;font-weight:bold;color:var(--accent);background:var(--soft);border-radius:999px;padding:1px 10px;margin-bottom:6px}
 .row1{display:flex;align-items:center;gap:8px}
 .word{font:600 27px Georgia,"Times New Roman",serif}
 .ipa{color:var(--sub);font-size:14px;margin-left:2px}
@@ -106,8 +108,9 @@ function load(){
   for(const lv in LEVELS){const L=o.levels[lv]||(o.levels[lv]={done:[],cursor:0});
     const ids=new Set(WORDS[lv].map(w=>w.id));
     L.done=(L.done||[]).filter(id=>ids.has(id));
+    L.carry=(L.carry||[]).filter(id=>ids.has(id)&&!L.done.includes(id));
     const ok=Array.isArray(L.order)&&L.order.length===ids.size&&L.order.every(id=>ids.has(id))&&new Set(L.order).size===ids.size;
-    if(!ok){L.order=makeOrder(lv);L.cursor=0;}
+    if(!ok){L.order=makeOrder(lv);L.cursor=0;L.carry=[];}
     if(!(L.cursor>=0)||L.cursor>=WORDS[lv].length)L.cursor=0;}
   if(!LEVELS[o.lastLevel])o.lastLevel="middle";
   o.daily=o.daily||{};
@@ -124,12 +127,14 @@ function streak(){let n=0,d=new Date();const f=x=>x.getFullYear()+"-"+String(x.g
   while(S.daily[f(d)]>0){n++;d.setDate(d.getDate()-1);}return n;}
 
 /* ---------- 세트 구성 (PRD 7.3) ---------- */
-let cur={ids:[],last:0};
+let cur={ids:[],last:0,carry:new Set()};
+// 이전 세트에서 완료하지 못한 단어(L.carry)를 맨 위에 두고, 그 아래에 새 단어 5개를 붙인다
 function compute(){
   const lv=S.lastLevel,L=S.levels[lv],list=orderedList(lv),N=list.length,done=new Set(L.done);
-  const ids=[];let last=L.cursor;
-  for(let k=0;k<N&&ids.length<5;k++){const i=(L.cursor+k)%N;if(!done.has(list[i].id)){ids.push(list[i].id);last=i;}}
-  cur={ids,last};
+  const carry=(L.carry||[]).filter(id=>!done.has(id));
+  const ids=carry.slice(),seen=new Set(ids);let last=L.cursor-1,added=0;
+  for(let k=0;k<N&&added<5;k++){const i=(L.cursor+k)%N,id=list[i].id;if(!done.has(id)&&!seen.has(id)){ids.push(id);seen.add(id);last=i;added++;}}
+  cur={ids,last,carry:new Set(carry)};
 }
 
 /* ---------- 음성 (PRD 8) ---------- */
@@ -196,13 +201,14 @@ function renderList(){
   const lv=S.lastLevel,L=S.levels[lv],list=WORDS[lv],byId=Object.fromEntries(list.map(w=>[w.id,w]));
   if(!cur.ids.length){
     $("list").innerHTML=`<div class="finish"><div style="font-size:48px">🎉</div><p>${LEVELS[lv]} 단어 ${list.length}개를 모두 완료했어요.<br>처음부터 다시 복습할까요?</p><button id="again">처음부터 다시</button></div>`;
-    $("again").onclick=()=>{L.done=[];L.cursor=0;L.order=makeOrder(lv);save();compute();render();};
+    $("again").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);save();compute();render();};
     $("resetArea").innerHTML="";$("next").style.display="none";return;
   }
   $("next").style.display="block";
   $("list").innerHTML=cur.ids.map(id=>{
-    const w=byId[id],d=L.done.includes(id);
-    return `<article class="card ${d?"done":""}" data-id="${id}">
+    const w=byId[id],d=L.done.includes(id),c=cur.carry.has(id);
+    return `<article class="card ${d?"done":""} ${c?"carry":""}" data-id="${id}">
+      ${c?'<div class="tag">↩ 이전에 완료하지 못한 단어</div>':""}
       <div class="row1"><span class="word">${esc(w.word)}</span>
         <button class="spk" data-say="w" aria-label="${esc(w.word)} 발음 듣기">🔊</button><span class="spacer"></span>
         <button class="dn" data-done aria-label="${esc(w.word)} ${d?"완료 취소":"완료"}">${d?"✓ 완료됨 · 취소":"완료"}</button></div>
@@ -216,7 +222,7 @@ function renderList(){
   $("next").classList.toggle("hl",allDone);
   $("resetArea").innerHTML='<button class="reset ghost" id="rst">이 단계 초기화</button>';
   $("rst").onclick=()=>{$("resetArea").innerHTML=`<span class="stat">${LEVELS[lv]} 단계의 완료 기록 ${L.done.length}개가 지워져요.</span> <button class="reset" id="rok">초기화</button><button class="reset ghost" id="rno">취소</button>`;
-    $("rok").onclick=()=>{L.done=[];L.cursor=0;L.order=makeOrder(lv);save();stopSpeak();compute();render();};$("rno").onclick=renderList;};
+    $("rok").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);save();stopSpeak();compute();render();};$("rno").onclick=renderList;};
 }
 function render(){renderHead();renderList();}
 
@@ -246,7 +252,9 @@ $("tabs").addEventListener("click",e=>{
   stopSpeak();S.lastLevel=b.dataset.lv;save();compute();render();window.scrollTo(0,0);
 });
 $("next").onclick=()=>{
-  stopSpeak();const L=S.levels[S.lastLevel];L.cursor=(cur.last+1)%WORDS[S.lastLevel].length;save();compute();render();window.scrollTo(0,0);
+  stopSpeak();const L=S.levels[S.lastLevel],N=WORDS[S.lastLevel].length;
+  L.carry=cur.ids.filter(id=>!L.done.includes(id)); // 못 끝낸 단어는 다음 세트 맨 위로
+  L.cursor=((cur.last+1)%N+N)%N;save();compute();render();window.scrollTo(0,0);
 };
 window.addEventListener("storage",e=>{if(e.key===KEY){const keep=S.lastLevel;S=load();S.lastLevel=keep;compute();render();}});
 
