@@ -1,124 +1,124 @@
-2|rid|/rɪd/|동 없애다|We need to *rid* the house of mice.|우리는 집에서 쥐를 없애야 한다.|She got *rid* of her old clothes.|그녀는 낡은 옷을 처분했다.
-2|ridiculous|/rɪˈdɪkjələs/|형 터무니없는|That price is *ridiculous*.|그 가격은 터무니없다.|He wore a *ridiculous* hat.|그는 우스꽝스러운 모자를 썼다.
-2|rigid|/ˈrɪdʒɪd/|형 엄격한, 뻣뻣한|The school has *rigid* rules.|그 학교는 규칙이 엄격하다.|The metal bar was *rigid*.|그 금속 막대는 뻣뻣했다.
-2|risk|/rɪsk/|명 위험;동 위험을 무릅쓰다|Smoking is a health *risk*.|흡연은 건강에 위험하다.|He *risked* his life to save the child.|그는 아이를 구하려고 목숨을 걸었다.
-2|ritual|/ˈrɪtʃuəl/|명 의식|They perform a *ritual* every spring.|그들은 매년 봄 의식을 치른다.|Coffee is her morning *ritual*.|커피는 그녀의 아침 의식이다.
-2|rival|/ˈraɪvl/|명 경쟁자|The two teams are old *rivals*.|두 팀은 오랜 라이벌이다.|He beat his *rival* in the race.|그는 경주에서 라이벌을 이겼다.
-2|role|/roʊl/|명 역할|She plays the main *role* in the play.|그녀는 연극에서 주연을 맡는다.|Teachers play an important *role*.|교사는 중요한 역할을 한다.
-2|root|/ruːt/|명 뿌리|The tree has deep *roots*.|그 나무는 뿌리가 깊다.|Money is the *root* of the problem.|돈이 문제의 근원이다.
-2|rough|/rʌf/|형 거친|The sea was *rough* today.|오늘 바다는 거칠었다.|The table has a *rough* surface.|탁자 표면이 거칠다.
-2|route|/ruːt/|명 경로|Which *route* do you take to school?|학교에 어느 길로 가니?|The bus *route* goes through the park.|버스 노선은 공원을 지난다.
-2|routine|/ruːˈtiːn/|명 일상, 일과|My morning *routine* is simple.|내 아침 일과는 단순하다.|Exercise is part of her daily *routine*.|운동은 그녀의 일상의 일부다.
-2|royal|/ˈrɔɪəl/|형 왕실의|The *royal* family lives in the palace.|왕실 가족은 궁전에서 산다.|They visited the *royal* tombs.|그들은 왕릉을 방문했다.
-2|rude|/ruːd/|형 무례한|It is *rude* to talk with your mouth full.|입에 음식을 넣고 말하는 것은 무례하다.|His *rude* answer shocked us.|그의 무례한 대답은 우리를 놀라게 했다.
-2|ruin|/ˈruːɪn/|동 망치다;명 폐허|The rain *ruined* our picnic.|비가 우리 소풍을 망쳤다.|They visited the *ruins* of an old castle.|그들은 오래된 성의 폐허를 찾았다.
-2|rural|/ˈrʊrəl/|형 시골의|They live in a *rural* area.|그들은 시골 지역에 산다.|*Rural* life is quiet and slow.|시골 생활은 조용하고 느리다.
-2|rush|/rʌʃ/|동 서두르다;명 혼잡|Don't *rush*; we have time.|서두르지 마, 시간 있어.|We got caught in the morning *rush* hour.|우리는 아침 출근 혼잡에 걸렸다.
-2|sacrifice|/ˈsækrɪfaɪs/|명 희생;동 희생하다|Parents make many *sacrifices* for their kids.|부모는 자식을 위해 많은 희생을 한다.|He *sacrificed* his sleep to study.|그는 공부하려고 잠을 희생했다.
-2|safeguard|/ˈseɪfɡɑːrd/|동 보호하다|Laws *safeguard* our rights.|법은 우리의 권리를 보호한다.|We must *safeguard* the environment.|우리는 환경을 지켜야 한다.
-2|salary|/ˈsæləri/|명 급여|His monthly *salary* is not high.|그의 월급은 높지 않다.|She asked for a higher *salary*.|그녀는 더 높은 급여를 요구했다.
-2|sample|/ˈsæmpl/|명 견본, 표본|The shop gave free *samples* of cheese.|가게는 치즈 시식품을 무료로 나눠 주었다.|Scientists took a water *sample*.|과학자들은 물 시료를 채취했다.
-2|sanction|/ˈsæŋkʃn/|명 제재;동 허가하다|The country faced economic *sanctions*.|그 나라는 경제 제재에 직면했다.|The school *sanctioned* the event.|학교는 그 행사를 승인했다.
-2|satellite|/ˈsætəlaɪt/|명 위성|The *satellite* orbits the Earth.|위성은 지구 주위를 돈다.|They watch TV by *satellite*.|그들은 위성으로 TV를 본다.
-2|satisfy|/ˈsætɪsfaɪ/|동 만족시키다|Nothing *satisfied* the customer.|아무것도 그 손님을 만족시키지 못했다.|I was *satisfied* with my grade.|나는 내 성적에 만족했다.
-2|scale|/skeɪl/|명 규모, 저울, 눈금|The *scale* of the project is huge.|그 프로젝트의 규모는 거대하다.|She weighed the flour on a *scale*.|그녀는 저울에 밀가루를 쟀다.
-2|scan|/skæn/|동 훑어보다, 스캔하다|*Scan* the page for key words.|핵심 단어를 찾아 쪽을 훑어봐라.|Please *scan* the document.|문서를 스캔해 주세요.
-2|scarce|/skers/|형 부족한, 드문|Water is *scarce* in the desert.|사막에서는 물이 귀하다.|Jobs were *scarce* after the war.|전쟁 후에는 일자리가 드물었다.
-2|scatter|/ˈskætər/|동 흩뿌리다|The wind *scattered* the papers.|바람이 서류를 흩날렸다.|The crowd *scattered* after the show.|공연 후 군중이 흩어졌다.
-2|scene|/siːn/|명 장면, 현장|It was a beautiful *scene*.|아름다운 장면이었다.|The police arrived at the *scene*.|경찰이 현장에 도착했다.
-2|schedule|/ˈskedʒuːl/|명 일정;동 일정을 잡다|My *schedule* is full today.|오늘은 일정이 꽉 찼다.|The meeting is *scheduled* for noon.|회의는 정오로 예정되어 있다.
-2|scheme|/skiːm/|명 계획, 책략|The city launched a recycling *scheme*.|시는 재활용 계획을 시작했다.|They came up with a clever *scheme*.|그들은 기발한 계략을 생각해 냈다.
-2|scholar|/ˈskɑːlər/|명 학자|The *scholar* spent years studying ancient texts.|그 학자는 고대 문헌을 연구하며 수년을 보냈다.|She is a famous *scholar* of history.|그녀는 유명한 역사학자다.
-2|scholarship|/ˈskɑːlərʃɪp/|명 장학금|She won a *scholarship* to study abroad.|그녀는 유학 장학금을 받았다.|The *scholarship* covers the tuition.|그 장학금은 수업료를 충당한다.
-2|scope|/skoʊp/|명 범위|The *scope* of the project is wide.|그 프로젝트의 범위는 넓다.|That question is outside the *scope* of this class.|그 질문은 이 수업의 범위를 벗어난다.
-2|scratch|/skrætʃ/|동 긁다;명 긁힌 자국|The cat *scratched* the sofa.|고양이가 소파를 긁었다.|There is a *scratch* on the car.|차에 긁힌 자국이 있다.
-2|screen|/skriːn/|명 화면|He stared at the computer *screen*.|그는 컴퓨터 화면을 응시했다.|The movie will be shown on a big *screen*.|영화는 큰 스크린에서 상영될 것이다.
-2|seek|/siːk/|동 찾다, 구하다|They *seek* a better life.|그들은 더 나은 삶을 찾는다.|He *sought* advice from his teacher.|그는 선생님께 조언을 구했다.
-2|segment|/ˈseɡmənt/|명 부분, 조각|Divide the orange into *segments*.|오렌지를 조각으로 나누어라.|A large *segment* of the population agrees.|인구의 상당 부분이 동의한다.
-2|select|/sɪˈlekt/|동 선택하다|*Select* three books from the list.|목록에서 책 세 권을 선택하세요.|She was *selected* for the team.|그녀는 팀에 선발되었다.
-2|senior|/ˈsiːniər/|형 손위의, 상급의|He is a *senior* student at the school.|그는 그 학교의 상급생이다.|She holds a *senior* position.|그녀는 고위직에 있다.
-2|sensation|/senˈseɪʃn/|명 감각, 센세이션|She felt a burning *sensation*.|그녀는 화끈거리는 감각을 느꼈다.|The film caused a *sensation*.|그 영화는 큰 화제를 일으켰다.
-2|sense|/sens/|명 감각, 의미;동 느끼다|Dogs have a strong *sense* of smell.|개는 후각이 뛰어나다.|It makes no *sense* to me.|내게는 말이 안 된다.
-2|sensible|/ˈsensəbl/|형 분별 있는|It's *sensible* to wear a helmet.|헬멧을 쓰는 것이 현명하다.|She made a *sensible* decision.|그녀는 분별 있는 결정을 했다.
-2|sensitive|/ˈsensətɪv/|형 민감한|My skin is *sensitive* to sunlight.|내 피부는 햇빛에 민감하다.|He is a *sensitive* boy.|그는 감수성이 예민한 소년이다.
-2|sentence|/ˈsentəns/|명 문장;명 형량|Write a *sentence* using this word.|이 단어를 사용하여 문장을 써라.|The judge gave him a light *sentence*.|판사는 그에게 가벼운 형을 선고했다.
-2|separate|/ˈsepərət/|형 분리된;동 분리하다|They sleep in *separate* rooms.|그들은 따로 된 방에서 잔다.|*Separate* the eggs from the shells.|달걀을 껍질과 분리해라.
-2|sequence|/ˈsiːkwəns/|명 순서, 연속|Put the pictures in *sequence*.|그림을 순서대로 놓아라.|Numbers follow a *sequence*.|숫자는 순서를 따른다.
-2|series|/ˈsɪriːz/|명 연속, 시리즈|The TV *series* has five seasons.|그 TV 시리즈는 다섯 시즌이다.|A *series* of events led to the strike.|일련의 사건이 파업으로 이어졌다.
-2|serious|/ˈsɪriəs/|형 심각한, 진지한|It was a *serious* accident.|그것은 심각한 사고였다.|Are you *serious*?|진심이니?
-2|session|/ˈseʃn/|명 시간, 회기|The study *session* lasted two hours.|공부 시간은 두 시간 동안 이어졌다.|Parliament is in *session*.|의회가 개회 중이다.
-2|settle|/ˈsetl/|동 정착하다, 해결하다|They *settled* in a small town.|그들은 작은 마을에 정착했다.|Let's *settle* this quickly.|이것을 빨리 해결하자.
-2|severe|/sɪˈvɪr/|형 심한, 엄한|The storm caused *severe* damage.|폭풍은 심한 피해를 입혔다.|He suffered *severe* pain.|그는 심한 통증을 겪었다.
-2|shade|/ʃeɪd/|명 그늘|They rested in the *shade* of a tree.|그들은 나무 그늘에서 쉬었다.|The room has a pale *shade* of blue.|그 방은 옅은 파란색이다.
-2|shadow|/ˈʃædoʊ/|명 그림자|The tree cast a long *shadow*.|나무가 긴 그림자를 드리웠다.|The child was afraid of his own *shadow*.|아이는 자기 그림자도 무서워했다.
-2|shallow|/ˈʃæloʊ/|형 얕은|The river is *shallow* here.|강은 이곳에서 얕다.|He gave a *shallow* answer.|그는 피상적인 대답을 했다.
-2|shame|/ʃeɪm/|명 수치심, 아쉬운 일|He felt *shame* about lying.|그는 거짓말한 것이 부끄러웠다.|It's a *shame* you can't come.|네가 못 오다니 아쉽다.
-2|shape|/ʃeɪp/|명 모양;동 형성하다|The cloud has the *shape* of a rabbit.|그 구름은 토끼 모양이다.|Experience *shapes* who we are.|경험은 우리를 형성한다.
-2|share|/ʃer/|동 나누다, 공유하다|Let's *share* the pizza.|피자를 나눠 먹자.|She *shared* her idea with the class.|그녀는 자기 생각을 반 친구들과 공유했다.
-2|sharp|/ʃɑːrp/|형 날카로운, 급격한|Be careful; the knife is *sharp*.|조심해, 칼이 날카로워.|There was a *sharp* rise in prices.|물가가 급격히 올랐다.
-2|shelf|/ʃelf/|명 선반|Put the book back on the *shelf*.|책을 선반에 다시 꽂아라.|The top *shelf* is too high for me.|맨 위 선반은 내게 너무 높다.
-2|shift|/ʃɪft/|동 이동하다;명 교대|He *shifted* the box to the corner.|그는 상자를 구석으로 옮겼다.|She works the night *shift*.|그녀는 야간 근무를 한다.
-2|shock|/ʃɑːk/|명 충격;동 충격을 주다|The news came as a *shock*.|그 소식은 충격으로 다가왔다.|We were *shocked* by the result.|우리는 결과에 충격을 받았다.
-2|shortage|/ˈʃɔːrtɪdʒ/|명 부족|There was a water *shortage* in summer.|여름에 물 부족이 있었다.|The school faces a *shortage* of teachers.|그 학교는 교사 부족을 겪는다.
-2|shrink|/ʃrɪŋk/|동 줄어들다|My sweater *shrank* in the wash.|내 스웨터가 빨래에서 줄었다.|The forest is *shrinking* every year.|숲은 해마다 줄어들고 있다.
-2|sibling|/ˈsɪblɪŋ/|명 형제자매|I have no *siblings*.|나는 형제자매가 없다.|Her *sibling* is two years younger.|그녀의 형제자매는 두 살 어리다.
-2|sigh|/saɪ/|동 한숨 쉬다|She *sighed* with relief.|그녀는 안도의 한숨을 쉬었다.|He gave a deep *sigh*.|그는 깊은 한숨을 내쉬었다.
-2|sight|/saɪt/|명 시력, 광경|The *sight* of the sea made us happy.|바다를 보니 우리는 행복해졌다.|He lost his *sight* in an accident.|그는 사고로 시력을 잃었다.
-2|sign|/saɪn/|명 표지판, 징후;동 서명하다|Follow the road *signs*.|도로 표지판을 따라가라.|Please *sign* your name here.|여기에 서명해 주세요.
-2|signal|/ˈsɪɡnəl/|명 신호|Wait for the *signal* to cross.|건너는 신호를 기다려라.|My phone has no *signal* here.|여기서는 내 휴대폰 신호가 안 잡힌다.
-2|silent|/ˈsaɪlənt/|형 조용한|The room fell *silent*.|방이 조용해졌다.|She remained *silent* during the meeting.|그녀는 회의 중 침묵을 지켰다.
-2|similar|/ˈsɪmələr/|형 비슷한|The two sisters look *similar*.|두 자매는 비슷하게 생겼다.|Our opinions are *similar*.|우리 의견은 비슷하다.
-2|simple|/ˈsɪmpl/|형 간단한|The rules are *simple*.|규칙은 간단하다.|She wore a *simple* dress.|그녀는 단순한 드레스를 입었다.
-2|simultaneous|/ˌsaɪmlˈteɪniəs/|형 동시의|There were *simultaneous* explosions.|동시 폭발이 있었다.|The *simultaneous* translation was perfect.|동시통역이 완벽했다.
-2|sincere|/sɪnˈsɪr/|형 진심의|She gave a *sincere* apology.|그녀는 진심 어린 사과를 했다.|He is *sincere* in his love of art.|그는 예술에 대한 사랑이 진실하다.
-2|site|/saɪt/|명 장소, 현장|The *site* of the old castle is now a park.|옛 성터는 지금 공원이다.|He works at a building *site*.|그는 건설 현장에서 일한다.
-2|situation|/ˌsɪtʃuˈeɪʃn/|명 상황|The *situation* is getting worse.|상황이 악화되고 있다.|She stayed calm in a difficult *situation*.|그녀는 어려운 상황에서도 침착했다.
-2|skeleton|/ˈskelɪtn/|명 해골, 골격|The museum has a dinosaur *skeleton*.|박물관에는 공룡 골격이 있다.|A human *skeleton* has 206 bones.|사람의 골격은 206개의 뼈로 이루어져 있다.
-2|skeptical|/ˈskeptɪkl/|형 회의적인|I am *skeptical* about his story.|나는 그의 이야기가 의심스럽다.|Scientists are *skeptical* of the claim.|과학자들은 그 주장에 회의적이다.
-2|slave|/sleɪv/|명 노예|The *slaves* worked in the fields.|노예들은 들에서 일했다.|He fought to free the *slaves*.|그는 노예들을 해방하려고 싸웠다.
-2|slender|/ˈslendər/|형 날씬한|She has a *slender* figure.|그녀는 날씬한 몸매를 가졌다.|A *slender* tree grew by the road.|가느다란 나무가 길가에서 자랐다.
-2|slice|/slaɪs/|명 조각, 한 조각|She ate a *slice* of cake.|그녀는 케이크 한 조각을 먹었다.|*Slice* the bread thinly.|빵을 얇게 썰어라.
-2|slight|/slaɪt/|형 약간의|There was a *slight* change.|약간의 변화가 있었다.|I have a *slight* headache.|나는 두통이 약간 있다.
-2|slip|/slɪp/|동 미끄러지다|He *slipped* on the ice.|그는 얼음에 미끄러졌다.|The cup *slipped* from my hand.|컵이 내 손에서 미끄러졌다.
-2|slogan|/ˈsloʊɡən/|명 구호, 표어|The team chose a catchy *slogan*.|팀은 기억하기 쉬운 구호를 골랐다.|The *slogan* appeared on posters.|그 표어는 포스터에 실렸다.
-2|smart|/smɑːrt/|형 똑똑한, 맵시 있는|She is a *smart* student.|그녀는 똑똑한 학생이다.|He looked *smart* in his suit.|그는 정장 차림이 말쑥해 보였다.
-2|smooth|/smuːð/|형 매끄러운|The table has a *smooth* surface.|탁자의 표면이 매끄럽다.|The flight was *smooth*.|비행은 순조로웠다.
-2|snap|/snæp/|동 뚝 부러지다;동 딱 소리 내다|The branch *snapped* in the wind.|가지가 바람에 뚝 부러졌다.|He *snapped* his fingers.|그는 손가락을 딱 튕겼다.
-2|soar|/sɔːr/|동 치솟다|Prices *soared* last month.|지난달 물가가 치솟았다.|An eagle *soared* above the mountains.|독수리가 산 위로 날아올랐다.
-2|sober|/ˈsoʊbər/|형 술 취하지 않은, 진지한|He stayed *sober* at the party.|그는 파티에서 술을 마시지 않았다.|It was a *sober* reminder of the danger.|그것은 위험을 진지하게 일깨워 주었다.
-2|social|/ˈsoʊʃl/|형 사회의, 사교적인|Humans are *social* animals.|인간은 사회적 동물이다.|She is a very *social* person.|그녀는 매우 사교적인 사람이다.
-2|society|/səˈsaɪəti/|명 사회|Technology changes *society*.|기술은 사회를 바꾼다.|Children are the future of *society*.|어린이는 사회의 미래다.
-2|software|/ˈsɔːftwer/|명 소프트웨어|She develops computer *software*.|그녀는 컴퓨터 소프트웨어를 개발한다.|Update the *software* regularly.|소프트웨어를 정기적으로 업데이트해라.
-2|soil|/sɔɪl/|명 흙, 토양|Plants grow in rich *soil*.|식물은 비옥한 흙에서 자란다.|The farmer tested the *soil*.|농부는 토양을 검사했다.
-2|solar|/ˈsoʊlər/|형 태양의|They installed *solar* panels.|그들은 태양광 패널을 설치했다.|*Solar* energy is clean.|태양 에너지는 깨끗하다.
-2|soldier|/ˈsoʊldʒər/|명 군인|The *soldier* saluted the flag.|군인은 국기에 경례했다.|Many *soldiers* returned home.|많은 군인이 집으로 돌아왔다.
-2|sole|/soʊl/|형 유일한|She was the *sole* survivor.|그녀는 유일한 생존자였다.|His *sole* aim was to win.|그의 유일한 목표는 이기는 것이었다.
-2|solid|/ˈsɑːlɪd/|형 고체의, 단단한|Ice is a *solid*.|얼음은 고체다.|The table is made of *solid* wood.|그 탁자는 통나무로 만들어졌다.
-2|solution|/səˈluːʃn/|명 해결책, 용액|We need a *solution* to the problem.|우리는 그 문제의 해결책이 필요하다.|Mix the salt into the *solution*.|소금을 용액에 섞어라.
-2|solve|/sɑːlv/|동 해결하다|Can you *solve* this puzzle?|이 퍼즐을 풀 수 있겠니?|They *solved* the problem together.|그들은 문제를 함께 해결했다.
-2|somewhat|/ˈsʌmwʌt/|부 다소|I was *somewhat* surprised.|나는 다소 놀랐다.|The road is *somewhat* steep.|그 길은 다소 가파르다.
-2|sophisticated|/səˈfɪstɪkeɪtɪd/|형 세련된, 정교한|She has *sophisticated* taste.|그녀는 세련된 취향을 가졌다.|The robot uses *sophisticated* technology.|그 로봇은 정교한 기술을 사용한다.
-2|source|/sɔːrs/|명 원천, 출처|The river's *source* is in the mountains.|강의 발원지는 산에 있다.|Always check the *source* of the news.|뉴스의 출처를 항상 확인해라.
-2|sovereign|/ˈsɑːvrɪn/|형 주권을 가진|Korea is a *sovereign* nation.|한국은 주권 국가다.|The *sovereign* ruled for forty years.|군주는 40년간 통치했다.
-2|spare|/sper/|형 여분의;동 아끼다|Do you have a *spare* pen?|여분의 펜이 있니?|Can you *spare* a few minutes?|몇 분만 시간을 내줄 수 있나요?
-2|spark|/spɑːrk/|명 불꽃;동 촉발하다|A *spark* flew from the fire.|불에서 불꽃이 튀었다.|The remark *sparked* an argument.|그 말이 논쟁을 촉발했다.
-2|specialize|/ˈspeʃəlaɪz/|동 전공하다|She *specializes* in children's medicine.|그녀는 소아과를 전문으로 한다.|The shop *specializes* in tea.|그 가게는 차를 전문으로 한다.
-2|specific|/spəˈsɪfɪk/|형 구체적인|Can you be more *specific*?|좀 더 구체적으로 말해 줄래요?|There is no *specific* time.|정해진 시간은 없다.
-2|specify|/ˈspesɪfaɪ/|동 명시하다|Please *specify* your size.|사이즈를 명시해 주세요.|The rules *specify* a maximum weight.|규정은 최대 무게를 명시한다.
-2|spectacular|/spekˈtækjələr/|형 장관인|The fireworks were *spectacular*.|불꽃놀이는 장관이었다.|We saw a *spectacular* view.|우리는 멋진 경치를 보았다.
-2|speculate|/ˈspekjuleɪt/|동 추측하다|People *speculated* about the reason.|사람들은 이유를 추측했다.|I don't want to *speculate*.|나는 추측하고 싶지 않다.
-2|sphere|/sfɪr/|명 구, 영역|The Earth is nearly a *sphere*.|지구는 거의 구형이다.|He is famous in the *sphere* of music.|그는 음악계에서 유명하다.
-2|spill|/spɪl/|동 쏟다|Be careful not to *spill* the milk.|우유를 엎지르지 않게 조심해라.|The coffee *spilled* on the desk.|커피가 책상에 쏟아졌다.
-2|spin|/spɪn/|동 돌다, 돌리다|The wheel began to *spin*.|바퀴가 돌기 시작했다.|The skater *spun* quickly.|스케이트 선수가 빠르게 회전했다.
-2|spirit|/ˈspɪrɪt/|명 정신, 영혼|The team showed great *spirit*.|그 팀은 훌륭한 정신력을 보였다.|They believe in the *spirit* of the forest.|그들은 숲의 정령을 믿는다.
-2|split|/splɪt/|동 쪼개다, 나누다|*Split* the bill between us.|우리끼리 계산서를 나누자.|The log *split* in half.|통나무가 반으로 쪼개졌다.
-2|spoil|/spɔɪl/|동 망치다, 상하다|Don't *spoil* the surprise.|깜짝 선물을 망치지 마라.|The milk *spoiled* in the heat.|우유가 더위에 상했다.
-2|spokesperson|/ˈspoʊkspɜːrsn/|명 대변인|The *spokesperson* announced the news.|대변인이 그 소식을 발표했다.|She is the company's *spokesperson*.|그녀는 회사의 대변인이다.
-2|sponsor|/ˈspɑːnsər/|명 후원자;동 후원하다|A local bank is the *sponsor* of the race.|지역 은행이 경주의 후원사다.|The company *sponsors* young artists.|그 회사는 젊은 예술가들을 후원한다.
-2|spread|/spred/|동 퍼지다, 펴다|The news *spread* quickly.|소식이 빠르게 퍼졌다.|She *spread* butter on the bread.|그녀는 빵에 버터를 발랐다.
-2|stable|/ˈsteɪbl/|형 안정된|The ladder isn't *stable*.|그 사다리는 안정적이지 않다.|The economy is *stable* now.|경제는 지금 안정되어 있다.
-2|staff|/stæf/|명 직원|The hotel *staff* were friendly.|호텔 직원들은 친절했다.|The school has a *staff* of fifty.|학교에는 직원이 50명 있다.
-2|stage|/steɪdʒ/|명 무대, 단계|The singer walked onto the *stage*.|가수가 무대에 올랐다.|The project is in an early *stage*.|프로젝트는 초기 단계에 있다.
-2|stain|/steɪn/|명 얼룩|There is a coffee *stain* on my shirt.|내 셔츠에 커피 얼룩이 있다.|The juice *stained* the carpet.|주스가 카펫을 얼룩지게 했다.
-2|stake|/steɪk/|명 이해관계, 내기|Our future is at *stake*.|우리의 미래가 걸려 있다.|He has a *stake* in the company.|그는 그 회사에 지분이 있다.
-2|standard|/ˈstændərd/|명 기준, 표준|The school sets high *standards*.|학교는 높은 기준을 세운다.|The *standard* size is medium.|표준 사이즈는 중간이다.
+2|rid|/rɪd/|동 없애다|It took them an entire weekend to *rid* the garden of weeds and fallen branches.|그들은 정원의 잡초와 떨어진 나뭇가지를 없애는 데 주말을 통째로 썼다.|The new law aims to *rid* the city of illegal advertising once and for all.|새 법은 불법 광고를 도시에서 완전히 없애는 것을 목표로 한다.
+2|ridiculous|/rɪˈdɪkjələs/|형 터무니없는|It is *ridiculous* to expect anyone to finish such a huge project in a single day.|그렇게 큰 프로젝트를 하루 만에 끝내기를 기대하는 것은 터무니없다.|The price they asked for the old bicycle was so *ridiculous* that I just laughed.|그들이 낡은 자전거에 부른 가격이 너무 터무니없어서 나는 웃고 말았다.
+2|rigid|/ˈrɪdʒɪd/|형 엄격한, 뻣뻣한|The company's *rigid* rules left no room for employees to be creative or flexible.|그 회사의 엄격한 규칙은 직원이 창의적이거나 융통성 있게 일할 여지를 남기지 않았다.|The cold made the old rope so *rigid* that it could no longer be tied.|추위로 낡은 밧줄이 너무 뻣뻣해져서 더는 묶을 수 없었다.
+2|risk|/rɪsk/|명 위험;동 위험을 무릅쓰다|Smoking greatly increases the *risk* of heart disease and lung cancer.|흡연은 심장병과 폐암의 위험을 크게 높인다.|The rescuers *risked* their own lives to save the family trapped in the burning house.|구조대원들은 불타는 집에 갇힌 가족을 구하려고 자신의 목숨을 걸었다.
+2|ritual|/ˈrɪtʃuəl/|명 의식|The villagers perform an ancient *ritual* every spring to ask for a good harvest.|마을 사람들은 풍년을 기원하며 매년 봄 고대 의식을 거행한다.|Having a cup of tea before bed has become a calming daily *ritual* for her.|잠자리에 들기 전 차 한 잔을 마시는 것은 그녀에게 마음을 가라앉히는 일상의 의식이 되었다.
+2|rival|/ˈraɪvl/|명 경쟁자|The two companies have been fierce *rivals* for decades, each trying to win more customers.|두 회사는 수십 년간 더 많은 고객을 차지하려고 애쓰는 치열한 경쟁자였다.|Her main *rival* in the race was a runner who had won the title twice before.|경주에서 그녀의 주된 경쟁자는 전에 두 번 우승한 적이 있는 주자였다.
+2|role|/roʊl/|명 역할|Parents play a crucial *role* in shaping their children's attitudes toward learning.|부모는 학습에 대한 자녀의 태도를 형성하는 데 결정적인 역할을 한다.|The young actress was chosen for the leading *role* in the new historical drama.|그 젊은 여배우는 새 사극의 주연으로 뽑혔다.
+2|root|/ruːt/|명 뿌리|The tree's deep *roots* help it survive long periods without rain.|그 나무의 깊은 뿌리는 오랜 가뭄 속에서도 살아남도록 돕는다.|The *root* of the problem is a lack of communication between the two departments.|문제의 근본 원인은 두 부서 사이의 소통 부족이다.
+2|rough|/rʌf/|형 거친|The ferry ride was *rough* because of strong winds, and many passengers felt sick.|강풍 때문에 여객선 운항이 거칠어서 많은 승객이 멀미를 했다.|He made a *rough* estimate of the cost, but he said the final figure might differ.|그는 비용을 대략적으로 어림했지만 최종 금액은 다를 수 있다고 말했다.
+2|route|/ruːt/|명 경로|The bus *route* runs along the coast and passes several famous beaches.|그 버스 노선은 해안을 따라 달리며 유명한 해변 몇 곳을 지난다.|We took a longer *route* home to avoid the heavy traffic on the main road.|우리는 큰길의 극심한 교통 체증을 피하려고 더 먼 길로 집에 돌아갔다.
+2|routine|/ruːˈtiːn/|명 일상, 일과|She has a strict morning *routine*: she wakes at six, exercises, and then studies.|그녀는 엄격한 아침 일과가 있다. 여섯 시에 일어나 운동한 뒤 공부한다.|Doctors recommend *routine* check-ups to catch health problems early.|의사들은 건강 문제를 일찍 발견하기 위해 정기 검진을 권한다.
+2|royal|/ˈrɔɪəl/|형 왕실의|The *royal* family waved to the crowds from the balcony of the palace.|왕실 가족은 궁전 발코니에서 군중에게 손을 흔들었다.|The museum displays jewels and crowns that once belonged to the *royal* court.|그 박물관에는 한때 왕실에 속했던 보석과 왕관이 전시되어 있다.
+2|rude|/ruːd/|형 무례한|It is considered *rude* to talk loudly on the phone in a quiet train carriage.|조용한 기차 객실에서 큰 소리로 통화하는 것은 무례하게 여겨진다.|The waiter was so *rude* to the customers that the manager had to apologize.|웨이터가 손님들에게 너무 무례해서 관리자가 사과해야 했다.
+2|ruin|/ˈruːɪn/|동 망치다;명 폐허|One careless mistake could *ruin* months of careful preparation and hard work.|부주의한 실수 하나가 몇 달간의 세심한 준비와 노력을 망칠 수 있다.|The tourists walked among the *ruins* of the ancient city, imagining its past glory.|관광객들은 고대 도시의 폐허 사이를 걸으며 지난날의 영화를 상상했다.
+2|rural|/ˈrʊrəl/|형 시골의|Many young people are leaving *rural* areas to look for work in the cities.|많은 젊은이가 일자리를 찾아 시골 지역을 떠나 도시로 간다.|Access to high-speed internet remains a problem in *rural* communities.|고속 인터넷 접속은 농촌 지역 사회에서 여전히 문제로 남아 있다.
+2|rush|/rʌʃ/|동 서두르다;명 혼잡|She had to *rush* to the station because her train was leaving in five minutes.|기차가 5분 뒤에 떠나서 그녀는 서둘러 역으로 가야 했다.|Avoid traveling during the *rush* hour if you can, because the roads are very crowded.|도로가 매우 혼잡하니 가능하면 출퇴근 혼잡 시간대에 이동하는 것을 피하세요.
+2|sacrifice|/ˈsækrɪfaɪs/|명 희생;동 희생하다|Her parents made great *sacrifices* so that she could attend a good university.|그녀의 부모는 딸이 좋은 대학에 다닐 수 있도록 큰 희생을 감수했다.|He was willing to *sacrifice* his free time in order to finish the project on schedule.|그는 프로젝트를 일정대로 끝내려고 여가 시간을 기꺼이 희생했다.
+2|safeguard|/ˈseɪfɡɑːrd/|동 보호하다|The new law is designed to *safeguard* the rights of workers in small companies.|새 법은 소규모 회사 노동자들의 권리를 보호하도록 설계되었다.|Strong passwords help *safeguard* your personal information from hackers.|강력한 비밀번호는 해커로부터 개인 정보를 지켜 준다.
+2|salary|/ˈsæləri/|명 급여|She was offered a higher *salary* at another firm, but she decided to stay.|그녀는 다른 회사에서 더 높은 급여를 제안받았지만 남기로 했다.|The teachers demanded a fair *salary* that reflected the long hours they worked.|교사들은 오랜 근무 시간을 반영한 공정한 급여를 요구했다.
+2|sample|/ˈsæmpl/|명 견본, 표본|The shop gave customers a free *sample* of the new cheese to try.|그 가게는 손님들에게 새 치즈를 맛볼 수 있도록 무료 견본을 주었다.|Researchers took a blood *sample* from each participant before the study began.|연구자들은 연구를 시작하기 전에 참가자마다 혈액 표본을 채취했다.
+2|sanction|/ˈsæŋkʃn/|명 제재;동 허가하다|The United Nations imposed economic *sanctions* on the country for violating the treaty.|유엔은 조약을 위반한 그 나라에 경제 제재를 가했다.|The school will not *sanction* any activity that puts students' safety at risk.|학교는 학생의 안전을 위태롭게 하는 어떤 활동도 허가하지 않을 것이다.
+2|satellite|/ˈsætəlaɪt/|명 위성|A weather *satellite* orbiting the Earth sends images of storms to forecasters.|지구 궤도를 도는 기상 위성은 예보관들에게 폭풍 영상을 보낸다.|The Moon is a natural *satellite* of the Earth that takes about a month to orbit it.|달은 지구를 도는 데 약 한 달이 걸리는 지구의 자연 위성이다.
+2|satisfy|/ˈsætɪsfaɪ/|동 만족시키다|No amount of money seemed enough to *satisfy* his desire for a bigger house.|아무리 많은 돈도 더 큰 집에 대한 그의 욕망을 채우기에는 충분하지 않아 보였다.|The company works hard to *satisfy* its customers by responding to their needs quickly.|그 회사는 고객의 요구에 신속히 대응하여 고객을 만족시키려고 열심히 노력한다.
+2|scale|/skeɪl/|명 규모, 저울, 눈금|The map is drawn to a *scale* of one centimeter to every ten kilometers.|그 지도는 1센티미터가 10킬로미터에 해당하는 축척으로 그려져 있다.|Nobody expected the *scale* of the damage that the earthquake caused in the city.|그 지진이 도시에 입힌 피해의 규모는 아무도 예상하지 못했다.
+2|scan|/skæn/|동 훑어보다, 스캔하다|She *scanned* the page quickly to find the paragraph that mentioned the date.|그녀는 날짜가 언급된 단락을 찾으려고 페이지를 재빨리 훑어보았다.|Doctors used a machine to *scan* his brain and look for signs of injury.|의사들은 기계로 그의 뇌를 스캔해 손상의 흔적을 찾았다.
+2|scarce|/skers/|형 부족한, 드문|Water is *scarce* in the desert, so every drop is carefully used.|사막에서는 물이 귀해서 한 방울 한 방울을 아껴 쓴다.|Jobs were *scarce* after the factory closed, and many families had to move away.|공장이 문을 닫은 뒤 일자리가 드물어서 많은 가족이 이사해야 했다.
+2|scatter|/ˈskætər/|동 흩뿌리다|The children *scattered* in all directions when the teacher blew the whistle.|선생님이 호루라기를 불자 아이들은 사방으로 흩어졌다.|The wind *scattered* the papers across the street before she could pick them up.|바람이 그녀가 줍기 전에 서류를 길 건너편까지 흩뿌렸다.
+2|scene|/siːn/|명 장면, 현장|The police arrived at the *scene* of the accident within five minutes.|경찰은 5분 안에 사고 현장에 도착했다.|The most dramatic *scene* in the film takes place on a ship during a storm.|그 영화에서 가장 극적인 장면은 폭풍 속 배 위에서 벌어진다.
+2|schedule|/ˈskedʒuːl/|명 일정;동 일정을 잡다|The train was running behind *schedule* because of a signal failure on the line.|신호 고장 때문에 열차는 일정보다 늦게 운행되고 있었다.|We *scheduled* the meeting for Thursday afternoon, when everyone is available.|우리는 모두가 시간이 되는 목요일 오후로 회의 일정을 잡았다.
+2|scheme|/skiːm/|명 계획, 책략|The government introduced a new *scheme* to help young people buy their first homes.|정부는 청년들이 첫 집을 사도록 돕는 새 계획을 도입했다.|The police uncovered a *scheme* to steal money from elderly people over the phone.|경찰은 전화로 노인들의 돈을 가로채려는 책략을 적발했다.
+2|scholar|/ˈskɑːlər/|명 학자|The *scholar* spent forty years studying ancient manuscripts in the library.|그 학자는 40년 동안 도서관에서 고대 필사본을 연구했다.|She is a respected *scholar* of medieval history and has published several books.|그녀는 중세사 분야의 존경받는 학자로 여러 권의 책을 출간했다.
+2|scholarship|/ˈskɑːlərʃɪp/|명 장학금|He won a *scholarship* that paid for all four years of his university studies.|그는 대학 4년 내내의 학비를 대 주는 장학금을 받았다.|The professor is known for the depth and quality of her *scholarship*.|그 교수는 학문의 깊이와 수준으로 유명하다.
+2|scope|/skoʊp/|명 범위|The *scope* of the investigation was widened to include several other companies.|조사의 범위는 다른 여러 회사를 포함하도록 넓혀졌다.|This topic is beyond the *scope* of today's lesson, so we will discuss it later.|이 주제는 오늘 수업의 범위를 벗어나므로 나중에 논의하겠습니다.
+2|scratch|/skrætʃ/|동 긁다;명 긁힌 자국|The cat *scratched* the sofa so badly that the owner had to buy a new one.|고양이가 소파를 너무 심하게 긁어서 주인은 새것을 사야 했다.|There was a long *scratch* on the surface of the table where something heavy had been dragged.|탁자 표면에 무거운 것을 끌고 간 자리에 긴 긁힌 자국이 있었다.
+2|screen|/skriːn/|명 화면|The *screen* of my phone cracked when I dropped it on the concrete floor.|콘크리트 바닥에 떨어뜨리는 바람에 휴대폰 화면에 금이 갔다.|Doctors advise children not to spend too much time in front of a *screen*.|의사들은 아이들이 화면 앞에서 너무 많은 시간을 보내지 않도록 권한다.
+2|seek|/siːk/|동 찾다, 구하다|Many refugees *seek* safety in neighboring countries when war breaks out.|전쟁이 나면 많은 난민이 이웃 나라에서 안전을 구한다.|If you are feeling anxious, it is wise to *seek* advice from a qualified professional.|불안하다면 자격 있는 전문가에게 조언을 구하는 것이 현명하다.
+2|segment|/ˈseɡmənt/|명 부분, 조각|The first *segment* of the program focuses on the history of the region.|프로그램의 첫 부분은 그 지역의 역사를 다룬다.|A large *segment* of the population lives in cities, while the rest live in rural areas.|인구의 상당 부분은 도시에 살고 나머지는 농촌 지역에 산다.
+2|select|/sɪˈlekt/|동 선택하다|The committee will *select* three finalists from among the hundreds of applicants.|위원회는 수백 명의 지원자 중에서 최종 후보 세 명을 선발할 것이다.|Please *select* the option that best describes your experience with the service.|그 서비스에 대한 경험을 가장 잘 설명하는 항목을 선택해 주세요.
+2|senior|/ˈsiːniər/|형 손위의, 상급의|The *senior* members of the team have more than twenty years of experience.|팀의 상급 구성원들은 20년이 넘는 경력을 갖고 있다.|She is three years *senior* to me and often gives me helpful advice about school.|그녀는 나보다 세 살 위여서 학교에 관해 유용한 조언을 자주 해 준다.
+2|sensation|/senˈseɪʃn/|명 감각, 센세이션|He felt a burning *sensation* in his hand after touching the hot pan.|그는 뜨거운 팬을 만진 뒤 손에 화끈거리는 감각을 느꼈다.|The young singer became an overnight *sensation* after her first concert.|그 젊은 가수는 첫 콘서트를 마치고 하룻밤 사이에 센세이션을 일으켰다.
+2|sense|/sens/|명 감각, 의미;동 느끼다|Dogs have a strong *sense* of smell that allows them to find objects hidden far away.|개는 후각이 뛰어나서 멀리 숨겨진 물건도 찾아낼 수 있다.|She *sensed* that something was wrong as soon as she walked into the silent room.|그녀는 조용한 방에 들어서자마자 무언가 잘못되었음을 느꼈다.
+2|sensible|/ˈsensəbl/|형 분별 있는|It would be *sensible* to bring an umbrella, since the forecast says it may rain.|예보에 비가 올 수도 있다고 하니 우산을 챙기는 것이 분별 있는 행동일 것이다.|She made a *sensible* decision to save part of her income instead of spending it all.|그녀는 소득을 전부 쓰지 않고 일부를 저축하는 분별 있는 결정을 내렸다.
+2|sensitive|/ˈsensətɪv/|형 민감한|People with *sensitive* skin should choose soaps that do not contain strong chemicals.|민감한 피부를 가진 사람은 독한 화학 성분이 없는 비누를 골라야 한다.|The teacher was *sensitive* to the feelings of the shy student and spoke gently to him.|선생님은 수줍음 많은 학생의 감정을 헤아려 부드럽게 말했다.
+2|sentence|/ˈsentəns/|명 문장;명 형량|Please translate the following *sentence* into English and underline the verb.|다음 문장을 영어로 옮기고 동사에 밑줄을 그으세요.|The judge gave him a two-year prison *sentence* for the crime he had committed.|판사는 그가 저지른 범죄에 대해 징역 2년형을 선고했다.
+2|separate|/ˈsepərət/|형 분리된;동 분리하다|The two buildings are *separate*, but they are connected by a covered walkway.|두 건물은 별개이지만 지붕이 있는 통로로 이어져 있다.|The teacher decided to *separate* the two boys because they kept talking during the lesson.|선생님은 두 소년이 수업 내내 떠들자 그들을 떼어 앉히기로 했다.
+2|sequence|/ˈsiːkwəns/|명 순서, 연속|The numbers appear in a *sequence* that follows a clear mathematical pattern.|그 숫자들은 분명한 수학적 규칙을 따르는 수열로 나타난다.|It is important to follow the correct *sequence* of steps when you assemble the shelf.|선반을 조립할 때는 올바른 순서의 단계를 따르는 것이 중요하다.
+2|series|/ˈsɪriːz/|명 연속, 시리즈|A *series* of earthquakes struck the region over the course of a single week.|일주일 동안 연달아 일어난 지진이 그 지역을 강타했다.|The television *series* has become so popular that a new season is already being filmed.|그 텔레비전 시리즈는 인기가 너무 높아서 벌써 새 시즌을 촬영 중이다.
+2|serious|/ˈsɪriəs/|형 심각한, 진지한|Doctors warned that the disease could cause *serious* damage if it was not treated.|의사들은 그 병을 치료하지 않으면 심각한 손상을 일으킬 수 있다고 경고했다.|He had a *serious* expression on his face as he began to explain the problem.|그는 문제를 설명하기 시작하면서 진지한 표정을 지었다.
+2|session|/ˈseʃn/|명 시간, 회기|The committee will hold a special *session* on Friday to discuss the new budget.|위원회는 금요일에 새 예산을 논의하기 위한 특별 회의를 열 것이다.|Each training *session* lasts about ninety minutes and includes both theory and practice.|각 교육 시간은 약 90분이며 이론과 실습을 모두 포함한다.
+2|settle|/ˈsetl/|동 정착하다, 해결하다|After years of traveling, they decided to *settle* in a quiet village near the sea.|그들은 수년간 여행한 끝에 바닷가 근처의 조용한 마을에 정착하기로 했다.|The two companies agreed to *settle* the dispute outside court to save time and money.|두 회사는 시간과 비용을 아끼려고 법정 밖에서 분쟁을 해결하기로 합의했다.
+2|severe|/sɪˈvɪr/|형 심한, 엄한|The region suffered *severe* flooding after several days of heavy rain.|그 지역은 며칠간의 폭우 끝에 심각한 홍수 피해를 입었다.|The judge was *severe*, and the punishment he gave was much harsher than anyone had expected.|판사는 엄격했고 그가 내린 처벌은 누구의 예상보다도 훨씬 가혹했다.
+2|shade|/ʃeɪd/|명 그늘|We rested in the *shade* of a large tree to escape the afternoon heat.|우리는 오후의 더위를 피해 커다란 나무 그늘에서 쉬었다.|She painted the walls in a soft *shade* of green that made the room feel calm.|그녀는 방을 차분하게 만드는 부드러운 초록색 계열로 벽을 칠했다.
+2|shadow|/ˈʃædoʊ/|명 그림자|The tall building cast a long *shadow* over the small park beneath it.|높은 건물은 그 아래 작은 공원 위로 긴 그림자를 드리웠다.|He felt as if he was living in the *shadow* of his famous older brother.|그는 유명한 형의 그늘 아래 사는 듯한 기분이 들었다.
+2|shallow|/ˈʃæloʊ/|형 얕은|The lake is so *shallow* that children can safely walk across it in summer.|그 호수는 너무 얕아서 여름에는 아이들이 안전하게 걸어서 건널 수 있다.|He made a *shallow* argument that ignored most of the important facts.|그는 중요한 사실 대부분을 무시한 피상적인 주장을 폈다.
+2|shame|/ʃeɪm/|명 수치심, 아쉬운 일|It is a *shame* that the festival was canceled, because everyone was looking forward to it.|모두가 기대하던 축제가 취소되다니 안타까운 일이다.|She felt great *shame* when she realized that she had hurt her friend's feelings.|그녀는 친구의 마음을 상하게 했다는 것을 깨닫고 큰 수치심을 느꼈다.
+2|shape|/ʃeɪp/|명 모양;동 형성하다|The clouds took the *shape* of a giant bird as the sun began to set.|해가 지기 시작하자 구름이 거대한 새의 모양을 이루었다.|Early experiences can *shape* the way children see themselves for the rest of their lives.|어릴 적 경험은 아이들이 평생 자신을 바라보는 방식을 형성할 수 있다.
+2|share|/ʃer/|동 나누다, 공유하다|Please *share* your ideas with the group so that everyone can learn from them.|모두가 배울 수 있도록 여러분의 생각을 모둠과 나눠 주세요.|The two brothers *share* a room, and they have to agree on how to arrange it.|두 형제는 방을 같이 쓰기 때문에 방을 어떻게 꾸밀지 합의해야 한다.
+2|sharp|/ʃɑːrp/|형 날카로운, 급격한|Be careful with the knife; it is very *sharp* and can cut you easily.|칼을 조심하세요. 아주 날카로워서 쉽게 베일 수 있어요.|There has been a *sharp* rise in the price of oil over the past few weeks.|지난 몇 주 사이 유가가 급격히 올랐다.
+2|shelf|/ʃelf/|명 선반|She placed the heavy dictionary on the top *shelf* where the children couldn't reach.|그녀는 무거운 사전을 아이들의 손이 닿지 않는 맨 위 선반에 올려놓았다.|The store has long *shelves* filled with spices from all over the world.|그 가게에는 전 세계에서 온 향신료로 가득 찬 긴 선반이 있다.
+2|shift|/ʃɪft/|동 이동하다;명 교대|The wind began to *shift* to the north, bringing colder air to the region.|바람이 북쪽으로 바뀌기 시작하면서 그 지역에 더 찬 공기가 들어왔다.|The nurse works the night *shift* and sleeps during the day.|그 간호사는 야간 근무를 하고 낮에는 잔다.
+2|shock|/ʃɑːk/|명 충격;동 충격을 주다|The news of the accident came as a great *shock* to the whole community.|사고 소식은 지역 사회 전체에 큰 충격으로 다가왔다.|The result *shocked* everyone, because nobody had expected the underdog to win.|아무도 약체 팀이 이기리라 예상하지 못해서 그 결과는 모두에게 충격을 주었다.
+2|shortage|/ˈʃɔːrtɪdʒ/|명 부족|The country is facing a severe *shortage* of doctors in its rural areas.|그 나라는 농촌 지역에서 심각한 의사 부족을 겪고 있다.|A *shortage* of rain over the summer reduced the harvest by almost a third.|여름 동안의 강우 부족으로 수확량이 거의 3분의 1 줄었다.
+2|shrink|/ʃrɪŋk/|동 줄어들다|The wool sweater began to *shrink* after I washed it in hot water.|그 털 스웨터는 내가 뜨거운 물에 빤 뒤 줄어들기 시작했다.|The city's population has *shrunk* as more people move to the capital for work.|더 많은 사람이 일자리를 찾아 수도로 옮기면서 그 도시의 인구가 줄었다.
+2|sibling|/ˈsɪblɪŋ/|명 형제자매|She has three *siblings*, so the house was always noisy when she was growing up.|그녀는 형제자매가 셋이라서 자랄 때 집이 늘 시끌벅적했다.|Research suggests that the oldest *sibling* often takes on more responsibility in the family.|연구에 따르면 맏이는 가정에서 더 많은 책임을 맡는 경우가 많다.
+2|sigh|/saɪ/|동 한숨 쉬다|She let out a long *sigh* of relief when she saw that her exam was easier than expected.|그녀는 시험이 예상보다 쉬운 것을 보고 길게 안도의 한숨을 내쉬었다.|He *sighed* and closed the book, realizing that he would never finish it in time.|그는 제때 끝내지 못하겠다는 것을 깨닫고 한숨을 쉬며 책을 덮었다.
+2|sight|/saɪt/|명 시력, 광경|The first *sight* of the ocean after the long journey made the children cheer.|긴 여행 끝에 처음 바다가 눈에 들어오자 아이들은 환호했다.|His *sight* has become so poor that he can no longer read without strong glasses.|그의 시력이 너무 나빠져서 이제는 두꺼운 안경 없이는 읽을 수 없다.
+2|sign|/saɪn/|명 표지판, 징후;동 서명하다|A road *sign* warned drivers that the bridge ahead was closed for repairs.|도로 표지판이 운전자들에게 앞쪽 다리가 수리로 폐쇄되었음을 알렸다.|Please *sign* your name at the bottom of the form to confirm that you agree.|동의함을 확인하려면 양식 맨 아래에 서명해 주세요.
+2|signal|/ˈsɪɡnəl/|명 신호|The driver gave a *signal* with his hand before turning left at the intersection.|운전자는 교차로에서 좌회전하기 전에 손으로 신호를 보냈다.|The mobile *signal* is very weak in the mountains, so it is hard to make calls.|산에서는 휴대전화 신호가 매우 약해서 통화하기가 어렵다.
+2|silent|/ˈsaɪlənt/|형 조용한|The audience remained *silent* as the pianist played the final, quiet notes of the piece.|청중은 피아니스트가 곡의 마지막 고요한 음을 연주하는 동안 침묵을 지켰다.|The old man stayed *silent* during the argument, listening to both sides carefully.|노인은 논쟁 내내 침묵을 지키며 양쪽 이야기를 주의 깊게 들었다.
+2|similar|/ˈsɪmələr/|형 비슷한|The two paintings are so *similar* that experts could hardly tell them apart.|두 그림이 너무 비슷해서 전문가도 구별하기 힘들었다.|My sister and I have *similar* tastes in music, so we often go to concerts together.|언니와 나는 음악 취향이 비슷해서 자주 함께 콘서트에 간다.
+2|simple|/ˈsɪmpl/|형 간단한|The instructions were so *simple* that even a child could follow them without help.|설명서가 너무 간단해서 아이도 도움 없이 따라 할 수 있었다.|She chose a *simple* design for the invitation, with just a few words and one picture.|그녀는 초대장에 몇 마디 말과 그림 하나만 들어간 단순한 디자인을 골랐다.
+2|simultaneous|/ˌsaɪmlˈteɪniəs/|형 동시의|The *simultaneous* explosions in two different cities suggested that the attacks had been planned.|두 도시에서 동시에 일어난 폭발은 공격이 계획된 것임을 시사했다.|The conference offers *simultaneous* translation into five languages for the delegates.|그 회의는 대표단에게 다섯 개 언어로의 동시 통역을 제공한다.
+2|sincere|/sɪnˈsɪr/|형 진심의|Please accept my *sincere* apologies for the inconvenience that we caused you.|저희가 끼친 불편에 대해 진심 어린 사과를 받아 주십시오.|She gave a *sincere* answer, and everyone could tell that she was telling the truth.|그녀는 진심 어린 대답을 했고 모두가 그녀가 진실을 말하고 있다는 것을 알 수 있었다.
+2|site|/saɪt/|명 장소, 현장|The archaeologists spent the summer excavating the *site* of an ancient Roman village.|고고학자들은 여름 내내 고대 로마 마을의 유적지를 발굴했다.|The construction *site* was surrounded by a high fence to keep passers-by safe.|공사 현장은 행인을 보호하기 위해 높은 울타리로 둘러싸여 있었다.
+2|situation|/ˌsɪtʃuˈeɪʃn/|명 상황|The *situation* became more serious when the water level in the river began to rise.|강의 수위가 오르기 시작하면서 상황은 더 심각해졌다.|It is difficult to know what to do in such an unexpected *situation*.|그렇게 예상치 못한 상황에서는 무엇을 해야 할지 알기 어렵다.
+2|skeleton|/ˈskelɪtn/|명 해골, 골격|Scientists reconstructed the *skeleton* of the dinosaur from hundreds of fossilized bones.|과학자들은 수백 개의 화석 뼈로 공룡의 골격을 복원했다.|The *skeleton* of the building was complete, but the walls and roof had not yet been added.|건물의 골조는 완성되었지만 벽과 지붕은 아직 올라가지 않았다.
+2|skeptical|/ˈskeptɪkl/|형 회의적인|Many scientists remain *skeptical* about the claim, and they are asking for more evidence.|많은 과학자가 그 주장에 대해 여전히 회의적이며 더 많은 증거를 요구하고 있다.|She was *skeptical* of the advertisement, which promised results that seemed too good to be true.|그녀는 믿기 어려울 만큼 좋은 결과를 약속하는 그 광고를 의심했다.
+2|slave|/sleɪv/|명 노예|Thousands of people were taken from their homes and forced to work as *slaves* on the plantations.|수천 명이 집에서 끌려가 농장에서 노예로 일하도록 강요받았다.|The museum tells the story of a *slave* who escaped and became a famous writer.|그 박물관은 탈출하여 유명한 작가가 된 한 노예의 이야기를 들려준다.
+2|slender|/ˈslendər/|형 날씬한|The model was tall and *slender*, with long arms and a graceful way of walking.|그 모델은 키가 크고 날씬했으며 팔이 길고 걸음걸이가 우아했다.|The team won the match by a *slender* margin of just one point.|팀은 단 1점이라는 근소한 차이로 경기에서 이겼다.
+2|slice|/slaɪs/|명 조각, 한 조각|She cut the cake into eight equal *slices* and handed one to each guest.|그녀는 케이크를 똑같은 여덟 조각으로 잘라 손님마다 하나씩 건넸다.|A thin *slice* of lemon in the tea gives it a fresh and slightly sour taste.|차에 넣은 얇은 레몬 한 조각은 신선하고 약간 새콤한 맛을 낸다.
+2|slight|/slaɪt/|형 약간의|There was a *slight* delay because of the traffic, but the event started on time.|교통 때문에 약간의 지연이 있었지만 행사는 제시간에 시작되었다.|He felt a *slight* pain in his knee after the long run, but it soon disappeared.|그는 긴 달리기 뒤에 무릎에 약간의 통증을 느꼈지만 곧 사라졌다.
+2|slip|/slɪp/|동 미끄러지다|She *slipped* on the wet floor and fell, but fortunately she was not hurt.|그녀는 젖은 바닥에서 미끄러져 넘어졌지만 다행히 다치지 않았다.|The letter must have *slipped* out of the envelope while it was being carried.|편지는 운반되는 동안 봉투에서 빠져나갔음이 틀림없다.
+2|slogan|/ˈsloʊɡən/|명 구호, 표어|The company's *slogan* is short and easy to remember, and it appears on all its posters.|그 회사의 구호는 짧고 기억하기 쉬우며 모든 포스터에 들어간다.|The protesters chanted a *slogan* demanding cleaner air and safer streets.|시위대는 더 깨끗한 공기와 더 안전한 거리를 요구하는 구호를 외쳤다.
+2|smart|/smɑːrt/|형 똑똑한, 맵시 있는|She is a *smart* student who always finds clever ways to solve difficult problems.|그녀는 어려운 문제를 푸는 영리한 방법을 늘 찾아내는 똑똑한 학생이다.|He dressed in a *smart* suit and tie for the important meeting with the investors.|그는 투자자들과의 중요한 회의를 위해 맵시 있는 정장에 넥타이를 맸다.
+2|smooth|/smuːð/|형 매끄러운|The surface of the table was perfectly *smooth* after it had been sanded and polished.|탁자 표면은 사포질하고 광을 낸 뒤라 완벽하게 매끄러웠다.|Thanks to careful planning, the move to the new office went *smooth*ly.|세심한 계획 덕분에 새 사무실로의 이전은 순조롭게 진행되었다.
+2|snap|/snæp/|동 뚝 부러지다;동 딱 소리 내다|The dry branch *snapped* in two as soon as he stepped on it.|마른 나뭇가지는 그가 밟자마자 뚝 부러졌다.|The photographer *snapped* her fingers to get the child's attention before taking the picture.|사진작가는 사진을 찍기 전에 아이의 시선을 끌려고 손가락으로 딱 소리를 냈다.
+2|soar|/sɔːr/|동 치솟다|The price of gold *soared* to a record high as investors rushed to buy it.|투자자들이 앞다투어 사들이면서 금값이 사상 최고치로 치솟았다.|The eagle *soared* above the valley, riding the warm air that rose from the ground.|독수리는 땅에서 올라오는 따뜻한 공기를 타고 계곡 위를 높이 날았다.
+2|sober|/ˈsoʊbər/|형 술 취하지 않은, 진지한|He had to stay *sober* because he was driving everyone home after the party.|그는 파티가 끝나고 모두를 집까지 태워다 줘야 해서 술을 마시지 않고 있어야 했다.|The president gave a *sober* speech, warning the nation of the difficult months ahead.|대통령은 앞으로 닥칠 힘든 몇 달을 경고하며 진중한 연설을 했다.
+2|social|/ˈsoʊʃl/|형 사회의, 사교적인|Humans are *social* animals who need friendships and community in order to be happy.|인간은 행복하려면 우정과 공동체가 필요한 사회적 동물이다.|The government is investing in programs to tackle serious *social* problems such as poverty.|정부는 빈곤 같은 심각한 사회 문제를 해결하기 위한 프로그램에 투자하고 있다.
+2|society|/səˈsaɪəti/|명 사회|Education plays an important role in building a fair and peaceful *society*.|교육은 공정하고 평화로운 사회를 만드는 데 중요한 역할을 한다.|The historical *society* organizes tours of the old town every Saturday.|그 역사 협회는 매주 토요일 구시가지 투어를 연다.
+2|software|/ˈsɔːftwer/|명 소프트웨어|The company develops *software* that helps teachers keep track of their students' progress.|그 회사는 교사가 학생의 진도를 파악하도록 돕는 소프트웨어를 개발한다.|You need to update the *software* regularly to protect your computer from viruses.|바이러스로부터 컴퓨터를 보호하려면 소프트웨어를 정기적으로 업데이트해야 한다.
+2|soil|/sɔɪl/|명 흙, 토양|Farmers in the valley enjoy rich *soil* that makes it easy to grow vegetables and grain.|계곡의 농부들은 채소와 곡물을 쉽게 기를 수 있는 비옥한 토양의 혜택을 누린다.|Heavy rain can wash away the *soil* from steep hillsides and cause landslides.|폭우는 가파른 산비탈의 흙을 쓸어 내려 산사태를 일으킬 수 있다.
+2|solar|/ˈsoʊlər/|형 태양의|Many homes now use *solar* panels to produce their own electricity from sunlight.|이제 많은 가정이 햇빛으로 직접 전기를 만들어 내려고 태양광 패널을 쓴다.|The planets in our *solar* system travel around the sun in nearly circular paths.|우리 태양계의 행성들은 거의 원에 가까운 궤도로 태양 주위를 돈다.
+2|soldier|/ˈsoʊldʒər/|명 군인|The *soldier* returned home after two years abroad and was greeted by his whole family.|그 군인은 해외에서 2년을 보낸 뒤 귀향해 온 가족의 환영을 받았다.|Thousands of *soldiers* marched through the capital in the national day parade.|수천 명의 군인이 국경일 행진에서 수도를 가로질러 행진했다.
+2|sole|/soʊl/|형 유일한|The *sole* survivor of the shipwreck was a young sailor who clung to a piece of wood.|난파선의 유일한 생존자는 나무 조각에 매달려 있던 젊은 선원이었다.|She was the *sole* person in the office who knew how to repair the old machine.|그녀는 사무실에서 그 낡은 기계를 수리할 줄 아는 유일한 사람이었다.
+2|solid|/ˈsɑːlɪd/|형 고체의, 단단한|Water becomes *solid* when it freezes, forming ice that can be as hard as stone.|물은 얼면 고체가 되어 돌처럼 단단한 얼음을 이룬다.|The house was built on *solid* rock, so it survived the earthquake without any damage.|그 집은 단단한 암반 위에 지어져서 지진에도 아무 피해 없이 버텼다.
+2|solution|/səˈluːʃn/|명 해결책, 용액|Engineers are working to find a *solution* to the city's growing traffic problem.|기술자들은 도시의 커져 가는 교통 문제에 대한 해결책을 찾으려고 노력하고 있다.|Add the powder to the water and stir until it forms a clear *solution*.|가루를 물에 넣고 맑은 용액이 될 때까지 저으세요.
+2|solve|/sɑːlv/|동 해결하다|It took the team several weeks to *solve* the problem that was causing the system to crash.|팀이 시스템을 다운시키던 문제를 해결하는 데 몇 주가 걸렸다.|The detective finally *solved* the mystery by noticing a tiny detail that everyone else missed.|형사는 다른 모두가 놓친 사소한 단서를 알아채 마침내 수수께끼를 풀었다.
+2|somewhat|/ˈsʌmwʌt/|부 다소|The new design is *somewhat* different from the earlier one, but the main idea is the same.|새 디자인은 이전 것과 다소 다르지만 핵심 아이디어는 같다.|She was *somewhat* nervous before the interview, but she answered every question well.|그녀는 면접 전에 다소 긴장했지만 모든 질문에 잘 대답했다.
+2|sophisticated|/səˈfɪstɪkeɪtɪd/|형 세련된, 정교한|The airport uses a *sophisticated* security system that can detect even tiny metal objects.|그 공항은 아주 작은 금속 물체까지 감지하는 정교한 보안 시스템을 사용한다.|She has *sophisticated* taste in fashion and always looks elegant without trying too hard.|그녀는 세련된 패션 감각을 지녀서 애쓰지 않아도 늘 우아해 보인다.
+2|source|/sɔːrs/|명 원천, 출처|The river is the main *source* of drinking water for millions of people in the region.|그 강은 지역 수백만 명에게 식수를 공급하는 주된 원천이다.|Always check the *source* of the information before you share it with others.|다른 사람과 공유하기 전에 정보의 출처를 항상 확인하세요.
+2|sovereign|/ˈsɑːvrɪn/|형 주권을 가진|The country became a *sovereign* state after gaining independence in 1965.|그 나라는 1965년에 독립하면서 주권 국가가 되었다.|Each *sovereign* nation has the right to make its own laws without outside interference.|각 주권 국가는 외부의 간섭 없이 스스로 법을 제정할 권리가 있다.
+2|spare|/sper/|형 여분의;동 아끼다|If you have a *spare* ticket, could you let me know, because I would love to go.|여분의 표가 있으면 알려 주세요. 정말 가고 싶거든요.|The doctor tried to *spare* the family from further pain by explaining everything gently.|의사는 모든 것을 부드럽게 설명해 가족이 더 이상 고통받지 않도록 배려했다.
+2|spark|/spɑːrk/|명 불꽃;동 촉발하다|A single *spark* from the campfire set the dry grass on fire within seconds.|모닥불에서 튄 불꽃 하나가 몇 초 만에 마른 풀에 불을 붙였다.|The decision to raise taxes *sparked* protests in cities across the country.|세금을 올리기로 한 결정은 전국 도시에서 시위를 촉발했다.
+2|specialize|/ˈspeʃəlaɪz/|동 전공하다|The clinic *specializes* in treating children who have problems with their hearing.|그 병원은 청력에 문제가 있는 아이들을 치료하는 것을 전문으로 한다.|After graduating, she decided to *specialize* in environmental law.|졸업한 뒤 그녀는 환경법을 전공하기로 했다.
+2|specific|/spəˈsɪfɪk/|형 구체적인|Please give me a *specific* example so that I can understand exactly what you mean.|무슨 뜻인지 정확히 이해할 수 있도록 구체적인 예를 들어 주세요.|Each medicine is designed to treat a *specific* illness, so do not mix them up.|각 약은 특정한 병을 치료하도록 만들어졌으니 헷갈리지 마세요.
+2|specify|/ˈspesɪfaɪ/|동 명시하다|The contract *specifies* that the work must be finished by the end of the month.|계약서에는 작업이 월말까지 끝나야 한다고 명시되어 있다.|Please *specify* the date and time at which you would like to receive the delivery.|배송을 받고 싶은 날짜와 시간을 명시해 주세요.
+2|spectacular|/spekˈtækjələr/|형 장관인|The view from the top of the tower was *spectacular*, with the whole city spread below.|탑 꼭대기에서 보는 전망은 도시 전체가 발아래 펼쳐져 장관이었다.|The fireworks display was *spectacular* and drew applause from the huge crowd.|불꽃놀이는 장관이어서 수많은 관중의 박수를 받았다.
+2|speculate|/ˈspekjuleɪt/|동 추측하다|Experts *speculate* that the company will announce a major change in its leadership soon.|전문가들은 그 회사가 곧 경영진의 큰 변화를 발표할 것으로 추측한다.|It is pointless to *speculate* about the cause of the fire until the investigation is complete.|조사가 끝나기 전에 화재 원인을 추측하는 것은 무의미하다.
+2|sphere|/sfɪr/|명 구, 영역|The Earth is not a perfect *sphere*; it is slightly flattened at the poles.|지구는 완벽한 구가 아니라 극지방이 약간 납작하다.|The minister has great influence in the *sphere* of education and public health.|그 장관은 교육과 공중 보건 분야에서 큰 영향력을 지니고 있다.
+2|spill|/spɪl/|동 쏟다|Be careful not to *spill* the hot coffee on the keyboard of the computer.|뜨거운 커피를 컴퓨터 키보드에 쏟지 않도록 조심하세요.|Oil began to *spill* from the damaged tanker and spread across the surface of the sea.|손상된 유조선에서 기름이 새어 나와 바다 표면으로 퍼지기 시작했다.
+2|spin|/spɪn/|동 돌다, 돌리다|The dancer began to *spin* faster and faster until the audience could hardly follow her.|무용수는 점점 더 빠르게 돌기 시작해 관객이 거의 따라갈 수 없을 정도였다.|The washing machine *spins* the clothes at high speed to remove most of the water.|세탁기는 대부분의 물을 빼려고 옷을 고속으로 돌린다.
+2|spirit|/ˈspɪrɪt/|명 정신, 영혼|The team showed great *spirit* and kept fighting even though they were losing by ten points.|팀은 10점 차로 지고 있었는데도 대단한 정신력을 보이며 계속 싸웠다.|Many people believe that the *spirit* lives on after the body dies.|많은 사람이 몸이 죽은 뒤에도 영혼이 살아남는다고 믿는다.
+2|split|/splɪt/|동 쪼개다, 나누다|The group *split* into two teams so that more of the area could be searched.|일행은 더 넓은 지역을 수색할 수 있도록 두 팀으로 나뉘었다.|The old tree *split* down the middle after being struck by lightning.|그 고목은 번개를 맞고 한가운데가 갈라졌다.
+2|spoil|/spɔɪl/|동 망치다, 상하다|Don't let one bad experience *spoil* your enjoyment of the entire trip.|한 번의 나쁜 경험이 여행 전체의 즐거움을 망치게 하지 마세요.|The milk will *spoil* quickly if you leave it outside the refrigerator in this heat.|이런 더위에 우유를 냉장고 밖에 두면 금방 상한다.
+2|spokesperson|/ˈspoʊkspɜːrsn/|명 대변인|The company's *spokesperson* told reporters that the product would be withdrawn.|회사 대변인은 기자들에게 그 제품이 회수될 것이라고 밝혔다.|A government *spokesperson* denied the rumors and said that no decision had been made.|정부 대변인은 소문을 부인하며 어떤 결정도 내려지지 않았다고 말했다.
+2|sponsor|/ˈspɑːnsər/|명 후원자;동 후원하다|A local bank agreed to *sponsor* the marathon and provide water for all the runners.|지역 은행이 마라톤을 후원하고 모든 주자에게 물을 제공하기로 했다.|The festival could not have taken place without the generous help of its *sponsors*.|후원자들의 넉넉한 도움 없이는 축제가 열릴 수 없었을 것이다.
+2|spread|/spred/|동 퍼지다, 펴다|The fire *spread* quickly through the dry forest, driven by strong winds.|불은 강한 바람을 타고 메마른 숲으로 빠르게 번졌다.|She *spread* a map out on the table and traced the route with her finger.|그녀는 탁자 위에 지도를 펼치고 손가락으로 경로를 따라갔다.
+2|stable|/ˈsteɪbl/|형 안정된|The patient's condition is now *stable*, and he is expected to leave hospital soon.|환자의 상태는 이제 안정되었고 곧 퇴원할 것으로 예상된다.|A *stable* government is essential if the country wants to attract foreign investment.|나라가 외국인 투자를 유치하려면 안정된 정부가 필수적이다.
+2|staff|/stæf/|명 직원|The hotel *staff* were friendly and helpful, and they remembered our names.|호텔 직원들은 친절하고 도움이 되었으며 우리 이름까지 기억했다.|The school has increased its teaching *staff* to reduce the size of each class.|학교는 학급당 인원을 줄이려고 교직원을 늘렸다.
+2|stage|/steɪdʒ/|명 무대, 단계|The singer walked onto the *stage* and the audience burst into applause.|가수가 무대에 오르자 관객은 박수를 터뜨렸다.|The project is still at an early *stage*, so many details have yet to be decided.|그 프로젝트는 아직 초기 단계라서 많은 세부 사항이 결정되지 않았다.
+2|stain|/steɪn/|명 얼룩|He spilled red wine on the white tablecloth and left a large *stain* that wouldn't wash out.|그는 흰 식탁보에 적포도주를 쏟아 지워지지 않는 큰 얼룩을 남겼다.|The old wooden floor was *stained* by years of water damage.|그 낡은 나무 바닥은 수년간의 물 피해로 얼룩져 있었다.
+2|stake|/steɪk/|명 이해관계, 내기|Several people have a *stake* in the success of the project, including the investors.|투자자를 비롯해 여러 사람이 그 프로젝트의 성공에 이해관계를 갖고 있다.|The future of the company is at *stake* if it fails to win this important contract.|이 중요한 계약을 따내지 못하면 회사의 미래가 위태롭다.
+2|standard|/ˈstændərd/|명 기준, 표준|The school has very high *standards* for the work that its students produce.|그 학교는 학생들이 내놓는 작업물에 매우 높은 기준을 두고 있다.|Wearing a seat belt is a *standard* safety rule that applies to every car.|안전벨트 착용은 모든 자동차에 적용되는 표준 안전 규칙이다.

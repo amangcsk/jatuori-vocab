@@ -1,105 +1,105 @@
-2|pace|/peɪs/|명 속도, 걸음|She walked at a slow *pace*.|그녀는 느린 속도로 걸었다.|Study at your own *pace*.|자기 속도에 맞춰 공부해라.
-2|package|/ˈpækɪdʒ/|명 소포, 포장|A *package* arrived this morning.|오늘 아침 소포가 도착했다.|The *package* contains three books.|그 꾸러미에는 책 세 권이 들어 있다.
-2|panic|/ˈpænɪk/|명 공황;동 당황하다|There was *panic* in the crowd.|군중 속에 공황이 일었다.|Don't *panic*; stay calm.|당황하지 말고 침착해라.
-2|parallel|/ˈpærəlel/|형 평행한|The two roads run *parallel* to each other.|두 도로는 서로 평행하게 달린다.|Draw two *parallel* lines.|평행선 두 개를 그려라.
-2|participate|/pɑːrˈtɪsɪpeɪt/|동 참가하다|Everyone can *participate* in the game.|누구나 그 게임에 참가할 수 있다.|She *participated* in a school play.|그녀는 학교 연극에 참여했다.
-2|particle|/ˈpɑːrtɪkl/|명 입자|Dust *particles* floated in the air.|먼지 입자들이 공기 중에 떠다녔다.|Atoms are made of tiny *particles*.|원자는 작은 입자로 이루어져 있다.
-2|particular|/pərˈtɪkjələr/|형 특정한, 까다로운|Is there a *particular* book you want?|특별히 원하는 책이 있니?|He is *particular* about food.|그는 음식에 까다롭다.
-2|partner|/ˈpɑːrtnər/|명 짝, 동업자|Find a *partner* for the dance.|춤출 짝을 찾아라.|She is my business *partner*.|그녀는 내 사업 파트너다.
-2|passion|/ˈpæʃn/|명 열정|He has a *passion* for music.|그는 음악에 열정이 있다.|She follows her *passion*.|그녀는 자신의 열정을 좇는다.
-2|passive|/ˈpæsɪv/|형 수동적인|He is too *passive* in class.|그는 수업에서 너무 수동적이다.|Don't be a *passive* observer.|수동적인 관찰자가 되지 마라.
-2|patch|/pætʃ/|명 헝겊 조각;동 덧대다|She sewed a *patch* on her jeans.|그녀는 청바지에 헝겊을 덧댔다.|A *patch* of ice formed on the road.|도로에 얼음이 군데군데 얼었다.
-2|path|/pæθ/|명 길, 경로|A narrow *path* led to the lake.|좁은 길이 호수로 이어졌다.|She chose a different career *path*.|그녀는 다른 진로를 택했다.
-2|patient|/ˈpeɪʃnt/|형 참을성 있는;명 환자|Be *patient* with young children.|어린아이들에게는 참을성을 가져라.|The doctor saw ten *patients* today.|의사는 오늘 환자 열 명을 보았다.
-2|pattern|/ˈpætərn/|명 무늬, 패턴|The dress has a flower *pattern*.|그 드레스에는 꽃무늬가 있다.|Scientists look for *patterns* in data.|과학자들은 자료에서 패턴을 찾는다.
-2|pause|/pɔːz/|동 잠시 멈추다;명 멈춤|He *paused* before answering.|그는 대답하기 전에 잠시 멈췄다.|There was a long *pause*.|긴 침묵이 있었다.
-2|peak|/piːk/|명 정상, 절정|They reached the *peak* of the mountain.|그들은 산 정상에 도달했다.|Sales were at their *peak* in July.|판매는 7월에 절정이었다.
-2|peculiar|/pɪˈkjuːliər/|형 이상한, 특유한|There was a *peculiar* smell in the room.|방에서 이상한 냄새가 났다.|The habit is *peculiar* to cats.|그 습성은 고양이 특유의 것이다.
-2|pedestrian|/pəˈdestriən/|명 보행자|*Pedestrians* must use the crosswalk.|보행자는 횡단보도를 이용해야 한다.|The street is for *pedestrians* only.|그 거리는 보행자 전용이다.
-2|penalty|/ˈpenlti/|명 처벌, 벌금|The *penalty* for speeding is high.|과속에 대한 벌금은 높다.|He scored from a *penalty* kick.|그는 페널티킥으로 득점했다.
-2|perceive|/pərˈsiːv/|동 인식하다, 감지하다|She *perceived* a change in his mood.|그녀는 그의 기분이 변한 것을 알아챘다.|Animals *perceive* danger quickly.|동물은 위험을 빠르게 감지한다.
-2|percentage|/pərˈsentɪdʒ/|명 백분율|A high *percentage* of students passed.|높은 비율의 학생이 합격했다.|What *percentage* of the class is here?|반에서 몇 퍼센트가 여기 있니?
-2|perform|/pərˈfɔːrm/|동 수행하다, 공연하다|The band will *perform* tonight.|밴드는 오늘 밤 공연할 것이다.|The machine *performs* many tasks.|그 기계는 여러 작업을 수행한다.
-2|performance|/pərˈfɔːrməns/|명 공연, 성과|The *performance* starts at eight.|공연은 여덟 시에 시작한다.|His school *performance* improved.|그의 학업 성취가 나아졌다.
-2|period|/ˈpɪriəd/|명 기간, 시기|The class lasts for a *period* of fifty minutes.|수업은 50분간 진행된다.|It was a difficult *period* in her life.|그것은 그녀 인생의 힘든 시기였다.
-2|permanent|/ˈpɜːrmənənt/|형 영구적인|She found a *permanent* job.|그녀는 정규직을 구했다.|The damage is *permanent*.|그 손상은 영구적이다.
-2|permit|/pərˈmɪt/|동 허락하다;명 허가증|The school doesn't *permit* phones in class.|학교는 수업 중 휴대폰을 허용하지 않는다.|You need a *permit* to park here.|여기에 주차하려면 허가증이 필요하다.
-2|persist|/pərˈsɪst/|동 지속하다, 끈질기게 계속하다|If the pain *persists*, see a doctor.|통증이 계속되면 의사에게 가라.|She *persisted* in her studies.|그녀는 끈질기게 공부를 계속했다.
-2|personal|/ˈpɜːrsənl/|형 개인적인|This is my *personal* opinion.|이것은 내 개인적인 의견이다.|Please don't ask *personal* questions.|사적인 질문은 하지 마세요.
-2|personality|/ˌpɜːrsəˈnæləti/|명 성격, 개성|She has a bright *personality*.|그녀는 성격이 밝다.|The twins have different *personalities*.|쌍둥이는 성격이 서로 다르다.
-2|persuade|/pərˈsweɪd/|동 설득하다|He *persuaded* me to join the club.|그는 내가 동아리에 가입하도록 설득했다.|I couldn't *persuade* her to stay.|나는 그녀를 머물도록 설득하지 못했다.
-2|pharmacy|/ˈfɑːrməsi/|명 약국|Buy the medicine at the *pharmacy*.|약은 약국에서 사라.|The *pharmacy* closes at nine.|약국은 아홉 시에 닫는다.
-2|phase|/feɪz/|명 단계|The project is in its final *phase*.|프로젝트는 마지막 단계에 있다.|The moon goes through different *phases*.|달은 여러 위상을 거친다.
-2|phenomenon|/fɪˈnɑːmɪnɑːn/|명 현상|The aurora is a natural *phenomenon*.|오로라는 자연 현상이다.|It's a strange *phenomenon*.|그것은 이상한 현상이다.
-2|philosophy|/fəˈlɑːsəfi/|명 철학|He studies *philosophy* at university.|그는 대학에서 철학을 공부한다.|Her *philosophy* is to be kind.|그녀의 신조는 친절하라는 것이다.
-2|physical|/ˈfɪzɪkl/|형 신체의, 물리적인|Regular *physical* exercise is healthy.|규칙적인 운동은 건강에 좋다.|He had a *physical* check-up.|그는 신체검사를 받았다.
-2|physician|/fɪˈzɪʃn/|명 의사|The *physician* examined the patient.|의사가 환자를 진찰했다.|She works as a *physician*.|그녀는 의사로 일한다.
-2|pioneer|/ˌpaɪəˈnɪr/|명 개척자|He was a *pioneer* of space travel.|그는 우주여행의 개척자였다.|The *pioneers* crossed the plains.|개척자들은 평원을 건넜다.
-2|pity|/ˈpɪti/|명 동정, 유감|I felt *pity* for the lost dog.|나는 길 잃은 개가 불쌍했다.|It's a *pity* you can't come.|네가 못 온다니 유감이다.
-2|plain|/pleɪn/|형 단순한, 분명한|She wore a *plain* white shirt.|그녀는 무늬 없는 흰 셔츠를 입었다.|The truth is *plain* to see.|진실은 보면 분명하다.
-2|plenty|/ˈplenti/|명 풍부, 많음|We have *plenty* of time.|우리는 시간이 충분하다.|There is *plenty* of food for everyone.|모두가 먹을 음식이 충분하다.
-2|plot|/plɑːt/|명 줄거리, 음모|The *plot* of the movie is simple.|그 영화의 줄거리는 단순하다.|The police discovered a *plot*.|경찰이 음모를 발견했다.
-2|poet|/ˈpoʊɪt/|명 시인|The *poet* read her new poem.|시인은 자신의 새 시를 낭독했다.|He is a famous Korean *poet*.|그는 유명한 한국 시인이다.
-2|poison|/ˈpɔɪzn/|명 독|The snake's bite contains *poison*.|뱀에 물리면 독이 있다.|He was *poisoned* by bad food.|그는 상한 음식에 중독되었다.
-2|policy|/ˈpɑːləsi/|명 정책|The school has a new *policy* on phones.|학교는 휴대폰에 관한 새 방침이 있다.|Honesty is the best *policy*.|정직이 최선의 방책이다.
-2|polish|/ˈpɑːlɪʃ/|동 닦다|He *polished* his shoes.|그는 구두를 닦았다.|She *polished* the silver spoons.|그녀는 은수저를 닦았다.
-2|poll|/poʊl/|명 여론 조사|A *poll* shows most people agree.|여론 조사는 대부분이 동의함을 보여 준다.|They took a *poll* of the class.|그들은 반에서 투표를 했다.
-2|pollute|/pəˈluːt/|동 오염시키다|Factories *pollute* the river.|공장들이 강을 오염시킨다.|*Polluted* air is bad for health.|오염된 공기는 건강에 나쁘다.
-2|portion|/ˈpɔːrʃn/|명 일부, 1인분|He ate a large *portion* of rice.|그는 밥을 많이 먹었다.|A small *portion* of the money was saved.|돈의 일부는 저축되었다.
-2|portrait|/ˈpɔːrtrɪt/|명 초상화|The artist painted her *portrait*.|화가는 그녀의 초상화를 그렸다.|A *portrait* hangs in the hall.|복도에 초상화가 걸려 있다.
-2|pose|/poʊz/|동 자세를 취하다;동 제기하다|The children *posed* for a photo.|아이들은 사진을 찍으려고 자세를 취했다.|The storm *posed* a danger to ships.|폭풍은 배들에 위험을 안겼다.
-2|positive|/ˈpɑːzətɪv/|형 긍정적인|Try to keep a *positive* attitude.|긍정적인 태도를 유지하려 해라.|The test result was *positive*.|검사 결과는 양성이었다.
-2|possess|/pəˈzes/|동 소유하다|She *possesses* a rare talent.|그녀는 드문 재능을 지니고 있다.|He *possesses* a large library.|그는 큰 서재를 소유하고 있다.
-2|possibility|/ˌpɑːsəˈbɪləti/|명 가능성|There is a *possibility* of rain.|비가 올 가능성이 있다.|The *possibilities* are endless.|가능성은 무한하다.
-2|postpone|/poʊˈspoʊn/|동 연기하다|They *postponed* the game because of rain.|그들은 비 때문에 경기를 연기했다.|Let's *postpone* the meeting until Friday.|회의를 금요일로 미루자.
-2|potential|/pəˈtenʃl/|명 잠재력;형 잠재적인|She has great *potential* as a singer.|그녀는 가수로서 잠재력이 크다.|Pollution is a *potential* danger.|오염은 잠재적 위험이다.
-2|poverty|/ˈpɑːvərti/|명 가난|Many children live in *poverty*.|많은 어린이가 가난 속에서 산다.|The charity fights *poverty*.|그 자선 단체는 빈곤과 싸운다.
-2|practical|/ˈpræktɪkl/|형 실용적인|This is a *practical* solution.|이것은 실용적인 해결책이다.|She gave me *practical* advice.|그녀는 내게 실용적인 조언을 해 주었다.
-2|praise|/preɪz/|동 칭찬하다;명 칭찬|The teacher *praised* her hard work.|선생님은 그녀의 노력을 칭찬했다.|He received a lot of *praise*.|그는 많은 칭찬을 받았다.
-2|precise|/prɪˈsaɪs/|형 정확한|Give me the *precise* time.|정확한 시간을 알려 줘.|The instructions were very *precise*.|지침이 아주 정확했다.
-2|predict|/prɪˈdɪkt/|동 예측하다|No one can *predict* the future.|아무도 미래를 예측할 수 없다.|Scientists *predicted* heavy rain.|과학자들은 폭우를 예측했다.
-2|prefer|/prɪˈfɜːr/|동 선호하다|I *prefer* tea to coffee.|나는 커피보다 차를 선호한다.|She *prefers* to study at night.|그녀는 밤에 공부하는 것을 선호한다.
-2|prejudice|/ˈpredʒədɪs/|명 편견|We must fight *prejudice*.|우리는 편견과 싸워야 한다.|He faced *prejudice* because of his accent.|그는 억양 때문에 편견에 부딪혔다.
-2|preparation|/ˌprepəˈreɪʃn/|명 준비|*Preparation* for the exam takes time.|시험 준비는 시간이 걸린다.|They made *preparations* for the party.|그들은 파티를 준비했다.
-2|prescribe|/prɪˈskraɪb/|동 처방하다|The doctor *prescribed* some medicine.|의사는 약을 처방했다.|He was *prescribed* rest for a week.|그는 일주일 휴식을 처방받았다.
-2|presence|/ˈprezns/|명 존재, 참석|Your *presence* is requested at the meeting.|회의에 참석해 주시기 바랍니다.|I felt a strange *presence* in the room.|나는 방에서 이상한 기운을 느꼈다.
-2|preserve|/prɪˈzɜːrv/|동 보존하다|We must *preserve* old buildings.|우리는 오래된 건물을 보존해야 한다.|Salt can *preserve* fish.|소금은 생선을 보존할 수 있다.
-2|president|/ˈprezɪdənt/|명 대통령, 회장|The *president* gave a speech.|대통령이 연설을 했다.|She is the *president* of the club.|그녀는 동아리 회장이다.
-2|pressure|/ˈpreʃər/|명 압력, 부담|Students feel *pressure* before exams.|학생들은 시험 전에 부담을 느낀다.|Blood *pressure* is important to check.|혈압은 확인하는 것이 중요하다.
-2|pretend|/prɪˈtend/|동 ~인 척하다|The children *pretended* to be pirates.|아이들은 해적인 척했다.|Don't *pretend* you didn't hear me.|못 들은 척하지 마.
-2|prevail|/prɪˈveɪl/|동 우세하다, 널리 퍼지다|Peace *prevailed* in the end.|결국 평화가 승리했다.|Cold weather *prevails* in winter.|겨울에는 추운 날씨가 지배적이다.
-2|prevent|/prɪˈvent/|동 막다, 예방하다|Vaccines *prevent* diseases.|백신은 질병을 예방한다.|The rain *prevented* us from going out.|비 때문에 우리는 외출하지 못했다.
-2|pride|/praɪd/|명 자부심|She takes *pride* in her work.|그녀는 자기 일에 자부심을 느낀다.|He felt *pride* at his son's success.|그는 아들의 성공에 자랑스러움을 느꼈다.
-2|primary|/ˈpraɪmeri/|형 주요한, 초등의|Her *primary* goal is to pass the test.|그녀의 주된 목표는 시험 합격이다.|He teaches at a *primary* school.|그는 초등학교에서 가르친다.
-2|prime|/praɪm/|형 주요한, 최고의|He is in his *prime*.|그는 전성기에 있다.|Seven is a *prime* number.|7은 소수다.
-2|principal|/ˈprɪnsəpl/|명 교장;형 주된|The *principal* welcomed the new students.|교장 선생님이 신입생들을 환영했다.|Rice is the *principal* food here.|이곳의 주식은 쌀이다.
-2|principle|/ˈprɪnsəpl/|명 원칙|He lives by strict *principles*.|그는 엄격한 원칙에 따라 산다.|The *principle* of the machine is simple.|그 기계의 원리는 간단하다.
-2|print|/prɪnt/|동 인쇄하다|Please *print* two copies.|두 부를 인쇄해 주세요.|The book was *printed* in 1990.|그 책은 1990년에 인쇄되었다.
-2|priority|/praɪˈɔːrəti/|명 우선순위|Safety is our top *priority*.|안전이 우리의 최우선 과제다.|Set your *priorities* first.|먼저 우선순위를 정해라.
-2|privacy|/ˈpraɪvəsi/|명 사생활|Everyone has a right to *privacy*.|모든 사람은 사생활을 보호받을 권리가 있다.|I need some *privacy*.|나는 혼자만의 공간이 필요하다.
-2|private|/ˈpraɪvət/|형 사적인, 개인의|This is a *private* conversation.|이것은 사적인 대화다.|He has a *private* room.|그는 개인실을 쓴다.
-2|privilege|/ˈprɪvəlɪdʒ/|명 특권|Education is a *privilege* for many.|교육은 많은 사람에게 특권이다.|It was a *privilege* to meet him.|그를 만난 것은 영광이었다.
-2|probable|/ˈprɑːbəbl/|형 있을 법한|It is *probable* that it will rain.|비가 올 가능성이 높다.|The *probable* cause is a short circuit.|있을 법한 원인은 합선이다.
-2|procedure|/prəˈsiːdʒər/|명 절차|Follow the safety *procedure*.|안전 절차를 따르세요.|The doctor explained the *procedure*.|의사는 시술 과정을 설명했다.
-2|proceed|/prəˈsiːd/|동 진행하다|Please *proceed* to gate five.|5번 게이트로 가 주세요.|The meeting *proceeded* as planned.|회의는 계획대로 진행되었다.
-2|process|/ˈprɑːses/|명 과정;동 처리하다|Learning is a slow *process*.|배움은 느린 과정이다.|The machine *processes* the data.|그 기계가 데이터를 처리한다.
-2|produce|/prəˈduːs/|동 생산하다|The farm *produces* milk and eggs.|그 농장은 우유와 달걀을 생산한다.|Plants *produce* oxygen.|식물은 산소를 만들어 낸다.
-2|profession|/prəˈfeʃn/|명 직업, 전문직|Teaching is a noble *profession*.|가르치는 일은 고귀한 직업이다.|What is your *profession*?|직업이 무엇입니까?
-2|professional|/prəˈfeʃnəl/|형 전문적인;명 전문가|She is a *professional* dancer.|그녀는 전문 무용수다.|Ask a *professional* for help.|전문가에게 도움을 청해라.
-2|profile|/ˈproʊfaɪl/|명 옆모습, 프로필|He wrote a short *profile* of himself.|그는 자신의 간단한 프로필을 썼다.|The coin shows the king's *profile*.|동전에는 왕의 옆얼굴이 새겨져 있다.
-2|profit|/ˈprɑːfɪt/|명 이익|The shop made a good *profit*.|그 가게는 좋은 이익을 냈다.|The *profit* was shared among workers.|이익은 직원들에게 나누어졌다.
-2|profound|/prəˈfaʊnd/|형 깊은, 심오한|The film had a *profound* effect on him.|그 영화는 그에게 깊은 영향을 주었다.|She asked a *profound* question.|그녀는 심오한 질문을 했다.
-2|progress|/ˈprɑːɡres/|명 진전, 발전|You are making good *progress*.|너는 잘 발전하고 있다.|Work is in *progress*.|작업이 진행 중이다.
-2|prohibit|/proʊˈhɪbɪt/|동 금지하다|Smoking is *prohibited* here.|이곳에서는 흡연이 금지되어 있다.|The law *prohibits* littering.|법은 쓰레기 투기를 금지한다.
-2|project|/ˈprɑːdʒekt/|명 프로젝트, 과제|We have a science *project* due Friday.|우리는 금요일까지 과학 과제가 있다.|The *project* took a year to finish.|그 프로젝트는 끝내는 데 1년이 걸렸다.
-2|prominent|/ˈprɑːmɪnənt/|형 저명한, 두드러진|He is a *prominent* scientist.|그는 저명한 과학자다.|A *prominent* tower stands in the city.|두드러진 탑이 도시에 서 있다.
-2|promote|/prəˈmoʊt/|동 촉진하다, 승진시키다|The campaign *promotes* healthy eating.|그 캠페인은 건강한 식사를 장려한다.|She was *promoted* to manager.|그녀는 관리자로 승진했다.
-2|prompt|/prɑːmpt/|형 신속한;동 유발하다|Thank you for your *prompt* reply.|신속한 답변 감사합니다.|The news *prompted* her to call him.|그 소식에 그녀는 그에게 전화했다.
-2|proof|/pruːf/|명 증거|Do you have *proof* of your age?|나이를 증명할 수 있나요?|The photo is *proof* that he was there.|그 사진은 그가 거기 있었다는 증거다.
-2|proper|/ˈprɑːpər/|형 적절한|Use the *proper* tool for the job.|그 일에는 적절한 도구를 써라.|Wear *proper* shoes for hiking.|등산에는 알맞은 신발을 신어라.
-2|property|/ˈprɑːpərti/|명 재산, 부동산|The family owns a lot of *property*.|그 가족은 재산이 많다.|Private *property*: keep out.|사유지: 출입 금지.
-2|proportion|/prəˈpɔːrʃn/|명 비율|A large *proportion* of the class is absent.|반의 많은 비율이 결석했다.|The *proportion* of girls to boys is equal.|여학생과 남학생의 비율이 같다.
-2|proposal|/prəˈpoʊzl/|명 제안|The committee accepted the *proposal*.|위원회는 그 제안을 받아들였다.|She made a *proposal* for a new club.|그녀는 새 동아리를 제안했다.
-2|propose|/prəˈpoʊz/|동 제안하다|I *propose* that we meet on Monday.|월요일에 만나기를 제안합니다.|He *proposed* a new plan.|그는 새 계획을 제안했다.
-2|prospect|/ˈprɑːspekt/|명 전망, 가능성|The *prospect* of a trip excited us.|여행에 대한 기대가 우리를 설레게 했다.|The job has good *prospects*.|그 직업은 전망이 좋다.
-2|prosper|/ˈprɑːspər/|동 번영하다|The town *prospered* with trade.|그 마을은 무역으로 번영했다.|Businesses *prosper* in a stable economy.|사업은 안정된 경제에서 번창한다.
+2|pace|/peɪs/|명 속도, 걸음|The marathon runner set a steady *pace* at the start so that she would not get tired too soon.|그 마라톤 선수는 너무 일찍 지치지 않도록 출발할 때 꾸준한 속도를 유지했다.|He took two quick *paces* forward and then stopped at the edge of the stage.|그는 재빨리 두 걸음 앞으로 나아가 무대 끝에서 멈췄다.
+2|package|/ˈpækɪdʒ/|명 소포, 포장|The *package* arrived two days late, and the box was badly damaged on one side.|소포는 이틀 늦게 도착했고 상자 한쪽이 심하게 찌그러져 있었다.|The company designs eco-friendly *packaging* that can be recycled after use.|그 회사는 사용 후 재활용할 수 있는 친환경 포장재를 설계한다.
+2|panic|/ˈpænɪk/|명 공황;동 당황하다|A sudden *panic* spread through the crowd when someone shouted that there was a fire.|누군가 불이 났다고 소리치자 군중 사이에 갑작스러운 공황이 번졌다.|Don't *panic* if you forget a few words during the speech; just take a deep breath.|연설 중에 몇 단어를 잊어버려도 당황하지 말고 심호흡을 하세요.
+2|parallel|/ˈpærəlel/|형 평행한|The two roads run *parallel* to each other for about ten miles before they merge.|두 도로는 합쳐지기 전까지 약 10마일 동안 서로 나란히 이어진다.|Drawing a *parallel* line to the base of the triangle allows us to solve the problem.|삼각형의 밑변에 평행한 선을 그으면 그 문제를 풀 수 있다.
+2|participate|/pɑːrˈtɪsɪpeɪt/|동 참가하다|All students are encouraged to *participate* in the class discussion and share their ideas.|모든 학생은 수업 토론에 참여하여 자기 생각을 나누도록 장려된다.|More than two thousand runners *participated* in the charity race last Sunday.|지난 일요일 자선 달리기에는 2천 명이 넘는 주자가 참가했다.
+2|particle|/ˈpɑːrtɪkl/|명 입자|Scientists study tiny *particles* that make up atoms using enormous underground machines.|과학자들은 거대한 지하 장치를 이용해 원자를 이루는 작은 입자를 연구한다.|A *particle* of dust got into her eye and made it water.|먼지 입자가 눈에 들어가서 눈물이 났다.
+2|particular|/pərˈtɪkjələr/|형 특정한, 까다로운|She has a *particular* interest in marine biology and hopes to study whales one day.|그녀는 해양 생물학에 특별한 관심이 있어서 언젠가 고래를 연구하기를 희망한다.|He is very *particular* about his coffee and will only drink one specific brand.|그는 커피에 매우 까다로워서 특정한 브랜드만 마신다.
+2|partner|/ˈpɑːrtnər/|명 짝, 동업자|She has been a business *partner* of his for ten years and knows how he works.|그녀는 10년째 그의 동업자로서 그가 어떻게 일하는지 잘 안다.|Choose a *partner* from the class and practice the dialogue together.|반에서 짝을 정해 함께 대화를 연습하세요.
+2|passion|/ˈpæʃn/|명 열정|His *passion* for music began in childhood, and now he plays in an orchestra.|그의 음악에 대한 열정은 어린 시절에 시작되었고 지금은 관현악단에서 연주한다.|She spoke with such *passion* about the environment that the audience was moved.|그녀가 환경에 대해 너무나 열정적으로 말해서 청중은 감동했다.
+2|passive|/ˈpæsɪv/|형 수동적인|The students were *passive* listeners, rarely asking questions or joining the discussion.|학생들은 질문을 하거나 토론에 참여하는 일이 거의 없는 수동적인 청자였다.|Using the *passive* voice can make a sentence sound more formal and less personal.|수동태를 쓰면 문장이 더 격식 있고 덜 개인적으로 들릴 수 있다.
+2|patch|/pætʃ/|명 헝겊 조각;동 덧대다|She sewed a *patch* over the hole in her jeans to make them last another year.|그녀는 청바지를 한 해 더 입으려고 구멍 난 곳에 헝겊 조각을 덧대 꿰맸다.|The workers *patched* the road, but the surface was soon broken again by heavy trucks.|인부들이 도로를 땜질했지만 무거운 트럭들 때문에 노면은 곧 다시 파손되었다.
+2|path|/pæθ/|명 길, 경로|A narrow *path* led through the forest to a hidden lake that few people knew about.|좁은 길이 숲을 지나 소수만이 아는 숨겨진 호수로 이어졌다.|Her career *path* took her from a small local newspaper to a major international magazine.|그녀의 경력은 작은 지역 신문에서 유명 국제 잡지로 이어졌다.
+2|patient|/ˈpeɪʃnt/|형 참을성 있는;명 환자|A good teacher must be *patient* with students who need extra time to understand.|좋은 교사는 이해하는 데 시간이 더 필요한 학생들에게 인내심이 있어야 한다.|The *patient* was taken to the emergency room after complaining of chest pain.|그 환자는 가슴 통증을 호소한 뒤 응급실로 옮겨졌다.
+2|pattern|/ˈpætərn/|명 무늬, 패턴|The fabric has a beautiful *pattern* of blue flowers on a white background.|그 천에는 하얀 바탕에 파란 꽃이 있는 아름다운 무늬가 있다.|Researchers noticed a *pattern* in the data: sales always rose just before the holidays.|연구자들은 자료에서 매출이 휴일 직전에 항상 오른다는 패턴을 발견했다.
+2|pause|/pɔːz/|동 잠시 멈추다;명 멈춤|The speaker *paused* for a moment to let the audience think about her question.|연사는 청중이 자신의 질문을 생각해 볼 수 있도록 잠시 말을 멈췄다.|There was a long *pause* before he finally answered, and the room fell silent.|그가 마침내 대답하기까지 긴 침묵이 흘렀고 방 안은 조용해졌다.
+2|peak|/piːk/|명 정상, 절정|The climbers reached the *peak* of the mountain just as the sun began to rise.|등반가들은 해가 뜨기 시작할 때 산 정상에 도달했다.|The singer was at the *peak* of her career when she suddenly decided to retire.|그 가수는 경력의 정점에 있을 때 갑자기 은퇴를 결심했다.
+2|peculiar|/pɪˈkjuːliər/|형 이상한, 특유한|There was a *peculiar* smell in the room, like burnt sugar mixed with old books.|방 안에는 타 버린 설탕과 오래된 책이 섞인 듯한 이상한 냄새가 났다.|This kind of bird has a *peculiar* call that is unique to the region.|이 종류의 새는 그 지역 특유의 독특한 울음소리를 낸다.
+2|pedestrian|/pəˈdestriən/|명 보행자|Drivers must stop for any *pedestrian* who is crossing at the marked crosswalk.|운전자는 횡단보도를 건너는 보행자가 있으면 반드시 멈춰야 한다.|The city center has been closed to cars to create a safe area for *pedestrians*.|도심은 보행자를 위한 안전 구역을 만들기 위해 차량 통행이 금지되었다.
+2|penalty|/ˈpenlti/|명 처벌, 벌금|The *penalty* for parking in a disabled space is a fine of two hundred dollars.|장애인 주차 구역에 주차하면 벌금 200달러가 부과된다.|The referee awarded a *penalty* kick after a player was fouled in the box.|심판은 선수가 페널티 구역에서 반칙을 당하자 페널티킥을 선언했다.
+2|perceive|/pərˈsiːv/|동 인식하다, 감지하다|Many people *perceive* silence as peaceful, while others find it uncomfortable.|많은 사람은 침묵을 평화롭게 여기지만 어떤 이들은 불편하게 느낀다.|The dog can *perceive* sounds at frequencies that humans cannot hear.|개는 인간이 들을 수 없는 주파수의 소리를 감지할 수 있다.
+2|percentage|/pərˈsentɪdʒ/|명 백분율|A large *percentage* of the students walk to school instead of taking the bus.|학생 중 상당한 비율이 버스를 타는 대신 걸어서 등교한다.|The *percentage* of people who read newspapers has dropped sharply over the last decade.|신문을 읽는 사람의 비율은 지난 10년간 급격히 떨어졌다.
+2|perform|/pərˈfɔːrm/|동 수행하다, 공연하다|Surgeons must *perform* complex operations with great care and precision.|외과의사는 복잡한 수술을 매우 신중하고 정밀하게 수행해야 한다.|The orchestra will *perform* Beethoven's Ninth Symphony at the concert hall next Friday.|관현악단은 다음 주 금요일 콘서트홀에서 베토벤의 9번 교향곡을 연주할 것이다.
+2|performance|/pərˈfɔːrməns/|명 공연, 성과|The actor gave a brilliant *performance* that earned him an award for best actor.|그 배우는 남우주연상을 받을 만큼 훌륭한 연기를 보여 주었다.|The company's financial *performance* improved significantly after it reduced its costs.|그 회사의 재무 성과는 비용을 줄인 뒤 크게 개선되었다.
+2|period|/ˈpɪriəd/|명 기간, 시기|The museum was closed for a long *period* while the building was being repaired.|박물관은 건물을 수리하는 동안 오랜 기간 문을 닫았다.|The Renaissance was a *period* of great artistic and scientific achievement in Europe.|르네상스는 유럽에서 예술과 과학이 크게 발전한 시기였다.
+2|permanent|/ˈpɜːrmənənt/|형 영구적인|He found a *permanent* job at the company after working there for six months on contract.|그는 6개월간 계약직으로 일한 뒤 그 회사에 정규직 일자리를 얻었다.|The accident caused *permanent* damage to his eyesight, and he can no longer drive.|그 사고로 그의 시력이 영구적으로 손상되어 더는 운전할 수 없다.
+2|permit|/pərˈmɪt/|동 허락하다;명 허가증|The school does not *permit* students to use mobile phones during class.|학교는 학생이 수업 중에 휴대폰을 사용하는 것을 허락하지 않는다.|You need a special *permit* to park in the staff car park.|직원 주차장에 주차하려면 특별 허가증이 필요하다.
+2|persist|/pərˈsɪst/|동 지속하다, 끈질기게 계속하다|If the pain *persists* for more than a few days, you should see a doctor.|통증이 며칠 넘게 계속되면 의사를 만나야 한다.|She *persisted* in her studies despite many setbacks, and eventually earned her degree.|그녀는 많은 좌절에도 끈기 있게 공부를 이어 가 결국 학위를 땄다.
+2|personal|/ˈpɜːrsənl/|형 개인적인|It is a very *personal* decision, and no one else can make it for you.|그것은 매우 개인적인 결정이라 다른 누구도 대신 내려 줄 수 없다.|Please do not ask about my *personal* life; I prefer to keep it private.|제 사생활에 대해서는 묻지 말아 주세요. 비공개로 하고 싶습니다.
+2|personality|/ˌpɜːrsəˈnæləti/|명 성격, 개성|She has a warm and friendly *personality* that makes everyone feel at ease.|그녀는 모두를 편안하게 하는 따뜻하고 상냥한 성격을 지녔다.|The twins look identical, but their *personalities* are completely different.|쌍둥이는 외모가 똑같지만 성격은 완전히 다르다.
+2|persuade|/pərˈsweɪd/|동 설득하다|It took hours to *persuade* her to reconsider her decision to leave the company.|회사를 떠나려는 그녀의 결정을 재고하도록 설득하는 데 몇 시간이 걸렸다.|The advertisement was designed to *persuade* viewers to buy the new product.|그 광고는 시청자가 신제품을 사도록 설득하기 위해 만들어졌다.
+2|pharmacy|/ˈfɑːrməsi/|명 약국|You can buy this medicine at any *pharmacy* without a doctor's prescription.|이 약은 의사 처방 없이 어느 약국에서나 살 수 있다.|The nearest *pharmacy* is open twenty-four hours a day, including weekends.|가장 가까운 약국은 주말을 포함해 하루 24시간 문을 연다.
+2|phase|/feɪz/|명 단계|The first *phase* of the project will be completed by the end of March.|프로젝트의 첫 단계는 3월 말까지 완료될 것이다.|Many teenagers go through a rebellious *phase* before they mature.|많은 십 대는 성숙해지기 전에 반항적인 시기를 거친다.
+2|phenomenon|/fɪˈnɑːmɪnɑːn/|명 현상|The northern lights are a natural *phenomenon* that attracts tourists to the Arctic.|오로라는 관광객을 북극으로 끌어들이는 자연 현상이다.|The sudden popularity of the game is a social *phenomenon* that experts are trying to explain.|그 게임의 갑작스러운 인기는 전문가들이 설명하려는 사회 현상이다.
+2|philosophy|/fəˈlɑːsəfi/|명 철학|He studied *philosophy* at university and became interested in questions about ethics.|그는 대학에서 철학을 공부하며 윤리에 관한 문제에 관심을 갖게 되었다.|The company's *philosophy* is to treat employees as partners, not as tools.|그 회사의 철학은 직원을 도구가 아니라 동반자로 대하는 것이다.
+2|physical|/ˈfɪzɪkl/|형 신체의, 물리적인|Regular *physical* activity is important for maintaining both your health and your mood.|규칙적인 신체 활동은 건강과 기분을 유지하는 데 중요하다.|There was no *physical* evidence linking the suspect to the crime scene.|용의자를 범행 현장과 연결 짓는 물적 증거는 없었다.
+2|physician|/fɪˈzɪʃn/|명 의사|The *physician* examined the patient carefully before recommending a course of treatment.|의사는 치료 방침을 권하기 전에 환자를 꼼꼼히 진찰했다.|She works as a family *physician* and has cared for several generations of the same families.|그녀는 가정의로 일하며 같은 집안의 여러 세대를 돌봐 왔다.
+2|pioneer|/ˌpaɪəˈnɪr/|명 개척자|Marie Curie was a *pioneer* in the study of radioactivity and won two Nobel Prizes.|마리 퀴리는 방사능 연구의 개척자로 노벨상을 두 번 받았다.|The company *pioneered* the use of solar panels on a large scale in the region.|그 회사는 그 지역에서 대규모로 태양광 패널을 사용하는 길을 개척했다.
+2|pity|/ˈpɪti/|명 동정, 유감|It is a *pity* that you can't come to the party, because everyone was hoping to see you.|모두가 널 보기를 바랐는데 파티에 못 온다니 유감이다.|He felt *pity* for the homeless man and gave him his warm coat.|그는 노숙자가 안쓰러워서 자신의 따뜻한 외투를 건넸다.
+2|plain|/pleɪn/|형 단순한, 분명한|She wore a *plain* white dress with no decorations, but she looked elegant.|그녀는 장식 없는 소박한 흰 드레스를 입었지만 우아해 보였다.|It was *plain* from his tone of voice that he was not interested in the offer.|그의 말투를 보면 그가 그 제안에 관심이 없다는 것이 분명했다.
+2|plenty|/ˈplenti/|명 풍부, 많음|There is *plenty* of time before the train leaves, so we don't need to hurry.|기차가 떠나기까지 시간이 충분하니 서두를 필요 없다.|The region has *plenty* of rainfall in spring, which is good for the crops.|그 지역은 봄에 비가 많이 내려 농작물에 좋다.
+2|plot|/plɑːt/|명 줄거리, 음모|The *plot* of the film is so complicated that I had to watch it twice to understand.|그 영화의 줄거리는 너무 복잡해서 이해하려고 두 번 봐야 했다.|Police discovered a *plot* to rob the bank and arrested several suspects.|경찰은 은행을 털려는 음모를 적발하고 여러 용의자를 체포했다.
+2|poet|/ˈpoʊɪt/|명 시인|The *poet* spent years traveling through the mountains, writing about nature and silence.|그 시인은 자연과 침묵에 관한 글을 쓰며 수년간 산을 여행했다.|Many famous *poets* have been inspired by the beauty of the changing seasons.|많은 유명한 시인이 계절이 바뀌는 아름다움에서 영감을 받았다.
+2|poison|/ˈpɔɪzn/|명 독|The snake's *poison* is strong enough to kill a small animal within minutes.|그 뱀의 독은 몇 분 안에 작은 동물을 죽일 만큼 강하다.|Keep all cleaning products out of reach, because many of them are *poison* to children.|많은 세제는 아이에게 독이 되므로 모든 청소 용품을 손이 닿지 않는 곳에 두세요.
+2|policy|/ˈpɑːləsi/|명 정책|The government announced a new *policy* to reduce air pollution in major cities.|정부는 주요 도시의 대기 오염을 줄이기 위한 새 정책을 발표했다.|It is the company's *policy* to refund any product that customers are not satisfied with.|고객이 만족하지 못한 제품은 환불해 주는 것이 그 회사의 방침이다.
+2|polish|/ˈpɑːlɪʃ/|동 닦다|He used a soft cloth to *polish* the silver until it shone like a mirror.|그는 부드러운 천으로 은제품이 거울처럼 빛날 때까지 닦았다.|She spent the weekend *polishing* her speech so that every sentence sounded natural.|그녀는 모든 문장이 자연스럽게 들리도록 주말 내내 연설문을 다듬었다.
+2|poll|/poʊl/|명 여론 조사|A recent *poll* shows that most people support the plan to build a new library.|최근 여론 조사에 따르면 대부분의 사람이 새 도서관을 짓는 계획을 지지한다.|The newspaper conducted a *poll* of a thousand voters a week before the election.|그 신문은 선거 일주일 전에 유권자 천 명을 대상으로 여론 조사를 실시했다.
+2|pollute|/pəˈluːt/|동 오염시키다|Factories that *pollute* the river should be fined and forced to clean it up.|강을 오염시키는 공장은 벌금을 물고 정화하도록 강제되어야 한다.|Exhaust fumes from cars *pollute* the air in large cities and damage our health.|자동차 배기가스는 대도시의 공기를 오염시키고 건강을 해친다.
+2|portion|/ˈpɔːrʃn/|명 일부, 1인분|She ate only a small *portion* of the cake because she was already full.|그녀는 이미 배가 불러서 케이크를 조금만 먹었다.|The restaurant is famous for its generous *portions*, so you will never leave hungry.|그 식당은 1인분 양이 푸짐하기로 유명해서 배고프게 나올 일이 없다.
+2|portrait|/ˈpɔːrtrɪt/|명 초상화|The museum has a famous *portrait* of a young woman painted in the seventeenth century.|그 박물관에는 17세기에 그려진 젊은 여인의 유명한 초상화가 있다.|The photographer is known for her black-and-white *portraits* of ordinary people.|그 사진작가는 평범한 사람들을 담은 흑백 인물 사진으로 유명하다.
+2|pose|/poʊz/|동 자세를 취하다;동 제기하다|The model *posed* in front of the camera while the photographer adjusted the light.|모델은 사진작가가 조명을 조절하는 동안 카메라 앞에서 자세를 취했다.|The sudden increase in traffic *poses* a serious problem for the residents of the town.|갑작스러운 교통량 증가는 마을 주민들에게 심각한 문제를 일으킨다.
+2|positive|/ˈpɑːzətɪv/|형 긍정적인|She has a *positive* attitude toward life and always looks for the good in every situation.|그녀는 삶에 대해 긍정적인 태도를 지녀서 어떤 상황에서도 좋은 점을 찾는다.|The test came back *positive*, so he had to stay at home until he recovered.|검사 결과가 양성으로 나와서 그는 회복될 때까지 집에 머물러야 했다.
+2|possess|/pəˈzes/|동 소유하다|The ancient temple *possesses* a collection of manuscripts that are over a thousand years old.|그 고대 사원은 천 년이 넘은 필사본 모음을 소장하고 있다.|He *possesses* an extraordinary ability to remember names and faces.|그는 이름과 얼굴을 기억하는 비범한 능력을 지니고 있다.
+2|possibility|/ˌpɑːsəˈbɪləti/|명 가능성|There is a strong *possibility* that the match will be canceled if the rain continues.|비가 계속되면 경기가 취소될 가능성이 크다.|She did not rule out the *possibility* of moving abroad if she found a good job.|그녀는 좋은 일자리를 구하면 해외로 이주할 가능성을 배제하지 않았다.
+2|postpone|/poʊˈspoʊn/|동 연기하다|The organizers had to *postpone* the festival because of the approaching storm.|주최 측은 다가오는 폭풍 때문에 축제를 연기해야 했다.|Don't *postpone* the decision any longer; the deadline is only two days away.|결정을 더 이상 미루지 마세요. 마감이 이틀밖에 남지 않았습니다.
+2|potential|/pəˈtenʃl/|명 잠재력;형 잠재적인|The young player has the *potential* to become one of the best in the world.|그 젊은 선수는 세계 최고가 될 수 있는 잠재력을 지니고 있다.|Scientists warned of the *potential* dangers of releasing the chemical into the river.|과학자들은 그 화학 물질을 강에 방류했을 때의 잠재적 위험을 경고했다.
+2|poverty|/ˈpɑːvərti/|명 가난|Millions of people around the world still live in extreme *poverty* without access to clean water.|전 세계 수백만 명이 여전히 깨끗한 물도 없이 극심한 가난 속에 살고 있다.|The charity works to reduce *poverty* by providing education and training to young people.|그 자선 단체는 청소년에게 교육과 훈련을 제공해 가난을 줄이려고 노력한다.
+2|practical|/ˈpræktɪkl/|형 실용적인|She gave us some *practical* advice on how to save money while traveling.|그녀는 여행하면서 돈을 아끼는 방법에 대해 실용적인 조언을 해 주었다.|The plan sounds good in theory, but it is not *practical* for a small company.|그 계획은 이론상으로는 좋아 보이지만 소기업에는 현실적이지 않다.
+2|praise|/preɪz/|동 칭찬하다;명 칭찬|The teacher *praised* the students for their hard work and creativity on the project.|선생님은 프로젝트에서 보여 준 노력과 창의성에 대해 학생들을 칭찬했다.|The film received high *praise* from critics, who called it the best of the year.|그 영화는 올해 최고라고 평한 평론가들에게서 높은 찬사를 받았다.
+2|precise|/prɪˈsaɪs/|형 정확한|The recipe requires *precise* measurements, so use a scale rather than guessing.|그 요리법은 정확한 계량이 필요하니 어림짐작하지 말고 저울을 쓰세요.|Could you be more *precise* about what time the meeting will start?|회의가 몇 시에 시작하는지 좀 더 정확히 말씀해 주시겠어요?
+2|predict|/prɪˈdɪkt/|동 예측하다|Meteorologists *predict* that the storm will hit the coast early tomorrow morning.|기상학자들은 폭풍이 내일 이른 아침에 해안을 강타할 것이라고 예측한다.|It is almost impossible to *predict* how the market will react to the news.|시장이 그 소식에 어떻게 반응할지 예측하기란 거의 불가능하다.
+2|prefer|/prɪˈfɜːr/|동 선호하다|I *prefer* tea to coffee in the evening because coffee keeps me awake.|저녁에는 커피가 잠을 방해하기 때문에 커피보다 차를 선호한다.|Most customers *prefer* to pay by card rather than carry large amounts of cash.|대부분의 고객은 많은 현금을 들고 다니기보다 카드로 결제하기를 선호한다.
+2|prejudice|/ˈpredʒədɪs/|명 편견|The study showed that *prejudice* against older workers is still common in many companies.|그 연구는 많은 회사에서 나이 든 근로자에 대한 편견이 여전히 흔하다는 것을 보여 주었다.|He tried to judge the case without *prejudice*, considering only the facts.|그는 사실만 고려하며 편견 없이 그 사건을 판단하려고 했다.
+2|preparation|/ˌprepəˈreɪʃn/|명 준비|The *preparation* for the festival took several months and involved hundreds of volunteers.|축제 준비에는 몇 달이 걸렸고 수백 명의 자원봉사자가 참여했다.|Careful *preparation* is the key to a successful job interview.|철저한 준비는 성공적인 면접의 열쇠다.
+2|prescribe|/prɪˈskraɪb/|동 처방하다|The doctor *prescribed* antibiotics for the infection and told her to rest for a week.|의사는 감염에 대해 항생제를 처방하고 그녀에게 일주일간 쉬라고 했다.|The regulations *prescribe* the minimum safety standards that every building must meet.|그 규정은 모든 건물이 충족해야 할 최소 안전 기준을 규정하고 있다.
+2|presence|/ˈprezns/|명 존재, 참석|The *presence* of police officers at the event made the crowd feel safe.|행사장에 경찰관이 있다는 사실이 군중을 안심시켰다.|Your *presence* at the meeting is required, as the board will discuss your proposal.|이사회가 당신의 제안을 논의할 예정이므로 회의에 참석하셔야 합니다.
+2|preserve|/prɪˈzɜːrv/|동 보존하다|Local volunteers work hard to *preserve* the old buildings of the historic district.|지역 자원봉사자들은 역사 지구의 오래된 건물들을 보존하려고 열심히 활동한다.|Salt has been used for centuries to *preserve* fish and meat.|소금은 수 세기 동안 생선과 고기를 보존하는 데 쓰여 왔다.
+2|president|/ˈprezɪdənt/|명 대통령, 회장|The *president* of the company announced that it would open a new factory next year.|회사 회장은 내년에 새 공장을 열겠다고 발표했다.|The *president* delivered a speech to the nation about the economic crisis.|대통령은 경제 위기에 관해 국민에게 연설했다.
+2|pressure|/ˈpreʃər/|명 압력, 부담|The doctor measured my blood *pressure* and said it was slightly higher than normal.|의사는 내 혈압을 재고 정상보다 약간 높다고 말했다.|Students often feel great *pressure* to get good grades and enter a top university.|학생들은 좋은 성적을 받고 명문대에 들어가야 한다는 큰 압박을 느끼는 경우가 많다.
+2|pretend|/prɪˈtend/|동 ~인 척하다|The children *pretended* to be pirates and searched the garden for hidden treasure.|아이들은 해적인 척하며 정원에서 숨겨진 보물을 찾았다.|She *pretended* not to hear the question because she didn't want to answer it.|그녀는 대답하고 싶지 않아서 질문을 못 들은 척했다.
+2|prevail|/prɪˈveɪl/|동 우세하다, 널리 퍼지다|In the end, justice will *prevail* over corruption and dishonesty.|결국 정의가 부패와 부정직을 이길 것이다.|A feeling of calm *prevailed* in the village after the long and difficult winter.|길고 힘든 겨울이 지나자 마을에는 평온한 분위기가 널리 퍼졌다.
+2|prevent|/prɪˈvent/|동 막다, 예방하다|Washing your hands regularly can *prevent* the spread of many common diseases.|손을 규칙적으로 씻으면 많은 흔한 질병의 확산을 막을 수 있다.|The heavy snow *prevented* the trains from running, so thousands of passengers were stranded.|폭설로 열차 운행이 불가능해져 수천 명의 승객이 발이 묶였다.
+2|pride|/praɪd/|명 자부심|She took great *pride* in her work and always made sure every detail was perfect.|그녀는 자기 일에 큰 자부심을 갖고 모든 세부 사항이 완벽하도록 늘 신경 썼다.|His *pride* would not allow him to ask for help, even when he was in serious trouble.|그의 자존심은 심각한 곤경에 처했을 때조차 도움을 청하는 것을 허락하지 않았다.
+2|primary|/ˈpraɪmeri/|형 주요한, 초등의|The *primary* goal of the project is to reduce water waste in the city.|그 프로젝트의 주된 목표는 도시의 물 낭비를 줄이는 것이다.|Children usually begin *primary* school at the age of six or seven.|아이들은 보통 여섯이나 일곱 살에 초등학교에 입학한다.
+2|prime|/praɪm/|형 주요한, 최고의|The *prime* minister met the leaders of other countries to discuss trade.|총리는 무역을 논의하기 위해 다른 나라 정상들과 만났다.|The building's *prime* location in the city center makes it very valuable.|그 건물은 도심의 최고 입지라서 가치가 매우 높다.
+2|principal|/ˈprɪnsəpl/|명 교장;형 주된|The school *principal* welcomed the new students and introduced the teachers.|교장 선생님은 신입생들을 환영하고 교사들을 소개했다.|The *principal* reason for the delay was a shortage of building materials.|지연의 주된 이유는 건축 자재 부족이었다.
+2|principle|/ˈprɪnsəpl/|명 원칙|She refused to lie on *principle*, even when it would have made her life easier.|그녀는 거짓말이 삶을 더 편하게 해 주었을 때조차 원칙상 거짓말하기를 거부했다.|The basic *principle* of the machine is that heat is converted into motion.|그 기계의 기본 원리는 열이 운동으로 바뀐다는 것이다.
+2|print|/prɪnt/|동 인쇄하다|Please *print* your name clearly in capital letters at the top of the form.|양식 맨 위에 이름을 대문자로 또렷하게 인쇄체로 써 주세요.|The newspaper will *print* a correction in tomorrow's edition.|그 신문은 내일 판에 정정 기사를 낼 것이다.
+2|priority|/praɪˈɔːrəti/|명 우선순위|Safety is our highest *priority*, so please follow all the instructions carefully.|안전이 우리의 최우선 과제이니 모든 지침을 주의 깊게 따라 주세요.|The government has made education a *priority* in its plan for the coming year.|정부는 내년 계획에서 교육을 우선순위로 삼았다.
+2|privacy|/ˈpraɪvəsi/|명 사생활|Many people are worried about their *privacy* when companies collect personal data online.|많은 사람이 기업이 온라인에서 개인 정보를 수집할 때 사생활을 우려한다.|The celebrity asked the press to respect her *privacy* during the difficult time.|그 유명인은 힘든 시기 동안 언론에 자신의 사생활을 존중해 달라고 요청했다.
+2|private|/ˈpraɪvət/|형 사적인, 개인의|The two leaders held a *private* meeting, and no reporters were allowed to attend.|두 지도자는 비공개 회담을 열었으며 기자들은 참석할 수 없었다.|The family sent their children to a *private* school that had small classes.|그 가족은 소규모 학급을 운영하는 사립학교에 자녀를 보냈다.
+2|privilege|/ˈprɪvəlɪdʒ/|명 특권|Having access to a good education is a *privilege* that many children in the world don't have.|좋은 교육을 받을 수 있다는 것은 세계의 많은 아이들이 누리지 못하는 특권이다.|It was a great *privilege* to meet the scientist whose work had inspired me for years.|수년간 내게 영감을 준 연구를 한 과학자를 만난 것은 큰 영광이었다.
+2|probable|/ˈprɑːbəbl/|형 있을 법한|It is *probable* that the match will be postponed if the weather does not improve.|날씨가 나아지지 않으면 경기가 연기될 가능성이 높다.|The *probable* cause of the fire was an electrical fault in the old wiring.|화재의 유력한 원인은 낡은 배선의 전기 결함이었다.
+2|procedure|/prəˈsiːdʒər/|명 절차|The doctor explained the *procedure* to the patient before the operation began.|의사는 수술을 시작하기 전에 환자에게 절차를 설명했다.|You must follow the proper *procedure* when you want to make a complaint.|불만을 제기하려면 올바른 절차를 따라야 한다.
+2|proceed|/prəˈsiːd/|동 진행하다|After the short break, the speaker *proceeded* to explain the second part of the plan.|짧은 휴식 후 연사는 계획의 두 번째 부분을 설명하는 쪽으로 나아갔다.|Please *proceed* to gate twelve, where your flight will begin boarding shortly.|12번 게이트로 가 주십시오. 곧 탑승이 시작됩니다.
+2|process|/ˈprɑːses/|명 과정;동 처리하다|The *process* of making cheese takes several weeks and requires great patience.|치즈를 만드는 과정은 몇 주가 걸리고 상당한 인내가 필요하다.|The computer can *process* thousands of transactions in a single second.|그 컴퓨터는 1초에 수천 건의 거래를 처리할 수 있다.
+2|produce|/prəˈduːs/|동 생산하다|The country *produces* more than half of the world's coffee, mostly for export.|그 나라는 세계 커피의 절반 이상을 생산하며 대부분 수출한다.|The factory can *produce* ten thousand cars a month with its new equipment.|그 공장은 새 설비로 한 달에 1만 대의 자동차를 생산할 수 있다.
+2|profession|/prəˈfeʃn/|명 직업, 전문직|He chose the medical *profession* because he wanted to help sick people recover.|그는 아픈 사람들이 회복하도록 돕고 싶어서 의료직을 선택했다.|Teaching is a demanding *profession*, but many people find it deeply rewarding.|교직은 힘든 직업이지만 많은 사람이 깊은 보람을 느낀다.
+2|professional|/prəˈfeʃnəl/|형 전문적인;명 전문가|It is important to behave in a *professional* manner when you meet clients.|고객을 만날 때는 전문가답게 행동하는 것이 중요하다.|She became a *professional* tennis player at the age of seventeen.|그녀는 열일곱 살에 프로 테니스 선수가 되었다.
+2|profile|/ˈproʊfaɪl/|명 옆모습, 프로필|The coin shows the *profile* of a king facing to the left.|그 동전에는 왼쪽을 향한 왕의 옆모습이 새겨져 있다.|Update your online *profile* with a recent photo and a short description of yourself.|최근 사진과 간단한 자기소개로 온라인 프로필을 업데이트하세요.
+2|profit|/ˈprɑːfɪt/|명 이익|The company made a *profit* of five million dollars last year, double its previous total.|그 회사는 작년에 이전의 두 배인 500만 달러의 이익을 냈다.|Small shops often struggle to make a *profit* when large chains open nearby.|근처에 대형 체인점이 문을 열면 작은 가게는 이익을 내기 어려운 경우가 많다.
+2|profound|/prəˈfaʊnd/|형 깊은, 심오한|The book had a *profound* effect on the way she thought about her own life.|그 책은 그녀가 자신의 삶을 바라보는 방식에 깊은 영향을 미쳤다.|The two countries are separated by *profound* differences in culture and history.|두 나라는 문화와 역사의 깊은 차이로 나뉘어 있다.
+2|progress|/ˈprɑːɡres/|명 진전, 발전|The students made rapid *progress* in English after they started speaking every day.|학생들은 매일 영어로 말하기 시작한 뒤 영어 실력이 빠르게 늘었다.|Scientists are *progressing* steadily toward a cure for the disease.|과학자들은 그 질병의 치료법을 향해 꾸준히 진전하고 있다.
+2|prohibit|/proʊˈhɪbɪt/|동 금지하다|The law *prohibits* anyone from smoking in enclosed public places such as restaurants.|그 법은 식당 같은 폐쇄된 공공장소에서 누구든 흡연하는 것을 금지한다.|Swimming is strictly *prohibited* in the reservoir because the water supplies the city.|저수지의 물이 도시에 공급되므로 그곳에서의 수영은 엄격히 금지되어 있다.
+2|project|/ˈprɑːdʒekt/|명 프로젝트, 과제|Our class is working on a *project* about renewable energy and plans to present it next month.|우리 반은 재생 에너지에 관한 프로젝트를 진행 중이며 다음 달에 발표할 계획이다.|The new bridge *project* will create hundreds of jobs for local workers.|새 다리 건설 프로젝트는 지역 노동자들에게 수백 개의 일자리를 만들어 줄 것이다.
+2|prominent|/ˈprɑːmɪnənt/|형 저명한, 두드러진|The *prominent* scientist was invited to speak at conferences all over the world.|그 저명한 과학자는 전 세계의 학회에 연사로 초청받았다.|The *prominent* tower is visible from almost every part of the city.|그 눈에 띄는 탑은 도시 거의 모든 곳에서 보인다.
+2|promote|/prəˈmoʊt/|동 촉진하다, 승진시키다|The government launched a campaign to *promote* healthy eating among young people.|정부는 청소년들 사이에서 건강한 식습관을 장려하는 캠페인을 시작했다.|She was *promoted* to manager after only two years because of her excellent performance.|그녀는 뛰어난 성과 덕분에 불과 2년 만에 관리자로 승진했다.
+2|prompt|/prɑːmpt/|형 신속한;동 유발하다|Thank you for your *prompt* reply; it helped us finish the report on time.|신속하게 답해 주셔서 감사합니다. 덕분에 보고서를 제때 끝낼 수 있었습니다.|The sudden rise in prices *prompted* many people to look for cheaper alternatives.|갑작스러운 물가 상승은 많은 사람이 더 저렴한 대안을 찾도록 만들었다.
+2|proof|/pruːf/|명 증거|The detective needed solid *proof* before he could accuse anyone of the crime.|형사는 누군가를 범인으로 지목하기 전에 확실한 증거가 필요했다.|Please bring *proof* of your address, such as a utility bill or a bank statement.|공과금 고지서나 은행 명세서 같은 주소 증명 서류를 지참해 주세요.
+2|proper|/ˈprɑːpər/|형 적절한|You should use the *proper* tools when you repair electrical equipment.|전기 장비를 수리할 때는 적절한 도구를 사용해야 한다.|Children need *proper* sleep and nutrition to grow up healthy.|아이들이 건강하게 자라려면 적절한 수면과 영양이 필요하다.
+2|property|/ˈprɑːpərti/|명 재산, 부동산|The family sold their *property* in the country and moved to the city.|그 가족은 시골의 부동산을 팔고 도시로 이사했다.|Please take care of your personal *property*, since the school is not responsible for lost items.|학교는 분실물에 책임이 없으니 개인 소지품을 잘 챙기세요.
+2|proportion|/prəˈpɔːrʃn/|명 비율|A large *proportion* of the city's income comes from tourism.|그 도시 수입의 상당 부분은 관광에서 나온다.|The *proportion* of women in the company's management has risen to forty percent.|그 회사 경영진 중 여성의 비율은 40퍼센트까지 올랐다.
+2|proposal|/prəˈpoʊzl/|명 제안|The committee rejected the *proposal* because it would cost too much to carry out.|위원회는 실행하는 데 비용이 너무 많이 든다는 이유로 그 제안을 거부했다.|She submitted a *proposal* for a new community garden to the city council.|그녀는 새로운 공동체 정원 조성 제안서를 시의회에 제출했다.
+2|propose|/prəˈpoʊz/|동 제안하다|I *propose* that we meet again next week to review the results of the experiment.|실험 결과를 검토하기 위해 다음 주에 다시 만날 것을 제안합니다.|He *proposed* to her on the beach at sunset, and she said yes without hesitation.|그는 해 질 녘 해변에서 그녀에게 청혼했고 그녀는 망설임 없이 승낙했다.
+2|prospect|/ˈprɑːspekt/|명 전망, 가능성|The *prospect* of living abroad both excited and frightened her.|해외에서 산다는 전망은 그녀를 설레게도 하고 두렵게도 했다.|The *prospects* for the economy look good, with growth expected to continue next year.|내년에도 성장이 이어질 것으로 예상되어 경제 전망은 밝아 보인다.
+2|prosper|/ˈprɑːspər/|동 번영하다|Small businesses *prosper* when the local economy is strong and customers spend freely.|지역 경제가 튼튼하고 고객이 지갑을 열면 소규모 사업체는 번창한다.|The town began to *prosper* after the railway was built, bringing trade and new residents.|그 마을은 철도가 놓여 교역과 새 주민을 불러온 뒤 번영하기 시작했다.

@@ -1,84 +1,84 @@
-2|bachelor|/ˈbætʃələr/|명 학사;명 미혼 남성|She earned a *bachelor's* degree in biology.|그녀는 생물학 학사 학위를 받았다.|The *bachelor* lived alone in a small flat.|그 미혼 남성은 작은 아파트에서 혼자 살았다.
-2|background|/ˈbækɡraʊnd/|명 배경|The photo has a mountain in the *background*.|그 사진은 배경에 산이 있다.|Students come from different *backgrounds*.|학생들은 서로 다른 배경에서 온다.
-2|balance|/ˈbæləns/|명 균형;동 균형을 잡다|Eating well keeps a *balance* in your life.|잘 먹는 것은 삶의 균형을 지켜 준다.|She *balanced* on one leg.|그녀는 한 다리로 균형을 잡았다.
-2|bargain|/ˈbɑːrɡən/|명 싼 물건;동 흥정하다|The jacket was a real *bargain*.|그 재킷은 정말 싸게 산 물건이었다.|They *bargained* over the price.|그들은 가격을 두고 흥정했다.
-2|barrier|/ˈbæriər/|명 장벽|Language can be a *barrier* when traveling.|언어는 여행할 때 장벽이 될 수 있다.|Police put up a *barrier* across the road.|경찰은 도로를 가로질러 바리케이드를 쳤다.
-2|basic|/ˈbeɪsɪk/|형 기본적인|Water is a *basic* human need.|물은 인간의 기본적인 욕구다.|You must learn the *basic* rules first.|먼저 기본 규칙을 배워야 한다.
-2|beat|/biːt/|동 이기다, 치다|Our team *beat* the champions.|우리 팀이 챔피언을 이겼다.|My heart was *beating* fast.|내 심장이 빠르게 뛰고 있었다.
-2|behave|/bɪˈheɪv/|동 행동하다|Please *behave* politely in class.|수업 시간에는 예의 바르게 행동하세요.|The children *behaved* well.|아이들은 얌전히 행동했다.
-2|behavior|/bɪˈheɪvjər/|명 행동|His *behavior* surprised everyone.|그의 행동이 모두를 놀라게 했다.|Scientists study animal *behavior*.|과학자들은 동물의 행동을 연구한다.
-2|being|/ˈbiːɪŋ/|명 존재, 생명체|Humans are social *beings*.|인간은 사회적 존재다.|A strange *being* appeared in the story.|이야기에 이상한 존재가 나타났다.
-2|belief|/bɪˈliːf/|명 믿음, 신념|He has a strong *belief* in justice.|그는 정의에 대한 강한 믿음이 있다.|It is my *belief* that honesty matters.|정직이 중요하다는 것이 내 신념이다.
-2|bend|/bend/|동 구부리다|*Bend* your knees when you jump.|뛸 때는 무릎을 구부려라.|The road *bends* to the left.|길은 왼쪽으로 굽어 있다.
-2|beneath|/bɪˈniːθ/|전 ~아래에|The treasure was buried *beneath* the tree.|보물은 나무 아래에 묻혀 있었다.|The cat slept *beneath* the table.|고양이는 식탁 아래에서 잤다.
-2|bind|/baɪnd/|동 묶다|They *bound* the papers with string.|그들은 서류를 끈으로 묶었다.|The rules *bind* all members.|그 규칙은 모든 회원을 구속한다.
-2|biography|/baɪˈɑːɡrəfi/|명 전기, 일대기|I read a *biography* of Marie Curie.|나는 마리 퀴리의 전기를 읽었다.|The *biography* describes his childhood.|그 전기는 그의 어린 시절을 묘사한다.
-2|biology|/baɪˈɑːlədʒi/|명 생물학|She studies *biology* at university.|그녀는 대학에서 생물학을 공부한다.|Our *biology* class visited a lab.|우리 생물 수업은 실험실을 방문했다.
-2|blame|/bleɪm/|동 탓하다, 비난하다|Don't *blame* others for your mistakes.|자신의 실수를 남 탓하지 마라.|The driver was *blamed* for the accident.|운전자가 사고의 책임을 졌다.
-2|blank|/blæŋk/|형 빈, 공백의|Write your name in the *blank* space.|빈칸에 이름을 쓰세요.|My mind went *blank* during the test.|시험 중에 머릿속이 하얘졌다.
-2|bleed|/bliːd/|동 피를 흘리다|His finger started to *bleed*.|그의 손가락에서 피가 나기 시작했다.|The cut *bled* for a few minutes.|상처에서 몇 분간 피가 났다.
-2|blend|/blend/|동 섞다, 어우러지다|*Blend* the milk and eggs together.|우유와 달걀을 함께 섞으세요.|The colors *blend* well in the painting.|그 그림에서는 색이 잘 어우러진다.
-2|bless|/bles/|동 축복하다|May God *bless* you.|신의 축복이 함께하기를.|They felt *blessed* to have such a family.|그들은 그런 가족이 있어 복 받았다고 느꼈다.
-2|bloom|/bluːm/|동 꽃이 피다|Cherry blossoms *bloom* in April.|벚꽃은 4월에 핀다.|The garden is in full *bloom*.|정원에 꽃이 한창 피어 있다.
-2|board|/bɔːrd/|명 판자, 위원회;동 탑승하다|The teacher wrote on the *board*.|선생님이 칠판에 쓰셨다.|Passengers began to *board* the plane.|승객들이 비행기에 탑승하기 시작했다.
-2|bond|/bɑːnd/|명 유대|There is a strong *bond* between the twins.|쌍둥이 사이에는 강한 유대가 있다.|Sharing meals builds *bonds* in a family.|함께 식사하는 것은 가족의 유대를 쌓는다.
-2|boost|/buːst/|동 북돋우다, 높이다|Exercise can *boost* your mood.|운동은 기분을 끌어올릴 수 있다.|The ad *boosted* sales.|광고가 매출을 높였다.
-2|border|/ˈbɔːrdər/|명 국경, 경계|They crossed the *border* at night.|그들은 밤에 국경을 넘었다.|The town lies on the *border*.|그 마을은 국경에 위치해 있다.
-2|bore|/bɔːr/|동 지루하게 하다|The long speech *bored* the students.|긴 연설은 학생들을 지루하게 했다.|I was *bored* during the movie.|나는 영화를 보는 동안 지루했다.
-2|bother|/ˈbɑːðər/|동 귀찮게 하다, 신경 쓰다|Sorry to *bother* you.|귀찮게 해서 죄송합니다.|The noise didn't *bother* me.|그 소음은 나를 신경 쓰이게 하지 않았다.
-2|boundary|/ˈbaʊndri/|명 경계|A fence marks the *boundary* of the land.|울타리가 그 땅의 경계를 표시한다.|He set clear *boundaries* with his friends.|그는 친구들과 분명한 선을 정했다.
-2|brain|/breɪn/|명 뇌, 두뇌|The *brain* controls the body.|뇌는 몸을 통제한다.|Reading is good exercise for the *brain*.|독서는 두뇌에 좋은 운동이다.
-2|branch|/bræntʃ/|명 가지, 지점|A bird sat on the *branch*.|새 한 마리가 나뭇가지에 앉았다.|The bank opened a new *branch*.|그 은행은 새 지점을 열었다.
-2|brand|/brænd/|명 상표|This is a famous sports *brand*.|이것은 유명한 스포츠 브랜드다.|She always buys the same *brand* of soap.|그녀는 늘 같은 브랜드의 비누를 산다.
-2|breadth|/bredθ/|명 폭, 넓이|Measure the *breadth* of the table.|탁자의 폭을 재라.|She has a *breadth* of knowledge.|그녀는 폭넓은 지식을 갖고 있다.
-2|breed|/briːd/|명 품종;동 기르다|What *breed* is your dog?|네 개는 무슨 품종이니?|Farmers *breed* sheep for wool.|농부들은 양털을 얻으려고 양을 기른다.
-2|brief|/briːf/|형 짧은, 간단한|She gave a *brief* speech.|그녀는 짧은 연설을 했다.|Please keep your answer *brief*.|답변을 간단히 해 주세요.
-2|broadcast|/ˈbrɔːdkæst/|동 방송하다|The game was *broadcast* live.|그 경기는 생중계로 방송되었다.|The channel *broadcasts* news all day.|그 채널은 하루 종일 뉴스를 방송한다.
-2|budget|/ˈbʌdʒɪt/|명 예산|We have a small *budget* for the trip.|우리는 여행 예산이 적다.|The school *budget* was cut.|학교 예산이 삭감되었다.
-2|bully|/ˈbʊli/|명 괴롭히는 사람;동 괴롭히다|The *bully* picked on younger kids.|그 불량배는 어린 아이들을 괴롭혔다.|Nobody should be *bullied* at school.|학교에서 아무도 괴롭힘을 당해서는 안 된다.
-2|burden|/ˈbɜːrdn/|명 부담, 짐|The debt was a heavy *burden*.|그 빚은 무거운 부담이었다.|She didn't want to be a *burden* to others.|그녀는 남에게 짐이 되고 싶지 않았다.
-2|bury|/ˈberi/|동 묻다|Dogs *bury* bones in the yard.|개는 마당에 뼈를 묻는다.|The village was *buried* under snow.|마을이 눈에 파묻혔다.
-2|calculate|/ˈkælkjuleɪt/|동 계산하다|*Calculate* the total cost.|총비용을 계산하세요.|He *calculated* the distance quickly.|그는 거리를 빠르게 계산했다.
-2|campaign|/kæmˈpeɪn/|명 캠페인, 운동|The school started a recycling *campaign*.|학교는 재활용 캠페인을 시작했다.|She led the *campaign* to save the park.|그녀는 공원을 지키는 운동을 이끌었다.
-2|cancel|/ˈkænsl/|동 취소하다|They *canceled* the picnic because of rain.|비 때문에 소풍이 취소되었다.|I need to *cancel* my reservation.|예약을 취소해야 합니다.
-2|candidate|/ˈkændɪdeɪt/|명 후보자|The *candidate* gave a speech.|후보자가 연설을 했다.|Three *candidates* applied for the position.|세 명의 후보가 그 자리에 지원했다.
-2|capable|/ˈkeɪpəbl/|형 ~할 수 있는, 유능한|She is *capable* of running a marathon.|그녀는 마라톤을 완주할 수 있다.|He is a *capable* manager.|그는 유능한 관리자다.
-2|capacity|/kəˈpæsəti/|명 수용력, 능력|The stadium has a *capacity* of 50,000.|그 경기장은 5만 명을 수용할 수 있다.|The tank is filled to *capacity*.|탱크가 가득 차 있다.
-2|capital|/ˈkæpɪtl/|명 수도;명 자본|Seoul is the *capital* of Korea.|서울은 한국의 수도다.|He needs *capital* to start a business.|그는 사업을 시작하려면 자본이 필요하다.
-2|capture|/ˈkæptʃər/|동 붙잡다, 포착하다|The police *captured* the thief.|경찰이 도둑을 붙잡았다.|The photo *captured* the moment perfectly.|그 사진은 그 순간을 완벽하게 포착했다.
-2|career|/kəˈrɪr/|명 직업, 경력|She chose a *career* in medicine.|그녀는 의학 분야의 직업을 택했다.|His *career* began in a small company.|그의 경력은 작은 회사에서 시작되었다.
-2|cargo|/ˈkɑːrɡoʊ/|명 화물|The ship carried *cargo* across the sea.|배는 바다 건너로 화물을 실어 날랐다.|The plane is loaded with *cargo*.|비행기는 화물을 싣고 있다.
-2|carve|/kɑːrv/|동 조각하다, 썰다|He *carved* a bird from wood.|그는 나무로 새를 조각했다.|Dad *carved* the turkey at dinner.|아빠는 저녁에 칠면조를 썰었다.
-2|casual|/ˈkæʒuəl/|형 평상복의, 격식 없는|You can wear *casual* clothes to the party.|파티에는 편한 옷을 입어도 된다.|They had a *casual* chat.|그들은 가벼운 대화를 나누었다.
-2|category|/ˈkætəɡɔːri/|명 범주, 분류|Books are sorted by *category*.|책은 분류별로 정리되어 있다.|This film belongs to the comedy *category*.|이 영화는 코미디 범주에 속한다.
-2|cease|/siːs/|동 멈추다|The noise suddenly *ceased*.|소음이 갑자기 멎었다.|The company *ceased* production last year.|그 회사는 작년에 생산을 중단했다.
-2|ceiling|/ˈsiːlɪŋ/|명 천장|The *ceiling* is very high.|천장이 아주 높다.|A fan hangs from the *ceiling*.|천장에 선풍기가 달려 있다.
-2|cell|/sel/|명 세포;명 감방|The body is made of billions of *cells*.|몸은 수십억 개의 세포로 이루어져 있다.|The prisoner sat in his *cell*.|죄수는 감방에 앉아 있었다.
-2|ceremony|/ˈserəmoʊni/|명 의식, 식|The graduation *ceremony* starts at ten.|졸업식은 10시에 시작한다.|They held a *ceremony* for the winners.|그들은 우승자들을 위한 시상식을 열었다.
-2|chain|/tʃeɪn/|명 사슬, 연쇄점|The dog was tied with a *chain*.|개는 사슬로 묶여 있었다.|It is a *chain* of coffee shops.|그것은 커피숍 체인이다.
-2|chamber|/ˈtʃeɪmbər/|명 방, 회의실|The knights met in a stone *chamber*.|기사들은 석조 방에서 만났다.|The council *chamber* was full.|의회실이 가득 찼다.
-2|channel|/ˈtʃænl/|명 채널, 경로|Change the *channel*, please.|채널 좀 돌려 주세요.|Water flows through a narrow *channel*.|물이 좁은 수로를 따라 흐른다.
-2|chaos|/ˈkeɪɒs/|명 혼란|The storm caused *chaos* in the city.|폭풍은 도시에 혼란을 일으켰다.|The room was in total *chaos*.|방은 완전히 엉망이었다.
-2|characteristic|/ˌkærəktəˈrɪstɪk/|명 특징;형 특유의|Honesty is her best *characteristic*.|정직은 그녀의 가장 좋은 특징이다.|Long legs are *characteristic* of a giraffe.|긴 다리는 기린의 특징이다.
-2|charge|/tʃɑːrdʒ/|명 요금;동 청구하다, 충전하다|There is no *charge* for the service.|그 서비스는 무료다.|I need to *charge* my phone.|나는 휴대폰을 충전해야 한다.
-2|charity|/ˈtʃærəti/|명 자선 단체|They gave money to *charity*.|그들은 자선 단체에 돈을 기부했다.|She works for a children's *charity*.|그녀는 어린이 자선 단체에서 일한다.
-2|charm|/tʃɑːrm/|명 매력|The old town has a special *charm*.|그 오래된 도시에는 특별한 매력이 있다.|Her *charm* won everyone over.|그녀의 매력이 모두를 사로잡았다.
-2|chart|/tʃɑːrt/|명 도표|The *chart* shows the sales for each month.|그 도표는 월별 판매량을 보여 준다.|He drew a *chart* of the results.|그는 결과를 도표로 그렸다.
-2|chase|/tʃeɪs/|동 뒤쫓다|The dog *chased* the cat.|개가 고양이를 뒤쫓았다.|Police *chased* the car.|경찰이 그 차를 추격했다.
-2|chemical|/ˈkemɪkl/|형 화학의;명 화학 물질|He did a *chemical* experiment.|그는 화학 실험을 했다.|Some *chemicals* are harmful.|어떤 화학 물질은 해롭다.
-2|chief|/tʃiːf/|형 주된;명 우두머리|The *chief* reason was cost.|주된 이유는 비용이었다.|The *chief* of the village spoke first.|마을의 우두머리가 먼저 말했다.
-2|chill|/tʃɪl/|명 냉기;동 식히다|There was a *chill* in the air.|공기 중에 냉기가 돌았다.|*Chill* the juice before serving.|주스는 내기 전에 차게 식히세요.
-2|chip|/tʃɪp/|명 조각, 칩|There was a *chip* in the cup.|컵에 이가 빠져 있었다.|The computer has a small *chip* inside.|컴퓨터 안에는 작은 칩이 들어 있다.
-2|chronic|/ˈkrɑːnɪk/|형 만성적인|He suffers from *chronic* back pain.|그는 만성 요통을 앓고 있다.|It is a *chronic* problem in big cities.|그것은 대도시의 고질적인 문제다.
-2|circumstance|/ˈsɜːrkəmstæns/|명 상황, 사정|Under no *circumstances* should you open it.|어떤 상황에서도 그것을 열어서는 안 된다.|The *circumstances* were difficult.|상황이 어려웠다.
-2|cite|/saɪt/|동 인용하다|Always *cite* your sources.|항상 출처를 인용하세요.|The author *cited* several studies.|저자는 여러 연구를 인용했다.
-2|citizen|/ˈsɪtɪzn/|명 시민|Every *citizen* has the right to vote.|모든 시민은 투표할 권리가 있다.|She became a *citizen* last year.|그녀는 작년에 시민권을 얻었다.
-2|civil|/ˈsɪvl/|형 시민의, 정중한|Everyone has *civil* rights.|모든 사람은 시민의 권리를 갖는다.|He gave a *civil* reply.|그는 정중하게 대답했다.
-2|civilization|/ˌsɪvələˈzeɪʃn/|명 문명|The Nile gave rise to a great *civilization*.|나일강은 위대한 문명을 탄생시켰다.|They studied ancient *civilizations*.|그들은 고대 문명들을 공부했다.
-2|claim|/kleɪm/|동 주장하다;명 주장|He *claims* that he saw a UFO.|그는 UFO를 봤다고 주장한다.|The *claim* turned out to be false.|그 주장은 거짓으로 드러났다.
-2|clarify|/ˈklærəfaɪ/|동 명확히 하다|Could you *clarify* what you mean?|무슨 뜻인지 분명히 해 주시겠어요?|The teacher *clarified* the rules.|선생님은 규칙을 분명히 설명했다.
-2|classic|/ˈklæsɪk/|형 고전적인;명 명작|This is a *classic* example of good design.|이것은 좋은 디자인의 전형적인 예다.|The film has become a *classic*.|그 영화는 명작이 되었다.
-2|client|/ˈklaɪənt/|명 고객, 의뢰인|The lawyer met her *client* today.|변호사는 오늘 의뢰인을 만났다.|The company has many foreign *clients*.|그 회사는 외국 고객이 많다.
-2|cling|/klɪŋ/|동 달라붙다, 매달리다|The baby *clung* to his mother.|아기는 엄마에게 매달렸다.|Wet clothes *cling* to the skin.|젖은 옷은 피부에 달라붙는다.
-2|clinic|/ˈklɪnɪk/|명 병원, 진료소|She works at a dental *clinic*.|그녀는 치과 의원에서 일한다.|The *clinic* opens at nine.|진료소는 아홉 시에 문을 연다.
-2|code|/koʊd/|명 암호, 규칙|Enter the secret *code* to open the door.|문을 열려면 비밀 암호를 입력하세요.|There is a dress *code* at the school.|그 학교에는 복장 규정이 있다.
+2|bachelor|/ˈbætʃələr/|명 학사;명 미혼 남성|She earned a *bachelor's* degree in biology before starting her research career.|그녀는 연구 경력을 시작하기 전에 생물학 학사 학위를 받았다.|The *bachelor* lived alone in a small flat and rarely received any visitors.|그 미혼 남성은 작은 아파트에서 혼자 살며 손님을 거의 맞지 않았다.
+2|background|/ˈbækɡraʊnd/|명 배경|The photo shows a snow-covered mountain in the *background* and a lake in front.|그 사진은 배경에 눈 덮인 산이, 앞쪽에는 호수가 보인다.|The students in this class come from very different cultural *backgrounds*.|이 반의 학생들은 문화적 배경이 매우 다양하다.
+2|balance|/ˈbæləns/|명 균형;동 균형을 잡다|Eating well and sleeping enough help keep a healthy *balance* in your life.|잘 먹고 충분히 자는 것은 삶의 건강한 균형을 지키는 데 도움이 된다.|She *balanced* on one leg for almost a minute without losing her focus.|그녀는 집중력을 잃지 않고 거의 일 분 동안 한 다리로 균형을 잡았다.
+2|bargain|/ˈbɑːrɡən/|명 싼 물건;동 흥정하다|The jacket was a real *bargain*; I paid half the usual price.|그 재킷은 정말 싸게 산 물건이었다. 평소 가격의 절반만 냈다.|They *bargained* over the price for almost an hour before reaching an agreement.|그들은 합의에 이르기까지 거의 한 시간 동안 가격을 두고 흥정했다.
+2|barrier|/ˈbæriər/|명 장벽|Language can be a major *barrier* when you travel to a country alone.|혼자 외국을 여행할 때 언어는 큰 장벽이 될 수 있다.|Police put up a *barrier* across the road to stop traffic from entering the square.|경찰은 차량이 광장에 들어오지 못하도록 도로를 가로질러 바리케이드를 쳤다.
+2|basic|/ˈbeɪsɪk/|형 기본적인|Clean water is a *basic* human need that every government should guarantee.|깨끗한 물은 모든 정부가 보장해야 할 인간의 기본적인 욕구다.|You must learn the *basic* rules of the game before you try any advanced strategy.|고급 전략을 시도하기 전에 먼저 게임의 기본 규칙을 배워야 한다.
+2|beat|/biːt/|동 이기다, 치다|Our team *beat* the defending champions in a thrilling match on Saturday.|우리 팀은 토요일 짜릿한 경기에서 지난 대회 우승팀을 이겼다.|My heart was *beating* so fast that I could hardly speak before the audience.|심장이 너무 빠르게 뛰어서 청중 앞에서 말을 거의 할 수 없었다.
+2|behave|/bɪˈheɪv/|동 행동하다|Please *behave* politely in class and respect the people around you.|수업 시간에는 예의 바르게 행동하고 주변 사람들을 존중해 주세요.|The children *behaved* so well during the long trip that the driver complimented them.|아이들이 긴 여행 내내 얌전하게 행동해서 운전기사가 칭찬해 주었다.
+2|behavior|/bɪˈheɪvjər/|명 행동|His sudden *behavior* surprised everyone, since he was normally very calm.|그는 평소에 매우 차분했기에 갑작스러운 행동이 모두를 놀라게 했다.|Scientists study animal *behavior* to understand how species adapt to their surroundings.|과학자들은 종이 주변 환경에 어떻게 적응하는지 이해하기 위해 동물의 행동을 연구한다.
+2|being|/ˈbiːɪŋ/|명 존재, 생명체|Humans are social *beings* who need connection with others to be happy.|인간은 행복하기 위해 다른 사람들과의 관계가 필요한 사회적 존재다.|A strange *being* appeared in the story, neither human nor animal.|이야기에는 인간도 동물도 아닌 이상한 존재가 등장했다.
+2|belief|/bɪˈliːf/|명 믿음, 신념|He has a strong *belief* in justice and refuses to accept unfair treatment.|그는 정의에 대한 강한 믿음이 있어서 부당한 대우를 받아들이지 않는다.|It is my firm *belief* that honesty matters more than success.|정직이 성공보다 더 중요하다는 것이 나의 확고한 신념이다.
+2|bend|/bend/|동 구부리다|*Bend* your knees when you land from a jump to protect your joints.|관절을 보호하려면 점프 후 착지할 때 무릎을 구부려라.|The road *bends* sharply to the left just before the bridge.|길은 다리 바로 앞에서 왼쪽으로 급하게 굽어 있다.
+2|beneath|/bɪˈniːθ/|전 ~아래에|According to the legend, the treasure lies buried *beneath* the old oak tree.|전설에 따르면 보물은 그 오래된 참나무 아래에 묻혀 있다.|The cat usually sleeps *beneath* the table, where it is warm and quiet.|고양이는 보통 따뜻하고 조용한 식탁 아래에서 잠을 잔다.
+2|bind|/baɪnd/|동 묶다|They *bound* the old papers with string so that none would be lost.|그들은 한 장도 잃어버리지 않도록 낡은 서류를 끈으로 묶었다.|The rules *bind* all members of the organization, regardless of rank.|그 규칙은 직급과 상관없이 단체의 모든 회원을 구속한다.
+2|biography|/baɪˈɑːɡrəfi/|명 전기, 일대기|I read a *biography* of Marie Curie and was amazed by her perseverance.|나는 마리 퀴리의 전기를 읽고 그녀의 끈기에 감탄했다.|The *biography* vividly describes his poor childhood and his rise to fame.|그 전기는 그의 가난한 어린 시절과 명성을 얻기까지의 과정을 생생하게 그린다.
+2|biology|/baɪˈɑːlədʒi/|명 생물학|She studies *biology* at university and hopes to work in medical research.|그녀는 대학에서 생물학을 공부하며 의학 연구 분야에서 일하기를 희망한다.|Our *biology* class visited a research lab to see how DNA is analyzed.|우리 생물 수업은 DNA가 어떻게 분석되는지 보려고 연구실을 방문했다.
+2|blame|/bleɪm/|동 탓하다, 비난하다|Don't *blame* others for your mistakes; learn from them instead.|자신의 실수를 남 탓하지 말고 대신 그로부터 배우도록 해라.|The driver was *blamed* for the accident, although the road conditions were also poor.|도로 상태도 나빴지만 운전자가 사고의 책임을 졌다.
+2|blank|/blæŋk/|형 빈, 공백의|Write your name in the *blank* space at the top of the answer sheet.|답안지 맨 위의 빈칸에 이름을 쓰세요.|My mind went completely *blank* in the middle of the test.|시험 도중에 머릿속이 완전히 하얘졌다.
+2|bleed|/bliːd/|동 피를 흘리다|His finger started to *bleed* after he cut it while chopping vegetables.|그는 채소를 썰다 손가락을 베어 피가 나기 시작했다.|The cut *bled* for a few minutes before it finally stopped.|상처는 몇 분 동안 피가 나다가 마침내 멎었다.
+2|blend|/blend/|동 섞다, 어우러지다|*Blend* the milk, eggs, and flour together until the mixture is smooth.|반죽이 부드러워질 때까지 우유, 달걀, 밀가루를 함께 섞으세요.|The colors *blend* so naturally in the painting that you can't see where one ends.|그 그림에서는 색들이 너무 자연스럽게 어우러져 어디서 끝나는지 알 수 없다.
+2|bless|/bles/|동 축복하다|May God *bless* you and your family with health and happiness.|신께서 당신과 가족에게 건강과 행복을 내려 주시기를.|They felt *blessed* to have such a loving family and caring friends.|그들은 그렇게 사랑이 넘치는 가족과 다정한 친구들이 있어 복 받았다고 느꼈다.
+2|bloom|/bluːm/|동 꽃이 피다|Cherry blossoms *bloom* in April, and the whole town turns pink.|벚꽃은 4월에 피어 온 마을이 분홍빛으로 물든다.|By early summer the garden is in full *bloom*, filled with roses and lilies.|초여름이 되면 정원에는 장미와 백합이 가득해 꽃이 한창이다.
+2|board|/bɔːrd/|명 판자, 위원회;동 탑승하다|The teacher wrote the main points on the *board* so no one would miss them.|선생님은 아무도 놓치지 않도록 요점을 칠판에 적으셨다.|Passengers began to *board* the plane an hour before its departure.|승객들은 출발 한 시간 전부터 비행기에 탑승하기 시작했다.
+2|bond|/bɑːnd/|명 유대|There is a strong *bond* between the twins that goes beyond ordinary friendship.|그 쌍둥이 사이에는 보통의 우정을 넘어서는 강한 유대가 있다.|Sharing meals every evening builds *bonds* among family members.|매일 저녁 함께 식사하는 것은 가족 구성원 간의 유대를 쌓아 준다.
+2|boost|/buːst/|동 북돋우다, 높이다|Regular exercise can *boost* your mood and help you cope with stress.|규칙적인 운동은 기분을 끌어올리고 스트레스에 대처하는 데 도움이 된다.|The new advertising campaign *boosted* sales by almost twenty percent.|새 광고 캠페인은 매출을 거의 20퍼센트 끌어올렸다.
+2|border|/ˈbɔːrdər/|명 국경, 경계|The refugees crossed the *border* at night to avoid being seen by the guards.|난민들은 경비병의 눈을 피하려고 밤에 국경을 넘었다.|The town lies right on the *border* between the two countries.|그 마을은 두 나라의 국경 바로 위에 있다.
+2|bore|/bɔːr/|동 지루하게 하다|The long and repetitive speech *bored* the students, and many began to yawn.|길고 반복적인 연설은 학생들을 지루하게 해서 많은 학생이 하품하기 시작했다.|I was so *bored* during the movie that I nearly fell asleep.|나는 영화가 너무 지루해서 하마터면 잠들 뻔했다.
+2|bother|/ˈbɑːðər/|동 귀찮게 하다, 신경 쓰다|Sorry to *bother* you, but could you tell me where the station is?|귀찮게 해서 죄송하지만 역이 어디인지 알려 주시겠어요?|The noise from the street didn't *bother* me at all once I got used to it.|거리의 소음은 익숙해지고 나니 전혀 신경 쓰이지 않았다.
+2|boundary|/ˈbaʊndri/|명 경계|A low stone fence marks the *boundary* of the land between the two farms.|낮은 돌담이 두 농장 사이의 땅 경계를 표시한다.|He learned to set clear *boundaries* with friends who asked for too many favors.|그는 부탁을 지나치게 많이 하는 친구들과 분명한 선을 긋는 법을 배웠다.
+2|brain|/breɪn/|명 뇌, 두뇌|The *brain* controls every function of the body, from breathing to thinking.|뇌는 호흡에서 사고에 이르기까지 몸의 모든 기능을 통제한다.|Reading regularly is excellent exercise for the *brain* and improves memory.|꾸준한 독서는 두뇌에 훌륭한 운동이 되며 기억력을 높여 준다.
+2|branch|/bræntʃ/|명 가지, 지점|A small bird sat on the *branch* and sang as the sun rose.|작은 새 한 마리가 나뭇가지에 앉아 해가 뜨자 노래했다.|The bank opened a new *branch* in the suburbs to serve more customers.|그 은행은 더 많은 고객을 위해 교외에 새 지점을 열었다.
+2|brand|/brænd/|명 상표|This is a famous sports *brand* known for its durable running shoes.|이것은 튼튼한 러닝화로 유명한 스포츠 브랜드다.|She always buys the same *brand* of soap because it doesn't irritate her skin.|그녀는 피부에 자극이 없다는 이유로 늘 같은 브랜드의 비누를 산다.
+2|breadth|/bredθ/|명 폭, 넓이|Use a ruler to measure the length and *breadth* of the table before buying a cloth.|천을 사기 전에 자로 탁자의 길이와 폭을 재 보세요.|Her *breadth* of knowledge, from history to physics, impressed every professor.|역사에서 물리학까지 아우르는 그녀의 폭넓은 지식은 모든 교수를 감탄하게 했다.
+2|breed|/briːd/|명 품종;동 기르다|What *breed* is your dog, and how old was it when you adopted it?|네 개는 무슨 품종이고, 입양했을 때 몇 살이었니?|Farmers in the region *breed* sheep mainly for their high-quality wool.|그 지역의 농부들은 주로 양질의 양털을 얻으려고 양을 기른다.
+2|brief|/briːf/|형 짧은, 간단한|She gave a *brief* speech and thanked everyone for coming.|그녀는 짧은 연설을 하며 와 주신 모든 분께 감사를 전했다.|Please keep your answer *brief*, since we have many questions to get through.|다뤄야 할 질문이 많으니 답변은 간략하게 해 주세요.
+2|broadcast|/ˈbrɔːdkæst/|동 방송하다|The final game was *broadcast* live to millions of viewers around the world.|결승전은 전 세계 수백만 시청자에게 생중계로 방송되었다.|The channel *broadcasts* news around the clock, including reports from abroad.|그 채널은 해외 소식을 포함한 뉴스를 하루 종일 방송한다.
+2|budget|/ˈbʌdʒɪt/|명 예산|We have a small *budget* for the trip, so we must choose cheap hotels.|우리는 여행 예산이 적어서 저렴한 호텔을 골라야 한다.|The school *budget* was cut by ten percent, forcing the staff to reduce activities.|학교 예산이 10퍼센트 삭감되어 교직원들은 활동을 줄여야 했다.
+2|bully|/ˈbʊli/|명 괴롭히는 사람;동 괴롭히다|The *bully* picked on younger kids, taking their lunch money every day.|그 불량배는 매일 어린 아이들의 점심값을 빼앗으며 괴롭혔다.|No one should be *bullied* at school or made to feel unsafe.|학교에서 누구도 괴롭힘을 당하거나 불안을 느끼게 되어서는 안 된다.
+2|burden|/ˈbɜːrdn/|명 부담, 짐|The debt was a heavy *burden* on the family for more than ten years.|그 빚은 10년이 넘도록 그 가족에게 무거운 부담이었다.|She didn't want to become a *burden* to her children as she grew older.|그녀는 나이가 들면서 자식들에게 짐이 되고 싶지 않았다.
+2|bury|/ˈberi/|동 묻다|Dogs often *bury* bones in the yard and forget where they put them.|개는 마당에 뼈를 묻어 두고는 어디에 묻었는지 잊어버리곤 한다.|The village was *buried* under several meters of snow after the storm.|폭풍이 지나간 뒤 마을은 몇 미터의 눈에 파묻혔다.
+2|calculate|/ˈkælkjuleɪt/|동 계산하다|*Calculate* the total cost of the trip, including food and transportation.|식비와 교통비를 포함해 여행의 총비용을 계산해 보세요.|He quickly *calculated* the distance between the two cities in his head.|그는 두 도시 사이의 거리를 머릿속으로 재빨리 계산했다.
+2|campaign|/kæmˈpeɪn/|명 캠페인, 운동|The school started a recycling *campaign* to reduce the waste in its cafeteria.|학교는 구내식당의 쓰레기를 줄이기 위해 재활용 캠페인을 시작했다.|She led the *campaign* to save the old park from being turned into a parking lot.|그녀는 오래된 공원이 주차장으로 바뀌는 것을 막기 위한 운동을 이끌었다.
+2|cancel|/ˈkænsl/|동 취소하다|They *canceled* the picnic at the last minute because of heavy rain.|그들은 폭우 때문에 마지막 순간에 소풍을 취소했다.|I need to *cancel* my reservation because my flight has been delayed.|비행기가 지연되어서 예약을 취소해야 합니다.
+2|candidate|/ˈkændɪdeɪt/|명 후보자|The *candidate* gave a powerful speech about education and public safety.|그 후보자는 교육과 공공 안전에 관해 힘 있는 연설을 했다.|Three *candidates* applied for the position, and only one was invited back.|그 자리에 세 명의 후보가 지원했고 단 한 명만 다시 초대되었다.
+2|capable|/ˈkeɪpəbl/|형 ~할 수 있는, 유능한|She is *capable* of running a full marathon after only six months of training.|그녀는 단 6개월의 훈련만으로 풀코스 마라톤을 완주할 수 있다.|He is a *capable* manager who can handle pressure and difficult clients.|그는 압박감과 까다로운 고객을 잘 다루는 유능한 관리자다.
+2|capacity|/kəˈpæsəti/|명 수용력, 능력|The stadium has a seating *capacity* of fifty thousand spectators.|그 경기장은 5만 명의 관중을 수용할 수 있다.|The water tank is filled to *capacity*, so don't add any more.|물탱크가 가득 차 있으니 더는 넣지 마세요.
+2|capital|/ˈkæpɪtl/|명 수도;명 자본|Seoul is the *capital* of Korea and its largest and busiest city.|서울은 한국의 수도이자 가장 크고 붐비는 도시다.|He needs enough *capital* to start a business, so he is looking for investors.|그는 사업을 시작하기에 충분한 자본이 필요해서 투자자를 찾고 있다.
+2|capture|/ˈkæptʃər/|동 붙잡다, 포착하다|The police *captured* the thief after a chase that lasted several hours.|경찰은 몇 시간 동안의 추격 끝에 도둑을 붙잡았다.|The photograph *captured* the emotion of the moment perfectly.|그 사진은 그 순간의 감정을 완벽하게 포착했다.
+2|career|/kəˈrɪr/|명 직업, 경력|She chose a *career* in medicine because she wanted to help sick children.|그녀는 아픈 아이들을 돕고 싶어서 의학 분야의 직업을 택했다.|His *career* began in a small company, but it soon grew into something much larger.|그의 경력은 작은 회사에서 시작했지만 곧 훨씬 큰 것으로 성장했다.
+2|cargo|/ˈkɑːrɡoʊ/|명 화물|The ship carried *cargo* across the Pacific, mostly electronics and machinery.|그 배는 주로 전자 제품과 기계류인 화물을 싣고 태평양을 건넜다.|The plane was loaded with *cargo* instead of passengers on its last flight.|그 비행기는 마지막 비행에서 승객 대신 화물을 가득 실었다.
+2|carve|/kɑːrv/|동 조각하다, 썰다|He *carved* a small bird from a piece of wood with a pocket knife.|그는 주머니칼로 나무토막에서 작은 새를 조각했다.|Dad *carved* the turkey at the table while everyone waited.|아빠는 모두가 기다리는 동안 식탁에서 칠면조를 썰었다.
+2|casual|/ˈkæʒuəl/|형 평상복의, 격식 없는|You can wear *casual* clothes to the party; there's no need to dress up.|파티에는 편한 옷을 입고 와도 되니 격식을 차릴 필요는 없다.|They had a *casual* chat over coffee that soon turned into a serious discussion.|그들은 커피를 마시며 가볍게 대화를 나눴는데 곧 진지한 논의로 바뀌었다.
+2|category|/ˈkætəɡɔːri/|명 범주, 분류|The books in the library are sorted by *category*, such as fiction and science.|도서관의 책은 소설, 과학 등 분류별로 정리되어 있다.|This film belongs to the comedy *category*, although it has some sad moments.|이 영화는 슬픈 장면도 있지만 코미디 범주에 속한다.
+2|cease|/siːs/|동 멈추다|The noise from the construction site suddenly *ceased* at exactly noon.|공사장의 소음이 정오 정각에 갑자기 멎었다.|The company *ceased* production last year because of rising costs.|그 회사는 비용 상승으로 작년에 생산을 중단했다.
+2|ceiling|/ˈsiːlɪŋ/|명 천장|The *ceiling* of the old church is so high that it feels like another sky.|그 오래된 교회의 천장은 너무 높아서 또 하나의 하늘처럼 느껴진다.|A large fan hangs from the *ceiling* and keeps the room cool in summer.|커다란 선풍기가 천장에 매달려 여름에 방을 시원하게 해 준다.
+2|cell|/sel/|명 세포;명 감방|The human body is made up of trillions of *cells*, each with its own function.|인체는 각자 기능이 있는 수조 개의 세포로 이루어져 있다.|The prisoner sat quietly in his *cell*, thinking about the trial.|죄수는 재판에 대해 생각하며 감방에 조용히 앉아 있었다.
+2|ceremony|/ˈserəmoʊni/|명 의식, 식|The graduation *ceremony* starts at ten, so please arrive early to find a seat.|졸업식이 10시에 시작하니 자리를 찾으려면 일찍 도착해 주세요.|They held a special *ceremony* to honor the winners and their coaches.|그들은 우승자와 코치진을 기리는 특별한 시상식을 열었다.
+2|chain|/tʃeɪn/|명 사슬, 연쇄점|The dog was tied to a post with a heavy *chain*, barking at everyone who passed.|개는 무거운 사슬로 기둥에 묶여 지나가는 모든 사람에게 짖었다.|It is one of a large *chain* of coffee shops found in every major city.|그것은 모든 대도시에서 볼 수 있는 대형 커피숍 체인 중 하나다.
+2|chamber|/ˈtʃeɪmbər/|명 방, 회의실|The knights met in a cold stone *chamber* to plan their attack.|기사들은 공격 계획을 세우려고 차가운 석조 방에 모였다.|The council *chamber* was full, and many people had to stand in the hall.|의회실이 가득 차서 많은 사람이 복도에 서 있어야 했다.
+2|channel|/ˈtʃænl/|명 채널, 경로|Could you change the *channel*? I'd like to watch the news.|채널 좀 돌려 주실래요? 뉴스를 보고 싶어서요.|Water flows through a narrow *channel* before it reaches the main river.|물은 좁은 수로를 따라 흐르다가 본류에 이른다.
+2|chaos|/ˈkeɪɒs/|명 혼란|The storm caused *chaos* in the city, closing roads and cutting off power.|폭풍은 도로를 폐쇄시키고 전기를 끊어 도시에 혼란을 일으켰다.|After the party, the room was in total *chaos*, with plates and cups everywhere.|파티가 끝난 뒤 방은 접시와 컵이 여기저기 널려 완전히 엉망이었다.
+2|characteristic|/ˌkærəktəˈrɪstɪk/|명 특징;형 특유의|Honesty is her best *characteristic*, and it is why everyone trusts her.|정직은 그녀의 가장 좋은 특징이며 모두가 그녀를 신뢰하는 이유다.|Long legs and a long neck are *characteristic* of a giraffe.|긴 다리와 긴 목은 기린 특유의 모습이다.
+2|charge|/tʃɑːrdʒ/|명 요금;동 청구하다, 충전하다|There is no *charge* for the service, as it is paid for by the city.|그 서비스는 시에서 비용을 부담하므로 무료다.|I need to *charge* my phone before the long train ride this evening.|오늘 저녁 긴 기차 여행 전에 휴대폰을 충전해야 한다.
+2|charity|/ˈtʃærəti/|명 자선 단체|They donated a large sum of money to *charity* after the earthquake.|그들은 지진이 난 뒤 자선 단체에 큰돈을 기부했다.|She works for a children's *charity* that provides meals to poor families.|그녀는 가난한 가정에 식사를 제공하는 어린이 자선 단체에서 일한다.
+2|charm|/tʃɑːrm/|명 매력|The old town has a special *charm* that attracts visitors from around the world.|그 오래된 도시에는 전 세계에서 방문객을 끌어들이는 특별한 매력이 있다.|Her natural *charm* won everyone over within minutes of arriving.|그녀의 타고난 매력은 도착한 지 몇 분 만에 모두를 사로잡았다.
+2|chart|/tʃɑːrt/|명 도표|The *chart* shows how sales rose and fell in each month of the year.|그 도표는 한 해 동안 월별 판매량이 어떻게 오르내렸는지 보여 준다.|He drew a clear *chart* of the results to explain them to the class.|그는 결과를 학급에 설명하기 위해 알기 쉬운 도표를 그렸다.
+2|chase|/tʃeɪs/|동 뒤쫓다|The dog *chased* the cat across the yard and up a tree.|개는 고양이를 마당 건너 나무 위까지 뒤쫓았다.|Police *chased* the stolen car through the narrow streets for ten minutes.|경찰은 좁은 거리를 지나며 10분간 도난 차량을 추격했다.
+2|chemical|/ˈkemɪkl/|형 화학의;명 화학 물질|He conducted a *chemical* experiment in the lab to test how metals react.|그는 금속이 어떻게 반응하는지 알아보려고 실험실에서 화학 실험을 했다.|Some *chemicals* used in factories are harmful if they enter the river.|공장에서 쓰는 어떤 화학 물질은 강으로 흘러들면 해롭다.
+2|chief|/tʃiːf/|형 주된;명 우두머리|The *chief* reason for the delay was the lack of funding.|지연의 주된 이유는 자금 부족이었다.|The *chief* of the village spoke first and welcomed the visitors.|마을의 촌장이 먼저 말하며 방문객들을 환영했다.
+2|chill|/tʃɪl/|명 냉기;동 식히다|There was a sudden *chill* in the air as the sun disappeared behind the hills.|해가 언덕 뒤로 사라지자 공기 중에 갑자기 냉기가 돌았다.|*Chill* the juice in the refrigerator for an hour before serving.|내기 전에 주스를 냉장고에서 한 시간 동안 차게 식히세요.
+2|chip|/tʃɪp/|명 조각, 칩|There was a small *chip* in the cup, so I was careful not to cut my lip.|컵에 작게 이가 빠져 있어서 입술을 베지 않도록 조심했다.|Modern phones contain a tiny *chip* that can process millions of commands per second.|요즘 휴대폰에는 초당 수백만 개의 명령을 처리하는 작은 칩이 들어 있다.
+2|chronic|/ˈkrɑːnɪk/|형 만성적인|He has suffered from *chronic* back pain ever since the car accident.|그는 교통사고 이후로 줄곧 만성 요통에 시달리고 있다.|Traffic jams are a *chronic* problem in big cities and are hard to solve.|교통 체증은 대도시의 고질적인 문제여서 해결하기가 어렵다.
+2|circumstance|/ˈsɜːrkəmstæns/|명 상황, 사정|Under no *circumstances* should you open the door while the alarm is ringing.|경보가 울리는 동안에는 어떤 상황에서도 문을 열어서는 안 된다.|Given the *circumstances*, the team did remarkably well to finish the project.|상황을 고려하면 그 팀은 프로젝트를 마무리하는 데 놀랄 만큼 잘 해냈다.
+2|cite|/saɪt/|동 인용하다|Always *cite* your sources so that readers can check the information themselves.|독자가 직접 정보를 확인할 수 있도록 항상 출처를 인용하세요.|The author *cited* several studies to support her argument about sleep.|저자는 수면에 관한 자신의 주장을 뒷받침하려고 여러 연구를 인용했다.
+2|citizen|/ˈsɪtɪzn/|명 시민|Every *citizen* has the right to vote and to speak freely.|모든 시민은 투표할 권리와 자유롭게 말할 권리가 있다.|She became a *citizen* last year after living in the country for ten years.|그녀는 그 나라에서 10년을 산 뒤 작년에 시민권을 얻었다.
+2|civil|/ˈsɪvl/|형 시민의, 정중한|Everyone, regardless of race or religion, has the same *civil* rights.|인종이나 종교와 관계없이 모든 사람은 동등한 시민의 권리를 갖는다.|Even though he was angry, he gave a *civil* reply and did not raise his voice.|그는 화가 났지만 목소리를 높이지 않고 정중하게 대답했다.
+2|civilization|/ˌsɪvələˈzeɪʃn/|명 문명|The Nile gave rise to a great *civilization* that lasted for thousands of years.|나일강은 수천 년간 이어진 위대한 문명을 탄생시켰다.|The students studied ancient *civilizations*, including those of Greece and Mesopotamia.|학생들은 그리스와 메소포타미아를 포함한 고대 문명들을 공부했다.
+2|claim|/kleɪm/|동 주장하다;명 주장|He *claims* that he saw a UFO, but nobody has been able to confirm it.|그는 UFO를 봤다고 주장하지만 아무도 이를 확인하지 못했다.|The *claim* that the product cures all diseases turned out to be false.|그 제품이 모든 병을 고친다는 주장은 거짓으로 드러났다.
+2|clarify|/ˈklærəfaɪ/|동 명확히 하다|Could you *clarify* what you mean by that, because I'm not sure I understood?|이해했는지 잘 모르겠으니 그게 무슨 뜻인지 분명히 해 주시겠어요?|The teacher *clarified* the rules before the exam so that nobody would be confused.|선생님은 아무도 헷갈리지 않도록 시험 전에 규칙을 분명히 설명해 주셨다.
+2|classic|/ˈklæsɪk/|형 고전적인;명 명작|This building is a *classic* example of good design that has stood the test of time.|이 건물은 세월의 시험을 견뎌 낸 좋은 디자인의 전형적인 예다.|The film has become a *classic* that new generations continue to enjoy.|그 영화는 새로운 세대도 계속 즐기는 명작이 되었다.
+2|client|/ˈklaɪənt/|명 고객, 의뢰인|The lawyer met her *client* today to discuss the details of the case.|변호사는 오늘 의뢰인을 만나 사건의 세부 사항을 논의했다.|The company has many foreign *clients*, so employees must speak English.|그 회사는 외국 고객이 많아서 직원들이 영어를 해야 한다.
+2|cling|/klɪŋ/|동 달라붙다, 매달리다|The frightened baby *clung* to his mother and wouldn't let go.|겁먹은 아기는 엄마에게 매달려 떨어지려 하지 않았다.|Wet clothes *cling* to the skin and make you feel cold in the wind.|젖은 옷은 피부에 달라붙어서 바람이 불면 춥게 느껴진다.
+2|clinic|/ˈklɪnɪk/|명 병원, 진료소|She works at a dental *clinic* in the center of the city.|그녀는 도심에 있는 치과 의원에서 일한다.|The *clinic* opens at nine, but patients often start lining up much earlier.|진료소는 아홉 시에 문을 열지만 환자들은 훨씬 일찍부터 줄을 서기 시작한다.
+2|code|/koʊd/|명 암호, 규칙|Enter the secret *code* on the keypad to unlock the door.|문을 열려면 키패드에 비밀 암호를 입력하세요.|There is a strict dress *code* at the school, including a uniform and polished shoes.|그 학교에는 교복과 깨끗한 구두를 포함한 엄격한 복장 규정이 있다.

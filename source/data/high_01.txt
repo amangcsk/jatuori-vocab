@@ -1,97 +1,97 @@
-2|abandon|/əˈbændən/|동 버리다, 포기하다|The crew had to *abandon* the sinking ship.|선원들은 침몰하는 배를 버려야 했다.|She never *abandoned* her dream of becoming a pilot.|그녀는 조종사가 되겠다는 꿈을 결코 포기하지 않았다.
-2|abnormal|/æbˈnɔːrml/|형 비정상적인|The doctor found an *abnormal* heartbeat.|의사는 비정상적인 심장 박동을 발견했다.|The weather has been *abnormal* this winter.|이번 겨울은 날씨가 이상하다.
-2|absolute|/ˈæbsəluːt/|형 절대적인, 완전한|I have *absolute* trust in my team.|나는 우리 팀을 전적으로 신뢰한다.|The room was in *absolute* silence.|방 안은 완전한 정적에 싸여 있었다.
-2|absorb|/əbˈzɔːrb/|동 흡수하다|Plants *absorb* water through their roots.|식물은 뿌리로 물을 흡수한다.|Black clothes *absorb* more heat.|검은 옷은 열을 더 많이 흡수한다.
-3|abstract|/ˈæbstrækt/|형 추상적인|Love is an *abstract* idea.|사랑은 추상적인 개념이다.|He likes *abstract* paintings.|그는 추상화를 좋아한다.
-3|absurd|/əbˈsɜːrd/|형 터무니없는|It is *absurd* to expect rain in the desert today.|오늘 사막에서 비를 기대하는 것은 터무니없다.|The price was *absurd* for such a small room.|그렇게 작은 방치고는 가격이 터무니없었다.
-2|academic|/ˌækəˈdemɪk/|형 학업의, 학문의|Her *academic* record is excellent.|그녀의 학업 성적은 훌륭하다.|He plans an *academic* career.|그는 학계에서 일할 계획이다.
-2|accelerate|/ækˈseləreɪt/|동 가속하다|The car *accelerated* on the open road.|차는 뻥 뚫린 도로에서 가속했다.|Technology has *accelerated* social change.|기술은 사회 변화를 가속시켰다.
-2|access|/ˈækses/|명 접근, 이용 권한|Students have free *access* to the library.|학생들은 도서관을 자유롭게 이용할 수 있다.|Only staff can *access* this room.|직원만 이 방에 들어갈 수 있다.
-3|accommodate|/əˈkɒmədeɪt/|동 수용하다, 적응시키다|The hall can *accommodate* five hundred people.|그 홀은 500명을 수용할 수 있다.|The school *accommodates* students with special needs.|그 학교는 특별한 지원이 필요한 학생들을 배려한다.
-2|accompany|/əˈkʌmpəni/|동 동행하다, 반주하다|A teacher will *accompany* the students.|교사 한 명이 학생들과 동행할 것이다.|She *accompanied* him on the piano.|그녀는 피아노로 그의 반주를 했다.
-2|accomplish|/əˈkɑːmplɪʃ/|동 성취하다, 완수하다|We *accomplished* the task ahead of schedule.|우리는 일정보다 앞서 일을 완수했다.|What do you hope to *accomplish* this year?|올해 무엇을 이루고 싶으니?
-2|account|/əˈkaʊnt/|명 계좌;명 설명;동 설명하다|I opened a bank *account* last week.|나는 지난주 은행 계좌를 만들었다.|She gave an *account* of what happened.|그녀는 일어난 일을 설명했다.
-3|accumulate|/əˈkjuːmjəleɪt/|동 축적하다, 모으다|Dust *accumulated* on the old shelf.|낡은 선반에 먼지가 쌓였다.|He *accumulated* a fortune over the years.|그는 여러 해에 걸쳐 재산을 모았다.
-2|accurate|/ˈækjərət/|형 정확한|The scale gives an *accurate* weight.|그 저울은 정확한 무게를 알려 준다.|Is the report *accurate*?|그 보고서는 정확한가요?
-2|accuse|/əˈkjuːz/|동 비난하다, 고발하다|They *accused* him of stealing the money.|그들은 그가 돈을 훔쳤다고 비난했다.|Don't *accuse* anyone without proof.|증거 없이 누구도 비난하지 마라.
-2|acknowledge|/əkˈnɑːlɪdʒ/|동 인정하다|He *acknowledged* his mistake.|그는 자신의 실수를 인정했다.|She *acknowledged* the help of her friends.|그녀는 친구들의 도움을 인정하며 감사했다.
-2|acquaintance|/əˈkweɪntəns/|명 지인, 안면|He is just an *acquaintance*, not a friend.|그는 친구가 아니라 그냥 아는 사람이다.|I made her *acquaintance* at a party.|나는 파티에서 그녀와 알게 되었다.
-2|actual|/ˈæktʃuəl/|형 실제의|The *actual* cost was higher than expected.|실제 비용은 예상보다 높았다.|What was the *actual* reason?|실제 이유는 무엇이었니?
-2|adequate|/ˈædɪkwət/|형 충분한, 적절한|We have *adequate* supplies for the trip.|우리는 여행에 충분한 물자가 있다.|His salary was not *adequate* to live on.|그의 월급은 생활하기에 충분하지 않았다.
-2|adjust|/əˈdʒʌst/|동 조절하다, 적응하다|Please *adjust* the volume.|볼륨을 조절해 주세요.|It took time to *adjust* to the new school.|새 학교에 적응하는 데 시간이 걸렸다.
-2|administration|/ədˌmɪnɪˈstreɪʃn/|명 관리, 행정|The school *administration* approved the plan.|학교 행정부가 그 계획을 승인했다.|She works in hospital *administration*.|그녀는 병원 행정 업무를 한다.
-2|admire|/ədˈmaɪər/|동 존경하다, 감탄하다|I *admire* her courage.|나는 그녀의 용기를 존경한다.|We *admired* the view from the top.|우리는 정상에서 보는 경치에 감탄했다.
-2|admit|/ədˈmɪt/|동 인정하다, 입장을 허락하다|He *admitted* that he was wrong.|그는 자신이 틀렸음을 인정했다.|The club only *admits* adults.|그 클럽은 성인만 입장시킨다.
-2|adolescent|/ˌædəˈlesnt/|명 청소년|An *adolescent* needs plenty of sleep.|청소년은 충분한 잠이 필요하다.|The book is written for *adolescent* readers.|그 책은 청소년 독자를 위해 쓰였다.
-2|adopt|/əˈdɑːpt/|동 입양하다, 채택하다|They *adopted* a baby girl.|그들은 여자 아기를 입양했다.|The school *adopted* a new rule.|학교는 새 규칙을 채택했다.
-2|advance|/ədˈvæns/|명 진보;동 나아가다|Medical *advances* have saved many lives.|의학의 발전이 많은 생명을 구했다.|The army *advanced* toward the river.|군대는 강을 향해 전진했다.
-2|advantage|/ədˈvæntɪdʒ/|명 이점, 장점|Being tall is an *advantage* in basketball.|키가 큰 것은 농구에서 장점이다.|Take *advantage* of the sunny weather.|맑은 날씨를 활용하라.
-2|advertise|/ˈædvərtaɪz/|동 광고하다|The company *advertises* on TV.|그 회사는 TV에 광고한다.|They *advertised* the sale in the newspaper.|그들은 신문에 세일 광고를 냈다.
-2|affect|/əˈfekt/|동 영향을 미치다|Lack of sleep *affects* your health.|수면 부족은 건강에 영향을 미친다.|The news *affected* her deeply.|그 소식은 그녀에게 깊은 영향을 주었다.
-2|afford|/əˈfɔːrd/|동 여유가 있다|I can't *afford* a new phone.|나는 새 휴대폰을 살 여유가 없다.|They could not *afford* to wait.|그들은 기다릴 여유가 없었다.
-2|agency|/ˈeɪdʒənsi/|명 대행사, 기관|She works for a travel *agency*.|그녀는 여행사에서 일한다.|A government *agency* handles the permits.|정부 기관이 허가를 처리한다.
-2|agenda|/əˈdʒendə/|명 안건, 의제|The first item on the *agenda* is the budget.|의제의 첫 번째 항목은 예산이다.|Let's set the *agenda* for the meeting.|회의 안건을 정합시다.
-2|aggressive|/əˈɡresɪv/|형 공격적인, 적극적인|The dog became *aggressive* when scared.|그 개는 겁이 나자 공격적으로 변했다.|He plays an *aggressive* game.|그는 공격적인 경기를 한다.
-2|aim|/eɪm/|명 목표;동 겨냥하다|Our *aim* is to reduce waste.|우리의 목표는 쓰레기를 줄이는 것이다.|She *aimed* at the target.|그녀는 과녁을 겨냥했다.
-2|alert|/əˈlɜːrt/|형 경계하는, 기민한|A good guard stays *alert*.|좋은 경비원은 경계를 늦추지 않는다.|The dog was *alert* to every sound.|개는 모든 소리에 기민하게 반응했다.
-2|alien|/ˈeɪliən/|형 낯선;명 외계인|Everything felt *alien* in the new country.|새로운 나라에서는 모든 것이 낯설게 느껴졌다.|The film is about an *alien* visiting Earth.|그 영화는 지구를 찾아온 외계인에 관한 것이다.
-2|allow|/əˈlaʊ/|동 허락하다|Pets are not *allowed* in the building.|건물 안에는 반려동물이 허용되지 않는다.|My parents *allow* me to stay out until nine.|부모님은 내가 아홉 시까지 밖에 있는 것을 허락하신다.
-2|alter|/ˈɔːltər/|동 바꾸다, 변경하다|They *altered* the plan at the last minute.|그들은 마지막 순간에 계획을 바꾸었다.|The tailor *altered* my jacket.|재단사가 내 재킷을 수선했다.
-2|alternative|/ɔːlˈtɜːrnətɪv/|명 대안;형 대체의|We need an *alternative* to plastic bags.|우리는 비닐봉지의 대안이 필요하다.|Solar power is an *alternative* source of energy.|태양광은 대체 에너지원이다.
-2|amateur|/ˈæmətʃər/|명 아마추어|He is an *amateur* photographer.|그는 아마추어 사진가다.|The team is made up of *amateurs*.|그 팀은 아마추어들로 구성되어 있다.
-2|amaze|/əˈmeɪz/|동 깜짝 놀라게 하다|Her talent *amazed* the judges.|그녀의 재능은 심사위원들을 놀라게 했다.|I was *amazed* by the size of the cave.|나는 동굴의 크기에 깜짝 놀랐다.
-2|ambition|/æmˈbɪʃn/|명 야망, 포부|Her *ambition* is to become a scientist.|그녀의 포부는 과학자가 되는 것이다.|He is full of *ambition*.|그는 야망으로 가득하다.
-2|amount|/əˈmaʊnt/|명 양, 총액|A large *amount* of money was lost.|많은 양의 돈을 잃었다.|Add a small *amount* of salt.|소금을 소량 넣어라.
-2|analyze|/ˈænəlaɪz/|동 분석하다|Scientists *analyzed* the water sample.|과학자들은 물 시료를 분석했다.|We need to *analyze* the data first.|우리는 먼저 자료를 분석해야 한다.
-2|ancient|/ˈeɪnʃənt/|형 고대의|Egypt has many *ancient* temples.|이집트에는 고대 신전이 많다.|They studied *ancient* history.|그들은 고대사를 공부했다.
-2|anniversary|/ˌænɪˈvɜːrsəri/|명 기념일|Today is my parents' wedding *anniversary*.|오늘은 부모님의 결혼기념일이다.|The school celebrated its fiftieth *anniversary*.|학교는 개교 50주년을 기념했다.
-2|announce|/əˈnaʊns/|동 발표하다|The teacher *announced* the test results.|선생님은 시험 결과를 발표했다.|They *announced* the winner.|그들은 우승자를 발표했다.
-2|annoy|/əˈnɔɪ/|동 짜증나게 하다|The noise *annoys* me.|그 소음은 나를 짜증나게 한다.|It *annoyed* her that he was late.|그가 늦은 것이 그녀를 짜증나게 했다.
-2|annual|/ˈænjuəl/|형 연간의, 해마다의|The school holds an *annual* sports day.|학교는 해마다 운동회를 연다.|The company's *annual* profit grew.|그 회사의 연간 수익이 늘었다.
-2|anticipate|/ænˈtɪsɪpeɪt/|동 예상하다, 기대하다|We *anticipate* a large crowd.|우리는 많은 인파를 예상한다.|She *anticipated* his question.|그녀는 그의 질문을 예상했다.
-2|anxious|/ˈæŋkʃəs/|형 불안한, 간절히 바라는|He felt *anxious* before the exam.|그는 시험 전에 불안했다.|She is *anxious* to meet her idol.|그녀는 우상을 간절히 만나고 싶어 한다.
-2|apart|/əˈpɑːrt/|부 떨어져, 따로|The two towns are ten miles *apart*.|두 마을은 10마일 떨어져 있다.|The toy fell *apart*.|그 장난감이 산산이 부서졌다.
-2|apologize|/əˈpɑːlədʒaɪz/|동 사과하다|I *apologize* for being late.|늦어서 죄송합니다.|He *apologized* to his friend.|그는 친구에게 사과했다.
-2|apparent|/əˈpærənt/|형 분명한, 명백한|It was *apparent* that she was tired.|그녀가 피곤하다는 것이 분명했다.|The reason became *apparent* later.|이유는 나중에 분명해졌다.
-2|appeal|/əˈpiːl/|명 매력, 호소;동 호소하다|The movie has wide *appeal*.|그 영화는 폭넓은 매력이 있다.|He *appealed* to the public for help.|그는 대중에게 도움을 호소했다.
-2|appetite|/ˈæpɪtaɪt/|명 식욕|I lost my *appetite* when I was sick.|나는 아플 때 식욕을 잃었다.|Walking gives me a good *appetite*.|걷기는 식욕을 돋워 준다.
-2|applaud|/əˈplɔːd/|동 박수를 치다, 칭찬하다|The audience *applauded* loudly.|관객들은 크게 박수를 쳤다.|We *applaud* your efforts.|우리는 당신의 노력을 칭찬합니다.
-2|appliance|/əˈplaɪəns/|명 가전제품|A washing machine is a home *appliance*.|세탁기는 가전제품이다.|The store sells kitchen *appliances*.|그 가게는 주방 가전제품을 판다.
-2|applicant|/ˈæplɪkənt/|명 지원자|There were fifty *applicants* for the job.|그 일자리에 50명의 지원자가 있었다.|Each *applicant* must submit a form.|지원자는 각자 서류를 제출해야 한다.
-2|apply|/əˈplaɪ/|동 지원하다, 적용하다|I *applied* for a part-time job.|나는 아르바이트에 지원했다.|*Apply* what you learned to real life.|배운 것을 실생활에 적용해라.
-2|appoint|/əˈpɔɪnt/|동 임명하다|They *appointed* her as the new manager.|그들은 그녀를 새 관리자로 임명했다.|The mayor *appointed* a committee.|시장은 위원회를 임명했다.
-2|appreciate|/əˈpriːʃieɪt/|동 감사하다, 진가를 알다|I really *appreciate* your help.|도와주셔서 정말 감사합니다.|He doesn't *appreciate* good music.|그는 좋은 음악의 진가를 알지 못한다.
-2|approach|/əˈproʊtʃ/|동 다가가다;명 접근법|The train is *approaching* the station.|기차가 역에 다가오고 있다.|We need a new *approach* to the problem.|우리는 그 문제에 대한 새로운 접근법이 필요하다.
-2|appropriate|/əˈproʊpriət/|형 적절한|Wear *appropriate* clothes for the interview.|면접에는 적절한 옷을 입어라.|Is this film *appropriate* for children?|이 영화는 어린이에게 적합한가요?
-2|approve|/əˈpruːv/|동 승인하다, 찬성하다|The board *approved* the budget.|이사회가 예산을 승인했다.|My parents don't *approve* of the plan.|부모님은 그 계획에 찬성하지 않으신다.
-2|approximately|/əˈprɑːksɪmətli/|부 대략|The trip takes *approximately* two hours.|여행은 대략 두 시간이 걸린다.|*Approximately* fifty people came.|대략 오십 명이 왔다.
-2|architect|/ˈɑːrkɪtekt/|명 건축가|The *architect* designed a modern library.|건축가는 현대식 도서관을 설계했다.|She dreams of becoming an *architect*.|그녀는 건축가가 되는 것이 꿈이다.
-2|arise|/əˈraɪz/|동 생기다, 발생하다|Problems *arise* when people don't communicate.|사람들이 소통하지 않으면 문제가 생긴다.|A new question *arose* during the talk.|대화 도중 새로운 질문이 생겼다.
-2|arrange|/əˈreɪndʒ/|동 배열하다, 준비하다|She *arranged* the flowers in a vase.|그녀는 꽃병에 꽃을 꽂았다.|I will *arrange* a meeting for Monday.|월요일에 회의를 잡겠습니다.
-2|arrest|/əˈrest/|동 체포하다|The police *arrested* the thief.|경찰은 도둑을 체포했다.|He was *arrested* for speeding.|그는 과속으로 체포되었다.
-2|article|/ˈɑːrtɪkl/|명 기사, 글;명 물품|I read an interesting *article* about space.|나는 우주에 관한 흥미로운 기사를 읽었다.|The shop sells *articles* of clothing.|그 가게는 의류 품목을 판다.
-2|artificial|/ˌɑːrtɪˈfɪʃl/|형 인공의|The cake contains *artificial* colors.|그 케이크에는 인공 색소가 들어 있다.|*Artificial* flowers never die.|조화는 시들지 않는다.
-2|aspect|/ˈæspekt/|명 측면|Consider every *aspect* of the problem.|그 문제의 모든 측면을 고려해라.|Cost is one *aspect* of the plan.|비용은 계획의 한 측면이다.
-2|assemble|/əˈsembl/|동 모으다, 조립하다|Workers *assemble* cars in this factory.|노동자들이 이 공장에서 자동차를 조립한다.|The students *assembled* in the gym.|학생들이 체육관에 모였다.
-2|assign|/əˈsaɪn/|동 배정하다, 할당하다|The teacher *assigned* us a new project.|선생님은 우리에게 새 과제를 내 주셨다.|She was *assigned* to the sales team.|그녀는 영업팀에 배정되었다.
-2|assist|/əˈsɪst/|동 돕다|Volunteers *assist* the nurses.|자원봉사자들이 간호사를 돕는다.|He *assisted* me with the project.|그는 내 프로젝트를 도와주었다.
-2|associate|/əˈsoʊsieɪt/|동 연관 짓다|People *associate* red with danger.|사람들은 빨간색을 위험과 연관 짓는다.|I don't want to be *associated* with that group.|나는 그 집단과 엮이고 싶지 않다.
-2|assume|/əˈsuːm/|동 추정하다, 가정하다|I *assume* you have eaten.|식사하셨으리라 생각합니다.|Don't *assume* everyone agrees.|모두가 동의한다고 단정하지 마라.
-2|assure|/əˈʃʊr/|동 장담하다, 확신시키다|I *assure* you that it is safe.|그것이 안전하다고 장담합니다.|She *assured* him that she would come.|그녀는 오겠다고 그에게 확신시켰다.
-2|athlete|/ˈæθliːt/|명 운동선수|The *athlete* trains every morning.|그 선수는 매일 아침 훈련한다.|Many *athletes* joined the race.|많은 선수가 경주에 참가했다.
-2|atmosphere|/ˈætməsfɪr/|명 대기;명 분위기|The *atmosphere* protects Earth from harmful rays.|대기는 지구를 해로운 광선으로부터 보호한다.|The café has a warm *atmosphere*.|그 카페는 따뜻한 분위기다.
-2|attach|/əˈtætʃ/|동 붙이다, 첨부하다|*Attach* the photo to the form.|사진을 서류에 붙이세요.|I *attached* the file to the e-mail.|나는 이메일에 파일을 첨부했다.
-2|attempt|/əˈtempt/|동 시도하다;명 시도|She *attempted* to climb the wall.|그녀는 벽을 오르려고 시도했다.|It was his first *attempt*.|그것이 그의 첫 시도였다.
-2|attitude|/ˈætɪtuːd/|명 태도|A positive *attitude* helps you learn.|긍정적인 태도는 배움에 도움이 된다.|I don't like his *attitude*.|나는 그의 태도가 마음에 들지 않는다.
-2|attract|/əˈtrækt/|동 끌어들이다|Bright flowers *attract* bees.|화려한 꽃은 벌을 끌어들인다.|The festival *attracts* many tourists.|그 축제는 많은 관광객을 끌어들인다.
-2|audience|/ˈɔːdiəns/|명 관객, 청중|The *audience* clapped for a long time.|관객은 오랫동안 박수를 쳤다.|The show has a young *audience*.|그 쇼는 젊은 관객층을 가졌다.
-2|author|/ˈɔːθər/|명 저자|Who is the *author* of this book?|이 책의 저자는 누구니?|The *author* signed my copy.|저자가 내 책에 사인해 주었다.
-2|authority|/əˈθɔːrəti/|명 권위, 당국|The teacher has *authority* in the classroom.|교사는 교실에서 권위를 가진다.|The local *authorities* closed the road.|지역 당국이 도로를 폐쇄했다.
-2|automatic|/ˌɔːtəˈmætɪk/|형 자동의|The door is *automatic*.|그 문은 자동이다.|Breathing is an *automatic* action.|호흡은 자동적인 행동이다.
-2|available|/əˈveɪləbl/|형 이용 가능한|Tickets are still *available*.|표가 아직 남아 있다.|Is the doctor *available* today?|의사 선생님은 오늘 시간이 되시나요?
-2|average|/ˈævərɪdʒ/|명 평균;형 평균의|The *average* score was eighty.|평균 점수는 80점이었다.|He is of *average* height.|그는 평균 키다.
-2|avoid|/əˈvɔɪd/|동 피하다|Try to *avoid* junk food.|정크 푸드를 피하려고 노력해라.|She *avoided* talking about it.|그녀는 그것에 대해 말하는 것을 피했다.
-2|award|/əˈwɔːrd/|명 상;동 수여하다|She won an *award* for her science project.|그녀는 과학 프로젝트로 상을 받았다.|The school *awarded* him a scholarship.|학교는 그에게 장학금을 수여했다.
-2|aware|/əˈwer/|형 알고 있는|Are you *aware* of the danger?|위험을 알고 있나요?|He was not *aware* that the shop was closed.|그는 가게가 닫은 것을 몰랐다.
-2|awful|/ˈɔːfl/|형 끔찍한|The weather was *awful*.|날씨가 끔찍했다.|I had an *awful* dream.|나는 끔찍한 꿈을 꾸었다.
-2|awkward|/ˈɔːkwərd/|형 어색한, 서투른|There was an *awkward* silence.|어색한 침묵이 흘렀다.|He felt *awkward* at the party.|그는 파티에서 어색함을 느꼈다.
+2|abandon|/əˈbændən/|동 버리다, 포기하다|The crew had no choice but to *abandon* the sinking ship and board the lifeboats.|선원들은 침몰하는 배를 버리고 구명보트에 탈 수밖에 없었다.|Despite repeated failures, she never *abandoned* her dream of becoming a pilot.|거듭된 실패에도 그녀는 조종사가 되겠다는 꿈을 결코 포기하지 않았다.
+2|abnormal|/æbˈnɔːrml/|형 비정상적인|The doctor noticed an *abnormal* heartbeat and ordered further tests right away.|의사는 비정상적인 심장 박동을 발견하고 곧바로 추가 검사를 지시했다.|The weather has been unusually *abnormal* this winter, with spring-like days in January.|이번 겨울은 1월에 봄 같은 날이 있을 만큼 날씨가 이례적으로 이상했다.
+2|absolute|/ˈæbsəluːt/|형 절대적인, 완전한|I have *absolute* trust in my team, so I never check their work twice.|나는 우리 팀을 전적으로 신뢰해서 그들의 일을 다시 확인하는 법이 없다.|The room fell into *absolute* silence the moment the results were announced.|결과가 발표되는 순간 방 안은 완전한 정적에 휩싸였다.
+2|absorb|/əbˈzɔːrb/|동 흡수하다|Plants *absorb* water and minerals through their roots and carry them to the leaves.|식물은 뿌리로 물과 무기질을 흡수해 잎으로 운반한다.|Dark clothing tends to *absorb* more heat, which is why it feels hotter in summer.|어두운 옷은 열을 더 많이 흡수하는 경향이 있어서 여름에 더 덥게 느껴진다.
+3|abstract|/ˈæbstrækt/|형 추상적인|Justice is an *abstract* idea that people often define in very different ways.|정의는 사람들이 흔히 아주 다르게 정의하는 추상적인 개념이다.|Her father prefers *abstract* paintings because they leave more room for interpretation.|그녀의 아버지는 해석의 여지가 더 많다는 이유로 추상화를 선호한다.
+3|absurd|/əbˈsɜːrd/|형 터무니없는|It would be *absurd* to expect rain in the desert during the middle of summer.|한여름 사막에서 비를 기대하는 것은 터무니없는 일일 것이다.|The landlord asked an *absurd* price for such a small and noisy room.|집주인은 그렇게 작고 시끄러운 방에 터무니없는 가격을 불렀다.
+2|academic|/ˌækəˈdemɪk/|형 학업의, 학문의|Her *academic* record is so outstanding that several universities offered her scholarships.|그녀의 학업 성적이 워낙 뛰어나서 여러 대학이 장학금을 제안했다.|He is planning an *academic* career, hoping to teach and do research at a university.|그는 대학에서 가르치고 연구하기를 바라며 학계에서 일할 계획을 세우고 있다.
+2|accelerate|/ækˈseləreɪt/|동 가속하다|The car *accelerated* smoothly as it merged onto the open highway.|차는 뻥 뚫린 고속도로에 합류하면서 부드럽게 가속했다.|Advances in technology have *accelerated* social change faster than anyone predicted.|기술의 발전은 누구의 예상보다도 빠르게 사회 변화를 가속시켰다.
+2|access|/ˈækses/|명 접근, 이용 권한|Students have free *access* to the school library, even during the holidays.|학생들은 방학 중에도 학교 도서관을 자유롭게 이용할 수 있다.|Only authorized staff can *access* the laboratory where the samples are stored.|허가받은 직원만이 시료가 보관된 실험실에 출입할 수 있다.
+3|accommodate|/əˈkɒmədeɪt/|동 수용하다, 적응시키다|The new concert hall can *accommodate* up to five hundred people at a time.|새 공연장은 한 번에 최대 500명까지 수용할 수 있다.|The school works hard to *accommodate* students with special needs.|그 학교는 특별한 지원이 필요한 학생들을 배려하려고 애쓴다.
+2|accompany|/əˈkʌmpəni/|동 동행하다, 반주하다|A teacher will *accompany* the students on their field trip to the science museum.|교사 한 명이 과학관으로 가는 현장 학습에 학생들과 동행할 것이다.|She *accompanied* the singer on the piano during the whole concert.|그녀는 공연 내내 피아노로 가수의 반주를 맡았다.
+2|accomplish|/əˈkɑːmplɪʃ/|동 성취하다, 완수하다|We *accomplished* the task two days ahead of schedule thanks to everyone's effort.|우리는 모두의 노력 덕분에 그 일을 예정보다 이틀 앞서 완수했다.|What do you hope to *accomplish* by the end of this year?|올해가 끝날 때까지 무엇을 이루고 싶으세요?
+2|account|/əˈkaʊnt/|명 계좌;명 설명;동 설명하다|I opened a bank *account* last week so that my salary could be paid directly into it.|나는 월급을 바로 입금받으려고 지난주에 은행 계좌를 만들었다.|She gave a detailed *account* of what had happened that night.|그녀는 그날 밤 일어난 일을 자세히 설명했다.
+3|accumulate|/əˈkjuːmjəleɪt/|동 축적하다, 모으다|Dust had *accumulated* on the old shelf after years of being left untouched.|손대지 않은 채 수년이 지나자 낡은 선반에 먼지가 쌓여 있었다.|He *accumulated* a considerable fortune over the years by investing wisely.|그는 현명하게 투자하며 수년에 걸쳐 상당한 재산을 모았다.
+2|accurate|/ˈækjərət/|형 정확한|The new scale gives a much more *accurate* reading than the old one did.|새 저울은 예전 것보다 훨씬 정확한 수치를 알려 준다.|Before publishing the story, the editor checked whether the report was *accurate*.|편집자는 기사를 내보내기 전에 그 보도가 정확한지 확인했다.
+2|accuse|/əˈkjuːz/|동 비난하다, 고발하다|They *accused* him of stealing the money, although they had no real proof.|그들은 확실한 증거도 없이 그가 돈을 훔쳤다고 비난했다.|You should never *accuse* anyone of a crime without solid evidence.|확실한 증거 없이 누구도 범죄로 고발해서는 안 된다.
+2|acknowledge|/əkˈnɑːlɪdʒ/|동 인정하다|He finally *acknowledged* his mistake and apologized to everyone on the team.|그는 마침내 자신의 실수를 인정하고 팀원 모두에게 사과했다.|In her speech, she *acknowledged* the support of her friends and family.|연설에서 그녀는 친구들과 가족의 도움에 감사를 표했다.
+2|acquaintance|/əˈkweɪntəns/|명 지인, 안면|He is merely an *acquaintance* from work, not someone I would call a friend.|그는 직장에서 알게 된 지인일 뿐 내가 친구라고 부를 만한 사람은 아니다.|I first made her *acquaintance* at a friend's party several years ago.|나는 몇 년 전 친구의 파티에서 처음 그녀와 알게 되었다.
+2|actual|/ˈæktʃuəl/|형 실제의|The *actual* cost of the repairs turned out to be much higher than the estimate.|수리의 실제 비용은 견적보다 훨씬 높게 나왔다.|Nobody could explain what the *actual* reason for the delay was.|지연의 실제 이유가 무엇인지 아무도 설명하지 못했다.
+2|adequate|/ˈædɪkwət/|형 충분한, 적절한|We have *adequate* supplies to last the whole expedition, with some to spare.|우리에게는 원정 기간 내내 쓰고도 남을 만큼 충분한 물자가 있다.|His salary was barely *adequate* to cover rent and basic living expenses.|그의 월급은 집세와 기본 생활비를 겨우 감당할 정도였다.
+2|adjust|/əˈdʒʌst/|동 조절하다, 적응하다|Please *adjust* the volume so that it doesn't disturb the neighbors.|이웃에게 방해가 되지 않도록 볼륨을 조절해 주세요.|It took several months for the children to *adjust* to their new school.|아이들이 새 학교에 적응하는 데는 몇 달이 걸렸다.
+2|administration|/ədˌmɪnɪˈstreɪʃn/|명 관리, 행정|The school *administration* approved the plan after months of discussion with parents.|학교 행정부는 학부모들과 몇 달간 논의한 끝에 그 계획을 승인했다.|She has worked in hospital *administration* for over ten years.|그녀는 10년 넘게 병원 행정 업무에 종사해 왔다.
+2|admire|/ədˈmaɪər/|동 존경하다, 감탄하다|I deeply *admire* her courage in speaking out against injustice.|나는 부당함에 맞서 목소리를 낸 그녀의 용기를 깊이 존경한다.|We stopped to *admire* the breathtaking view from the top of the mountain.|우리는 걸음을 멈추고 산꼭대기에서 보이는 숨 막히는 경치에 감탄했다.
+2|admit|/ədˈmɪt/|동 인정하다, 입장을 허락하다|He *admitted* that he had been wrong and offered to fix the problem himself.|그는 자신이 틀렸음을 인정하고 직접 문제를 바로잡겠다고 했다.|The club only *admits* adults, so the teenagers were turned away at the door.|그 클럽은 성인만 입장시켜서 십 대들은 문 앞에서 돌려보내졌다.
+2|adolescent|/ˌædəˈlesnt/|명 청소년|An *adolescent* needs plenty of sleep because the body is still growing rapidly.|청소년은 몸이 아직 빠르게 성장하고 있어서 충분한 잠이 필요하다.|The novel was written for *adolescent* readers who are struggling to find their identity.|그 소설은 정체성을 찾으려 고민하는 청소년 독자들을 위해 쓰였다.
+2|adopt|/əˈdɑːpt/|동 입양하다, 채택하다|The couple decided to *adopt* a baby girl after years of waiting.|그 부부는 수년을 기다린 끝에 여자 아기를 입양하기로 했다.|The school *adopted* a new rule requiring students to recycle their lunch waste.|학교는 학생들이 점심 쓰레기를 분리배출하도록 하는 새 규칙을 채택했다.
+2|advance|/ədˈvæns/|명 진보;동 나아가다|Medical *advances* over the past century have saved millions of lives.|지난 한 세기 동안의 의학 발전은 수백만 명의 생명을 구했다.|The army *advanced* slowly toward the river under cover of darkness.|군대는 어둠을 틈타 강을 향해 천천히 전진했다.
+2|advantage|/ədˈvæntɪdʒ/|명 이점, 장점|Being tall is a clear *advantage* in basketball, but skill matters even more.|키가 큰 것은 농구에서 분명한 장점이지만 기술이 훨씬 더 중요하다.|You should take *advantage* of the sunny weather and finish painting the fence.|맑은 날씨를 이용해서 울타리 페인트칠을 끝내는 게 좋겠어요.
+2|advertise|/ˈædvərtaɪz/|동 광고하다|The company *advertises* heavily on television during the holiday season.|그 회사는 연휴 기간에 텔레비전에 광고를 대대적으로 낸다.|They *advertised* the sale in the local newspaper and on social media.|그들은 지역 신문과 소셜 미디어에 할인 행사를 광고했다.
+2|affect|/əˈfekt/|동 영향을 미치다|A chronic lack of sleep can seriously *affect* both your health and your mood.|만성적인 수면 부족은 건강과 기분 모두에 심각한 영향을 줄 수 있다.|The news *affected* her deeply, and she could not concentrate for the rest of the day.|그 소식은 그녀에게 깊은 영향을 미쳐서 하루 종일 집중할 수 없었다.
+2|afford|/əˈfɔːrd/|동 여유가 있다|I can't *afford* a new phone right now because I'm saving for a trip.|나는 여행 경비를 모으고 있어서 지금은 새 휴대폰을 살 여유가 없다.|The rescue team could not *afford* to wait any longer, as the storm was approaching.|폭풍이 다가오고 있어서 구조대는 더 이상 기다릴 여유가 없었다.
+2|agency|/ˈeɪdʒənsi/|명 대행사, 기관|She works for a travel *agency* that specializes in budget trips to Southeast Asia.|그녀는 동남아시아 저가 여행을 전문으로 하는 여행사에서 일한다.|A government *agency* is responsible for issuing the permits for new buildings.|정부 기관이 신축 건물의 허가를 발급하는 일을 맡고 있다.
+2|agenda|/əˈdʒendə/|명 안건, 의제|The first item on the *agenda* is the budget for next year.|의제의 첫 번째 항목은 내년도 예산이다.|Let's set the *agenda* for the meeting before we invite everyone.|모두를 초대하기 전에 회의 안건부터 정합시다.
+2|aggressive|/əˈɡresɪv/|형 공격적인, 적극적인|The normally friendly dog became *aggressive* when it felt frightened and cornered.|평소 얌전하던 개는 겁이 나고 궁지에 몰렸다고 느끼자 공격적으로 변했다.|He plays an *aggressive* game, always pushing forward to attack.|그는 늘 앞으로 밀고 나가 공격하는 적극적인 경기를 한다.
+2|aim|/eɪm/|명 목표;동 겨냥하다|Our main *aim* is to reduce the amount of waste the school produces each year.|우리의 주된 목표는 학교에서 해마다 나오는 쓰레기의 양을 줄이는 것이다.|She took a deep breath and *aimed* carefully at the center of the target.|그녀는 심호흡을 하고 과녁의 한가운데를 조심스럽게 겨냥했다.
+2|alert|/əˈlɜːrt/|형 경계하는, 기민한|A good security guard stays *alert* even during the quietest hours of the night.|훌륭한 경비원은 가장 조용한 밤 시간에도 경계를 늦추지 않는다.|The dog was *alert* to every sound coming from the garden.|그 개는 정원에서 들리는 모든 소리에 기민하게 반응했다.
+2|alien|/ˈeɪliən/|형 낯선;명 외계인|Everything felt *alien* to her when she first moved to the new country.|새로운 나라로 처음 이주했을 때 그녀에게는 모든 것이 낯설게 느껴졌다.|The film tells the story of an *alien* who is stranded on Earth and befriends a boy.|그 영화는 지구에 불시착해 한 소년과 친구가 되는 외계인의 이야기를 다룬다.
+2|allow|/əˈlaʊ/|동 허락하다|Pets are not *allowed* in the building unless they are registered service animals.|등록된 안내 동물이 아니면 건물 안에 반려동물이 허용되지 않는다.|My parents *allow* me to stay out until nine as long as I let them know where I am.|부모님은 내가 어디 있는지 알려 드리기만 하면 아홉 시까지 밖에 있는 것을 허락하신다.
+2|alter|/ˈɔːltər/|동 바꾸다, 변경하다|They *altered* the plan at the last minute after hearing the weather forecast.|그들은 일기예보를 듣고 마지막 순간에 계획을 바꾸었다.|The tailor *altered* my jacket so that it fit perfectly across the shoulders.|재단사는 어깨에 꼭 맞도록 내 재킷을 수선했다.
+2|alternative|/ɔːlˈtɜːrnətɪv/|명 대안;형 대체의|We urgently need an *alternative* to plastic bags that is cheap and easy to produce.|우리는 값싸고 만들기 쉬운 비닐봉지의 대안이 시급히 필요하다.|Solar power is an *alternative* source of energy that produces no harmful emissions.|태양광은 유해한 배출물을 내놓지 않는 대체 에너지원이다.
+2|amateur|/ˈæmətʃər/|명 아마추어|He is an *amateur* photographer, but his pictures are as good as a professional's.|그는 아마추어 사진가이지만 그의 사진은 전문가 못지않게 훌륭하다.|The team is made up entirely of *amateurs* who play for the love of the game.|그 팀은 경기가 좋아서 뛰는 아마추어들로만 이루어져 있다.
+2|amaze|/əˈmeɪz/|동 깜짝 놀라게 하다|Her extraordinary talent *amazed* the judges, who had never seen anything like it.|그녀의 비범한 재능은 그런 것을 본 적 없는 심사위원들을 놀라게 했다.|I was *amazed* by the sheer size of the cave and the crystals that covered its walls.|나는 동굴의 어마어마한 크기와 벽을 뒤덮은 수정들에 깜짝 놀랐다.
+2|ambition|/æmˈbɪʃn/|명 야망, 포부|Her *ambition* is to become a scientist and find a cure for a rare disease.|그녀의 포부는 과학자가 되어 희귀병의 치료법을 찾는 것이다.|He is full of *ambition*, and he is always looking for the next challenge.|그는 야망으로 가득 차 있어서 언제나 다음 도전을 찾는다.
+2|amount|/əˈmaʊnt/|명 양, 총액|A large *amount* of money was lost when the company failed last year.|작년에 회사가 도산하면서 막대한 금액이 사라졌다.|Add only a small *amount* of salt, or the soup will taste too strong.|수프 맛이 너무 강해지지 않도록 소금은 소량만 넣으세요.
+2|analyze|/ˈænəlaɪz/|동 분석하다|Scientists *analyzed* the water sample to find out what was making the fish sick.|과학자들은 무엇이 물고기를 병들게 하는지 알아내려고 물 시료를 분석했다.|We need to *analyze* the data carefully before drawing any conclusions.|어떤 결론을 내리기 전에 자료를 신중히 분석해야 한다.
+2|ancient|/ˈeɪnʃənt/|형 고대의|Egypt is famous for its *ancient* temples, which attract millions of visitors every year.|이집트는 해마다 수백만 명의 방문객을 끌어들이는 고대 신전으로 유명하다.|They spent the semester studying *ancient* history, especially the rise of Rome.|그들은 한 학기 동안 고대사, 특히 로마의 부상을 공부했다.
+2|anniversary|/ˌænɪˈvɜːrsəri/|명 기념일|Today is my parents' wedding *anniversary*, so we are planning a surprise dinner.|오늘은 부모님의 결혼기념일이라서 우리는 깜짝 저녁 식사를 계획하고 있다.|The school celebrated its fiftieth *anniversary* with a ceremony for former students.|학교는 졸업생들을 위한 행사로 개교 50주년을 기념했다.
+2|announce|/əˈnaʊns/|동 발표하다|The teacher *announced* the test results to the class on Monday morning.|선생님은 월요일 아침에 반 학생들에게 시험 결과를 발표했다.|The committee will *announce* the winner of the competition at the closing ceremony.|위원회는 폐막식에서 대회 우승자를 발표할 것이다.
+2|annoy|/əˈnɔɪ/|동 짜증나게 하다|The constant noise from the construction site really *annoys* me when I'm trying to study.|공부하려고 할 때 공사장에서 들려오는 끊임없는 소음이 정말 나를 짜증나게 한다.|It *annoyed* her that he showed up late without even a word of apology.|그가 사과 한마디 없이 늦게 나타난 것이 그녀를 짜증나게 했다.
+2|annual|/ˈænjuəl/|형 연간의, 해마다의|The school holds an *annual* sports day that parents and alumni also attend.|학교는 학부모와 졸업생도 참석하는 연례 운동회를 개최한다.|The company's *annual* profit grew by twelve percent despite the difficult economy.|어려운 경기에도 불구하고 그 회사의 연간 수익은 12퍼센트 늘었다.
+2|anticipate|/ænˈtɪsɪpeɪt/|동 예상하다, 기대하다|We *anticipate* a large crowd at the festival, so extra buses will be provided.|축제에 많은 인파가 몰릴 것으로 예상되어 버스를 추가로 운행할 것이다.|She *anticipated* his question and had her answer ready before he spoke.|그녀는 그의 질문을 예상하고 그가 말하기 전에 이미 답을 준비해 두었다.
+2|anxious|/ˈæŋkʃəs/|형 불안한, 간절히 바라는|He felt *anxious* before the exam, even though he had prepared thoroughly.|그는 철저히 준비했는데도 시험 전에 불안했다.|She is *anxious* to meet her idol, whom she has admired since childhood.|그녀는 어릴 때부터 동경해 온 우상을 간절히 만나고 싶어 한다.
+2|apart|/əˈpɑːrt/|부 떨어져, 따로|The two towns are about ten miles *apart*, connected by a single country road.|두 마을은 시골길 하나로 이어져 약 10마일 떨어져 있다.|The old toy fell *apart* the moment the child picked it up.|그 낡은 장난감은 아이가 집어 드는 순간 산산이 부서졌다.
+2|apologize|/əˈpɑːlədʒaɪz/|동 사과하다|I *apologize* for being late; my train was delayed by almost an hour.|늦어서 죄송합니다. 기차가 거의 한 시간이나 연착되었어요.|He *apologized* to his friend for forgetting about their plans.|그는 약속을 잊어버린 것에 대해 친구에게 사과했다.
+2|apparent|/əˈpærənt/|형 분명한, 명백한|It was *apparent* from her expression that she had not slept at all.|그녀의 표정만 봐도 한숨도 자지 못했다는 것이 분명했다.|The real reason for the failure became *apparent* only several months later.|실패의 진짜 이유는 몇 달이 지나서야 분명해졌다.
+2|appeal|/əˈpiːl/|명 매력, 호소;동 호소하다|The movie has such wide *appeal* that people of all ages enjoyed it.|그 영화는 폭넓은 매력이 있어서 모든 연령대의 사람들이 즐겼다.|The mayor *appealed* to the public for help after the flood destroyed hundreds of homes.|시장은 홍수로 수백 채의 집이 파괴된 뒤 대중에게 도움을 호소했다.
+2|appetite|/ˈæpɪtaɪt/|명 식욕|I lost my *appetite* when I was sick and could hardly eat for three days.|나는 아팠을 때 식욕을 잃어서 사흘 동안 거의 먹지 못했다.|A long walk in the fresh air always gives me a good *appetite*.|맑은 공기 속에서 오래 걷고 나면 늘 입맛이 돋는다.
+2|applaud|/əˈplɔːd/|동 박수를 치다, 칭찬하다|The audience *applauded* loudly and refused to leave until the band played once more.|관객들은 큰 박수를 치며 밴드가 한 곡 더 연주할 때까지 떠나려 하지 않았다.|We *applaud* your efforts to make the neighborhood cleaner and safer.|동네를 더 깨끗하고 안전하게 만들려는 당신의 노력을 높이 평가합니다.
+2|appliance|/əˈplaɪəns/|명 가전제품|A washing machine is a home *appliance* that few families could live without today.|세탁기는 오늘날 대부분의 가정에서 없어서는 안 될 가전제품이다.|The store sells a wide range of kitchen *appliances*, from toasters to dishwashers.|그 가게는 토스터에서 식기세척기까지 다양한 주방 가전제품을 판매한다.
+2|applicant|/ˈæplɪkənt/|명 지원자|There were more than fifty *applicants* for the single position at the library.|도서관의 단 한 자리에 50명이 넘는 지원자가 몰렸다.|Each *applicant* must submit a résumé and two letters of recommendation.|지원자는 각자 이력서와 추천서 두 통을 제출해야 한다.
+2|apply|/əˈplaɪ/|동 지원하다, 적용하다|I *applied* for a part-time job at the bookstore near my school.|나는 학교 근처 서점의 아르바이트 자리에 지원했다.|Try to *apply* what you learn in class to situations in everyday life.|수업에서 배운 것을 일상의 상황에 적용해 보도록 하세요.
+2|appoint|/əˈpɔɪnt/|동 임명하다|The board *appointed* her as the new manager after a long search.|이사회는 오랜 물색 끝에 그녀를 새 관리자로 임명했다.|The mayor *appointed* a committee to investigate the causes of the accident.|시장은 사고 원인을 조사할 위원회를 임명했다.
+2|appreciate|/əˈpriːʃieɪt/|동 감사하다, 진가를 알다|I really *appreciate* your help, especially since you were so busy this week.|이번 주에 정말 바쁘셨을 텐데 도와주셔서 진심으로 감사드립니다.|It is a pity that he doesn't *appreciate* good music, even when it is played right in front of him.|그가 눈앞에서 연주되는 좋은 음악조차 진가를 알아보지 못하는 것은 안타깝다.
+2|approach|/əˈproʊtʃ/|동 다가가다;명 접근법|The train is *approaching* the station, so please gather your belongings.|열차가 역에 접근하고 있으니 소지품을 챙겨 주십시오.|We need a completely new *approach* to the problem of traffic in the city center.|우리는 도심 교통 문제에 대해 완전히 새로운 접근법이 필요하다.
+2|appropriate|/əˈproʊpriət/|형 적절한|You should wear *appropriate* clothes to the job interview to make a good impression.|좋은 인상을 주려면 면접에는 적절한 옷을 입어야 한다.|Parents should check whether a film is *appropriate* for children before letting them watch.|부모는 아이들이 영화를 보게 하기 전에 아이에게 적합한지 확인해야 한다.
+2|approve|/əˈpruːv/|동 승인하다, 찬성하다|The board *approved* the budget after a lengthy debate over spending priorities.|이사회는 지출 우선순위를 둘러싼 긴 논쟁 끝에 예산을 승인했다.|My parents don't *approve* of the plan, but I am determined to go anyway.|부모님은 그 계획에 찬성하지 않으시지만 나는 어쨌든 가기로 마음먹었다.
+2|approximately|/əˈprɑːksɪmətli/|부 대략|The trip takes *approximately* two hours, depending on the traffic.|이동에는 교통 상황에 따라 대략 두 시간이 걸린다.|*Approximately* fifty people attended the meeting, far fewer than the organizers had hoped.|대략 50명이 모임에 참석했는데, 이는 주최 측의 기대보다 훨씬 적은 수였다.
+2|architect|/ˈɑːrkɪtekt/|명 건축가|The *architect* designed a modern library with huge windows and plenty of natural light.|건축가는 커다란 창과 풍부한 자연광이 드는 현대식 도서관을 설계했다.|She has dreamed of becoming an *architect* ever since she built her first model house.|그녀는 처음 모형 집을 지은 뒤로 줄곧 건축가가 되는 꿈을 꿔 왔다.
+2|arise|/əˈraɪz/|동 생기다, 발생하다|Problems often *arise* when people in a team fail to communicate clearly.|팀원들이 의사소통을 분명히 하지 못하면 문제가 생기기 쉽다.|A new question *arose* during the discussion, and no one had a ready answer.|토론 도중 새로운 의문이 생겼지만 아무도 선뜻 답하지 못했다.
+2|arrange|/əˈreɪndʒ/|동 배열하다, 준비하다|She carefully *arranged* the flowers in a vase and placed it by the window.|그녀는 꽃병에 꽃을 조심스럽게 꽂아 창가에 놓았다.|I will *arrange* a meeting for Monday so that everyone can discuss the proposal.|모두가 제안을 논의할 수 있도록 월요일로 회의를 잡겠습니다.
+2|arrest|/əˈrest/|동 체포하다|The police *arrested* the thief just as he was climbing out of the window.|경찰은 도둑이 창문으로 빠져나오는 순간 그를 체포했다.|He was *arrested* for speeding and had to pay a heavy fine.|그는 과속으로 체포되어 무거운 벌금을 물어야 했다.
+2|article|/ˈɑːrtɪkl/|명 기사, 글;명 물품|I read an interesting *article* about the possibility of life on other planets.|나는 다른 행성에 생명체가 존재할 가능성에 관한 흥미로운 기사를 읽었다.|The shop sells *articles* of clothing made entirely from recycled materials.|그 가게는 전부 재활용 소재로 만든 의류 제품을 판매한다.
+2|artificial|/ˌɑːrtɪˈfɪʃl/|형 인공의|The cake contains no *artificial* colors or preservatives, only natural ingredients.|그 케이크에는 인공 색소나 방부제가 전혀 들어 있지 않고 천연 재료만 쓰였다.|*Artificial* flowers last forever, but they can never match the beauty of real ones.|조화는 영원히 가지만 진짜 꽃의 아름다움을 결코 따라갈 수 없다.
+2|aspect|/ˈæspekt/|명 측면|We need to consider every *aspect* of the problem before making a decision.|결정을 내리기 전에 그 문제의 모든 측면을 고려해야 한다.|Cost is only one *aspect* of the plan; safety is equally important.|비용은 그 계획의 한 측면일 뿐이며 안전도 그만큼 중요하다.
+2|assemble|/əˈsembl/|동 모으다, 조립하다|Workers *assemble* thousands of cars in this factory every month.|이 공장에서는 노동자들이 매달 수천 대의 자동차를 조립한다.|The students *assembled* in the gym to hear the principal's announcement.|학생들은 교장 선생님의 발표를 들으려고 체육관에 모였다.
+2|assign|/əˈsaɪn/|동 배정하다, 할당하다|The teacher *assigned* us a challenging project that will take several weeks.|선생님은 몇 주가 걸릴 만큼 어려운 과제를 우리에게 내 주셨다.|She was *assigned* to the sales team after completing her training.|그녀는 교육을 마친 뒤 영업팀에 배정되었다.
+2|assist|/əˈsɪst/|동 돕다|Volunteers *assist* the nurses by delivering meals and keeping patients company.|자원봉사자들은 식사를 나르고 환자들의 말벗이 되어 주며 간호사를 돕는다.|He kindly *assisted* me with the project, even though he had plenty of his own work.|그는 자기 일도 많았는데 친절하게 내 프로젝트를 도와주었다.
+2|associate|/əˈsoʊsieɪt/|동 연관 짓다|People often *associate* the color red with danger or strong emotion.|사람들은 흔히 빨간색을 위험이나 강한 감정과 연관 짓는다.|I don't want to be *associated* with a group that treats people so unfairly.|나는 사람을 그렇게 부당하게 대하는 집단과 엮이고 싶지 않다.
+2|assume|/əˈsuːm/|동 추정하다, 가정하다|I *assume* you have already eaten, so I didn't cook anything for you.|식사를 이미 하셨으리라 생각해서 따로 요리하지 않았어요.|Don't *assume* that everyone agrees with you just because nobody objected.|아무도 반대하지 않았다고 해서 모두가 네게 동의한다고 단정하지 마라.
+2|assure|/əˈʃʊr/|동 장담하다, 확신시키다|I *assure* you that the bridge is perfectly safe to cross, even in heavy rain.|폭우가 내려도 그 다리를 건너는 것은 전혀 위험하지 않다고 장담합니다.|She *assured* him that she would come, no matter how late the meeting ran.|그녀는 회의가 아무리 늦게 끝나도 오겠다고 그에게 확신을 주었다.
+2|athlete|/ˈæθliːt/|명 운동선수|The *athlete* trains every morning before dawn to prepare for the national championship.|그 선수는 전국 대회를 준비하려고 매일 새벽 동트기 전에 훈련한다.|Many *athletes* from around the world joined the race despite the heavy rain.|전 세계에서 온 많은 선수들이 폭우에도 불구하고 경주에 참가했다.
+2|atmosphere|/ˈætməsfɪr/|명 대기;명 분위기|The *atmosphere* protects Earth from harmful radiation and keeps the planet warm.|대기는 지구를 해로운 방사선으로부터 보호하고 행성을 따뜻하게 유지해 준다.|The café has such a warm and relaxing *atmosphere* that customers stay for hours.|그 카페는 분위기가 무척 따뜻하고 편안해서 손님들이 몇 시간씩 머문다.
+2|attach|/əˈtætʃ/|동 붙이다, 첨부하다|Please *attach* a recent photo to the application form before you submit it.|제출하기 전에 신청서에 최근 사진을 붙여 주세요.|I *attached* the report to the e-mail, but I forgot to include the charts.|나는 이메일에 보고서를 첨부했지만 도표를 넣는 것을 깜박했다.
+2|attempt|/əˈtempt/|동 시도하다;명 시도|She *attempted* to climb the steep wall, but the rock was too slippery.|그녀는 가파른 벽을 오르려고 시도했지만 바위가 너무 미끄러웠다.|It was his first *attempt* at baking bread, and the result was surprisingly good.|빵을 구워 보려는 첫 시도였는데 결과는 놀랄 만큼 좋았다.
+2|attitude|/ˈætɪtuːd/|명 태도|A positive *attitude* can make even the most difficult subject easier to learn.|긍정적인 태도는 가장 어려운 과목도 배우기 쉽게 만들어 줄 수 있다.|I really don't like his *attitude*; he never listens to anyone else's opinion.|나는 그의 태도가 정말 마음에 들지 않는다. 그는 다른 사람의 의견을 전혀 듣지 않는다.
+2|attract|/əˈtrækt/|동 끌어들이다|Brightly colored flowers *attract* bees and butterflies, which help them reproduce.|화려한 색의 꽃은 번식을 도와주는 벌과 나비를 끌어들인다.|The annual festival *attracts* thousands of tourists from all over the country.|그 연례 축제는 전국에서 수천 명의 관광객을 끌어들인다.
+2|audience|/ˈɔːdiəns/|명 관객, 청중|The *audience* clapped for several minutes after the final note had faded away.|마지막 음이 사라지고도 관객들은 몇 분 동안 박수를 쳤다.|The show has built a loyal young *audience* through social media.|그 쇼는 소셜 미디어를 통해 충성도 높은 젊은 관객층을 확보했다.
+2|author|/ˈɔːθər/|명 저자|Who is the *author* of this book, and has she written anything else?|이 책의 저자가 누구이고, 다른 책도 쓴 적이 있나요?|The *author* signed my copy and wrote a short message on the first page.|저자는 내 책에 사인을 하고 첫 페이지에 짧은 글을 적어 주었다.
+2|authority|/əˈθɔːrəti/|명 권위, 당국|A teacher has *authority* in the classroom, but must use it fairly.|교사는 교실에서 권위를 지니지만 그것을 공정하게 사용해야 한다.|The local *authorities* closed the road after a landslide blocked it.|산사태로 도로가 막히자 지역 당국은 도로를 폐쇄했다.
+2|automatic|/ˌɔːtəˈmætɪk/|형 자동의|The door is *automatic*, so it opens as soon as anyone approaches.|그 문은 자동이라서 누군가 다가가기만 하면 열린다.|Breathing is an *automatic* action that we rarely think about.|호흡은 우리가 거의 의식하지 않는 자동적인 행동이다.
+2|available|/əˈveɪləbl/|형 이용 가능한|Tickets are still *available* for tonight's performance, but they are selling fast.|오늘 밤 공연의 표가 아직 남아 있지만 빠르게 팔리고 있다.|Is the doctor *available* this afternoon, or should I make an appointment for tomorrow?|의사 선생님은 오늘 오후에 시간이 되시나요, 아니면 내일로 예약해야 할까요?
+2|average|/ˈævərɪdʒ/|명 평균;형 평균의|The *average* score on the test was eighty, which pleased the teacher.|시험의 평균 점수는 80점이어서 선생님은 흡족해했다.|He is of *average* height and build, so he is hard to pick out in a crowd.|그는 키와 체격이 평균 정도여서 군중 속에서 눈에 띄지 않는다.
+2|avoid|/əˈvɔɪd/|동 피하다|Try to *avoid* junk food and sugary drinks if you want to stay healthy.|건강을 유지하고 싶다면 정크 푸드와 단 음료를 피하려고 노력하세요.|She *avoided* talking about the incident because it was still too painful.|그녀는 그 사건이 아직 너무 고통스러워서 이야기하는 것을 피했다.
+2|award|/əˈwɔːrd/|명 상;동 수여하다|She won an *award* for her science project on renewable energy.|그녀는 재생 에너지에 관한 과학 프로젝트로 상을 받았다.|The school *awarded* him a full scholarship in recognition of his outstanding grades.|학교는 그의 뛰어난 성적을 인정하여 전액 장학금을 수여했다.
+2|aware|/əˈwer/|형 알고 있는|Are you *aware* of the danger of swimming in this part of the river?|이 강 구간에서 수영하는 것이 위험하다는 것을 알고 있나요?|He was not *aware* that the shop had closed early for the holiday.|그는 가게가 휴일이라 일찍 문을 닫았다는 사실을 몰랐다.
+2|awful|/ˈɔːfl/|형 끔찍한|The weather was *awful* all week, with cold rain and strong winds every day.|그 주 내내 날씨가 끔찍해서 매일 차가운 비와 강한 바람이 몰아쳤다.|I had an *awful* dream last night and woke up in a cold sweat.|나는 어젯밤 끔찍한 꿈을 꾸고 식은땀을 흘리며 깼다.
+2|awkward|/ˈɔːkwərd/|형 어색한, 서투른|There was an *awkward* silence after he asked the question nobody wanted to answer.|아무도 답하고 싶지 않은 질문을 그가 던진 뒤 어색한 침묵이 흘렀다.|He felt *awkward* at the party because he didn't know anyone there.|그는 파티에 아는 사람이 아무도 없어서 어색함을 느꼈다.

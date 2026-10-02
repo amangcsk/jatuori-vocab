@@ -1,109 +1,109 @@
-2|state|/steɪt/|명 상태, 주;동 진술하다|The house is in a bad *state*.|그 집은 상태가 나쁘다.|Please *state* your name clearly.|이름을 또렷하게 말씀해 주세요.
-2|statement|/ˈsteɪtmənt/|명 진술, 성명|The police took his *statement*.|경찰이 그의 진술을 받았다.|The company issued a *statement*.|회사는 성명을 발표했다.
-2|statistic|/stəˈtɪstɪk/|명 통계|The *statistics* show a rise in sales.|통계는 판매 증가를 보여 준다.|He studies *statistics* at university.|그는 대학에서 통계학을 공부한다.
-2|status|/ˈstætəs/|명 지위, 상태|She enjoys high social *status*.|그녀는 높은 사회적 지위를 누린다.|Check the *status* of your order.|주문 상태를 확인하세요.
-2|steady|/ˈstedi/|형 꾸준한|He made *steady* progress.|그는 꾸준히 발전했다.|Keep the ladder *steady*.|사다리를 흔들리지 않게 잡아라.
-2|steep|/stiːp/|형 가파른|The hill is too *steep* to climb.|그 언덕은 너무 가팔라서 오를 수 없다.|There was a *steep* rise in prices.|물가가 급격히 올랐다.
-2|stem|/stem/|명 줄기;동 막다|The flower has a long *stem*.|그 꽃은 줄기가 길다.|They tried to *stem* the flow of water.|그들은 물의 흐름을 막으려 했다.
-2|stereotype|/ˈsteriətaɪp/|명 고정관념|We must break gender *stereotypes*.|우리는 성별 고정관념을 깨야 한다.|The film plays with *stereotypes*.|그 영화는 고정관념을 가지고 논다.
-2|stimulate|/ˈstɪmjuleɪt/|동 자극하다|Music can *stimulate* the brain.|음악은 뇌를 자극할 수 있다.|The low price *stimulated* sales.|낮은 가격이 판매를 촉진했다.
-2|stir|/stɜːr/|동 젓다, 휘젓다|*Stir* the soup slowly.|수프를 천천히 저어라.|The news *stirred* up strong feelings.|그 소식은 강한 감정을 불러일으켰다.
-2|stock|/stɑːk/|명 재고, 주식|The shop has a large *stock* of books.|그 가게는 책 재고가 많다.|He bought *stock* in a car company.|그는 자동차 회사의 주식을 샀다.
-2|storage|/ˈstɔːrɪdʒ/|명 저장, 보관|There is extra *storage* under the bed.|침대 밑에 추가 보관 공간이 있다.|The phone has little *storage* left.|휴대폰에 저장 공간이 거의 남지 않았다.
-2|strain|/streɪn/|명 부담, 긴장|The job puts a lot of *strain* on him.|그 일은 그에게 큰 부담을 준다.|He felt the *strain* in his back.|그는 등에 무리가 오는 것을 느꼈다.
-2|strategy|/ˈstrætədʒi/|명 전략|Our team has a clear *strategy*.|우리 팀은 분명한 전략이 있다.|A good study *strategy* saves time.|좋은 공부 전략은 시간을 아껴 준다.
-2|stream|/striːm/|명 개울, 흐름|We crossed a small *stream*.|우리는 작은 개울을 건넜다.|A *stream* of cars passed by.|차들이 줄지어 지나갔다.
-2|strength|/streŋθ/|명 힘, 강점|He lifted the box with great *strength*.|그는 대단한 힘으로 상자를 들었다.|Honesty is her greatest *strength*.|정직이 그녀의 가장 큰 강점이다.
-2|stress|/stres/|명 스트레스;동 강조하다|Too much *stress* is bad for you.|스트레스가 너무 많으면 몸에 나쁘다.|The teacher *stressed* the importance of reading.|선생님은 독서의 중요성을 강조했다.
-2|stretch|/stretʃ/|동 늘이다, 뻗다|*Stretch* your arms before running.|달리기 전에 팔을 쭉 뻗어라.|The desert *stretches* for miles.|사막은 수 마일에 걸쳐 펼쳐져 있다.
-2|strict|/strɪkt/|형 엄격한|Our teacher is very *strict*.|우리 선생님은 매우 엄격하다.|The school has *strict* rules.|그 학교는 규칙이 엄격하다.
-2|strike|/straɪk/|동 치다;명 파업|The ball *struck* the window.|공이 창문을 쳤다.|The workers went on *strike*.|노동자들은 파업에 들어갔다.
-2|structure|/ˈstrʌktʃər/|명 구조, 건축물|The *structure* of the sentence is simple.|그 문장의 구조는 단순하다.|The tall *structure* is a tower.|그 높은 건축물은 탑이다.
-2|struggle|/ˈstrʌɡl/|동 애쓰다, 몸부림치다|He *struggled* to open the jar.|그는 병을 열려고 애썼다.|Many families *struggle* to pay rent.|많은 가정이 집세를 내느라 힘들어한다.
-2|stubborn|/ˈstʌbərn/|형 고집 센|He is too *stubborn* to listen.|그는 너무 고집이 세서 말을 듣지 않는다.|The *stubborn* stain wouldn't come out.|그 지독한 얼룩은 지워지지 않았다.
-2|submit|/səbˈmɪt/|동 제출하다|*Submit* your essay by Friday.|금요일까지 에세이를 제출하세요.|He *submitted* a request for leave.|그는 휴가 신청서를 제출했다.
-2|subsequent|/ˈsʌbsɪkwənt/|형 그 후의|There were *subsequent* changes to the plan.|그 후 계획에 변경이 있었다.|*Subsequent* events proved him right.|이후의 사건들이 그가 옳았음을 증명했다.
-2|substance|/ˈsʌbstəns/|명 물질, 핵심|Poisonous *substances* are dangerous.|유독 물질은 위험하다.|His speech had little *substance*.|그의 연설은 알맹이가 별로 없었다.
-2|substitute|/ˈsʌbstɪtuːt/|명 대체물;동 대신하다|Use honey as a *substitute* for sugar.|설탕 대신 꿀을 써라.|She *substituted* margarine for butter.|그녀는 버터 대신 마가린을 썼다.
-2|subtle|/ˈsʌtl/|형 미묘한|There is a *subtle* difference in color.|색깔에 미묘한 차이가 있다.|He gave a *subtle* hint.|그는 은근한 암시를 주었다.
-2|suburb|/ˈsʌbɜːrb/|명 교외|They live in a quiet *suburb*.|그들은 조용한 교외에 산다.|The *suburbs* are cheaper than the city.|교외는 도시보다 싸다.
-2|succession|/səkˈseʃn/|명 연속, 계승|There were three storms in *succession*.|폭풍이 연달아 세 번 왔다.|The prince is next in *succession* to the throne.|왕자는 왕위 계승 서열 다음이다.
-2|suffer|/ˈsʌfər/|동 고통받다, 겪다|Many people *suffer* from headaches.|많은 사람이 두통으로 고생한다.|The town *suffered* in the flood.|그 마을은 홍수로 피해를 입었다.
-2|suggest|/səɡˈdʒest/|동 제안하다, 시사하다|I *suggest* we leave early.|일찍 떠나자고 제안한다.|The results *suggest* a problem.|결과는 문제가 있음을 시사한다.
-2|suit|/suːt/|명 정장;동 어울리다|He wore a dark *suit* to the interview.|그는 면접에 어두운 정장을 입고 갔다.|Blue *suits* you well.|파란색이 네게 잘 어울려.
-2|sum|/sʌm/|명 합계, 금액|The *sum* of two and three is five.|2와 3의 합은 5다.|He paid a large *sum* of money.|그는 많은 금액을 지불했다.
-2|summarize|/ˈsʌməraɪz/|동 요약하다|Please *summarize* the story in three lines.|그 이야기를 세 줄로 요약해 주세요.|She *summarized* the main points.|그녀는 요점을 요약했다.
-2|superior|/suːˈpɪriər/|형 우수한, 상급의|This brand is *superior* to others.|이 브랜드는 다른 것보다 우수하다.|He reported to his *superior*.|그는 상관에게 보고했다.
-2|supervise|/ˈsuːpərvaɪz/|동 감독하다|A teacher *supervised* the children.|교사가 아이들을 감독했다.|She *supervises* a team of ten.|그녀는 열 명의 팀을 관리한다.
-2|supplement|/ˈsʌplɪmənt/|명 보충(제)|He takes vitamin *supplements*.|그는 비타민 보충제를 먹는다.|The magazine has a free *supplement*.|그 잡지에는 무료 부록이 있다.
-2|supply|/səˈplaɪ/|동 공급하다;명 공급|The farm *supplies* milk to the city.|그 농장은 도시에 우유를 공급한다.|There is a short *supply* of fresh water.|신선한 물의 공급이 부족하다.
-2|support|/səˈpɔːrt/|동 지지하다;명 지지|My family *supports* my decision.|가족은 내 결정을 지지한다.|She gave me a lot of *support*.|그녀는 내게 큰 도움을 주었다.
-2|suppose|/səˈpoʊz/|동 가정하다, 생각하다|I *suppose* you are right.|네 말이 맞는 것 같다.|*Suppose* it rains tomorrow; what then?|내일 비가 오면 어떻게 하지?
-2|suppress|/səˈpres/|동 억누르다|She tried to *suppress* her laughter.|그녀는 웃음을 참으려 했다.|The government *suppressed* the rebellion.|정부는 반란을 진압했다.
-2|supreme|/suːˈpriːm/|형 최고의|The *supreme* court made its decision.|대법원이 판결을 내렸다.|It was a *supreme* effort.|그것은 최고의 노력이었다.
-2|surface|/ˈsɜːrfɪs/|명 표면|The lake's *surface* was calm.|호수의 표면은 잔잔했다.|The table has a smooth *surface*.|그 탁자는 표면이 매끄럽다.
-2|surgeon|/ˈsɜːrdʒən/|명 외과 의사|The *surgeon* operated on his knee.|외과 의사가 그의 무릎을 수술했다.|She is a skilled heart *surgeon*.|그녀는 숙련된 심장 외과 의사다.
-2|surplus|/ˈsɜːrplʌs/|명 잉여|The farm had a *surplus* of rice.|그 농장은 쌀이 남아돌았다.|The *surplus* food was donated.|남은 음식은 기부되었다.
-2|surrender|/səˈrendər/|동 항복하다|The enemy *surrendered* after a week.|적은 일주일 후에 항복했다.|He refused to *surrender* his seat.|그는 자리를 양보하기를 거부했다.
-2|surround|/səˈraʊnd/|동 둘러싸다|Mountains *surround* the village.|산들이 마을을 둘러싸고 있다.|Fans *surrounded* the singer.|팬들이 가수를 에워쌌다.
-2|survey|/ˈsɜːrveɪ/|명 설문 조사;동 조사하다|The school did a *survey* on lunch.|학교는 점심에 대한 설문 조사를 했다.|They *surveyed* five hundred people.|그들은 500명을 대상으로 조사했다.
-2|survive|/sərˈvaɪv/|동 살아남다|Only two people *survived* the crash.|사고에서 두 사람만 살아남았다.|Plants can't *survive* without water.|식물은 물 없이 살아남을 수 없다.
-2|suspect|/səˈspekt/|동 의심하다;명 용의자|I *suspect* he is lying.|나는 그가 거짓말을 하고 있다고 의심한다.|Police arrested the *suspect*.|경찰이 용의자를 체포했다.
-2|suspend|/səˈspend/|동 중단하다, 정학시키다|The game was *suspended* because of rain.|경기는 비 때문에 중단되었다.|He was *suspended* from school.|그는 학교에서 정학당했다.
-2|suspicious|/səˈspɪʃəs/|형 의심스러운|I saw a *suspicious* man near the house.|나는 집 근처에서 수상한 남자를 보았다.|She felt *suspicious* of his story.|그녀는 그의 이야기가 의심스러웠다.
-2|swallow|/ˈswɑːloʊ/|동 삼키다|It hurts to *swallow*.|삼키면 아프다.|Chew the food before you *swallow*.|삼키기 전에 음식을 씹어라.
-2|sway|/sweɪ/|동 흔들리다|The trees *swayed* in the wind.|나무들이 바람에 흔들렸다.|Her speech *swayed* the voters.|그녀의 연설이 유권자들을 움직였다.
-2|swear|/swer/|동 맹세하다, 욕하다|I *swear* I'll never be late again.|다시는 늦지 않겠다고 맹세해.|Don't *swear* in front of children.|아이들 앞에서 욕하지 마라.
-2|sweep|/swiːp/|동 쓸다|She *swept* the floor every morning.|그녀는 매일 아침 바닥을 쓸었다.|The wind *swept* the leaves away.|바람이 나뭇잎을 쓸어 갔다.
-2|swift|/swɪft/|형 신속한|The fox is a *swift* runner.|여우는 빠른 주자다.|They took *swift* action.|그들은 신속하게 조치했다.
-2|symbol|/ˈsɪmbl/|명 상징|The dove is a *symbol* of peace.|비둘기는 평화의 상징이다.|The map has a *symbol* for hospitals.|지도에는 병원을 나타내는 기호가 있다.
-2|sympathy|/ˈsɪmpəθi/|명 동정, 공감|She felt *sympathy* for the poor boy.|그녀는 그 가난한 소년이 안쓰러웠다.|He sent a card to show his *sympathy*.|그는 위로의 뜻으로 카드를 보냈다.
-2|symptom|/ˈsɪmptəm/|명 증상|A cough is a *symptom* of a cold.|기침은 감기의 증상이다.|The *symptoms* disappeared in a few days.|증상은 며칠 만에 사라졌다.
-2|synthetic|/sɪnˈθetɪk/|형 합성의|The shirt is made of *synthetic* fiber.|그 셔츠는 합성 섬유로 만들어졌다.|*Synthetic* rubber is cheaper.|합성 고무는 더 저렴하다.
-2|system|/ˈsɪstəm/|명 체계, 시스템|The school *system* is changing.|학교 제도가 바뀌고 있다.|The human digestive *system* is complex.|인간의 소화 계통은 복잡하다.
-2|tackle|/ˈtækl/|동 맞붙다, 해결하다|We must *tackle* the problem now.|우리는 지금 그 문제와 맞서야 한다.|He *tackled* the player and took the ball.|그는 선수를 태클해 공을 빼앗았다.
-2|tactic|/ˈtæktɪk/|명 전술|The coach changed his *tactics*.|코치는 전술을 바꿨다.|Delay is a common *tactic*.|지연은 흔한 전술이다.
-2|talent|/ˈtælənt/|명 재능|She has a *talent* for singing.|그녀는 노래에 재능이 있다.|The show is full of young *talent*.|그 쇼는 젊은 인재들로 가득하다.
-2|target|/ˈtɑːrɡɪt/|명 목표, 과녁|He hit the *target* with his first arrow.|그는 첫 화살로 과녁을 맞혔다.|Our *target* is to raise a thousand dollars.|우리의 목표는 천 달러를 모으는 것이다.
-2|task|/tæsk/|명 과업, 일|Cleaning the garage was a hard *task*.|차고 청소는 힘든 일이었다.|She was given a difficult *task*.|그녀는 어려운 임무를 받았다.
-2|tax|/tæks/|명 세금|People pay *tax* on their income.|사람들은 소득에 세금을 낸다.|The *tax* on cigarettes went up.|담배 세금이 올랐다.
-2|technical|/ˈteknɪkl/|형 기술적인|He has *technical* skills in computers.|그는 컴퓨터 기술이 있다.|The flight was delayed by a *technical* problem.|기술적 문제로 비행기가 지연되었다.
-2|technique|/tekˈniːk/|명 기법, 기술|The artist uses a special *technique*.|그 화가는 특별한 기법을 쓴다.|Learn the right *technique* before you start.|시작하기 전에 올바른 기술을 익혀라.
-2|technology|/tekˈnɑːlədʒi/|명 기술|Modern *technology* makes life easier.|현대 기술은 삶을 더 편하게 한다.|The school invests in new *technology*.|학교는 신기술에 투자한다.
-2|temper|/ˈtempər/|명 성질, 화|He has a bad *temper*.|그는 성질이 고약하다.|Try not to lose your *temper*.|화를 내지 않도록 해라.
-2|temperature|/ˈtemprətʃər/|명 온도, 체온|The *temperature* dropped at night.|밤에 기온이 떨어졌다.|The nurse took my *temperature*.|간호사가 내 체온을 쟀다.
-2|temporary|/ˈtempəreri/|형 임시의|It's only a *temporary* solution.|그것은 임시 해결책일 뿐이다.|He has a *temporary* job.|그는 임시직에 있다.
-2|tempt|/tempt/|동 유혹하다|The smell *tempted* me to eat.|그 냄새가 나를 먹고 싶게 했다.|I was *tempted* to skip class.|나는 수업을 빠지고 싶은 유혹을 느꼈다.
-2|tend|/tend/|동 ~하는 경향이 있다|Prices *tend* to rise in summer.|가격은 여름에 오르는 경향이 있다.|He *tends* to talk too fast.|그는 너무 빨리 말하는 경향이 있다.
-2|tense|/tens/|형 긴장한|The room was *tense* before the results.|결과 발표 전 방은 긴장감이 돌았다.|She felt *tense* about the interview.|그녀는 면접 때문에 긴장했다.
-2|tension|/ˈtenʃn/|명 긴장|There is *tension* between the two groups.|두 집단 사이에 긴장이 있다.|Music helps relieve *tension*.|음악은 긴장을 푸는 데 도움이 된다.
-2|term|/tɜːrm/|명 용어, 학기|"Atom" is a science *term*.|"원자"는 과학 용어다.|The new *term* starts in March.|새 학기는 3월에 시작한다.
-2|terminal|/ˈtɜːrmɪnl/|명 터미널;형 말기의|We waited at the bus *terminal*.|우리는 버스 터미널에서 기다렸다.|He was diagnosed with a *terminal* illness.|그는 불치병 진단을 받았다.
-2|terrify|/ˈterɪfaɪ/|동 겁에 질리게 하다|The thunder *terrified* the child.|천둥이 아이를 겁에 질리게 했다.|I was *terrified* of the dark.|나는 어둠이 무서웠다.
-2|territory|/ˈterətɔːri/|명 영토|The island is part of the country's *territory*.|그 섬은 그 나라 영토의 일부다.|Wolves defend their *territory*.|늑대는 자기 영역을 지킨다.
-2|terror|/ˈterər/|명 공포|She screamed in *terror*.|그녀는 공포에 질려 비명을 질렀다.|The *terror* of war lasted for years.|전쟁의 공포는 수년간 이어졌다.
-2|text|/tekst/|명 글, 문자 메시지|Read the *text* carefully.|글을 주의 깊게 읽어라.|She sent me a *text* message.|그녀가 내게 문자를 보냈다.
-2|texture|/ˈtekstʃər/|명 질감|The cake has a soft *texture*.|그 케이크는 질감이 부드럽다.|I like the rough *texture* of the wall.|나는 벽의 거친 질감이 좋다.
-2|theme|/θiːm/|명 주제|The *theme* of the story is friendship.|이야기의 주제는 우정이다.|The party has a space *theme*.|그 파티는 우주를 주제로 한다.
-2|theory|/ˈθɪəri/|명 이론|Einstein developed a famous *theory*.|아인슈타인은 유명한 이론을 세웠다.|In *theory*, it should work.|이론상으로는 작동해야 한다.
-2|therapy|/ˈθerəpi/|명 치료, 요법|She goes to physical *therapy* twice a week.|그녀는 일주일에 두 번 물리 치료를 받는다.|Music *therapy* helps patients relax.|음악 치료는 환자가 긴장을 푸는 데 도움이 된다.
-2|thorough|/ˈθɜːroʊ/|형 철저한|The police did a *thorough* search.|경찰은 철저한 수색을 했다.|She is *thorough* in her work.|그녀는 일을 꼼꼼히 한다.
-2|threat|/θret/|명 위협|Pollution is a *threat* to fish.|오염은 물고기에게 위협이 된다.|He received a *threat* by e-mail.|그는 이메일로 협박을 받았다.
-2|threshold|/ˈθreʃhoʊld/|명 문턱, 한계점|She stood at the *threshold* of the door.|그녀는 문턱에 서 있었다.|We are at the *threshold* of a new era.|우리는 새 시대의 문턱에 서 있다.
-2|thrill|/θrɪl/|명 짜릿함;동 짜릿하게 하다|The roller coaster gave us a *thrill*.|롤러코스터는 우리에게 짜릿함을 주었다.|The crowd was *thrilled* by the game.|관중은 경기에 열광했다.
-2|thrive|/θraɪv/|동 번창하다|Plants *thrive* in sunlight.|식물은 햇빛 속에서 잘 자란다.|The business *thrived* in the city.|그 사업은 도시에서 번창했다.
-2|tide|/taɪd/|명 조수, 흐름|The *tide* comes in twice a day.|밀물은 하루에 두 번 들어온다.|Public opinion turned the *tide*.|여론이 흐름을 바꾸었다.
-2|tight|/taɪt/|형 꽉 끼는, 빡빡한|These shoes are too *tight*.|이 신발은 너무 꽉 낀다.|The schedule is *tight* this week.|이번 주 일정은 빡빡하다.
-2|tissue|/ˈtɪʃuː/|명 조직, 휴지|Skin is a kind of body *tissue*.|피부는 신체 조직의 한 종류다.|She wiped her nose with a *tissue*.|그녀는 휴지로 코를 닦았다.
-2|tolerate|/ˈtɑːləreɪt/|동 참다, 용인하다|I can't *tolerate* this noise.|나는 이 소음을 참을 수 없다.|The school doesn't *tolerate* bullying.|학교는 괴롭힘을 용납하지 않는다.
-2|toll|/toʊl/|명 통행료, 피해|You pay a *toll* on this road.|이 도로에서는 통행료를 낸다.|The storm took a heavy *toll*.|폭풍은 큰 피해를 남겼다.
-2|tone|/toʊn/|명 어조, 음색|He spoke in a friendly *tone*.|그는 다정한 어조로 말했다.|The piano has a rich *tone*.|그 피아노는 음색이 풍부하다.
-2|tool|/tuːl/|명 도구|A hammer is a useful *tool*.|망치는 유용한 도구다.|The Internet is a powerful *tool*.|인터넷은 강력한 도구다.
-2|topic|/ˈtɑːpɪk/|명 주제|Choose a *topic* for your essay.|에세이 주제를 골라라.|The *topic* of the lecture was climate.|강의 주제는 기후였다.
-2|tough|/tʌf/|형 힘든, 질긴|It was a *tough* match.|힘든 경기였다.|The meat was too *tough* to chew.|고기가 너무 질겨서 씹기 힘들었다.
-2|tournament|/ˈtʊrnəmənt/|명 토너먼트, 대회|Our school won the soccer *tournament*.|우리 학교가 축구 대회에서 우승했다.|She entered a chess *tournament*.|그녀는 체스 대회에 참가했다.
-2|toxic|/ˈtɑːksɪk/|형 유독한|The factory released *toxic* gas.|공장은 유독 가스를 내뿜었다.|Some plants are *toxic* to pets.|어떤 식물은 반려동물에게 독성이 있다.
-2|trace|/treɪs/|명 흔적;동 추적하다|The police found no *trace* of the thief.|경찰은 도둑의 흔적을 찾지 못했다.|They *traced* the call to a phone booth.|그들은 전화를 공중전화로 추적했다.
-2|track|/træk/|명 길, 경주로;동 추적하다|Runners lined up on the *track*.|주자들이 트랙에 줄지어 섰다.|You can *track* your package online.|소포를 온라인으로 추적할 수 있다.
-2|trade|/treɪd/|명 무역;동 거래하다|Korea has strong *trade* with many countries.|한국은 많은 나라와 활발히 무역한다.|They *trade* cards at school.|그들은 학교에서 카드를 교환한다.
-2|tradition|/trəˈdɪʃn/|명 전통|It is a family *tradition* to eat together.|함께 식사하는 것은 우리 집의 전통이다.|The festival is an old *tradition*.|그 축제는 오랜 전통이다.
+2|state|/steɪt/|명 상태, 주;동 진술하다|The roads were in a terrible *state* after weeks of heavy rain and flooding.|몇 주간의 폭우와 홍수로 도로 상태가 끔찍했다.|The governor of the *state* announced a plan to build more schools in rural areas.|그 주의 주지사는 농촌 지역에 학교를 더 세우는 계획을 발표했다.
+2|statement|/ˈsteɪtmənt/|명 진술, 성명|The company issued a *statement* apologizing for the delay and promising a full refund.|회사는 지연에 대해 사과하고 전액 환불을 약속하는 성명을 발표했다.|The witness gave a clear *statement* to the police about what she had seen that night.|목격자는 그날 밤 자신이 본 것에 대해 경찰에 분명한 진술을 했다.
+2|statistic|/stəˈtɪstɪk/|명 통계|One surprising *statistic* shows that most accidents occur within a few miles of home.|놀라운 통계 하나는 대부분의 사고가 집에서 몇 마일 이내에서 일어난다는 것을 보여 준다.|The government collects *statistics* on births, deaths, and marriages every year.|정부는 해마다 출생, 사망, 혼인에 관한 통계를 수집한다.
+2|status|/ˈstætəs/|명 지위, 상태|Her *status* as a famous athlete opened many doors, but it also brought constant attention.|유명 운동선수라는 그녀의 지위는 많은 문을 열어 주었지만 끊임없는 관심도 가져왔다.|You can check the *status* of your order online at any time using the tracking number.|추적 번호를 이용해 언제든지 온라인으로 주문 상태를 확인할 수 있다.
+2|steady|/ˈstedi/|형 꾸준한|The company has enjoyed *steady* growth over the past five years without any major setbacks.|그 회사는 지난 5년간 큰 차질 없이 꾸준한 성장을 이뤘다.|He has a *steady* hand, which is why he was chosen to perform the delicate operation.|그는 손이 흔들리지 않아서 정교한 수술을 맡게 되었다.
+2|steep|/stiːp/|형 가파른|The road up the mountain is so *steep* that many cars struggle to reach the top.|산으로 올라가는 길이 너무 가팔라서 많은 차가 정상에 닿기 힘들어한다.|There has been a *steep* rise in the cost of living, and many families are struggling.|생활비가 급격히 올라서 많은 가정이 어려움을 겪고 있다.
+2|stem|/stem/|명 줄기;동 막다|The *stem* of the flower was so thin that it bent under the weight of the rain.|그 꽃의 줄기는 너무 가늘어서 빗물의 무게에 휘었다.|The government introduced new measures to *stem* the flow of illegal goods across the border.|정부는 국경을 넘는 불법 물품의 유입을 막기 위해 새 조치를 도입했다.
+2|stereotype|/ˈsteriətaɪp/|명 고정관념|The film challenges the *stereotype* that older people cannot learn new technology.|그 영화는 노인이 새로운 기술을 배울 수 없다는 고정관념에 도전한다.|Teachers should avoid relying on *stereotypes* when they assess their students' abilities.|교사는 학생의 능력을 평가할 때 고정관념에 의존하지 않아야 한다.
+2|stimulate|/ˈstɪmjuleɪt/|동 자극하다|Good teachers *stimulate* curiosity in their students by asking challenging questions.|훌륭한 교사는 도전적인 질문을 던져 학생들의 호기심을 자극한다.|The government cut interest rates in order to *stimulate* the slowing economy.|정부는 둔화되는 경제를 부양하기 위해 금리를 내렸다.
+2|stir|/stɜːr/|동 젓다, 휘젓다|She *stirred* the soup slowly with a wooden spoon to stop it from sticking to the pot.|그녀는 수프가 냄비에 눌어붙지 않도록 나무 숟가락으로 천천히 저었다.|A cold wind began to *stir* the leaves, and the sky turned a dark gray.|차가운 바람이 나뭇잎을 흔들기 시작했고 하늘이 짙은 회색으로 변했다.
+2|stock|/stɑːk/|명 재고, 주식|The shop has run out of *stock*, but a new delivery will arrive early next week.|그 가게는 재고가 떨어졌지만 다음 주 초에 새 물량이 들어온다.|He bought *stock* in a technology company and sold it a year later for a large profit.|그는 한 기술 기업의 주식을 사서 1년 뒤에 팔아 큰 이익을 남겼다.
+2|storage|/ˈstɔːrɪdʒ/|명 저장, 보관|The old house has a large attic that provides plenty of *storage* for boxes and furniture.|그 오래된 집에는 상자와 가구를 넉넉히 보관할 수 있는 큰 다락이 있다.|The phone's memory is almost full, so I need to delete files to free up *storage*.|휴대폰 메모리가 거의 가득 차서 저장 공간을 확보하려면 파일을 지워야 한다.
+2|strain|/streɪn/|명 부담, 긴장|The heavy workload put a great *strain* on the staff and several of them became ill.|과중한 업무는 직원들에게 큰 부담을 주어 그중 몇 명이 병이 났다.|Reading in dim light can *strain* your eyes and cause headaches.|어두운 곳에서 책을 읽으면 눈이 피로해지고 두통이 생길 수 있다.
+2|strategy|/ˈstrætədʒi/|명 전략|The coach changed the team's *strategy* in the second half and scored three goals.|코치는 후반전에 팀의 전략을 바꿔 세 골을 넣었다.|The company's marketing *strategy* focuses on social media and young customers.|그 회사의 마케팅 전략은 소셜 미디어와 젊은 고객에 초점을 맞춘다.
+2|stream|/striːm/|명 개울, 흐름|A clear *stream* ran through the forest, and we stopped to drink and rest.|맑은 개울이 숲을 가로질러 흘러서 우리는 멈춰 물을 마시고 쉬었다.|A steady *stream* of visitors entered the museum as soon as it opened.|문을 열자마자 방문객들이 끊임없이 박물관으로 들어왔다.
+2|strength|/streŋθ/|명 힘, 강점|The athlete's *strength* and speed allowed him to win every race that season.|그 선수의 힘과 속도 덕분에 그는 그 시즌 모든 경주에서 우승했다.|Her greatest *strength* as a leader is her ability to listen to different opinions.|지도자로서 그녀의 가장 큰 강점은 다양한 의견에 귀 기울이는 능력이다.
+2|stress|/stres/|명 스트레스;동 강조하다|Too much *stress* at work can cause headaches, sleeplessness, and even serious illness.|직장에서의 지나친 스트레스는 두통, 불면증, 심지어 중병까지 일으킬 수 있다.|The teacher *stressed* the importance of reading the question carefully before answering.|선생님은 답하기 전에 문제를 주의 깊게 읽는 것의 중요성을 강조했다.
+2|stretch|/stretʃ/|동 늘이다, 뻗다|Before running, you should *stretch* your muscles to avoid injuring yourself.|달리기 전에 다치지 않도록 근육을 늘려 풀어 주어야 한다.|The forest *stretches* for miles in every direction, covering almost the entire valley.|그 숲은 사방으로 몇 마일씩 뻗어 계곡 거의 전체를 덮고 있다.
+2|strict|/strɪkt/|형 엄격한|The school has *strict* rules about wearing uniforms and arriving on time.|그 학교에는 교복 착용과 정시 도착에 관한 엄격한 규칙이 있다.|My grandfather was a *strict* teacher, but his students respected him deeply.|할아버지는 엄격한 교사였지만 제자들은 그를 깊이 존경했다.
+2|strike|/straɪk/|동 치다;명 파업|The workers decided to *strike* after the company refused to improve their pay and conditions.|노동자들은 회사가 임금과 근무 환경 개선을 거부하자 파업하기로 했다.|The tree was *struck* by lightning during the storm and fell across the road.|그 나무는 폭풍 중에 번개를 맞고 도로 위로 쓰러졌다.
+2|structure|/ˈstrʌktʃər/|명 구조, 건축물|The architect designed a huge glass *structure* that seemed to float above the river.|건축가는 강 위에 떠 있는 듯한 거대한 유리 구조물을 설계했다.|The *structure* of the essay is clear: an introduction, three main points, and a conclusion.|그 에세이의 구성은 서론, 세 가지 요점, 결론으로 분명하다.
+2|struggle|/ˈstrʌɡl/|동 애쓰다, 몸부림치다|Many small businesses *struggle* to survive when large companies open nearby.|많은 소규모 사업체는 근처에 대기업이 문을 열면 살아남으려고 애쓴다.|The prisoner *struggled* to free himself, but the ropes were too tight.|죄수는 몸을 빼내려고 발버둥 쳤지만 밧줄이 너무 팽팽했다.
+2|stubborn|/ˈstʌbərn/|형 고집 센|The *stubborn* stain would not come out, no matter how hard she scrubbed it.|그 고집스러운 얼룩은 아무리 세게 문질러도 지워지지 않았다.|He is too *stubborn* to admit that he made a mistake, even when the evidence is clear.|그는 증거가 분명한데도 너무 고집이 세서 자신의 실수를 인정하지 않는다.
+2|submit|/səbˈmɪt/|동 제출하다|All applicants must *submit* their forms and supporting documents before the deadline.|모든 지원자는 마감 전에 신청서와 증빙 서류를 제출해야 한다.|The rebels were forced to *submit* to the authority of the government after months of fighting.|반군은 몇 달간의 전투 끝에 정부의 권위에 굴복해야 했다.
+2|subsequent|/ˈsʌbsɪkwənt/|형 그 후의|The first experiment failed, but *subsequent* tests produced much more promising results.|첫 실험은 실패했지만 그 후의 시험은 훨씬 더 유망한 결과를 냈다.|In *subsequent* years, the town grew rapidly as new factories were built nearby.|그 후 몇 년간 근처에 새 공장들이 들어서면서 마을은 빠르게 성장했다.
+2|substance|/ˈsʌbstəns/|명 물질, 핵심|The laboratory tested the unknown *substance* to find out whether it was harmful.|연구소는 그 알 수 없는 물질이 해로운지 알아보려고 검사했다.|His speech was full of fine words, but it lacked *substance* and offered no real solutions.|그의 연설은 근사한 말로 가득했지만 알맹이가 없고 실질적인 해결책은 제시하지 않았다.
+2|substitute|/ˈsʌbstɪtuːt/|명 대체물;동 대신하다|You can use honey as a *substitute* for sugar in this recipe if you prefer.|원한다면 이 요리법에서 설탕 대신 꿀을 써도 된다.|The coach decided to *substitute* a fresh player for the one who had been injured.|코치는 부상당한 선수 대신 체력이 좋은 선수를 투입하기로 했다.
+2|subtle|/ˈsʌtl/|형 미묘한|There is a *subtle* difference in color between the two paints that is hard to notice.|두 페인트 사이에는 알아차리기 어려운 미묘한 색 차이가 있다.|She gave a *subtle* hint that she wanted to leave, but nobody understood it.|그녀는 떠나고 싶다는 것을 은근히 암시했지만 아무도 알아채지 못했다.
+2|suburb|/ˈsʌbɜːrb/|명 교외|They moved to a quiet *suburb* where the schools were good and the air was cleaner.|그들은 학교가 좋고 공기가 더 깨끗한 조용한 교외로 이사했다.|Many people live in the *suburbs* and commute to the city center every day by train.|많은 사람이 교외에 살며 매일 기차로 도심으로 통근한다.
+2|succession|/səkˈseʃn/|명 연속, 계승|The team won the championship three years in *succession*, a record for the league.|그 팀은 3년 연속으로 우승해 리그 기록을 세웠다.|The prince's *succession* to the throne was announced after the king's death.|왕이 세상을 떠난 뒤 왕자의 왕위 계승이 발표되었다.
+2|suffer|/ˈsʌfər/|동 고통받다, 겪다|Many people in the region *suffer* from a lack of clean water and basic medical care.|그 지역의 많은 사람이 깨끗한 물과 기본적인 의료 서비스 부족으로 고통받고 있다.|The company *suffered* heavy losses after its main factory was destroyed by the flood.|그 회사는 주력 공장이 홍수로 파괴된 뒤 막대한 손실을 입었다.
+2|suggest|/səɡˈdʒest/|동 제안하다, 시사하다|I *suggest* that we leave early tomorrow to avoid the morning traffic.|아침 교통 체증을 피하려면 내일 일찍 출발하자고 제안합니다.|The evidence *suggests* that the fire was caused by an electrical fault, not by an accident.|증거는 화재가 사고가 아니라 전기 결함 때문에 일어났음을 시사한다.
+2|suit|/suːt/|명 정장;동 어울리다|He wore a dark *suit* and a tie to the interview to make a good impression.|그는 좋은 인상을 주려고 면접에 짙은 색 정장과 넥타이를 착용했다.|The new haircut really *suits* you, and it makes you look much younger.|새 머리 모양이 정말 잘 어울려서 훨씬 젊어 보여요.
+2|sum|/sʌm/|명 합계, 금액|The government spent a huge *sum* of money on the new bridge, more than it had planned.|정부는 새 다리에 계획보다 훨씬 많은 거액을 썼다.|The *sum* of the two angles is exactly ninety degrees.|그 두 각의 합은 정확히 90도이다.
+2|summarize|/ˈsʌməraɪz/|동 요약하다|Could you *summarize* the main points of the report in just a few sentences?|보고서의 요점을 몇 문장으로 요약해 주시겠어요?|The teacher asked the students to *summarize* the story in their own words.|선생님은 학생들에게 이야기를 자신의 말로 요약해 보라고 했다.
+2|superior|/suːˈpɪriər/|형 우수한, 상급의|This model is *superior* to the older one in both speed and battery life.|이 모델은 속도와 배터리 수명 모두에서 이전 모델보다 우수하다.|The soldier was punished for disobeying an order from his *superior* officer.|그 병사는 상급 장교의 명령을 어긴 죄로 처벌받았다.
+2|supervise|/ˈsuːpərvaɪz/|동 감독하다|Teachers must *supervise* the children carefully when they are swimming in the pool.|교사는 아이들이 수영장에서 수영할 때 주의 깊게 감독해야 한다.|The engineer *supervised* the construction of the bridge from the first day to its completion.|그 기술자는 다리 공사를 첫날부터 완공까지 감독했다.
+2|supplement|/ˈsʌplɪmənt/|명 보충(제)|She takes a vitamin *supplement* every morning to make sure she gets enough nutrients.|그녀는 영양소를 충분히 섭취하려고 매일 아침 비타민 보충제를 먹는다.|The magazine includes a free *supplement* about travel destinations for the summer.|그 잡지에는 여름 여행지에 관한 무료 별책 부록이 들어 있다.
+2|supply|/səˈplaɪ/|동 공급하다;명 공급|The charity will *supply* blankets and food to families who lost their homes in the fire.|그 자선 단체는 화재로 집을 잃은 가족들에게 담요와 음식을 공급할 것이다.|A shortage of fuel has put the country's energy *supply* at serious risk.|연료 부족으로 그 나라의 에너지 공급이 심각한 위험에 처했다.
+2|support|/səˈpɔːrt/|동 지지하다;명 지지|The community gave strong *support* to the family whose house had been destroyed.|지역 사회는 집이 파괴된 그 가족에게 강한 지지를 보냈다.|Many people *support* the idea of building a new park, but the cost remains a concern.|많은 사람이 새 공원을 짓는 구상을 지지하지만 비용은 여전히 우려로 남아 있다.
+2|suppose|/səˈpoʊz/|동 가정하다, 생각하다|I *suppose* we could leave earlier if everyone is ready, but I'm not sure.|모두가 준비되면 더 일찍 출발할 수도 있을 것 같지만 확신하지는 못하겠어요.|*Suppose* you won a million dollars; what would you do with the money?|100만 달러에 당첨됐다고 가정해 봐. 그 돈으로 무엇을 할래?
+2|suppress|/səˈpres/|동 억누르다|The government tried to *suppress* the news, but it quickly spread across social media.|정부는 그 소식을 억누르려 했지만 소셜 미디어에서 순식간에 퍼졌다.|She tried to *suppress* her laughter during the serious ceremony, but she couldn't.|그녀는 엄숙한 의식 중에 웃음을 참으려 했지만 참을 수 없었다.
+2|supreme|/suːˈpriːm/|형 최고의|The *Supreme* Court is the highest court in the country, and its decisions are final.|대법원은 나라에서 가장 높은 법원이며 그 판결은 최종적이다.|The pianist played with *supreme* skill, and the audience listened in complete silence.|그 피아니스트는 최고의 기량으로 연주했고 청중은 완전한 침묵 속에서 귀를 기울였다.
+2|surface|/ˈsɜːrfɪs/|명 표면|The *surface* of the lake was so still that it reflected the mountains perfectly.|호수 표면이 너무 잔잔해서 산을 완벽하게 비추었다.|Scientists believe that a huge ocean lies beneath the icy *surface* of the moon.|과학자들은 그 위성의 얼음 표면 아래에 거대한 바다가 있다고 믿는다.
+2|surgeon|/ˈsɜːrdʒən/|명 외과 의사|The *surgeon* worked for six hours to repair the damage to the patient's heart.|외과의사는 환자의 심장 손상을 복구하기 위해 여섯 시간 동안 수술했다.|She trained for more than ten years before becoming a heart *surgeon*.|그녀는 심장 외과의사가 되기까지 10년 넘게 수련했다.
+2|surplus|/ˈsɜːrplʌs/|명 잉여|The farmers sold the *surplus* grain to neighboring countries after a very good harvest.|농부들은 아주 좋은 수확을 거둔 뒤 남는 곡물을 이웃 나라에 팔았다.|The country had a trade *surplus* last year because it exported more than it imported.|그 나라는 수입보다 수출이 많아 작년에 무역 흑자를 기록했다.
+2|surrender|/səˈrendər/|동 항복하다|The soldiers were forced to *surrender* after their supplies ran out and they were surrounded.|병사들은 보급품이 떨어지고 포위되자 항복할 수밖에 없었다.|She refused to *surrender* her dream, even after failing the exam three times.|그녀는 시험에 세 번 떨어진 뒤에도 꿈을 포기하기를 거부했다.
+2|surround|/səˈraʊnd/|동 둘러싸다|A thick forest *surrounds* the village, protecting it from the strong winter winds.|울창한 숲이 마을을 둘러싸 겨울의 강한 바람을 막아 준다.|Reporters *surrounded* the actor as soon as he stepped out of the car.|기자들은 배우가 차에서 내리자마자 그를 에워쌌다.
+2|survey|/ˈsɜːrveɪ/|명 설문 조사;동 조사하다|A recent *survey* found that most teenagers sleep less than the recommended eight hours.|최근 설문 조사에 따르면 대부분의 십 대가 권장되는 여덟 시간보다 적게 잔다.|Engineers *surveyed* the land carefully before deciding where to build the new road.|기술자들은 새 도로를 어디에 낼지 정하기 전에 땅을 면밀히 조사했다.
+2|survive|/sərˈvaɪv/|동 살아남다|Only a few plants can *survive* in the harsh conditions of the desert.|혹독한 사막 환경에서는 소수의 식물만 살아남을 수 있다.|Doctors were amazed that he *survived* the accident, given how serious his injuries were.|의사들은 부상이 얼마나 심각했는지를 고려하면 그가 사고에서 살아남았다는 사실에 놀랐다.
+2|suspect|/səˈspekt/|동 의심하다;명 용의자|Police *suspect* that the fire was started deliberately, although they have no proof yet.|경찰은 아직 증거는 없지만 불이 고의로 일어났다고 의심한다.|The *suspect* was arrested at the airport as he tried to leave the country.|용의자는 출국하려다 공항에서 체포되었다.
+2|suspend|/səˈspend/|동 중단하다, 정학시키다|The school decided to *suspend* classes for a week because of the flu outbreak.|학교는 독감 유행으로 일주일간 수업을 중단하기로 했다.|The student was *suspended* for two days after he got into a fight with a classmate.|그 학생은 반 친구와 싸운 뒤 이틀간 정학 처분을 받았다.
+2|suspicious|/səˈspɪʃəs/|형 의심스러운|Neighbors became *suspicious* when they noticed a stranger watching the house for hours.|이웃들은 낯선 사람이 몇 시간 동안 그 집을 지켜보는 것을 보고 의심하기 시작했다.|The police are treating the fire as *suspicious* because it started in two places at once.|경찰은 불이 두 곳에서 동시에 시작되었기 때문에 그 화재를 수상하게 보고 있다.
+2|swallow|/ˈswɑːloʊ/|동 삼키다|The child found it hard to *swallow* the large tablet and asked for more water.|아이는 큰 알약을 삼키기 힘들어 물을 더 달라고 했다.|He had to *swallow* his pride and ask his old rival for help.|그는 자존심을 억누르고 오랜 경쟁자에게 도움을 청해야 했다.
+2|sway|/sweɪ/|동 흔들리다|The tall grass *swayed* gently in the breeze as the sun began to set.|해가 지기 시작하자 키 큰 풀이 산들바람에 부드럽게 흔들렸다.|The speaker's emotional story *swayed* many people in the audience to support the cause.|연사의 감동적인 이야기가 청중 가운데 많은 사람이 그 대의를 지지하도록 마음을 움직였다.
+2|swear|/swer/|동 맹세하다, 욕하다|He *swore* that he would never reveal the secret, no matter what happened.|그는 무슨 일이 있어도 그 비밀을 절대 밝히지 않겠다고 맹세했다.|The witness had to *swear* to tell the truth before she gave her evidence in court.|목격자는 법정에서 증언하기 전에 진실만을 말하겠다고 선서해야 했다.
+2|sweep|/swiːp/|동 쓸다|She *swept* the floor every morning before opening the shop to customers.|그녀는 가게 문을 열기 전에 매일 아침 바닥을 쓸었다.|The strong wind *swept* across the plain, carrying clouds of dust with it.|강한 바람이 먼지구름을 실은 채 평원을 휩쓸었다.
+2|swift|/swɪft/|형 신속한|The *swift* response of the rescue team saved the lives of many people.|구조대의 신속한 대응이 많은 사람의 목숨을 구했다.|The company took *swift* action to fix the problem before it affected more customers.|회사는 더 많은 고객에게 영향을 미치기 전에 문제를 해결하려고 신속히 조치했다.
+2|symbol|/ˈsɪmbl/|명 상징|The olive branch is an ancient *symbol* of peace that is still used today.|올리브 가지는 오늘날에도 쓰이는 평화의 고대 상징이다.|The chemical *symbol* for gold is Au, which comes from its Latin name.|금의 화학 기호는 라틴어 이름에서 온 Au다.
+2|sympathy|/ˈsɪmpəθi/|명 동정, 공감|The whole town expressed its *sympathy* to the family after the sudden loss.|온 마을이 갑작스러운 사별을 겪은 그 가족에게 위로를 전했다.|I have no *sympathy* for people who blame others for problems they created themselves.|나는 자신이 만든 문제를 남 탓하는 사람들에게는 공감이 가지 않는다.
+2|symptom|/ˈsɪmptəm/|명 증상|A high fever and a cough are common *symptoms* of the flu.|고열과 기침은 독감의 흔한 증상이다.|Economists said that the rise in unemployment was a *symptom* of a deeper economic problem.|경제학자들은 실업률 상승이 더 깊은 경제 문제의 징후라고 말했다.
+2|synthetic|/sɪnˈθetɪk/|형 합성의|The jacket is made from *synthetic* fibers that dry quickly and resist water.|그 재킷은 빨리 마르고 물을 막아 주는 합성 섬유로 만들어졌다.|Many medicines are produced from *synthetic* chemicals rather than natural plants.|많은 약은 천연 식물이 아니라 합성 화학 물질로 만들어진다.
+2|system|/ˈsɪstəm/|명 체계, 시스템|The city's subway *system* carries millions of passengers every day.|그 도시의 지하철 체계는 매일 수백만 명의 승객을 실어 나른다.|A problem in the computer *system* caused the airline to cancel dozens of flights.|컴퓨터 시스템의 문제로 항공사는 수십 편의 항공편을 취소했다.
+2|tackle|/ˈtækl/|동 맞붙다, 해결하다|The government has promised to *tackle* the problem of unemployment among young people.|정부는 청년 실업 문제를 해결하겠다고 약속했다.|The defender *tackled* the striker just before he could shoot at the goal.|수비수는 공격수가 골대를 향해 슛하려는 순간 태클을 걸었다.
+2|tactic|/ˈtæktɪk/|명 전술|The team used a clever *tactic* in the second half, and it completely surprised their opponents.|팀은 후반전에 영리한 전술을 구사해 상대를 완전히 놀라게 했다.|Delaying the vote was a *tactic* to give the party more time to gather support.|표결을 미룬 것은 그 정당이 지지를 모을 시간을 벌려는 전술이었다.
+2|talent|/ˈtælənt/|명 재능|She has a natural *talent* for music and could play the piano by ear at the age of five.|그녀는 음악에 타고난 재능이 있어서 다섯 살에 귀로 듣고 피아노를 칠 수 있었다.|The company is always looking for young *talent* to join its research teams.|그 회사는 연구팀에 합류할 젊은 인재를 늘 찾고 있다.
+2|target|/ˈtɑːrɡɪt/|명 목표, 과녁|The archer aimed carefully and hit the center of the *target* from fifty meters away.|궁수는 신중하게 겨냥해 50미터 거리에서 과녁의 한가운데를 맞혔다.|The company's *target* for this year is to increase sales by fifteen percent.|그 회사의 올해 목표는 매출을 15퍼센트 늘리는 것이다.
+2|task|/tæsk/|명 과업, 일|Cleaning the entire building in one day was a difficult *task* for the small team.|하루 만에 건물 전체를 청소하는 것은 소규모 팀에게 어려운 과업이었다.|She was given the *task* of organizing the annual school festival.|그녀는 연례 학교 축제를 기획하는 일을 맡았다.
+2|tax|/tæks/|명 세금|The government plans to raise the *tax* on cigarettes to discourage people from smoking.|정부는 흡연을 줄이려고 담배에 붙는 세금을 올릴 계획이다.|Most people have to pay income *tax* on the money they earn from their jobs.|대부분의 사람은 직장에서 번 돈에 대해 소득세를 내야 한다.
+2|technical|/ˈteknɪkl/|형 기술적인|The airline has been dealing with a *technical* problem that has delayed several flights.|그 항공사는 여러 항공편을 지연시킨 기술적 문제를 처리해 오고 있다.|The manual is full of *technical* terms that are difficult for beginners to understand.|그 설명서는 초보자가 이해하기 어려운 전문 용어로 가득하다.
+2|technique|/tekˈniːk/|명 기법, 기술|The painter used a special *technique* that gave her work a soft and dreamlike quality.|그 화가는 작품에 부드럽고 몽환적인 느낌을 주는 특별한 기법을 썼다.|The surgeon developed a new *technique* that makes the operation faster and safer.|그 외과의사는 수술을 더 빠르고 안전하게 해 주는 새로운 기법을 개발했다.
+2|technology|/tekˈnɑːlədʒi/|명 기술|Advances in *technology* have made it possible for people to work from almost anywhere.|기술의 발전 덕분에 사람들은 거의 어디서든 일할 수 있게 되었다.|The school has invested in new *technology* to help students learn more effectively.|학교는 학생들이 더 효과적으로 배울 수 있도록 신기술에 투자했다.
+2|temper|/ˈtempər/|명 성질, 화|He has a quick *temper*, and he often says things that he later regrets.|그는 성질이 급해서 나중에 후회할 말을 자주 한다.|She lost her *temper* when she saw that the children had broken her favorite vase.|그녀는 아이들이 가장 아끼는 꽃병을 깬 것을 보고 화를 냈다.
+2|temperature|/ˈtemprətʃər/|명 온도, 체온|The *temperature* dropped below zero last night, and the roads were covered with ice.|어젯밤 기온이 영하로 떨어져서 도로가 얼음으로 뒤덮였다.|The nurse took the child's *temperature* and found that he had a slight fever.|간호사는 아이의 체온을 재고 약간의 열이 있음을 알았다.
+2|temporary|/ˈtempəreri/|형 임시의|The company hired a *temporary* worker to cover for her while she was on maternity leave.|회사는 그녀가 출산 휴가 중인 동안 업무를 대신할 임시 직원을 고용했다.|The bridge is closed for *temporary* repairs, but it will reopen by the end of the week.|그 다리는 임시 보수 공사로 폐쇄되었지만 이번 주말까지는 다시 열릴 것이다.
+2|tempt|/tempt/|동 유혹하다|The smell of fresh bread *tempted* him to stop at the bakery, even though he was not hungry.|갓 구운 빵 냄새가 그를 유혹해 배가 고프지 않았는데도 빵집에 들르게 만들었다.|I was *tempted* to quit my job and travel the world, but I knew it was unrealistic.|나는 일을 그만두고 세계를 여행하고 싶은 유혹을 느꼈지만 비현실적이라는 걸 알았다.
+2|tend|/tend/|동 ~하는 경향이 있다|Young children *tend* to ask a lot of questions because they are curious about everything.|어린아이들은 모든 것이 궁금해서 질문을 많이 하는 경향이 있다.|The shepherd *tends* his flock of sheep in the hills from early morning until sunset.|목동은 이른 아침부터 해 질 때까지 언덕에서 양 떼를 돌본다.
+2|tense|/tens/|형 긴장한|The atmosphere in the room was *tense* as everyone waited for the results to be announced.|모두가 결과 발표를 기다리는 동안 방 안의 분위기는 긴장되어 있었다.|She felt *tense* before the interview, but she took a few deep breaths and relaxed.|그녀는 면접 전에 긴장했지만 심호흡을 몇 번 하고 마음을 가라앉혔다.
+2|tension|/ˈtenʃn/|명 긴장|There was a growing *tension* between the two countries over the disputed border.|분쟁 중인 국경을 둘러싸고 두 나라 사이에 긴장이 고조되고 있었다.|The coach tried to ease the *tension* before the match by telling a joke.|코치는 경기 전에 농담을 하여 긴장을 풀어 주려고 했다.
+2|term|/tɜːrm/|명 용어, 학기|The professor used a technical *term* that most of the students had never heard before.|교수는 대부분의 학생이 한 번도 들어 보지 못한 전문 용어를 썼다.|Students take their final exams at the end of the *term*, just before the holidays.|학생들은 학기 말, 방학 직전에 기말고사를 치른다.
+2|terminal|/ˈtɜːrmɪnl/|명 터미널;형 말기의|The bus *terminal* is located next to the train station, so changing is easy.|버스 터미널은 기차역 바로 옆에 있어서 갈아타기가 쉽다.|The doctors told the family that the illness was *terminal* and that little could be done.|의사들은 가족에게 그 병이 말기이며 손쓸 방법이 거의 없다고 말했다.
+2|terrify|/ˈterɪfaɪ/|동 겁에 질리게 하다|The sudden crash of thunder *terrified* the small dog, and it hid under the bed.|갑작스러운 천둥소리가 작은 개를 겁에 질리게 해서 개는 침대 밑에 숨었다.|The thought of speaking in front of hundreds of people *terrifies* her.|수백 명 앞에서 말한다는 생각만 해도 그녀는 겁에 질린다.
+2|territory|/ˈterətɔːri/|명 영토|The two tribes fought for years over control of the fertile *territory* along the river.|두 부족은 강을 따라 펼쳐진 비옥한 영토의 지배권을 두고 수년간 싸웠다.|Many animals mark their *territory* with scent to warn other animals to stay away.|많은 동물이 다른 동물에게 접근하지 말라고 경고하려고 냄새로 자신의 영역을 표시한다.
+2|terror|/ˈterər/|명 공포|The passengers screamed in *terror* as the plane suddenly dropped several hundred feet.|비행기가 갑자기 수백 피트 하강하자 승객들은 공포에 질려 비명을 질렀다.|The film is a story of *terror* set in an old house where strange things begin to happen.|그 영화는 이상한 일들이 벌어지기 시작하는 낡은 집을 배경으로 한 공포 이야기다.
+2|text|/tekst/|명 글, 문자 메시지|Please read the following *text* carefully and then answer the questions below.|다음 글을 주의 깊게 읽은 다음 아래 질문에 답하세요.|I sent her a *text* to say that I would be about ten minutes late.|나는 10분쯤 늦겠다고 그녀에게 문자 메시지를 보냈다.
+2|texture|/ˈtekstʃər/|명 질감|The cake had a light, soft *texture* that melted in the mouth.|그 케이크는 입안에서 녹는 가볍고 부드러운 질감을 지녔다.|The artist used thick paint to give the surface of the picture a rough *texture*.|화가는 그림 표면에 거친 질감을 주려고 물감을 두껍게 발랐다.
+2|theme|/θiːm/|명 주제|The central *theme* of the novel is the conflict between tradition and change.|그 소설의 중심 주제는 전통과 변화 사이의 갈등이다.|The party had a pirate *theme*, and all the guests came dressed as sailors.|그 파티는 해적을 주제로 해서 모든 손님이 선원처럼 차려입고 왔다.
+2|theory|/ˈθɪəri/|명 이론|Einstein's *theory* of relativity changed the way scientists think about time and space.|아인슈타인의 상대성 이론은 과학자들이 시간과 공간을 생각하는 방식을 바꿔 놓았다.|In *theory*, the plan should work, but we won't know until we try it.|이론상으로는 그 계획이 효과가 있어야 하지만 해 보기 전에는 알 수 없다.
+2|therapy|/ˈθerəpi/|명 치료, 요법|After the accident, he needed months of physical *therapy* to learn to walk again.|사고 이후 그는 다시 걷는 법을 배우기 위해 몇 달간 물리 치료가 필요했다.|She found that talking to a counselor was a helpful form of *therapy* for her anxiety.|그녀는 상담사와 이야기하는 것이 불안을 다스리는 데 도움이 되는 치료 방식임을 알게 되었다.
+2|thorough|/ˈθɜːroʊ/|형 철저한|The police carried out a *thorough* search of the area but found no trace of the missing child.|경찰은 그 지역을 철저히 수색했지만 실종 아동의 흔적을 찾지 못했다.|She is a *thorough* worker who checks every detail twice before she hands in her report.|그녀는 보고서를 제출하기 전에 모든 세부 사항을 두 번씩 확인하는 철저한 직원이다.
+2|threat|/θret/|명 위협|Pollution is a serious *threat* to the health of people and animals living near the river.|오염은 강 근처에 사는 사람과 동물의 건강에 심각한 위협이다.|The company received a *threat* that its website would be attacked unless it paid money.|그 회사는 돈을 내지 않으면 웹사이트를 공격하겠다는 협박을 받았다.
+2|threshold|/ˈθreʃhoʊld/|명 문턱, 한계점|She stood on the *threshold* of the old house, hesitating before going inside.|그녀는 낡은 집의 문턱에 서서 안으로 들어가기 전에 망설였다.|The country is on the *threshold* of a new era in space exploration.|그 나라는 우주 탐사의 새 시대 문턱에 서 있다.
+2|thrill|/θrɪl/|명 짜릿함;동 짜릿하게 하다|The *thrill* of reaching the top of the mountain made all the hard climbing worthwhile.|산 정상에 오른 짜릿함은 그 힘든 등반을 모두 보람 있게 만들었다.|The roller coaster *thrilled* the children, who begged to ride it again.|롤러코스터는 아이들을 짜릿하게 해서 아이들은 한 번 더 타자고 졸랐다.
+2|thrive|/θraɪv/|동 번창하다|Plants *thrive* in this region because the soil is rich and there is plenty of rain.|이 지역은 토양이 비옥하고 비가 풍부해서 식물이 잘 자란다.|Small businesses can *thrive* when they offer something that the large chains cannot.|소규모 사업체는 대형 체인이 제공하지 못하는 것을 제공할 때 번창할 수 있다.
+2|tide|/taɪd/|명 조수, 흐름|The *tide* went out, leaving hundreds of shells and small fish on the sand.|조수가 빠져나가면서 모래 위에 수백 개의 조개껍데기와 작은 물고기가 남았다.|The *tide* of public opinion turned against the government after the scandal.|스캔들 이후 여론의 흐름이 정부에 불리하게 돌아섰다.
+2|tight|/taɪt/|형 꽉 끼는, 빡빡한|The shoes were so *tight* that she could not walk more than a few steps without pain.|신발이 너무 꽉 껴서 그녀는 몇 걸음만 걸어도 아팠다.|We have a *tight* schedule today, with five meetings between nine and four.|오늘은 아홉 시부터 네 시까지 회의가 다섯 개나 있는 빡빡한 일정이다.
+2|tissue|/ˈtɪʃuː/|명 조직, 휴지|The surgeon removed the damaged *tissue* and sent it to a laboratory for tests.|외과의사는 손상된 조직을 제거해 검사를 위해 연구소로 보냈다.|She pulled a *tissue* from the box and wiped her eyes as the film ended.|그녀는 영화가 끝나자 상자에서 휴지 한 장을 뽑아 눈물을 닦았다.
+2|tolerate|/ˈtɑːləreɪt/|동 참다, 용인하다|The teacher will not *tolerate* cheating of any kind during the examination.|교사는 시험 중 어떤 종류의 부정행위도 용납하지 않을 것이다.|Some plants can *tolerate* very dry conditions and survive for months without water.|어떤 식물은 매우 건조한 환경을 견디고 몇 달간 물 없이도 살아남을 수 있다.
+2|toll|/toʊl/|명 통행료, 피해|The bridge charges a *toll* of three dollars for each car that crosses it.|그 다리는 건너는 차 한 대당 3달러의 통행료를 받는다.|The earthquake took a terrible *toll* on the city, killing hundreds and destroying thousands of homes.|그 지진은 수백 명의 목숨을 앗아가고 수천 채의 집을 파괴하여 도시에 끔찍한 피해를 입혔다.
+2|tone|/toʊn/|명 어조, 음색|The teacher spoke in a gentle *tone* that calmed the nervous students.|선생님은 긴장한 학생들을 진정시키는 부드러운 어조로 말했다.|The violin has a warm and rich *tone* that fills the entire concert hall.|그 바이올린은 콘서트홀 전체를 채우는 따뜻하고 풍부한 음색을 지녔다.
+2|tool|/tuːl/|명 도구|A hammer is a simple *tool* that has been used for thousands of years.|망치는 수천 년간 쓰여 온 간단한 도구다.|The internet has become an essential *tool* for research and communication.|인터넷은 연구와 소통에 필수적인 도구가 되었다.
+2|topic|/ˈtɑːpɪk/|명 주제|The *topic* of today's discussion is how schools can reduce the amount of plastic they use.|오늘 토론의 주제는 학교가 사용하는 플라스틱 양을 어떻게 줄일 수 있는가이다.|She chose an interesting *topic* for her research paper: the history of the bicycle.|그녀는 연구 논문의 흥미로운 주제로 자전거의 역사를 골랐다.
+2|tough|/tʌf/|형 힘든, 질긴|It was a *tough* decision, but the manager believed it was the best for the company.|어려운 결정이었지만 관리자는 그것이 회사에 최선이라고 믿었다.|The meat was so *tough* that it was almost impossible to cut with an ordinary knife.|고기가 너무 질겨서 보통 칼로는 거의 자를 수 없었다.
+2|tournament|/ˈtʊrnəmənt/|명 토너먼트, 대회|The school's chess team won first place in the national *tournament* last weekend.|학교 체스 팀은 지난 주말 전국 대회에서 우승했다.|Sixteen teams will take part in the *tournament*, which begins next Monday.|열여섯 개 팀이 다음 월요일에 시작되는 토너먼트에 참가한다.
+2|toxic|/ˈtɑːksɪk/|형 유독한|The factory was fined for releasing *toxic* chemicals into the river.|그 공장은 유독한 화학 물질을 강에 방류해 벌금을 물었다.|Some household cleaners are *toxic* and should be kept out of reach of children.|일부 가정용 세제는 독성이 있어서 아이들의 손이 닿지 않는 곳에 두어야 한다.
+2|trace|/treɪs/|명 흔적;동 추적하다|The police found no *trace* of the missing hikers, even after searching the mountain for days.|경찰은 며칠간 산을 수색하고도 실종된 등산객들의 흔적을 찾지 못했다.|Historians have *traced* the family's history back almost four hundred years.|역사학자들은 그 가문의 역사를 거의 400년 전까지 추적했다.
+2|track|/træk/|명 길, 경주로;동 추적하다|The runners lined up on the *track* as the crowd waited for the race to begin.|주자들은 관중이 경주 시작을 기다리는 가운데 경주로에 줄지어 섰다.|The app allows you to *track* how many steps you walk each day.|그 앱으로 매일 몇 걸음을 걷는지 추적할 수 있다.
+2|trade|/treɪd/|명 무역;동 거래하다|*Trade* between the two countries has increased since they signed the new agreement.|두 나라 사이의 무역은 새 협정에 서명한 이후 늘었다.|Many farmers *trade* their vegetables for fish at the weekly market by the river.|많은 농부가 강가에서 열리는 주간 시장에서 채소를 생선과 맞바꾼다.
+2|tradition|/trəˈdɪʃn/|명 전통|It is a family *tradition* to gather at my grandparents' house every New Year's Day.|매년 설날에 조부모님 댁에 모이는 것은 우리 집안의 전통이다.|The festival is an old *tradition* that has been celebrated in the village for centuries.|그 축제는 마을에서 수 세기 동안 기념해 온 오래된 전통이다.

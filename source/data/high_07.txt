@@ -1,115 +1,115 @@
-2|identify|/aɪˈdentɪfaɪ/|동 확인하다, 식별하다|Can you *identify* the man in the photo?|사진 속의 남자가 누구인지 알아보겠니?|Doctors *identified* the cause of the illness.|의사들은 병의 원인을 밝혀냈다.
-2|ideal|/aɪˈdiːəl/|형 이상적인|This is an *ideal* place for a picnic.|이곳은 소풍 가기에 이상적인 장소다.|She is the *ideal* person for the job.|그녀는 그 일에 이상적인 사람이다.
-2|identity|/aɪˈdentəti/|명 신원, 정체성|Please show your *identity* card.|신분증을 보여 주세요.|Teenagers search for their *identity*.|십 대들은 자신의 정체성을 찾는다.
-2|ignore|/ɪɡˈnɔːr/|동 무시하다|Don't *ignore* the warning signs.|경고 표시를 무시하지 마라.|She *ignored* his rude comment.|그녀는 그의 무례한 말을 무시했다.
-2|illegal|/ɪˈliːɡl/|형 불법의|It is *illegal* to park here.|여기에 주차하는 것은 불법이다.|They sold *illegal* goods.|그들은 불법 물품을 팔았다.
-2|illustrate|/ˈɪləstreɪt/|동 설명하다, 삽화를 넣다|The teacher *illustrated* the idea with a story.|선생님은 이야기로 그 개념을 설명했다.|The book is *illustrated* with photos.|그 책에는 사진 삽화가 들어 있다.
-2|image|/ˈɪmɪdʒ/|명 이미지, 모습|The *image* on the screen was blurry.|화면의 이미지가 흐릿했다.|The brand has a modern *image*.|그 브랜드는 현대적인 이미지를 가졌다.
-2|immediate|/ɪˈmiːdiət/|형 즉각적인|We need an *immediate* answer.|우리는 즉각적인 답이 필요하다.|He took *immediate* action.|그는 즉시 조치를 취했다.
-2|immigrate|/ˈɪmɪɡreɪt/|동 이민 오다|His family *immigrated* to Canada.|그의 가족은 캐나다로 이민 갔다.|Many people *immigrate* to find work.|많은 사람이 일자리를 찾아 이민한다.
-2|immune|/ɪˈmjuːn/|형 면역의|The vaccine makes you *immune* to the disease.|백신은 그 병에 대한 면역력을 준다.|The body's *immune* system fights germs.|몸의 면역 체계는 세균과 싸운다.
-2|implement|/ˈɪmplɪment/|동 시행하다|The school will *implement* the new rule.|학교는 새 규칙을 시행할 것이다.|They *implemented* the plan in May.|그들은 5월에 그 계획을 실행했다.
-2|imply|/ɪmˈplaɪ/|동 암시하다|His silence *implied* that he agreed.|그의 침묵은 동의를 암시했다.|The report *implies* that prices will rise.|그 보고서는 물가가 오를 것임을 시사한다.
-2|impose|/ɪmˈpoʊz/|동 부과하다, 강요하다|The government *imposed* a new tax.|정부는 새 세금을 부과했다.|Don't *impose* your opinion on others.|당신의 의견을 남에게 강요하지 마라.
-2|impress|/ɪmˈpres/|동 깊은 인상을 주다|Her speech *impressed* the judges.|그녀의 연설은 심사위원들에게 깊은 인상을 주었다.|I was *impressed* by his skill.|나는 그의 실력에 감명받았다.
-2|impressive|/ɪmˈpresɪv/|형 인상적인|The view from the top is *impressive*.|정상에서의 경치는 인상적이다.|He gave an *impressive* performance.|그는 인상적인 공연을 했다.
-2|incentive|/ɪnˈsentɪv/|명 장려책, 동기|Prizes are an *incentive* to work hard.|상은 열심히 하게 하는 동기다.|The company offers tax *incentives*.|그 회사는 세금 혜택을 제공한다.
-2|incident|/ˈɪnsɪdənt/|명 사건|The *incident* was reported to the police.|그 사건은 경찰에 신고되었다.|It was a small *incident*.|그것은 작은 사건이었다.
-2|incline|/ɪnˈklaɪn/|동 ~하는 경향이 있다|I am *inclined* to agree.|나는 동의하는 쪽으로 기운다.|The road *inclines* slightly.|길은 약간 경사져 있다.
-2|income|/ˈɪnkʌm/|명 소득, 수입|Her monthly *income* is low.|그녀의 월 소득은 낮다.|Families with high *income* pay more tax.|소득이 높은 가정은 세금을 더 낸다.
-2|incorporate|/ɪnˈkɔːrpəreɪt/|동 포함시키다|The plan *incorporates* many new ideas.|그 계획은 많은 새로운 아이디어를 포함한다.|*Incorporate* more vegetables into your diet.|식단에 채소를 더 넣어라.
-2|increase|/ɪnˈkriːs/|동 증가하다;명 증가|Prices *increased* last month.|지난달 물가가 올랐다.|There was an *increase* in sales.|판매량이 증가했다.
-2|incredible|/ɪnˈkredəbl/|형 믿을 수 없는, 놀라운|The view was *incredible*.|경치가 놀라웠다.|He has an *incredible* memory.|그는 믿기 힘든 기억력을 가졌다.
-2|indeed|/ɪnˈdiːd/|부 실제로, 정말|It was *indeed* a difficult test.|그것은 정말 어려운 시험이었다.|Thank you very much *indeed*.|정말 대단히 감사합니다.
-2|independent|/ˌɪndɪˈpendənt/|형 독립적인|She is an *independent* thinker.|그녀는 독립적으로 사고하는 사람이다.|The country became *independent* in 1945.|그 나라는 1945년에 독립했다.
-2|index|/ˈɪndeks/|명 색인, 지수|Look it up in the *index* of the book.|책의 색인에서 찾아봐라.|The price *index* rose last month.|지난달 물가 지수가 올랐다.
-2|individual|/ˌɪndɪˈvɪdʒuəl/|명 개인;형 개별적인|Each *individual* has different needs.|개인마다 필요한 것이 다르다.|The teacher gave *individual* advice.|선생님은 개별적으로 조언을 해 주셨다.
-2|industry|/ˈɪndəstri/|명 산업|The car *industry* employs many people.|자동차 산업은 많은 사람을 고용한다.|Tourism is a key *industry* here.|관광은 이곳의 핵심 산업이다.
-2|inevitable|/ɪnˈevɪtəbl/|형 불가피한|Change is *inevitable*.|변화는 불가피하다.|The delay was *inevitable*.|지연은 피할 수 없었다.
-2|infant|/ˈɪnfənt/|명 유아|The *infant* slept in the crib.|유아는 아기 침대에서 잤다.|*Infant* clothes are tiny.|유아 옷은 아주 작다.
-2|infect|/ɪnˈfekt/|동 감염시키다|The virus *infected* many people.|그 바이러스는 많은 사람을 감염시켰다.|The cut became *infected*.|상처가 감염되었다.
-2|infer|/ɪnˈfɜːr/|동 추론하다|We can *infer* his mood from his voice.|우리는 목소리로 그의 기분을 추론할 수 있다.|What can you *infer* from the data?|그 자료에서 무엇을 추론할 수 있나요?
-2|inflation|/ɪnˈfleɪʃn/|명 물가 상승|*Inflation* made food more expensive.|물가 상승으로 음식이 더 비싸졌다.|The government is fighting *inflation*.|정부는 인플레이션과 싸우고 있다.
-2|influence|/ˈɪnfluəns/|명 영향;동 영향을 주다|Friends have a big *influence* on teenagers.|친구는 십 대에게 큰 영향을 미친다.|Music *influenced* her career.|음악이 그녀의 진로에 영향을 주었다.
-2|inform|/ɪnˈfɔːrm/|동 알리다|Please *inform* us of any changes.|변경 사항이 있으면 알려 주세요.|She *informed* him of the decision.|그녀는 그에게 그 결정을 알렸다.
-2|infrastructure|/ˈɪnfrəstrʌktʃər/|명 기반 시설|The city is improving its *infrastructure*.|그 도시는 기반 시설을 개선하고 있다.|Roads and bridges are part of *infrastructure*.|도로와 다리는 기반 시설의 일부다.
-2|inherit|/ɪnˈherɪt/|동 물려받다|She *inherited* her mother's smile.|그녀는 어머니의 미소를 물려받았다.|He *inherited* a large farm.|그는 큰 농장을 상속받았다.
-2|initial|/ɪˈnɪʃl/|형 처음의|My *initial* reaction was surprise.|나의 첫 반응은 놀라움이었다.|The *initial* cost is high.|초기 비용이 높다.
-2|initiative|/ɪˈnɪʃətɪv/|명 주도권, 계획|He took the *initiative* to start the club.|그는 주도적으로 동아리를 시작했다.|The city launched a new green *initiative*.|시는 새로운 친환경 계획을 시작했다.
-2|injure|/ˈɪndʒər/|동 다치게 하다|He *injured* his leg in the game.|그는 경기 중에 다리를 다쳤다.|Two players were *injured*.|선수 두 명이 부상을 입었다.
-2|inner|/ˈɪnər/|형 내부의, 내면의|She has *inner* strength.|그녀는 내면의 힘이 있다.|The *inner* room was dark.|안쪽 방은 어두웠다.
-2|innocent|/ˈɪnəsnt/|형 무고한, 순진한|The man was *innocent* of the crime.|그 남자는 범죄에 대해 무죄였다.|The child gave an *innocent* smile.|아이는 순수한 미소를 지었다.
-2|innovation|/ˌɪnəˈveɪʃn/|명 혁신|The company is known for *innovation*.|그 회사는 혁신으로 알려져 있다.|The phone was a great *innovation*.|그 전화기는 대단한 혁신이었다.
-2|input|/ˈɪnpʊt/|명 입력, 의견|We value your *input*.|우리는 당신의 의견을 소중히 여깁니다.|Enter the *input* data here.|입력 데이터를 여기에 넣으세요.
-2|inquiry|/ɪnˈkwaɪri/|명 문의, 조사|I made an *inquiry* about the course.|나는 그 과정에 대해 문의했다.|The police opened an *inquiry*.|경찰이 조사를 시작했다.
-2|insert|/ɪnˈsɜːrt/|동 끼워 넣다|*Insert* the card into the slot.|카드를 슬롯에 넣으세요.|She *inserted* a new page.|그녀는 새 페이지를 끼워 넣었다.
-2|insight|/ˈɪnsaɪt/|명 통찰력|The book gives *insight* into history.|그 책은 역사에 대한 통찰을 준다.|She showed great *insight*.|그녀는 뛰어난 통찰력을 보였다.
-2|insist|/ɪnˈsɪst/|동 주장하다, 고집하다|He *insisted* on paying for dinner.|그는 저녁값을 내겠다고 고집했다.|She *insists* that she is right.|그녀는 자신이 옳다고 주장한다.
-2|inspect|/ɪnˈspekt/|동 점검하다|The officer *inspected* the bags.|직원은 가방을 검사했다.|They *inspect* the machines every week.|그들은 매주 기계를 점검한다.
-2|inspire|/ɪnˈspaɪər/|동 영감을 주다|Her story *inspired* many young people.|그녀의 이야기는 많은 젊은이들에게 영감을 주었다.|The teacher *inspired* me to read.|선생님은 내가 책을 읽도록 영감을 주었다.
-2|install|/ɪnˈstɔːl/|동 설치하다|He *installed* a new program.|그는 새 프로그램을 설치했다.|They *installed* solar panels on the roof.|그들은 지붕에 태양광 패널을 설치했다.
-2|instance|/ˈɪnstəns/|명 사례|There are many *instances* of this problem.|이 문제의 사례가 많다.|For *instance*, you can try this recipe.|예를 들어, 이 요리법을 해 볼 수 있다.
-2|instinct|/ˈɪnstɪŋkt/|명 본능|Birds migrate by *instinct*.|새는 본능으로 이동한다.|Trust your *instinct*.|네 직감을 믿어라.
-2|institute|/ˈɪnstɪtuːt/|명 기관, 연구소|He works at a research *institute*.|그는 연구소에서 일한다.|The *institute* offers evening courses.|그 기관은 야간 강좌를 제공한다.
-2|instruct|/ɪnˈstrʌkt/|동 지시하다, 가르치다|The teacher *instructed* us to open our books.|선생님은 우리에게 책을 펴라고 지시하셨다.|She *instructs* children in swimming.|그녀는 아이들에게 수영을 가르친다.
-2|instrument|/ˈɪnstrəmənt/|명 악기, 도구|She plays three musical *instruments*.|그녀는 세 가지 악기를 연주한다.|The doctor used a special *instrument*.|의사는 특수한 기구를 사용했다.
-2|insult|/ɪnˈsʌlt/|동 모욕하다;명 모욕|Don't *insult* your friends.|친구를 모욕하지 마라.|He took the remark as an *insult*.|그는 그 말을 모욕으로 받아들였다.
-2|insurance|/ɪnˈʃʊrəns/|명 보험|Do you have health *insurance*?|건강보험이 있으세요?|The car *insurance* costs a lot.|자동차 보험료가 많이 든다.
-2|intellectual|/ˌɪntəˈlektʃuəl/|형 지적인|He enjoys *intellectual* conversation.|그는 지적인 대화를 즐긴다.|She is an *intellectual* person.|그녀는 지적인 사람이다.
-2|intelligence|/ɪnˈtelɪdʒəns/|명 지능|Dolphins show high *intelligence*.|돌고래는 높은 지능을 보인다.|Artificial *intelligence* is improving.|인공지능이 발전하고 있다.
-2|intend|/ɪnˈtend/|동 의도하다|I *intend* to study abroad.|나는 해외에서 공부할 생각이다.|I didn't *intend* to hurt you.|나는 너를 아프게 할 의도가 없었다.
-2|intense|/ɪnˈtens/|형 강렬한|The heat was *intense*.|더위가 극심했다.|They had an *intense* argument.|그들은 격렬한 논쟁을 벌였다.
-2|interact|/ˌɪntərˈækt/|동 상호 작용하다|Children *interact* through play.|아이들은 놀이로 서로 어울린다.|The two chemicals *interact* strongly.|그 두 화학 물질은 강하게 반응한다.
-2|interfere|/ˌɪntərˈfɪr/|동 간섭하다, 방해하다|Please don't *interfere* in my business.|제 일에 간섭하지 마세요.|Noise can *interfere* with sleep.|소음은 수면을 방해할 수 있다.
-2|interior|/ɪnˈtɪriər/|명 내부;형 내부의|The *interior* of the house is bright.|집의 내부는 밝다.|She studies *interior* design.|그녀는 실내 디자인을 공부한다.
-2|intermediate|/ˌɪntərˈmiːdiət/|형 중급의|He is an *intermediate* learner of English.|그는 중급 영어 학습자다.|Take the *intermediate* course.|중급 과정을 들으세요.
-2|internal|/ɪnˈtɜːrnl/|형 내부의|The *internal* parts of the clock are tiny.|시계의 내부 부품은 아주 작다.|The company has an *internal* review.|그 회사는 내부 검토를 한다.
-2|interpret|/ɪnˈtɜːrprɪt/|동 해석하다, 통역하다|How do you *interpret* this poem?|이 시를 어떻게 해석하니?|She *interpreted* for the tourists.|그녀는 관광객을 위해 통역했다.
-2|interrupt|/ˌɪntəˈrʌpt/|동 방해하다, 끼어들다|Please don't *interrupt* when I'm speaking.|제가 말할 때 끼어들지 마세요.|The phone call *interrupted* the class.|전화벨이 수업을 방해했다.
-2|interval|/ˈɪntərvl/|명 간격, 쉬는 시간|The play has a ten-minute *interval*.|연극에는 10분의 휴식이 있다.|Buses run at ten-minute *intervals*.|버스는 10분 간격으로 다닌다.
-2|intervene|/ˌɪntərˈviːn/|동 개입하다|The teacher *intervened* in the fight.|선생님이 싸움에 개입했다.|The police had to *intervene*.|경찰이 개입해야 했다.
-2|interview|/ˈɪntərvjuː/|명 면접, 인터뷰|She has a job *interview* tomorrow.|그녀는 내일 면접이 있다.|The reporter *interviewed* the mayor.|기자는 시장을 인터뷰했다.
-2|intimate|/ˈɪntɪmət/|형 친밀한|They are *intimate* friends.|그들은 친밀한 친구 사이다.|It was an *intimate* dinner.|그것은 오붓한 저녁 식사였다.
-2|invade|/ɪnˈveɪd/|동 침략하다|The army *invaded* the neighboring country.|군대가 이웃 나라를 침략했다.|Insects *invaded* the kitchen.|벌레들이 부엌을 습격했다.
-2|invent|/ɪnˈvent/|동 발명하다|Edison *invented* the light bulb.|에디슨은 전구를 발명했다.|Who *invented* the telephone?|전화기는 누가 발명했니?
-2|invest|/ɪnˈvest/|동 투자하다|They *invested* money in a new company.|그들은 새 회사에 돈을 투자했다.|*Invest* time in your education.|교육에 시간을 투자하라.
-2|investigate|/ɪnˈvestɪɡeɪt/|동 조사하다|Police are *investigating* the theft.|경찰이 절도 사건을 조사하고 있다.|Scientists *investigated* the cause.|과학자들이 원인을 조사했다.
-2|invisible|/ɪnˈvɪzəbl/|형 보이지 않는|Air is *invisible*.|공기는 눈에 보이지 않는다.|The tiny germs are *invisible* to the eye.|그 작은 세균은 눈에 보이지 않는다.
-2|involve|/ɪnˈvɑːlv/|동 포함하다, 관련시키다|The job *involves* a lot of travel.|그 일은 출장이 많이 필요하다.|He was *involved* in the project.|그는 그 프로젝트에 관여했다.
-2|ironic|/aɪˈrɑːnɪk/|형 역설적인, 반어적인|It is *ironic* that the fire station burned down.|소방서가 불에 탄 것은 아이러니하다.|She made an *ironic* remark.|그녀는 반어적인 말을 했다.
-2|irritate|/ˈɪrɪteɪt/|동 짜증나게 하다|His loud chewing *irritates* me.|그가 쩝쩝거리는 소리가 나를 짜증나게 한다.|The soap *irritated* her skin.|그 비누가 그녀의 피부를 자극했다.
-2|isolate|/ˈaɪsəleɪt/|동 고립시키다|The storm *isolated* the village.|폭풍이 마을을 고립시켰다.|Sick patients were *isolated* from others.|아픈 환자들은 다른 사람들과 격리되었다.
-2|issue|/ˈɪʃuː/|명 문제, 호;동 발행하다|Pollution is an important *issue*.|오염은 중요한 문제다.|The bank *issued* a new card.|은행은 새 카드를 발급했다.
-2|item|/ˈaɪtəm/|명 항목, 품목|Check each *item* on the list.|목록의 각 항목을 확인해라.|The store has many *items* on sale.|그 가게는 할인 품목이 많다.
-2|jealous|/ˈdʒeləs/|형 질투하는|She felt *jealous* of her friend's success.|그녀는 친구의 성공이 부러웠다.|He gets *jealous* easily.|그는 쉽게 질투한다.
-2|journalist|/ˈdʒɜːrnəlɪst/|명 기자|The *journalist* wrote about the flood.|기자는 홍수에 대해 썼다.|She wants to be a *journalist*.|그녀는 기자가 되고 싶어 한다.
-2|judge|/dʒʌdʒ/|명 판사;동 판단하다|The *judge* listened carefully.|판사는 주의 깊게 들었다.|Don't *judge* people by their looks.|외모로 사람을 판단하지 마라.
-2|justice|/ˈdʒʌstɪs/|명 정의|They fought for *justice*.|그들은 정의를 위해 싸웠다.|The court seeks *justice*.|법원은 정의를 추구한다.
-2|justify|/ˈdʒʌstɪfaɪ/|동 정당화하다|Nothing can *justify* violence.|아무것도 폭력을 정당화할 수 없다.|How can you *justify* the cost?|그 비용을 어떻게 정당화할 수 있니?
-2|keen|/kiːn/|형 열렬한, 날카로운|She is *keen* on tennis.|그녀는 테니스에 열광한다.|He has a *keen* sense of smell.|그는 후각이 예민하다.
-2|label|/ˈleɪbl/|명 표, 라벨;동 라벨을 붙이다|Read the *label* before taking the medicine.|약을 먹기 전에 라벨을 읽어라.|She *labeled* each box.|그녀는 상자마다 라벨을 붙였다.
-2|labor|/ˈleɪbər/|명 노동|The job requires hard *labor*.|그 일은 힘든 노동이 필요하다.|*Labor* costs have risen.|인건비가 올랐다.
-2|landscape|/ˈlændskeɪp/|명 풍경|The *landscape* was covered in snow.|풍경이 눈으로 덮여 있었다.|He paints *landscapes* of the countryside.|그는 시골 풍경을 그린다.
-2|launch|/lɔːntʃ/|동 발사하다, 출시하다|They will *launch* a rocket tomorrow.|그들은 내일 로켓을 발사할 것이다.|The company *launched* a new phone.|그 회사는 새 휴대폰을 출시했다.
-2|layer|/ˈleɪər/|명 층|Put a *layer* of cheese on the bread.|빵 위에 치즈를 한 겹 올려라.|The ozone *layer* protects us.|오존층은 우리를 보호한다.
-2|league|/liːɡ/|명 리그, 연맹|Our team is at the top of the *league*.|우리 팀은 리그 선두에 있다.|He plays in the baseball *league*.|그는 야구 리그에서 뛴다.
-2|lecture|/ˈlektʃər/|명 강의, 훈계|I attended a *lecture* on history.|나는 역사 강의를 들었다.|My father gave me a *lecture* about safety.|아버지가 내게 안전에 대해 훈계하셨다.
-2|legacy|/ˈleɡəsi/|명 유산|He left a *legacy* of kindness.|그는 친절의 유산을 남겼다.|The war left a *legacy* of pain.|전쟁은 고통의 유산을 남겼다.
-2|legal|/ˈliːɡl/|형 합법적인, 법률의|It is *legal* to drive at eighteen.|열여덟 살에 운전하는 것은 합법이다.|She sought *legal* advice.|그녀는 법률 자문을 구했다.
-2|legend|/ˈledʒənd/|명 전설|The *legend* says a dragon lived here.|전설에 따르면 이곳에 용이 살았다.|He is a *legend* in the music world.|그는 음악계의 전설이다.
-2|legislation|/ˌledʒɪsˈleɪʃn/|명 법률, 입법|New *legislation* protects workers.|새 법률이 노동자를 보호한다.|The *legislation* was passed in May.|그 법은 5월에 통과되었다.
-2|leisure|/ˈliːʒər/|명 여가|He reads in his *leisure* time.|그는 여가 시간에 책을 읽는다.|She enjoys *leisure* activities.|그녀는 여가 활동을 즐긴다.
-2|liberal|/ˈlɪbərəl/|형 진보적인, 관대한|She has *liberal* ideas about education.|그녀는 교육에 대해 진보적인 생각을 가졌다.|The shop gave a *liberal* discount.|가게는 넉넉한 할인을 해 주었다.
-2|liberty|/ˈlɪbərti/|명 자유|They fought for their *liberty*.|그들은 자유를 위해 싸웠다.|The prisoner was set at *liberty*.|죄수는 풀려났다.
-2|license|/ˈlaɪsns/|명 면허|He got his driver's *license*.|그는 운전면허를 땄다.|You need a *license* to fish here.|여기서 낚시하려면 허가증이 필요하다.
-2|lifestyle|/ˈlaɪfstaɪl/|명 생활 방식|She has a healthy *lifestyle*.|그녀는 건강한 생활 방식을 갖고 있다.|City *lifestyle* is busy.|도시의 생활 방식은 바쁘다.
-2|likely|/ˈlaɪkli/|형 ~할 것 같은|It is *likely* to rain tomorrow.|내일 비가 올 것 같다.|He is *likely* to win.|그가 이길 가능성이 높다.
-2|link|/lɪŋk/|명 연결;동 연결하다|There is a *link* between sleep and memory.|수면과 기억 사이에는 연관이 있다.|The bridge *links* two islands.|그 다리는 두 섬을 연결한다.
-2|liquid|/ˈlɪkwɪd/|명 액체|Water is a *liquid*.|물은 액체다.|Pour the *liquid* into the cup.|액체를 컵에 부어라.
-2|literally|/ˈlɪtərəli/|부 말 그대로|The room was *literally* freezing.|방은 말 그대로 얼어붙을 듯했다.|Don't take it *literally*.|그것을 문자 그대로 받아들이지 마라.
-2|literature|/ˈlɪtərətʃər/|명 문학|She studies English *literature*.|그녀는 영문학을 공부한다.|Korean *literature* is popular abroad.|한국 문학은 해외에서 인기가 있다.
-2|loan|/loʊn/|명 대출;동 빌려주다|He took out a bank *loan*.|그는 은행 대출을 받았다.|She *loaned* me her bike.|그녀는 내게 자전거를 빌려주었다.
-2|locate|/ˈloʊkeɪt/|동 위치를 찾다, 위치하다|The school is *located* near the park.|학교는 공원 근처에 있다.|Can you *locate* the problem?|문제의 위치를 찾아낼 수 있니?
-2|logic|/ˈlɑːdʒɪk/|명 논리|His argument lacks *logic*.|그의 주장은 논리가 부족하다.|Math requires clear *logic*.|수학은 명확한 논리가 필요하다.
-2|loyal|/ˈlɔɪəl/|형 충실한|Dogs are *loyal* to their owners.|개는 주인에게 충실하다.|He is a *loyal* friend.|그는 의리 있는 친구다.
-2|luxury|/ˈlʌkʃəri/|명 사치, 호화로움|They stayed in a *luxury* hotel.|그들은 호화 호텔에 묵었다.|A long holiday is a *luxury* for us.|긴 휴가는 우리에게 사치다.
+2|identify|/aɪˈdentɪfaɪ/|동 확인하다, 식별하다|Witnesses were asked to *identify* the suspect from a line of six people.|목격자들은 여섯 명이 늘어선 가운데서 용의자를 식별해 달라는 요청을 받았다.|Doctors must *identify* the cause of the symptoms before they can prescribe the right treatment.|의사는 올바른 치료를 처방하기 전에 증상의 원인을 확인해야 한다.
+2|ideal|/aɪˈdiːəl/|형 이상적인|The quiet seaside village is an *ideal* place for writers who need peace to work.|조용한 해변 마을은 작업할 평온함이 필요한 작가들에게 이상적인 장소다.|In an *ideal* world, every child would have access to a good education.|이상적인 세상이라면 모든 아이가 좋은 교육을 받을 수 있을 것이다.
+2|identity|/aɪˈdentəti/|명 신원, 정체성|The police have not yet released the *identity* of the man who was injured in the accident.|경찰은 사고로 다친 남자의 신원을 아직 공개하지 않았다.|Language is an important part of a person's cultural *identity*.|언어는 한 사람의 문화적 정체성에서 중요한 부분이다.
+2|ignore|/ɪɡˈnɔːr/|동 무시하다|It is dangerous to *ignore* the warning signs of a serious illness.|중병의 징후를 무시하는 것은 위험하다.|She decided to *ignore* the rude comments and focus on her work.|그녀는 무례한 말들을 무시하고 일에 집중하기로 했다.
+2|illegal|/ɪˈliːɡl/|형 불법의|It is *illegal* to park in front of the hospital entrance, and drivers are fined.|병원 입구 앞에 주차하는 것은 불법이며 운전자는 벌금을 문다.|The police arrested several people for selling *illegal* copies of the movie.|경찰은 그 영화의 불법 복제본을 판 여러 명을 체포했다.
+2|illustrate|/ˈɪləstreɪt/|동 설명하다, 삽화를 넣다|The teacher used a simple diagram to *illustrate* how the heart pumps blood.|교사는 심장이 어떻게 혈액을 내보내는지 설명하려고 간단한 도표를 사용했다.|The children's book was beautifully *illustrated* with watercolor paintings.|그 동화책은 수채화 삽화로 아름답게 꾸며져 있었다.
+2|image|/ˈɪmɪdʒ/|명 이미지, 모습|The company is working hard to improve its *image* after the recent scandal.|그 회사는 최근의 스캔들 이후 이미지를 개선하려고 열심히 노력하고 있다.|The telescope sent back a clear *image* of a distant galaxy.|망원경은 먼 은하의 선명한 이미지를 전송해 왔다.
+2|immediate|/ɪˈmiːdiət/|형 즉각적인|The firefighters took *immediate* action to stop the fire from spreading.|소방관들은 불이 번지는 것을 막으려고 즉각 조치를 취했다.|The new policy had an *immediate* effect on the number of cars in the city center.|새 정책은 도심의 자동차 수에 즉각적인 영향을 미쳤다.
+2|immigrate|/ˈɪmɪɡreɪt/|동 이민 오다|Her grandparents *immigrated* to the United States in search of a better life.|그녀의 조부모는 더 나은 삶을 찾아 미국으로 이민을 왔다.|Thousands of people *immigrate* to the city every year to find work.|해마다 수천 명이 일자리를 찾아 그 도시로 이민 온다.
+2|immune|/ɪˈmjuːn/|형 면역의|People who have had the disease are usually *immune* to it for several years.|그 병을 앓은 사람은 보통 몇 년간 그 병에 면역이 있다.|No one is completely *immune* to the effects of advertising.|누구도 광고의 영향에서 완전히 자유롭지 않다.
+2|implement|/ˈɪmplɪment/|동 시행하다|The school plans to *implement* the new rules at the beginning of next semester.|학교는 다음 학기 초에 새 규칙을 시행할 계획이다.|It took the government two years to *implement* the reforms it had promised.|정부가 약속한 개혁을 시행하는 데 2년이 걸렸다.
+2|imply|/ɪmˈplaɪ/|동 암시하다|His silence seemed to *imply* that he disagreed with the decision.|그의 침묵은 그 결정에 동의하지 않는다는 것을 암시하는 듯했다.|The statistics *imply* that more young people are choosing to live in cities.|그 통계는 더 많은 젊은이가 도시에서 사는 쪽을 택하고 있음을 시사한다.
+2|impose|/ɪmˈpoʊz/|동 부과하다, 강요하다|The government decided to *impose* a heavy tax on sugary drinks.|정부는 설탕이 든 음료에 무거운 세금을 부과하기로 했다.|Parents should not *impose* their own career choices on their children.|부모는 자신이 원하는 진로를 자녀에게 강요해서는 안 된다.
+2|impress|/ɪmˈpres/|동 깊은 인상을 주다|The young pianist *impressed* the judges with her skill and her calm on stage.|그 젊은 피아니스트는 뛰어난 실력과 무대에서의 침착함으로 심사위원들에게 깊은 인상을 주었다.|He wore his best suit to the interview in order to *impress* the manager.|그는 면접관에게 깊은 인상을 주려고 가장 좋은 정장을 입고 갔다.
+2|impressive|/ɪmˈpresɪv/|형 인상적인|The student gave an *impressive* presentation that earned praise from the professor.|그 학생은 교수님께 칭찬을 받은 인상적인 발표를 했다.|The athlete's *impressive* record has not been broken for more than twenty years.|그 선수의 인상적인 기록은 20년이 넘도록 깨지지 않았다.
+2|incentive|/ɪnˈsentɪv/|명 장려책, 동기|The company offers a cash *incentive* to employees who suggest ways to save energy.|그 회사는 에너지를 절약하는 방법을 제안하는 직원에게 현금 장려금을 준다.|Lower taxes provide an *incentive* for businesses to hire more people.|세금 인하는 기업이 더 많은 사람을 고용하도록 하는 동기가 된다.
+2|incident|/ˈɪnsɪdənt/|명 사건|The police are investigating an *incident* that occurred outside the stadium last night.|경찰은 어젯밤 경기장 밖에서 일어난 사건을 조사하고 있다.|The *incident* caused a diplomatic dispute between the two countries.|그 사건은 두 나라 사이에 외교 분쟁을 일으켰다.
+2|incline|/ɪnˈklaɪn/|동 ~하는 경향이 있다|Some people are *inclined* to believe whatever they read online without checking it.|어떤 사람들은 온라인에서 읽은 것을 확인하지 않고 그대로 믿는 경향이 있다.|After listening to both sides, I am *inclined* to agree with the second argument.|양측의 이야기를 들은 뒤 나는 두 번째 주장에 동의하는 쪽으로 기운다.
+2|income|/ˈɪnkʌm/|명 소득, 수입|The average *income* of families in the area has risen steadily over the last decade.|그 지역 가정의 평균 소득은 지난 10년간 꾸준히 올랐다.|Many students rely on part-time jobs as their main source of *income*.|많은 학생이 아르바이트를 주된 수입원으로 삼는다.
+2|incorporate|/ɪnˈkɔːrpəreɪt/|동 포함시키다|The architect decided to *incorporate* natural light into every room of the house.|건축가는 집의 모든 방에 자연광을 끌어들이기로 했다.|The new edition *incorporates* the latest scientific findings into each chapter.|새 개정판은 각 장에 최신 과학적 연구 결과를 반영한다.
+2|increase|/ɪnˈkriːs/|동 증가하다;명 증가|The number of tourists is expected to *increase* sharply during the summer holidays.|관광객 수는 여름 휴가철 동안 급격히 늘어날 것으로 예상된다.|There has been a steady *increase* in the price of housing over the past five years.|지난 5년간 주택 가격은 꾸준히 상승해 왔다.
+2|incredible|/ɪnˈkredəbl/|형 믿을 수 없는, 놀라운|The view from the top of the mountain was *incredible*, stretching for miles in every direction.|산 정상에서 보는 경치는 사방으로 수 마일이 펼쳐져 믿기 어려울 만큼 장관이었다.|It is *incredible* that she finished the marathon only three months after her injury.|그녀가 부상을 당한 지 석 달 만에 마라톤을 완주했다니 놀랍다.
+2|indeed|/ɪnˈdiːd/|부 실제로, 정말|She was *indeed* the best candidate, and everyone agreed that she deserved the job.|그녀는 정말로 최고의 후보였고 모두가 그녀가 그 일자리를 얻을 자격이 있다는 데 동의했다.|Thank you very much *indeed* for your generous donation to our school.|우리 학교에 후한 기부를 해 주셔서 정말 진심으로 감사드립니다.
+2|independent|/ˌɪndɪˈpendənt/|형 독립적인|She moved to another city to become more *independent* and learn to live on her own.|그녀는 더 독립적이 되고 혼자 사는 법을 배우려고 다른 도시로 이사했다.|The country became *independent* in 1960 after many years of colonial rule.|그 나라는 오랜 식민 통치를 거쳐 1960년에 독립했다.
+2|index|/ˈɪndeks/|명 색인, 지수|Look in the *index* at the back of the book to find the page for this topic.|이 주제가 나오는 쪽을 찾으려면 책 뒤의 색인을 찾아보세요.|The stock market *index* fell by three percent on Monday morning.|월요일 아침 주가 지수가 3퍼센트 하락했다.
+2|individual|/ˌɪndɪˈvɪdʒuəl/|명 개인;형 개별적인|Each *individual* has different strengths, and a good teacher recognizes this.|개인마다 장점이 다르며 좋은 교사는 이를 알아본다.|The school offers *individual* lessons for students who need extra help with math.|그 학교는 수학에 추가 도움이 필요한 학생들에게 개별 수업을 제공한다.
+2|industry|/ˈɪndəstri/|명 산업|The tourism *industry* has grown rapidly and now employs thousands of local people.|관광 산업은 빠르게 성장해 이제 수천 명의 지역 주민을 고용하고 있다.|The city was once known as the center of the steel *industry*.|그 도시는 한때 철강 산업의 중심지로 알려져 있었다.
+2|inevitable|/ɪnˈevɪtəbl/|형 불가피한|With so many players injured, defeat seemed *inevitable* for the home team.|선수 상당수가 부상을 입어 홈팀의 패배는 불가피해 보였다.|Change is *inevitable*, and those who adapt quickly are the ones who succeed.|변화는 불가피하며 빠르게 적응하는 사람이 성공한다.
+2|infant|/ˈɪnfənt/|명 유아|The nurse gently picked up the *infant* and placed him in his mother's arms.|간호사는 아기를 부드럽게 안아 올려 엄마의 품에 안겨 주었다.|*Infant* mortality has fallen dramatically thanks to better medical care and nutrition.|더 나은 의료와 영양 덕분에 영아 사망률이 크게 떨어졌다.
+2|infect|/ɪnˈfekt/|동 감염시키다|The virus can *infect* anyone who comes into close contact with a sick person.|그 바이러스는 아픈 사람과 가까이 접촉한 누구든 감염시킬 수 있다.|The wound became *infected* because it had not been cleaned properly.|상처는 제대로 소독하지 않아서 감염되었다.
+2|infer|/ɪnˈfɜːr/|동 추론하다|From the tone of her voice, I *inferred* that she was not pleased with the result.|그녀의 목소리 어조로 보아 나는 그녀가 결과에 만족하지 않는다고 추론했다.|Readers can *infer* the character's feelings even though the author never states them.|독자들은 작가가 직접 말하지 않아도 등장인물의 감정을 추론할 수 있다.
+2|inflation|/ɪnˈfleɪʃn/|명 물가 상승|High *inflation* means that the same amount of money buys less than it did before.|높은 물가 상승은 같은 돈으로 예전보다 적게 살 수 있다는 뜻이다.|The central bank raised interest rates in an attempt to control *inflation*.|중앙은행은 물가 상승을 억제하려고 금리를 올렸다.
+2|influence|/ˈɪnfluəns/|명 영향;동 영향을 주다|Her teacher had a great *influence* on her decision to study medicine.|그녀의 선생님은 의학을 공부하겠다는 그녀의 결정에 큰 영향을 미쳤다.|Advertising can *influence* what people buy, often without them realizing it.|광고는 사람들이 알아차리지 못하는 사이에 무엇을 살지에 영향을 줄 수 있다.
+2|inform|/ɪnˈfɔːrm/|동 알리다|Please *inform* us immediately if you notice any problem with your order.|주문에 문제가 있으면 즉시 저희에게 알려 주세요.|The doctor *informed* the family that the operation had been successful.|의사는 가족에게 수술이 성공적이었다고 알렸다.
+2|infrastructure|/ˈɪnfrəstrʌktʃər/|명 기반 시설|The country is investing heavily in *infrastructure*, such as roads, railways, and airports.|그 나라는 도로, 철도, 공항 같은 기반 시설에 막대한 투자를 하고 있다.|Poor *infrastructure* makes it difficult for farmers to bring their crops to market.|열악한 기반 시설은 농부들이 작물을 시장에 내다 팔기 어렵게 만든다.
+2|inherit|/ɪnˈherɪt/|동 물려받다|She *inherited* her mother's musical talent and began playing the piano at the age of four.|그녀는 어머니의 음악적 재능을 물려받아 네 살 때 피아노를 치기 시작했다.|The young prince will *inherit* the throne when his father steps down.|젊은 왕자는 아버지가 물러나면 왕위를 물려받을 것이다.
+2|initial|/ɪˈnɪʃl/|형 처음의|My *initial* reaction was surprise, but I soon realized that the news was good.|내 첫 반응은 놀라움이었지만 나는 곧 그 소식이 좋은 소식임을 깨달았다.|The *initial* results of the experiment were promising, but more tests are needed.|실험의 초기 결과는 유망했지만 더 많은 시험이 필요하다.
+2|initiative|/ɪˈnɪʃətɪv/|명 주도권, 계획|The mayor took the *initiative* to organize a city-wide cleanup campaign.|시장은 도시 전역의 청소 캠페인을 조직하는 데 주도권을 잡았다.|The government announced a new *initiative* to help young people find their first jobs.|정부는 청년들이 첫 직장을 구하도록 돕는 새 계획을 발표했다.
+2|injure|/ˈɪndʒər/|동 다치게 하다|Several players were *injured* during the match and had to be taken to hospital.|경기 중 여러 선수가 부상을 입어 병원으로 옮겨져야 했다.|He *injured* his knee while skiing and could not walk for weeks.|그는 스키를 타다 무릎을 다쳐 몇 주 동안 걸을 수 없었다.
+2|inner|/ˈɪnər/|형 내부의, 내면의|The monk spent years searching for *inner* peace in a remote mountain temple.|그 승려는 외딴 산사에서 수년간 내면의 평화를 찾아 헤맸다.|The *inner* courtyard of the palace is surrounded by beautiful stone columns.|궁전의 안뜰은 아름다운 돌기둥들로 둘러싸여 있다.
+2|innocent|/ˈɪnəsnt/|형 무고한, 순진한|The jury found the *innocent* man not guilty after the real thief confessed.|진범이 자백하자 배심원단은 그 무고한 남자에게 무죄 평결을 내렸다.|The child's *innocent* question made the adults realize how unfair the rule was.|아이의 순진한 질문은 어른들에게 그 규칙이 얼마나 불공평한지 깨닫게 했다.
+2|innovation|/ˌɪnəˈveɪʃn/|명 혁신|The company is famous for its *innovation* and its willingness to take risks.|그 회사는 혁신과 위험을 감수하려는 의지로 유명하다.|The invention of the printing press was a great *innovation* that spread knowledge widely.|인쇄술의 발명은 지식을 널리 퍼뜨린 위대한 혁신이었다.
+2|input|/ˈɪnpʊt/|명 입력, 의견|The manager asked the staff for their *input* before making the final decision.|관리자는 최종 결정을 내리기 전에 직원들에게 의견을 구했다.|You have to enter your password as an *input* before the program will run.|프로그램이 실행되려면 입력값으로 비밀번호를 넣어야 한다.
+2|inquiry|/ɪnˈkwaɪri/|명 문의, 조사|The police have launched an *inquiry* into the cause of the fire at the warehouse.|경찰은 창고 화재의 원인에 대한 조사에 착수했다.|If you have any *inquiry* about the product, please contact our customer service team.|제품에 대해 문의 사항이 있으시면 고객 서비스 팀에 연락해 주세요.
+2|insert|/ɪnˈsɜːrt/|동 끼워 넣다|*Insert* the card into the machine and enter your four-digit number.|카드를 기계에 넣고 네 자리 번호를 입력하세요.|The editor decided to *insert* a short paragraph to explain the term to readers.|편집자는 독자들에게 그 용어를 설명하기 위해 짧은 단락을 끼워 넣기로 했다.
+2|insight|/ˈɪnsaɪt/|명 통찰력|The documentary offers a fascinating *insight* into the daily life of arctic scientists.|그 다큐멘터리는 북극 과학자들의 일상에 대한 흥미로운 통찰을 제공한다.|Her *insight* into human behavior made her an excellent psychologist.|인간 행동에 대한 그녀의 통찰력은 그녀를 훌륭한 심리학자로 만들었다.
+2|insist|/ɪnˈsɪst/|동 주장하다, 고집하다|He *insisted* on paying for the dinner, even though everyone offered to share the bill.|그는 모두가 계산서를 나누자고 했는데도 저녁값을 자기가 내겠다고 고집했다.|She *insists* that she never saw the document, despite the evidence to the contrary.|그녀는 반대되는 증거가 있는데도 그 문서를 본 적이 없다고 주장한다.
+2|inspect|/ɪnˈspekt/|동 점검하다|Officials *inspect* the restaurant's kitchen twice a year to make sure it is clean.|공무원들은 청결한지 확인하려고 일 년에 두 번 식당 주방을 점검한다.|The mechanic carefully *inspected* the engine before declaring the car safe to drive.|정비사는 엔진을 꼼꼼히 점검한 뒤 그 차가 운전해도 안전하다고 선언했다.
+2|inspire|/ɪnˈspaɪər/|동 영감을 주다|The speech *inspired* thousands of young people to get involved in their communities.|그 연설은 수천 명의 젊은이가 지역 사회 활동에 참여하도록 영감을 주었다.|The beauty of the mountains *inspired* the poet to write her most famous work.|산의 아름다움은 그 시인이 가장 유명한 작품을 쓰도록 영감을 주었다.
+2|install|/ɪnˈstɔːl/|동 설치하다|The technician came to *install* a new heating system before the winter began.|기술자는 겨울이 시작되기 전에 새 난방 장치를 설치하러 왔다.|You need to *install* the latest update to fix the security problem.|보안 문제를 해결하려면 최신 업데이트를 설치해야 한다.
+2|instance|/ˈɪnstəns/|명 사례|There are several cases of cheating; for *instance*, copying from a classmate.|부정행위의 사례가 여럿 있는데, 예를 들어 반 친구의 것을 베끼는 일이다.|In this *instance*, the rule was not followed, and the result was not accepted.|이번 사례에서는 규칙이 지켜지지 않아서 결과가 인정되지 않았다.
+2|instinct|/ˈɪnstɪŋkt/|명 본능|Birds migrate south in winter by *instinct*, without anyone teaching them the way.|새들은 누가 길을 가르쳐 주지 않아도 본능적으로 겨울에 남쪽으로 이동한다.|She trusted her *instinct* and decided not to sign the contract.|그녀는 자신의 직감을 믿고 계약서에 서명하지 않기로 했다.
+2|institute|/ˈɪnstɪtuːt/|명 기관, 연구소|The research *institute* has been studying the effects of climate change for thirty years.|그 연구소는 30년간 기후 변화의 영향을 연구해 왔다.|She trained at a famous *institute* of technology before joining the space program.|그녀는 우주 계획에 합류하기 전에 유명한 공과대학에서 교육을 받았다.
+2|instruct|/ɪnˈstrʌkt/|동 지시하다, 가르치다|The pilot *instructed* the passengers to fasten their seat belts and remain seated.|기장은 승객들에게 안전벨트를 매고 자리에 앉아 있으라고 지시했다.|A retired teacher *instructs* adults who want to learn to read.|은퇴한 교사가 글을 배우고 싶어 하는 성인들을 가르친다.
+2|instrument|/ˈɪnstrəmənt/|명 악기, 도구|The violin is the most difficult *instrument* I have ever tried to play.|바이올린은 내가 연주해 본 악기 중 가장 어려운 악기다.|Scientists use a highly sensitive *instrument* to measure tiny changes in temperature.|과학자들은 온도의 미세한 변화를 측정하기 위해 매우 민감한 기구를 사용한다.
+2|insult|/ɪnˈsʌlt/|동 모욕하다;명 모욕|It is an *insult* to the people who worked so hard on the project to say that it was easy.|그 프로젝트에 그토록 열심히 매달린 사람들에게 쉬웠다고 말하는 것은 모욕이다.|He felt *insulted* when his colleague laughed at his idea in front of everyone.|그는 동료가 모두 앞에서 자신의 아이디어를 비웃자 모욕감을 느꼈다.
+2|insurance|/ɪnˈʃʊrəns/|명 보험|You should buy travel *insurance* in case your luggage is lost or you become ill.|짐을 잃어버리거나 아플 경우에 대비해 여행자 보험에 가입해 두는 것이 좋다.|The *insurance* company refused to pay for the damage caused by the flood.|보험 회사는 홍수로 인한 피해 보상을 거부했다.
+2|intellectual|/ˌɪntəˈlektʃuəl/|형 지적인|He was a quiet, *intellectual* man who spent most of his time reading and writing.|그는 대부분의 시간을 읽고 쓰는 데 보내는 조용하고 지적인 사람이었다.|The university encourages students to take part in *intellectual* debates on social issues.|그 대학은 학생들이 사회 문제에 관한 지적인 토론에 참여하도록 장려한다.
+2|intelligence|/ɪnˈtelɪdʒəns/|명 지능|Dolphins are known for their *intelligence* and their ability to learn complex tricks.|돌고래는 지능이 높고 복잡한 재주를 배우는 능력으로 알려져 있다.|The agency collects *intelligence* about threats to national security.|그 기관은 국가 안보에 대한 위협에 관한 정보를 수집한다.
+2|intend|/ɪnˈtend/|동 의도하다|I *intend* to finish the report by Friday, so please don't schedule any meetings for me.|금요일까지 보고서를 끝낼 생각이니 제게 회의 일정을 잡지 말아 주세요.|The book is *intended* for readers with no previous knowledge of the subject.|그 책은 그 주제에 대한 사전 지식이 없는 독자를 대상으로 한다.
+2|intense|/ɪnˈtens/|형 강렬한|The heat was so *intense* that many of the runners had to stop before the finish line.|더위가 너무 극심해서 많은 주자가 결승선 전에 멈춰야 했다.|There is *intense* competition among the students for a place at the university.|그 대학에 들어가기 위한 학생들 사이의 경쟁은 치열하다.
+2|interact|/ˌɪntərˈækt/|동 상호 작용하다|Children learn social skills by *interacting* with other children in a variety of settings.|아이들은 다양한 환경에서 다른 아이들과 상호작용하며 사회적 기술을 배운다.|The two chemicals *interact* with each other and produce a harmless gas.|그 두 화학 물질은 서로 반응하여 무해한 기체를 만들어 낸다.
+2|interfere|/ˌɪntərˈfɪr/|동 간섭하다, 방해하다|Please don't *interfere* in matters that do not concern you.|당신과 관계없는 일에는 간섭하지 말아 주세요.|Heavy traffic noise can *interfere* with your ability to concentrate while studying.|심한 교통 소음은 공부할 때 집중하는 데 방해가 될 수 있다.
+2|interior|/ɪnˈtɪriər/|명 내부;형 내부의|The *interior* of the old church is decorated with beautiful paintings and gold ornaments.|그 오래된 교회의 내부는 아름다운 그림과 금 장식으로 꾸며져 있다.|She studied *interior* design and now works for a company that decorates hotels.|그녀는 실내 디자인을 공부해서 지금은 호텔을 꾸미는 회사에서 일한다.
+2|intermediate|/ˌɪntərˈmiːdiət/|형 중급의|The course is designed for *intermediate* learners who already know the basics of the language.|그 과정은 이미 언어의 기초를 아는 중급 학습자를 대상으로 설계되었다.|After the beginner class, she moved up to the *intermediate* level.|그녀는 초급반을 마친 뒤 중급 단계로 올라갔다.
+2|internal|/ɪnˈtɜːrnl/|형 내부의|The company has launched an *internal* investigation into how the data was leaked.|그 회사는 자료가 어떻게 유출되었는지에 대해 내부 조사에 착수했다.|The doctor suspected *internal* bleeding and ordered an immediate scan.|의사는 내출혈을 의심하고 즉시 검사를 지시했다.
+2|interpret|/ɪnˈtɜːrprɪt/|동 해석하다, 통역하다|Experts *interpret* the ancient symbols on the wall as a calendar of the harvest.|전문가들은 벽에 새겨진 고대 상징을 수확 달력으로 해석한다.|She works as an *interpreter* and translates speeches at international conferences.|그녀는 통역사로 일하며 국제 회의에서 연설을 통역한다.
+2|interrupt|/ˌɪntəˈrʌpt/|동 방해하다, 끼어들다|It is rude to *interrupt* someone while they are speaking, so please wait your turn.|말하고 있는 사람의 말을 끊는 것은 무례하니 차례를 기다려 주세요.|The loud siren *interrupted* the lecture, and the students could not hear a word.|요란한 사이렌 소리가 강의를 방해해서 학생들은 한마디도 들을 수 없었다.
+2|interval|/ˈɪntərvl/|명 간격, 쉬는 시간|There was a short *interval* between the two acts of the play, and the audience went out for fresh air.|연극의 두 막 사이에 짧은 쉬는 시간이 있어서 관객들은 바람을 쐬러 나갔다.|The buses run at ten-minute *intervals* during the morning rush hour.|버스는 아침 출근 시간에 10분 간격으로 운행한다.
+2|intervene|/ˌɪntərˈviːn/|동 개입하다|The teacher had to *intervene* when the argument between the two boys became physical.|두 소년 사이의 말다툼이 몸싸움으로 번지자 교사가 개입해야 했다.|The United Nations decided to *intervene* to prevent the conflict from spreading.|유엔은 분쟁이 번지는 것을 막기 위해 개입하기로 결정했다.
+2|interview|/ˈɪntərvjuː/|명 면접, 인터뷰|She had a job *interview* on Monday and spent the weekend preparing for it.|그녀는 월요일에 면접이 있어서 주말 내내 준비했다.|The magazine published an *interview* with the author about her latest novel.|그 잡지는 최신 소설에 관한 작가와의 인터뷰를 실었다.
+2|intimate|/ˈɪntɪmət/|형 친밀한|They became *intimate* friends after spending a whole summer working side by side.|그들은 한 여름 내내 나란히 일하며 친밀한 친구가 되었다.|The restaurant has an *intimate* atmosphere, with soft lighting and only ten tables.|그 식당은 은은한 조명에 탁자가 열 개뿐인 아늑한 분위기다.
+2|invade|/ɪnˈveɪd/|동 침략하다|The army *invaded* the neighboring country at dawn, and fighting spread rapidly.|군대는 새벽에 이웃 나라를 침략했고 전투는 빠르게 확산되었다.|Tourists *invade* the small village every summer and disturb its quiet life.|관광객들은 해마다 여름이면 그 작은 마을에 몰려와 조용한 생활을 어지럽힌다.
+2|invent|/ɪnˈvent/|동 발명하다|Alexander Graham Bell *invented* the telephone in 1876 and changed communication forever.|알렉산더 그레이엄 벨은 1876년에 전화기를 발명해 의사소통을 영원히 바꿔 놓았다.|He *invented* an excuse for being late, but nobody believed him.|그는 늦은 데 대해 변명을 지어냈지만 아무도 믿지 않았다.
+2|invest|/ɪnˈvest/|동 투자하다|She decided to *invest* her savings in a company that develops renewable energy.|그녀는 저축한 돈을 재생 에너지를 개발하는 회사에 투자하기로 했다.|It is worth *investing* time in learning a skill that will be useful for many years.|여러 해 동안 쓸모 있을 기술을 배우는 데 시간을 투자할 가치가 있다.
+2|investigate|/ɪnˈvestɪɡeɪt/|동 조사하다|Detectives are *investigating* the robbery that took place at the jewelry store.|형사들은 보석상에서 일어난 강도 사건을 수사하고 있다.|Scientists *investigated* the cause of the mysterious illness that affected the village.|과학자들은 마을을 덮친 원인 모를 질병의 원인을 조사했다.
+2|invisible|/ɪnˈvɪzəbl/|형 보이지 않는|Bacteria are *invisible* to the naked eye and can only be seen under a microscope.|세균은 맨눈으로 보이지 않고 현미경으로만 볼 수 있다.|The writer imagined a world in which a person could become *invisible* at will.|작가는 마음대로 투명 인간이 될 수 있는 세상을 상상했다.
+2|involve|/ɪnˈvɑːlv/|동 포함하다, 관련시키다|The project will *involve* more than fifty scientists from ten different countries.|그 프로젝트에는 열 개 나라에서 온 50명이 넘는 과학자가 참여할 것이다.|Learning a new language *involves* a great deal of patience and daily practice.|새 언어를 배우는 일에는 상당한 인내심과 매일의 연습이 따른다.
+2|ironic|/aɪˈrɑːnɪk/|형 역설적인, 반어적인|It is *ironic* that the fire station burned down while the firefighters were out on a call.|소방관들이 출동한 사이에 소방서가 불탔다니 역설적이다.|His *ironic* comment made everyone laugh, though he did not smile himself.|그의 반어적인 말은 정작 본인은 웃지 않았는데도 모두를 웃게 했다.
+2|irritate|/ˈɪrɪteɪt/|동 짜증나게 하다|The constant buzzing of the fly began to *irritate* everyone in the room.|파리의 끊임없는 윙윙거림이 방 안의 모든 사람을 짜증나게 하기 시작했다.|Certain soaps can *irritate* sensitive skin and cause redness.|어떤 비누는 민감한 피부를 자극해서 붉어지게 할 수 있다.
+2|isolate|/ˈaɪsəleɪt/|동 고립시키다|Doctors had to *isolate* the patient to prevent the infection from spreading.|의사들은 감염이 퍼지는 것을 막기 위해 환자를 격리해야 했다.|The heavy snow *isolated* the village from the rest of the country for a week.|폭설로 그 마을은 일주일간 나라의 다른 지역과 고립되었다.
+2|issue|/ˈɪʃuː/|명 문제, 호;동 발행하다|Climate change is the most pressing *issue* facing our generation today.|기후 변화는 오늘날 우리 세대가 직면한 가장 시급한 문제다.|The January *issue* of the magazine includes a special report on technology.|그 잡지의 1월호에는 기술에 관한 특별 보도가 실려 있다.
+2|item|/ˈaɪtəm/|명 항목, 품목|Please check each *item* on the list carefully before you pack your suitcase.|짐을 싸기 전에 목록의 각 항목을 꼼꼼히 확인하세요.|The most expensive *item* in the shop was a handmade silk scarf.|그 가게에서 가장 비싼 품목은 수제 실크 스카프였다.
+2|jealous|/ˈdʒeləs/|형 질투하는|She felt *jealous* when her friend won the award that she had been working toward for years.|그녀는 수년간 노력해 온 상을 친구가 타자 질투가 났다.|He is *jealous* of his brother's success and finds it hard to be happy for him.|그는 형의 성공을 질투해서 진심으로 기뻐해 주기 어렵다.
+2|journalist|/ˈdʒɜːrnəlɪst/|명 기자|The *journalist* spent months investigating the scandal before publishing her article.|그 기자는 기사를 발표하기 전에 몇 달 동안 그 스캔들을 취재했다.|Many *journalists* risk their lives to report the truth from war zones.|많은 기자가 전쟁 지역에서 진실을 보도하려고 목숨을 건다.
+2|judge|/dʒʌdʒ/|명 판사;동 판단하다|The *judge* listened carefully to both sides before announcing her decision.|판사는 결정을 발표하기 전에 양측의 이야기를 주의 깊게 들었다.|You should not *judge* people by their appearance alone; their character matters more.|외모만으로 사람을 판단해서는 안 된다. 성품이 더 중요하다.
+2|justice|/ˈdʒʌstɪs/|명 정의|The protesters demanded *justice* for the families of the victims.|시위대는 피해자 가족을 위한 정의를 요구했다.|A fair trial is the foundation of *justice* in any democratic society.|공정한 재판은 모든 민주 사회에서 정의의 토대다.
+2|justify|/ˈdʒʌstɪfaɪ/|동 정당화하다|Nothing can *justify* the use of violence against innocent people.|무고한 사람들에게 폭력을 쓰는 것은 그 무엇으로도 정당화될 수 없다.|The manager was asked to *justify* the decision to close the factory.|관리자는 공장을 폐쇄하기로 한 결정을 정당화해 달라는 요구를 받았다.
+2|keen|/kiːn/|형 열렬한, 날카로운|She has a *keen* interest in astronomy and spends her nights observing the stars.|그녀는 천문학에 열렬한 관심이 있어서 밤마다 별을 관측하며 보낸다.|Eagles have *keen* eyesight and can spot a small animal from far away.|독수리는 시력이 날카로워서 멀리서도 작은 동물을 발견할 수 있다.
+2|label|/ˈleɪbl/|명 표, 라벨;동 라벨을 붙이다|Always read the *label* on the bottle to check how much medicine you should take.|약을 얼마나 먹어야 하는지 확인하려면 항상 병의 라벨을 읽으세요.|It is unfair to *label* a student as lazy before you understand his situation.|학생의 사정을 이해하기도 전에 게으르다고 낙인찍는 것은 부당하다.
+2|labor|/ˈleɪbər/|명 노동|The workers demanded better pay and shorter hours for their hard physical *labor*.|노동자들은 고된 육체노동에 대해 더 나은 임금과 더 짧은 근로 시간을 요구했다.|The country is facing a shortage of skilled *labor* in the construction industry.|그 나라는 건설업계에서 숙련 노동력이 부족한 상황에 직면해 있다.
+2|landscape|/ˈlændskeɪp/|명 풍경|The rolling hills and green fields create a peaceful *landscape* that painters love.|완만한 언덕과 푸른 들판은 화가들이 좋아하는 평화로운 풍경을 이룬다.|The new highway has changed the *landscape* of the whole valley.|새 고속도로는 계곡 전체의 풍경을 바꿔 놓았다.
+2|launch|/lɔːntʃ/|동 발사하다, 출시하다|The space agency will *launch* a new satellite into orbit early next year.|우주 기관은 내년 초에 새 위성을 궤도에 발사할 것이다.|The company plans to *launch* its latest smartphone in September.|그 회사는 9월에 최신 스마트폰을 출시할 계획이다.
+2|layer|/ˈleɪər/|명 층|A thin *layer* of snow covered the ground when we woke up in the morning.|아침에 일어났을 때 땅은 얇은 눈으로 덮여 있었다.|The ozone *layer* protects the Earth from harmful radiation from the sun.|오존층은 태양에서 오는 해로운 방사선으로부터 지구를 보호한다.
+2|league|/liːɡ/|명 리그, 연맹|Our team has won the national football *league* for three years in a row.|우리 팀은 3년 연속으로 전국 축구 리그에서 우승했다.|The two countries formed a *league* to protect their shared economic interests.|두 나라는 공동의 경제적 이익을 지키기 위해 연맹을 결성했다.
+2|lecture|/ˈlektʃər/|명 강의, 훈계|The professor's *lecture* on climate history attracted more than three hundred students.|기후의 역사에 관한 교수의 강의에는 3백 명이 넘는 학생이 모였다.|My father gave me a long *lecture* about the importance of being honest.|아버지는 정직의 중요성에 대해 내게 긴 훈계를 하셨다.
+2|legacy|/ˈleɡəsi/|명 유산|The author left a rich literary *legacy* that is still studied in schools today.|그 작가는 오늘날에도 학교에서 연구되는 풍부한 문학적 유산을 남겼다.|The war left a *legacy* of mistrust that took generations to overcome.|전쟁은 극복하는 데 여러 세대가 걸린 불신이라는 유산을 남겼다.
+2|legal|/ˈliːɡl/|형 합법적인, 법률의|It is perfectly *legal* to work part-time while you are studying at university.|대학에 다니는 동안 시간제로 일하는 것은 전혀 불법이 아니다.|The company has hired a *legal* team to defend itself in the court case.|그 회사는 소송에서 자신을 변호하기 위해 법률팀을 고용했다.
+2|legend|/ˈledʒənd/|명 전설|According to the *legend*, a dragon once lived in the lake and guarded a golden treasure.|전설에 따르면 한때 용이 호수에 살며 황금 보물을 지켰다고 한다.|Pelé became a *legend* of world football by winning three World Cups.|펠레는 월드컵에서 세 번 우승하며 세계 축구의 전설이 되었다.
+2|legislation|/ˌledʒɪsˈleɪʃn/|명 법률, 입법|The government introduced new *legislation* to protect consumers from false advertising.|정부는 소비자를 허위 광고로부터 보호하기 위해 새 법률을 도입했다.|Environmental *legislation* has forced many factories to reduce their emissions.|환경 관련 법률 때문에 많은 공장이 배출량을 줄여야 했다.
+2|leisure|/ˈliːʒər/|명 여가|In his *leisure* time, he enjoys fishing, reading, and playing the guitar.|그는 여가 시간에 낚시, 독서, 기타 연주를 즐긴다.|The city has built a new *leisure* center with a swimming pool and tennis courts.|시는 수영장과 테니스 코트를 갖춘 새 여가 센터를 지었다.
+2|liberal|/ˈlɪbərəl/|형 진보적인, 관대한|The newspaper is known for its *liberal* views on social issues and education.|그 신문은 사회 문제와 교육에 대한 진보적인 관점으로 알려져 있다.|The teacher was *liberal* with her praise, and her students grew in confidence.|그 선생님은 칭찬에 후해서 학생들의 자신감이 자랐다.
+2|liberty|/ˈlɪbərti/|명 자유|The statue stands as a symbol of *liberty* and welcomes visitors to the harbor.|그 동상은 자유의 상징으로 서서 항구를 찾는 방문객들을 맞이한다.|Prisoners who have served their sentence are at *liberty* to return home.|형기를 마친 수감자들은 자유롭게 집으로 돌아갈 수 있다.
+2|license|/ˈlaɪsns/|명 면허|You must have a valid driver's *license* before you can drive on public roads.|공공 도로에서 운전하려면 유효한 운전면허가 있어야 한다.|The restaurant lost its *license* to sell alcohol after repeated violations.|그 식당은 거듭된 위반으로 주류 판매 면허를 잃었다.
+2|lifestyle|/ˈlaɪfstaɪl/|명 생활 방식|A healthy *lifestyle* includes regular exercise, a balanced diet, and enough sleep.|건강한 생활 방식에는 규칙적인 운동, 균형 잡힌 식단, 충분한 수면이 포함된다.|Moving to the countryside completely changed their *lifestyle* for the better.|시골로 이사하면서 그들의 생활 방식은 더 나은 쪽으로 완전히 바뀌었다.
+2|likely|/ˈlaɪkli/|형 ~할 것 같은|It is *likely* to rain this afternoon, so you should take an umbrella with you.|오늘 오후에 비가 올 것 같으니 우산을 챙기는 게 좋겠다.|The new law is *likely* to make a big difference to small businesses.|새 법은 소기업에 큰 변화를 가져올 것으로 보인다.
+2|link|/lɪŋk/|명 연결;동 연결하다|Researchers have found a clear *link* between lack of sleep and poor school performance.|연구자들은 수면 부족과 저조한 학업 성적 사이에 분명한 관련이 있음을 발견했다.|A new bridge will *link* the island to the mainland and make travel much easier.|새 다리는 섬을 본토와 연결해 이동을 훨씬 쉽게 해 줄 것이다.
+2|liquid|/ˈlɪkwɪd/|명 액체|Water is the most common *liquid* on Earth and is essential for all living things.|물은 지구상에서 가장 흔한 액체이며 모든 생명체에 필수적이다.|Heat the *liquid* gently until it begins to boil, and then remove it from the stove.|액체가 끓기 시작할 때까지 약하게 가열한 다음 불에서 내리세요.
+2|literally|/ˈlɪtərəli/|부 말 그대로|He was so tired that he *literally* fell asleep standing up on the crowded subway.|그는 너무 피곤해서 붐비는 지하철에서 말 그대로 서서 잠이 들었다.|Don't take it *literally*; she was only joking when she said she would never speak to you again.|문자 그대로 받아들이지 마. 그녀가 다시는 너와 말하지 않겠다고 한 건 농담이었어.
+2|literature|/ˈlɪtərətʃər/|명 문학|She studied English *literature* at university and now teaches at a high school.|그녀는 대학에서 영문학을 공부했고 지금은 고등학교에서 가르치고 있다.|There is a great deal of *literature* on the effects of sleep on the brain.|수면이 뇌에 미치는 영향에 관한 문헌이 매우 많다.
+2|loan|/loʊn/|명 대출;동 빌려주다|He took out a *loan* from the bank to buy a small house in the suburbs.|그는 교외에 작은 집을 사려고 은행에서 대출을 받았다.|The museum *loaned* several of its most valuable paintings to a gallery abroad.|박물관은 가장 값진 그림 몇 점을 해외의 미술관에 빌려주었다.
+2|locate|/ˈloʊkeɪt/|동 위치를 찾다, 위치하다|The rescue team used a special device to *locate* the missing hikers in the forest.|구조대는 특수 장비를 사용해 숲에서 실종된 등산객들의 위치를 찾아냈다.|The hotel is conveniently *located* near the station and several popular restaurants.|그 호텔은 역과 인기 있는 여러 식당 가까이에 위치해 있어 편리하다.
+2|logic|/ˈlɑːdʒɪk/|명 논리|There is no *logic* in spending so much money on something that you rarely use.|거의 쓰지 않는 물건에 그렇게 많은 돈을 쓰는 데는 아무런 논리가 없다.|Mathematics teaches you to use *logic* to solve complex problems step by step.|수학은 복잡한 문제를 논리로 한 단계씩 해결하는 법을 가르쳐 준다.
+2|loyal|/ˈlɔɪəl/|형 충실한|The dog stayed *loyal* to its owner for fourteen years and never left his side.|그 개는 14년 동안 주인에게 충실했고 한 번도 곁을 떠나지 않았다.|She has been a *loyal* customer of the bakery ever since it opened.|그녀는 그 빵집이 문을 연 이후로 줄곧 단골 고객이었다.
+2|luxury|/ˈlʌkʃəri/|명 사치, 호화로움|They stayed in a hotel that offered every *luxury*, including a private pool and a personal chef.|그들은 전용 수영장과 개인 요리사를 포함한 온갖 호화로움을 갖춘 호텔에 묵었다.|For many families, a vacation abroad is a *luxury* that they cannot afford.|많은 가정에 해외 휴가는 감당할 수 없는 사치다.
