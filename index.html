@@ -53,13 +53,51 @@ hr{border:0;border-top:1px solid var(--line);margin:10px 0}
 .ko.open{display:block}
 .note{font-size:12px;color:var(--sub);margin-top:4px}
 .bottom{position:fixed;left:0;right:0;bottom:0;background:var(--bg);border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom))}
-.next{display:block;width:100%;max-width:680px;margin:0 auto;min-height:50px;border:0;border-radius:12px;background:var(--accent);color:var(--accent-fg);font-size:17px;font-weight:bold;cursor:pointer}
+.brow{display:flex;gap:8px;max-width:680px;margin:0 auto}
+.next{flex:1;min-height:50px;border:0;border-radius:12px;background:var(--accent);color:var(--accent-fg);font-size:17px;font-weight:bold;cursor:pointer}
+.quizb{min-height:50px;padding:0 16px;border:1px solid var(--accent);border-radius:12px;background:var(--card);color:var(--accent);font-size:16px;font-weight:bold;cursor:pointer;white-space:nowrap}
 .next.hl{box-shadow:0 0 0 3px var(--soft),0 0 0 5px var(--accent)}
 .finish{text-align:center;padding:40px 10px}
 .finish button,.reset{min-height:44px;padding:0 18px;border-radius:10px;border:1px solid var(--accent);background:var(--accent);color:var(--accent-fg);cursor:pointer;margin:4px}
 .reset.ghost{background:none;color:var(--sub);border-color:var(--line);font-size:13px;min-height:36px}
 .toast{background:var(--soft);border-radius:10px;padding:8px 12px;margin-top:10px;font-size:14px}
 button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.acts{display:flex;gap:8px;margin-bottom:8px}
+.act{flex:1;min-height:38px;border:1px solid var(--line);background:var(--card);border-radius:10px;font-size:14px;cursor:pointer}
+.act.hl{border-color:var(--accent);color:var(--accent);font-weight:bold}
+.spkx{margin-top:6px;min-height:40px;padding:0 12px;border:1px solid var(--line);background:var(--soft);color:var(--accent);border-radius:10px;cursor:pointer;font-size:14px}
+#ov{position:fixed;inset:0;z-index:20;background:var(--bg);overflow:auto}
+.ovw{max-width:680px;margin:0 auto;padding:0 16px 40px}
+.ovh{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:12px 0 10px;position:sticky;top:0;background:var(--bg);z-index:2}
+.qp{text-align:center;padding:8px 0}
+.qk{font-size:20px;line-height:1.5;margin:10px 0;font-weight:600}
+.ch{display:block;width:100%;min-height:48px;margin-top:8px;padding:8px 14px;border:1px solid var(--line);background:var(--card);border-radius:10px;text-align:left;cursor:pointer;font-size:16px}
+.ch.good{border-color:var(--ok);background:var(--soft);font-weight:bold}
+.ch.bad{border-color:#d33;opacity:.7}
+.exsel{display:flex;gap:8px;margin:10px 0}
+.hint{background:var(--soft);border-radius:10px;padding:8px 12px;margin:8px 0;font-family:Georgia,serif}
+.micb{display:block;width:100%;min-height:56px;margin-top:12px;border:0;border-radius:12px;background:var(--accent);color:var(--accent-fg);font-size:18px;font-weight:bold;cursor:pointer}
+.micb.on{animation:pulse .8s infinite}
+.refbox{background:var(--soft);border-radius:12px;padding:10px 12px;margin-top:12px}
+.refbox .rbtn{margin-top:8px}
+.rw{display:inline-flex;flex-direction:column;align-items:center;margin:6px 10px 2px 0;line-height:1.3}
+.rw small{font:13px Georgia,serif;color:var(--sub)}.rw b{font-size:17px;color:var(--accent)}
+.reset.hl{box-shadow:0 0 0 3px var(--soft),0 0 0 5px var(--accent)}
+.reset:disabled{opacity:.4;cursor:default}
+.score{font-size:40px;font-weight:bold;text-align:center;margin:10px 0 0}
+.score.g{color:var(--ok)}.score.m{color:var(--accent)}.score.b{color:#d33}
+.okw{color:var(--ok);font-weight:bold}.badw{color:#d33;font-weight:bold;text-decoration:underline}
+.said{font-family:Georgia,serif;margin:2px 0 8px}.tg{font:18px/1.7 Georgia,serif;margin:2px 0 8px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.tile b{display:block;font-size:22px}.tile span{font-size:13px;color:var(--sub)}
+.chart{display:flex;align-items:flex-end;gap:3px;height:90px;margin-top:8px}
+.chart .col{flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
+.chart i{display:block;width:100%;background:var(--accent);border-radius:3px 3px 0 0;min-height:2px}
+.chart small{font-size:10px;color:var(--sub)}
+.rbtn{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.banner{background:var(--soft);border-radius:10px;padding:8px 12px;margin-top:8px;font-size:14px}
+@media print{.wrap,.bottom,.rbtn,.ovh button{display:none!important}#ov{position:static}}
 </style>
 </head>
 <body>
@@ -67,6 +105,7 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
   <header>
     <div class="top"><h1>🧩 자투리 영단어</h1><div class="stat" id="stat"></div></div>
     <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="acts"><button class="act" id="revb">🔁 오늘 복습 <b id="revn">0</b></button><button class="act" id="repb">📊 학습 리포트</button></div>
     <div class="prog"><span id="pt"></span><span id="pg"></span></div>
     <div class="bar"><i id="bar"></i></div>
   </header>
@@ -75,7 +114,8 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
   <div style="text-align:center;margin-top:18px"><span id="resetArea"></span></div>
   <div style="text-align:center;margin-top:10px" id="install"></div>
 </div>
-<div class="bottom"><button class="next" id="next">다음 5개 →</button></div>
+<div class="bottom"><div class="brow"><button class="quizb" id="quizb">📝 퀴즈</button><button class="next" id="next">다음 5개 →</button></div></div>
+<div id="ov" hidden></div>
 
 <script src="words-middle.js"></script>
 <script src="words-high.js"></script>
@@ -114,14 +154,20 @@ function load(){
     if(!(L.cursor>=0)||L.cursor>=WORDS[lv].length)L.cursor=0;}
   if(!LEVELS[o.lastLevel])o.lastLevel="middle";
   o.daily=o.daily||{};
+  // 복습 일정(review)·퀴즈/말하기 통계(stats)·자주 틀린 단어(weak)·말하기 기록(speak): 기존 기록에 필드만 추가
+  for(const k of ["review","stats","weak","speak"])if(!o[k]||typeof o[k]!=="object")o[k]={};
+  const all=new Set();for(const lv in LEVELS)WORDS[lv].forEach(w=>all.add(w.id));
+  for(const id in o.review){const r=o.review[id];if(!all.has(id)||!r||!(r.b>=0)||typeof r.d!=="string")delete o.review[id];}
+  for(const id in o.weak)if(!all.has(id))delete o.weak[id];
   return o;
 }
 function save(){
   try{localStorage.setItem(KEY,JSON.stringify(S));}
   catch(e){canSave=false;if(!warned){warned=true;toast("이 브라우저에서는 완료 기록이 저장되지 않아요. 시크릿 모드를 끄고 열어 주세요.");}}
 }
-const today=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
-function trimDaily(){const k=Object.keys(S.daily).sort().reverse().slice(60);k.forEach(x=>delete S.daily[x]);}
+const dstr=d=>d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+const today=()=>dstr(new Date());
+function trimDaily(){for(const o of [S.daily,S.stats]){Object.keys(o).sort().reverse().slice(60).forEach(x=>delete o[x]);}}
 function streak(){let n=0,d=new Date();const f=x=>x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0");
   if(!S.daily[f(d)])d.setDate(d.getDate()-1);
   while(S.daily[f(d)]>0){n++;d.setDate(d.getDate()-1);}return n;}
@@ -156,7 +202,7 @@ function stopSpeak(){
   if(hasTTS&&(speechSynthesis.speaking||speechSynthesis.pending))speechSynthesis.cancel();
   if(activeBtn){activeBtn.classList.remove("on");activeBtn=null;}
 }
-function say(text,rates,btn){
+function say(text,rates,btn,cb){
   const wasBusy=hasTTS&&(speechSynthesis.speaking||speechSynthesis.pending);
   stopSpeak();
   if(!hasTTS){if(!ttsNoted){ttsNoted=true;toast("이 브라우저는 발음 듣기를 지원하지 않아요. 크롬이나 사파리에서 열어 주세요.");}return;}
@@ -169,7 +215,7 @@ function say(text,rates,btn){
     const u=new SpeechSynthesisUtterance(plain);u.lang=tries>=2?"en":"en-US";if(voice&&tries===0)u.voice=voice;u.rate=rates[i];
     curUtter=u; // 재생이 끝나기 전에 객체가 수거되어 이벤트가 끊기는 문제 방지
     u.onstart=()=>{started=true;clearTimeout(hintTimer);};
-    u.onend=()=>{if(tok!==speakTok)return;i++;if(i<rates.length)setTimeout(run,600);else finish();};
+    u.onend=()=>{if(tok!==speakTok)return;i++;if(i<rates.length)setTimeout(run,600);else{finish();if(cb)setTimeout(cb,800);}};
     u.onerror=e=>{if(tok!==speakTok)return;
       if(e.error==="canceled"||e.error==="interrupted"){finish();return;}
       if(tries<2){tries++;speechSynthesis.cancel();setTimeout(run,120);return;}
@@ -196,15 +242,16 @@ function renderHead(){
   $("pt").textContent="완료 "+dn+" / "+N;
   $("pg").textContent=(S.daily[today()]||0)>=5?"🎯 오늘 목표 달성":"오늘 목표 5개";
   $("bar").style.width=(N?dn/N*100:0)+"%";
+  const due=dueIds().length;$("revn").textContent=due;$("revb").classList.toggle("hl",due>0);
 }
 function renderList(){
   const lv=S.lastLevel,L=S.levels[lv],list=WORDS[lv],byId=Object.fromEntries(list.map(w=>[w.id,w]));
   if(!cur.ids.length){
     $("list").innerHTML=`<div class="finish"><div style="font-size:48px">🎉</div><p>${LEVELS[lv]} 단어 ${list.length}개를 모두 완료했어요.<br>처음부터 다시 복습할까요?</p><button id="again">처음부터 다시</button></div>`;
-    $("again").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);save();compute();render();};
-    $("resetArea").innerHTML="";$("next").style.display="none";return;
+    $("again").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);purge(lv);save();compute();render();};
+    $("resetArea").innerHTML="";$("next").style.display="none";$("quizb").style.display="none";return;
   }
-  $("next").style.display="block";
+  $("next").style.display="block";$("quizb").style.display="block";
   $("list").innerHTML=cur.ids.map(id=>{
     const w=byId[id],d=L.done.includes(id),c=cur.carry.has(id);
     return `<article class="card ${d?"done":""} ${c?"carry":""}" data-id="${id}">
@@ -214,7 +261,8 @@ function renderList(){
         <button class="dn" data-done aria-label="${esc(w.word)} ${d?"완료 취소":"완료"}">${d?"✓ 완료됨 · 취소":"완료"}</button></div>
       <div class="ipa">${esc(w.ipa)}</div>
       <ol class="mean">${w.meanings.map((m,i)=>`<li>${i+1}. <b>[${m[0]}]</b> ${esc(m[1])}</li>`).join("")}</ol>
-      ${d?'<div class="note">다음부터 숨김</div>':""}<hr>
+      ${d?'<div class="note">다음부터 숨김</div>':""}
+      <button class="spkx" data-speak>🗣 예문 외워서 말하기</button><hr>
       ${w.examples.map((e,i)=>`<div class="ex"><button class="spk" data-say="e${i}" aria-label="예문 ${i+1} 듣기">🔊</button>
         <div><p>${bold(e[0])}</p><p class="ko" data-ko="${i}">${esc(e[1])}</p></div></div>`).join("")}
     </article>`;}).join("");
@@ -222,11 +270,309 @@ function renderList(){
   $("next").classList.toggle("hl",allDone);
   $("resetArea").innerHTML='<button class="reset ghost" id="rst">이 단계 초기화</button>';
   $("rst").onclick=()=>{$("resetArea").innerHTML=`<span class="stat">${LEVELS[lv]} 단계의 완료 기록 ${L.done.length}개가 지워져요.</span> <button class="reset" id="rok">초기화</button><button class="reset ghost" id="rno">취소</button>`;
-    $("rok").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);save();stopSpeak();compute();render();};$("rno").onclick=renderList;};
+    $("rok").onclick=()=>{L.done=[];L.carry=[];L.cursor=0;L.order=makeOrder(lv);purge(lv);save();stopSpeak();compute();render();};$("rno").onclick=renderList;};
 }
 function render(){renderHead();renderList();}
 
+/* ---------- 복습(간격 반복) ---------- */
+const WBY={};for(const lv in WORDS)WORDS[lv].forEach(w=>{w.lv=lv;WBY[w.id]=w;});
+const INT=[1,3,7,14,30,60]; // 복습 간격(일): 완료 → 1일 뒤 → 3일 → 7일 → 14일 → 30일 → 60일
+const addDays=(s,n)=>{const [y,m,d]=s.split("-").map(Number);return dstr(new Date(y,m-1,d+n));};
+function stat(){const t=today();return S.stats[t]||(S.stats[t]={q:0,c:0,s:0,ss:0});}
+function srsAdd(id){if(!S.review[id])S.review[id]={b:0,d:addDays(today(),INT[0])};}
+function srsGrade(id,ok){const r=S.review[id]||(S.review[id]={b:0,d:today()});r.b=ok?Math.min(r.b+1,INT.length-1):0;r.d=addDays(today(),INT[r.b]);}
+function dueIds(st){st=st||S;const t=today(),r=st.review||{};return Object.keys(r).filter(id=>r[id]&&r[id].d<=t&&WBY[id]).sort((a,b)=>r[a].d<r[b].d?-1:r[a].d>r[b].d?1:0);}
+function setDone(lv,id,on){
+  const L=S.levels[lv],t=today(),idx=L.done.indexOf(id);
+  if(on&&idx<0){L.done.push(id);S.daily[t]=(S.daily[t]||0)+1;srsAdd(id);}
+  else if(!on&&idx>=0){L.done.splice(idx,1);if(S.daily[t]>0)S.daily[t]--;delete S.review[id];}
+}
+function purge(lv){Object.keys(S.review).forEach(id=>{if(id.startsWith(lv+"-"))delete S.review[id];});}
+
+/* ---------- 오버레이 공통 ---------- */
+let Q=null,SP=null;
+function showOv(){$("ov").hidden=false;document.body.style.overflow="hidden";$("ov").scrollTop=0;}
+function abortRec(){if(SP){SP.tok++;SP.busy=false;try{SP.rec&&SP.rec.abort();}catch(e){}}}
+function closeOv(){stopSpeak();abortRec();SP=null;Q=null;$("ov").hidden=true;$("ov").innerHTML="";document.body.style.overflow="";render();}
+const mstr=w=>w.meanings.map(m=>"["+m[0]+"] "+m[1]).join(" · ");
+function ovToast(msg){const t=$("ovt");if(t){t.innerHTML='<div class="toast">'+esc(msg)+"</div>";setTimeout(()=>{if(t)t.innerHTML=""},4000);}}
+
+/* ---------- 퀴즈 (능동 회상) ---------- */
+function distract(w,n,pick){
+  const pos=w.meanings[0][0],c=shuffle(WORDS[w.lv].filter(x=>x.id!==w.id)),seen=new Set([pick(w)]),out=[];
+  for(const x of [...c.filter(x=>x.meanings[0][0]===pos),...c.filter(x=>x.meanings[0][0]!==pos)]){
+    const s=pick(x);if(!seen.has(s)){seen.add(s);out.push(s);if(out.length>=n)break;}}
+  return out;
+}
+// A: 영어 단어 → 뜻 고르기 / B: 뜻 → 영어 단어 고르기
+function makeQ(w){
+  const A=Math.random()<.5,pick=A?(x=>"["+x.meanings[0][0]+"] "+x.meanings[0][1]):(x=>x.word),ans=pick(w);
+  return {w,A,ans,choices:shuffle([ans,...distract(w,3,pick)])};
+}
+function openQuiz(mode){
+  const ids=mode==="set"?cur.ids.slice():dueIds().slice(0,10),ws=ids.map(id=>WBY[id]).filter(Boolean);
+  if(!ws.length){toast(mode==="set"?"풀 문제가 없어요.":"지금 복습할 단어가 없어요. 완료한 단어는 다음 날부터 복습 일정에 들어가요.");return;}
+  stopSpeak();Q={mode,qs:shuffle(ws.map(makeQ)),i:0,right:0,res:[]};showOv();renderQ();
+}
+function renderQ(){
+  const q=Q.qs[Q.i];if(!q)return endQ();const w=q.w;
+  $("ov").innerHTML=`<div class="ovw"><div class="ovh"><b>${Q.mode==="set"?"📝 이번 세트 퀴즈":"🔁 복습 퀴즈"}</b><span class="stat">${Q.i+1} / ${Q.qs.length}</span><button class="reset ghost" data-close>닫기</button></div>
+    <div class="bar"><i style="width:${Q.i/Q.qs.length*100}%"></i></div>
+    <div class="card"><div class="qp">${q.A
+      ?`<span class="word">${esc(w.word)}</span> <button class="spk" data-qsay aria-label="${esc(w.word)} 발음 듣기">🔊</button><div class="ipa">${esc(w.ipa)}</div><p>이 단어의 뜻은?</p>`
+      :`<p class="qk">${esc(mstr(w))}</p><p>알맞은 영어 단어는?</p>`}</div>
+    <div>${q.choices.map((c,i)=>`<button class="ch" data-i="${i}">${esc(c)}</button>`).join("")}</div><div id="qf"></div></div></div>`;
+}
+function answerQ(i){
+  const q=Q.qs[Q.i];if(q.done)return;q.done=true;
+  const ok=q.choices[i]===q.ans,w=q.w,st=stat();
+  st.q++;if(ok){st.c++;Q.right++;}else S.weak[w.id]=(S.weak[w.id]||0)+1;
+  Q.res.push({w,ok});
+  if(Q.mode==="set")setDone(w.lv,w.id,ok); // 맞힌 단어만 완료 처리, 틀린 단어는 다음 세트 맨 위로
+  else srsGrade(w.id,ok);
+  trimDaily();save();
+  document.querySelectorAll(".ch").forEach((b,k)=>{b.disabled=true;if(q.choices[k]===q.ans)b.classList.add("good");else if(k===i)b.classList.add("bad");});
+  $("qf").innerHTML=`<div class="toast">${ok?"⭕ 정답!":"❌ 아쉬워요"}<br><b>${esc(w.word)}</b> ${esc(w.ipa)} — ${esc(mstr(w))}<br>${bold(w.examples[0][0])}<br><span class="stat">${esc(w.examples[0][1])}</span></div>
+    <button class="reset" data-qnext style="width:100%;margin:8px 0 0">${Q.i+1<Q.qs.length?"다음 →":"결과 보기"}</button>`;
+}
+function endQ(){
+  const bad=Q.res.filter(r=>!r.ok),more=Q.mode==="review"&&dueIds().length>0;
+  $("ov").innerHTML=`<div class="ovw"><div class="finish"><div style="font-size:48px">${bad.length?"💪":"🎉"}</div>
+    <p><b>${Q.res.length}문제 중 ${Q.right}개 정답</b><br>${Q.mode==="set"
+      ?(bad.length?"맞힌 단어는 완료 처리했어요. 틀린 단어는 다음 세트 맨 위에 다시 나와요.":"모두 맞혀서 완료 처리했어요!")
+      :(bad.length?"틀린 단어는 내일 다시 복습해요.":"복습 성공! 다음 복습 간격이 늘어났어요.")}</p>
+    ${bad.map(r=>`<div class="card" style="text-align:left"><b class="word" style="font-size:20px">${esc(r.w.word)}</b> <span class="ipa">${esc(r.w.ipa)}</span><br>${esc(mstr(r.w))}</div>`).join("")}
+    <button data-close>닫기</button>${Q.mode==="set"&&!bad.length?"<button data-qgo>다음 5개 →</button>":""}${more?"<button data-qmore>더 복습하기</button>":""}</div></div>`;
+}
+
+/* ---------- 영어 발음기호 → 한글 근사 표기 ---------- */
+// 모음 = 한글 모음 번호(0 ㅏ 1 ㅐ 4 ㅓ 5 ㅔ 8 ㅗ 13 ㅜ 18 ㅡ 20 ㅣ), 이중모음은 2음절
+const HV={"ɪ":[20],e:[5],"æ":[1],"ɑ":[0],a:[0],"ʊ":[13],"ɔ":[8],o:[8],u:[13],"ʌ":[4],"ə":[4],"ɜ":[4],i:[20],"ɒ":[8],
+  "aɪ":[0,20],"eɪ":[5,20],"ɔɪ":[8,20],"aʊ":[0,13],"oʊ":[8,13],"əʊ":[8,13],"ɪə":[20,4],"eə":[5,4],"ʊə":[13,4]};
+const HY={0:2,1:3,4:6,5:7,8:12,13:17},HW={0:9,1:10,4:14,5:15,8:14,20:16}; // j(y)·w 결합 모음
+const HON={p:17,b:7,t:16,d:3,k:15,"ɡ":0,f:17,v:7,"θ":10,"ð":3,s:9,z:12,"ʃ":9,"ʒ":12,h:18,m:6,n:2,"ŋ":11,l:5,r:5,"tʃ":14,"dʒ":12}; // 초성 번호
+const HCO={n:4,m:16,"ŋ":21,l:8,k:1,p:17}; // 받침 번호
+function ipaHangul(ipa){
+  const s=(ipa||"").replace(/[\/ˈˌ\s]/g,"").replace(/ː/g,""),T=[],M=["tʃ","dʒ","aɪ","eɪ","ɔɪ","aʊ","oʊ","əʊ","ɪə","eə","ʊə"];
+  for(let i=0;i<s.length;){const d=s.substr(i,2);if(M.includes(d)){T.push(d);i+=2;}else{T.push(s[i]);i++;}}
+  const out=[];let pend=null,prevV=false;
+  const flush=()=>{if(!pend)return null;const p=pend;pend=null;if(p.g)return null;const sy={L:p.L,V:p.i?20:18,T:0};out.push(sy);return sy;}; // 홀로 남은 자음 + 으(ㅅ·ㅊ·ㅈ 계열은 이)
+  T.forEach((t,k)=>{
+    const nx=T[k+1],nxV=!!nx&&!!(HV[nx]||nx==="j"||nx==="w");
+    if(HV[t]){const v=HV[t].slice();let L=11;
+      if(pend){L=pend.L;if(pend.y)v[0]=HY[v[0]]??v[0];if(pend.w)v[0]=HW[v[0]]??v[0];pend=null;}
+      out.push({L,V:v[0],T:0});if(v.length>1)out.push({L:11,V:v[1],T:0});prevV=true;return;}
+    if(t==="j"||t==="w"){const g=t==="j"?"y":"w";if(pend&&!pend.g)pend[g]=true;else{flush();pend={L:11,g:true,[g]:true};}prevV=false;return;}
+    if(HON[t]===undefined)return;
+    if(t==="r"&&!nxV){prevV=false;return;} // 모음 뒤·단어 끝의 r은 읽지 않음
+    if(pend&&!pend.g&&(t==="l"||t==="n"||t==="m")){ // 플·튼·스노 처럼 자음 바로 뒤의 l n m
+      const sy=flush();
+      if(nxV){if(t==="l"&&sy)sy.T=8;pend={L:HON[t]};}else if(sy)sy.T=HCO[t];
+      prevV=false;return;}
+    if(prevV&&!pend&&HCO[t]!==undefined&&!nxV&&!((t==="k"||t==="p")&&nx&&["l","r","j","w"].includes(nx))){
+      out[out.length-1].T=HCO[t];prevV=false;return;} // 모음 뒤 받침
+    flush();prevV=false;
+    pend={L:HON[t],i:t==="ʃ"||t==="tʃ"||t==="dʒ"||t==="ʒ",y:t==="ʃ"};
+  });
+  flush();
+  return out.map(o=>String.fromCharCode(0xAC00+(o.L*21+o.V)*28+o.T)).join("");
+}
+const HG={};for(const lv in WORDS)WORDS[lv].forEach(w=>{HG[w.word.toLowerCase()]=w.ipa;});
+// 예문에 자주 나오지만 단어장에는 없는 일반 단어의 발음기호 (단어:발음)
+const FW=`the:ðə a:ə to:tu of:əv and:ænd in:ɪn that:ðæt is:ɪz for:fɔr it:ɪt was:wʌz on:ɑn she:ʃi from:frʌm with:wɪð her:hɜr its:ɪts he:hi an:æn as:æz by:baɪ their:ðer can:kæn at:æt has:hæz are:ɑr had:hæd so:soʊ his:hɪz they:ðeɪ which:wɪtʃ after:ˈæftər you:ju people:ˈpipəl before:bɪˈfɔr i:aɪ years:jɪrz be:bi more:mɔr not:nɑt when:wen have:hæv two:tu were:wɜr water:ˈwɔtər than:ðæn who:hu about:əˈbaʊt every:ˈevri into:ˈɪntu one:wʌn could:kʊd but:bʌt made:meɪd several:ˈsevrəl your:jɔr students:ˈstudənts company:ˈkʌmpəni small:smɔl we:wi will:wɪl my:maɪ how:haʊ them:ðem through:θru no:noʊ over:ˈoʊvər there:ðer each:itʃ children:ˈtʃɪldrən only:ˈoʊnli all:ɔl scientists:ˈsaɪəntɪsts year:jɪr up:ʌp been:bɪn or:ɔr most:moʊst city:ˈsɪti would:wʊd without:wɪˈðaʊt school:skul during:ˈdʊrɪŋ such:sʌtʃ out:aʊt work:wɜrk this:ðɪs must:mʌst thousands:ˈθaʊzəndz time:taɪm young:jʌŋ please:pliz began:bɪˈɡæn team:tim across:əˈkrɔs use:juz any:ˈeni some:sʌm three:θri day:deɪ where:wer took:tʊk him:hɪm gave:ɡeɪv strong:strɔŋ other:ˈʌðər found:faʊnd teacher:ˈtitʃər much:mʌtʃ used:juzd study:ˈstʌdi river:ˈrɪvər around:əˈraʊnd should:ʃʊd ten:ten if:ɪf what:wʌt world:wɜrld room:rum own:oʊn both:boʊθ me:mi single:ˈsɪŋɡəl dont:doʊnt do:du plants:plænts police:pəˈlis while:waɪl rain:reɪn carefully:ˈkerfəli workers:ˈwɜrkərz down:daʊn left:left air:er still:stɪl next:nekst spent:spent quickly:ˈkwɪkli very:ˈveri since:sɪns way:weɪ too:tu became:bɪˈkeɪm week:wik until:ʌnˈtɪl take:teɪk decision:dɪˈsɪʒən five:faɪv body:ˈbɑdi millions:ˈmɪljənz our:aʊr problem:ˈprɑbləm part:pɑrt against:əˈɡenst car:kɑr under:ˈʌndər road:roʊd almost:ˈɔlmoʊst town:taʊn winter:ˈwɪntər though:ðoʊ summer:ˈsʌmər days:deɪz hundreds:ˈhʌndrədz customers:ˈkʌstəmərz felt:felt understand:ˌʌndərˈstænd sea:si sun:sʌn among:əˈmʌŋ built:bɪlt within:wɪˈðɪn weeks:wiks another:əˈnʌðər whole:hoʊl plan:plæn class:klæs factory:ˈfæktri thousand:ˈθaʊzənd hundred:ˈhʌndrəd education:ˌedʒuˈkeɪʃən along:əˈlɔŋ story:ˈstɔri why:waɪ now:naʊ just:dʒʌst warm:wɔrm war:wɔr may:meɪ did:dɪd human:ˈhjumən quiet:ˈkwaɪət slowly:ˈsloʊli away:əˈweɪ see:si rise:raɪz past:pæst whether:ˈweðər speech:spitʃ worked:wɜrkt us:ʌs book:bʊk back:bæk price:praɪs natural:ˈnætʃrəl prices:ˈpraɪsɪz works:wɜrks pay:peɪ together:təˈɡeðər same:seɪm problems:ˈprɑbləmz power:ˈpaʊər storm:stɔrm always:ˈɔlweɪz rock:rɑk sudden:ˈsʌdn twenty:ˈtwenti economic:ˌekəˈnɑmɪk anyone:ˈeniwʌn rules:rulz english:ˈɪŋɡlɪʃ visitors:ˈvɪzɪtərz researchers:rɪˈsɜrtʃərz companies:ˈkʌmpəniz working:ˈwɜrkɪŋ sleep:slip best:best cannot:ˈkænɑt dog:dɔɡ center:ˈsentər word:wɜrd cars:kɑrz snow:snoʊ space:speɪs cities:ˈsɪtiz blood:blʌd takes:teɪks teachers:ˈtitʃərz major:ˈmeɪdʒər weather:ˈweðər test:test showed:ʃoʊd train:treɪn tiny:ˈtaɪni four:fɔr second:ˈsekənd residents:ˈrezɪdənts read:rid led:led reading:ˈridɪŋ companys:ˈkʌmpəniz soon:sun off:ɔf person:ˈpɜrsən data:ˈdeɪtə words:wɜrdz wind:wɪnd online:ˈɑnlaɪn asked:æskt set:set national:ˈnæʃənəl won:wʌn table:ˈteɪbəl known:noʊn tried:traɪd place:pleɪs rather:ˈræðər sides:saɪdz spring:sprɪŋ fell:fel grew:ɡru wrote:roʊt well:wel others:ˈʌðərz poor:pʊr nearly:ˈnɪrli powerful:ˈpaʊərfəl held:held trees:triz today:təˈdeɪ plans:plænz shop:ʃɑp put:pʊt rich:rɪtʃ came:keɪm schools:skulz electricity:ɪˌlekˈtrɪsəti faster:ˈfæstər trip:trɪp top:tɑp trying:ˈtraɪɪŋ percent:pərˈsent red:red kilometers:kɪˈlɑmɪtərz far:fɑr finally:ˈfaɪnəli rapidly:ˈræpɪdli wide:waɪd turned:tɜrnd waste:weɪst toward:tɔrd child:tʃaɪld want:wɑnt stop:stɑp tree:tri skin:skɪn six:sɪks sky:skaɪ product:ˈprɑdʌkt less:les reached:ritʃt businesses:ˈbɪznəsɪz behind:bɪˈhaɪnd healthy:ˈhelθi speak:spik parts:pɑrts science:ˈsaɪəns ago:əˈɡoʊ rest:rest everything:ˈevriθɪŋ walls:wɔlz later:ˈleɪtər manager:ˈmænɪdʒər vegetables:ˈvedʒtəbəlz stone:stoʊn rising:ˈraɪzɪŋ restaurant:ˈrestərɑnt student:ˈstudənt buy:baɪ sunlight:ˈsʌnlaɪt easily:ˈizɪli better:ˈbetər season:ˈsizən longer:ˈlɔŋɡər let:let studying:ˈstʌdiɪŋ eat:it walk:wɔk come:kʌm short:ʃɔrt treatment:ˈtritmənt passengers:ˈpæsɪndʒərz studied:ˈstʌdid writing:ˈraɪtɪŋ growth:ɡroʊθ villagers:ˈvɪlɪdʒərz thirty:ˈθɜrti coast:koʊst using:ˈjuzɪŋ thick:θɪk right:raɪt special:ˈspeʃəl scientist:ˈsaɪəntɪst question:ˈkwestʃən go:ɡoʊ went:went meters:ˈmitərz business:ˈbɪznəs program:ˈproʊɡræm practice:ˈpræktɪs sent:sent court:kɔrt computer:kəmˈpjutər traditional:trəˈdɪʃənəl although:ɔlˈðoʊ studies:ˈstʌdiz ways:weɪz stay:steɪ flood:flʌd completely:kəmˈplitli tourists:ˈtʊrɪsts humans:ˈhjumənz conditions:kənˈdɪʃənz lower:ˈloʊər daily:ˈdeɪli trained:treɪnd said:sed also:ˈɔlsoʊ training:ˈtreɪnɪŋ lack:læk real:ˈriəl show:ʃoʊ store:stɔr nobody:ˈnoʊbɑdi readers:ˈridərz buildings:ˈbɪldɪŋz harmful:ˈhɑrmfəl play:pleɪ especially:ɪˈspeʃəli station:ˈsteɪʃən rose:roʊz books:bʊks throughout:θruˈaʊt wore:wɔr things:θɪŋz europe:ˈjʊrəp certain:ˈsɜrtn million:ˈmɪljən spend:spend stories:ˈstɔriz told:toʊld say:seɪ times:taɪmz uses:ˈjusɪz success:səkˈses wall:wɔl written:ˈrɪtn try:traɪ tall:tɔl sound:saʊnd seen:sin exam:ɪɡˈzæm safety:ˈseɪfti ran:ræn shows:ʃoʊz professor:prəˈfesər get:ɡet lot:lɑt larger:ˈlɑrdʒər suddenly:ˈsʌdnli passed:pæst sugar:ˈʃʊɡər slow:sloʊ again:əˈɡen products:ˈprɑdʌkts return:rɪˈtɜrn bring:brɪŋ waves:weɪvz side:saɪd speed:spid soft:sɔft underground:ˈʌndərɡraʊnd above:əˈbʌv smaller:ˈsmɔlər safe:seɪf paintings:ˈpeɪntɪŋz wrong:rɔŋ construction:kənˈstrʌkʃən fifty:ˈfɪfti front:frʌnt window:ˈwɪndoʊ race:reɪs eating:ˈitɪŋ agreement:əˈɡrimənt street:strit carried:ˈkærid streets:strits skills:skɪlz drivers:ˈdraɪvərz climbers:ˈklaɪmərz kept:kept gas:ɡæs stars:stɑrz level:ˈlevəl areas:ˈeriəz taken:ˈteɪkən stood:stʊd below:bɪˈloʊ sharply:ˈʃɑrpli concert:ˈkɑnsərt paid:peɪd directly:dəˈrektli service:ˈsɜrvɪs dinner:ˈdɪnər miles:maɪlz search:sɜrtʃ usually:ˈjuʒuəli questions:ˈkwestʃənz rights:raɪts voice:vɔɪs highly:ˈhaɪli pollution:pəˈluʃən broken:ˈbroʊkən walked:wɔkt box:bɑks artists:ˈɑrtɪsts financial:faɪˈnænʃəl struck:strʌk popular:ˈpɑpjələr then:ðen complete:kəmˈplit white:waɪt explorers:ɪkˈsplɔrərz thin:θɪn comes:kʌmz saved:seɪvd tomorrow:təˈmɑroʊ twice:twaɪs higher:ˈhaɪər cant:kænt phone:foʊn plastic:ˈplæstɪk salt:sɔlt watch:wɑtʃ hear:hɪr action:ˈækʃən driver:ˈdraɪvər cat:kæt running:ˈrʌnɪŋ taking:ˈteɪkɪŋ save:seɪv flight:flaɪt coffee:ˈkɔfi met:met roads:roʊdz factories:ˈfæktriz themselves:ðəmˈselvz argument:ˈɑrɡjumənt saw:sɔ teams:timz loss:lɔs leaders:ˈlidərz called:kɔld weekend:ˈwikend election:ɪˈlekʃən area:ˈeriə actually:ˈæktʃuəli archaeologists:ˌɑrkiˈɑlədʒɪsts thought:θɔt pass:pæs ask:æsk reach:ritʃ beach:bitʃ accepted:əkˈseptɪd care:ker ship:ʃɪp check:tʃek army:ˈɑrmi lets:lets security:sɪˈkjʊrəti position:pəˈzɪʃən winds:wɪndz square:skwer accept:əkˈsept organization:ˌɔrɡənəˈzeɪʃən started:ˈstɑrtɪd regularly:ˈreɡjələrli chose:tʃoʊz something:ˈsʌmθɪŋ big:bɪɡ sure:ʃʊr brought:brɔt travelers:ˈtrævələrz forty:ˈfɔrti beginning:bɪˈɡɪnɪŋ decisions:dɪˈsɪʒənz highest:ˈhaɪəst sold:soʊld illness:ˈɪlnəs smoking:ˈsmoʊkɪŋ plant:plænt returned:rɪˈtɜrnd whose:huz environmental:ɪnˌvaɪrənˈmentl does:dʌz examined:ɪɡˈzæmɪnd sometimes:ˈsʌmtaɪmz planet:ˈplænɪt teenagers:ˈtineɪdʒərz seriously:ˈsɪriəsli hikers:ˈhaɪkərz widely:ˈwaɪdli tests:tests moment:ˈmoʊmənt singer:ˈsɪŋər checked:tʃekt call:kɔl couple:ˈkʌpəl im:aɪm spoke:spoʊk played:pleɪd washing:ˈwɑʃɪŋ sells:selz spending:ˈspendɪŋ think:θɪŋk afternoon:ˌæftərˈnun write:raɪt milk:mɪlk tell:tel largest:ˈlɑrdʒɪst seat:sit reaches:ˈritʃɪz cutting:ˈkʌtɪŋ earlier:ˈɜrliər prison:ˈprɪzn successful:səkˈsesfəl win:wɪn possible:ˈpɑsəbəl fallen:ˈfɔlən completed:kəmˈplitɪd invention:ɪnˈvenʃən remember:rɪˈmembər ability:əˈbɪləti blue:blu sounds:saʊndz bought:bɔt levels:ˈlevəlz greater:ˈɡreɪtər youre:jʊr theyre:ðer weve:wiv ive:aɪv ill:ɪl wont:woʊnt didnt:ˈdɪdnt isnt:ˈɪznt doesnt:ˈdʌznt wasnt:ˈwʌznt couldnt:ˈkʊdnt wouldnt:ˈwʊdnt havent:ˈhævnt thats:ðæts whats:wʌts theres:ðerz heres:hɪrz hes:hiz shes:ʃiz`;
+FW.split(/\s+/).forEach(e=>{const i=e.indexOf(":");if(i>0&&!HG[e.slice(0,i)])HG[e.slice(0,i)]=e.slice(i+1);});
+// 사전에 없는 변화형(복수·과거·-ing·-ly)은 기본형 발음에 어미를 붙여 추정한다
+function wordIpa(w){
+  if(HG[w])return HG[w];
+  const g=b=>HG[b]?HG[b].replace(/\//g,""):null;let b;
+  if(/ies$/.test(w)&&(b=g(w.slice(0,-3)+"y")))return b+"z";
+  if(/es$/.test(w)&&(b=g(w.slice(0,-2))))return b+(/(s|z|ʃ|ʒ|tʃ|dʒ)$/.test(b)?"ɪz":"z");
+  if(/s$/.test(w)&&(b=g(w.slice(0,-1))))return b+(/(s|z|ʃ|ʒ|tʃ|dʒ)$/.test(b)?"ɪz":/[ptkfθ]$/.test(b)?"s":"z");
+  if(/ed$/.test(w))for(const base of [w.slice(0,-2),w.slice(0,-1),w.slice(0,-3)])if((b=g(base)))return b+(/[td]$/.test(b)?"ɪd":/([pkfsʃθ]|tʃ)$/.test(b)?"t":"d");
+  if(/ing$/.test(w))for(const base of [w.slice(0,-3),w.slice(0,-3)+"e",w.slice(0,-4)])if((b=g(base)))return b+"ɪŋ";
+  if(/ly$/.test(w)&&(b=g(w.slice(0,-2))))return b+"li";
+  return null;
+}
+const hgw=w=>{const p=wordIpa(w);return p?ipaHangul(p):"";};
+
+/* ---------- 말하기 (외워서 말하기 + 인식 점수) ---------- */
+const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+const nw=s=>s.toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9\s]/g," ").split(/\s+/).filter(Boolean);
+// 정답 문장 단어와 인식 결과를 순서대로 맞춰(LCS) 점수(0~100)와 단어별 일치 여부를 구한다
+function scoreSpeech(target,said){
+  const a=nw(target),b=nw(said),m=a.length,n=b.length,dp=Array.from({length:m+1},()=>new Array(n+1).fill(0));
+  for(let i=1;i<=m;i++)for(let j=1;j<=n;j++)dp[i][j]=a[i-1]===b[j-1]?dp[i-1][j-1]+1:Math.max(dp[i-1][j],dp[i][j-1]);
+  const ok=new Array(m).fill(false);
+  for(let i=m,j=n;i>0&&j>0;){if(a[i-1]===b[j-1]){ok[i-1]=true;i--;j--;}else if(dp[i-1][j]>=dp[i][j-1])i--;else j--;}
+  let k=0;const marks=target.split(/\s+/).filter(Boolean).map(w=>{const c=nw(w).length;let all=c>0;for(let q=0;q<c;q++)if(!ok[k+q])all=false;k+=c;return c?all:null;});
+  return {score:m?Math.round(dp[m][n]/m*100):0,marks};
+}
+function openSpeak(w,ex){stopSpeak();abortRec();SP={w,ex,fails:0,rec:null,tok:0,busy:false,showRef:false,idx:cur.ids.indexOf(w.id)};showOv();renderSpeak();}
+// 이번 세트의 이전/다음 단어로 이동 (마지막 단어에서 다음을 누르면 닫는다)
+function moveSpeak(step){
+  const i=SP.idx+step;
+  if(i<0)return;
+  if(i>=cur.ids.length)return closeOv();
+  openSpeak(WBY[cur.ids[i]],0);
+}
+function renderSpeak(){
+  const sp=SP,w=sp.w,e=w.examples[sp.ex];
+  $("ov").innerHTML=`<div class="ovw"><div class="ovh"><b>🗣 외워서 말하기</b><button class="reset ghost" data-close>닫기</button></div>
+    <div class="card"><div class="row1"><span class="word">${esc(w.word)}</span><span class="ipa">${esc(w.ipa)} · ${esc(ipaHangul(w.ipa))}</span></div>
+      <div class="exsel">${w.examples.map((x,i)=>`<button class="tab" aria-selected="${i===sp.ex}" data-ex="${i}">예문 ${i+1}</button>`).join("")}</div>
+      <p class="qk">${esc(e[1])}</p>
+      <p class="note">한글 뜻을 보고 영어 문장을 떠올려 말해 보세요. 막히면 힌트를 보세요.</p>
+      <div id="hint" class="hint" hidden>${bold(e[0])}</div>
+      <div class="row1"><button class="reset ghost" data-hint>👀 힌트 보기</button><button class="spk" data-hsay aria-label="예문 듣기">🔊</button></div>
+      <button class="micb" id="mic" data-mic>🎤 말하기 시작</button>
+      <div id="spmsg" class="toast" aria-live="polite" hidden></div><div id="spres"></div><div id="spref"></div><div id="ovt"></div></div>
+    ${sp.idx>=0?`<div class="rbtn" style="justify-content:space-between"><button class="reset ghost" data-sprev ${sp.idx===0?"disabled":""}>← 이전 단어</button><span class="stat" style="align-self:center">${sp.idx+1} / ${cur.ids.length}</span><button class="reset" id="snext" data-snext>${sp.idx+1<cur.ids.length?"다음 단어 →":"마치기"}</button></div>`:""}</div>`;
+  if(!SR)setMsg("이 브라우저는 말하기 인식을 지원하지 않아요. 안드로이드 크롬이나 아이폰 사파리에서 열어 주세요.");
+}
+function setMsg(t){const m=$("spmsg");if(m){m.hidden=!t;m.textContent=t||"";}}
+function setMic(label,on){const b=$("mic");if(b){b.textContent=label;b.classList.toggle("on",!!on);}}
+function startListen(manual){
+  const sp=SP;if(!sp)return;
+  if(!SR){setMsg("이 브라우저는 말하기 인식을 지원하지 않아요. 안드로이드 크롬이나 아이폰 사파리에서 열어 주세요.");return;}
+  if(sp.busy){abortRec();setMic("🎤 말하기 시작");return;} // 듣는 중에 다시 누르면 취소
+  stopSpeak();if(manual)sp.fails=0;
+  const rec=new SR(),tok=++sp.tok;let finished=false;
+  rec.lang="en-US";rec.interimResults=false;rec.maxAlternatives=5;rec.continuous=false;
+  sp.rec=rec;sp.busy=true;setMsg("");setMic("🎙 듣고 있어요… 영어로 말해 보세요",true);
+  const fin=fn=>{if(finished||SP!==sp||sp.tok!==tok)return;finished=true;sp.busy=false;setMic("🎤 다시 말하기");fn();};
+  rec.onresult=e=>fin(()=>evalSpeak([...e.results[0]].map(a=>a.transcript)));
+  rec.onerror=e=>{
+    if(e.error==="aborted")return;
+    if(e.error==="not-allowed"||e.error==="service-not-allowed")return fin(()=>setMsg("마이크 사용이 허용되지 않았어요. 주소창의 자물쇠에서 마이크를 허용해 주세요."));
+    if(e.error==="network")return fin(()=>setMsg("음성 인식에는 인터넷 연결이 필요해요."));
+    fin(()=>afterFail("소리가 잘 들리지 않았어요."));};
+  rec.onend=()=>fin(()=>afterFail("말씀을 알아듣지 못했어요."));
+  try{rec.start();}catch(err){sp.busy=false;setMic("🎤 말하기 시작");setMsg("마이크를 시작하지 못했어요. 버튼을 다시 눌러 주세요.");}
+}
+// 원어민 발음 + 문장 전체의 한글 표기 (두 번 연속 점수가 안 나오면 노출)
+function renderRef(){
+  const sp=SP,box=$("spref");if(!sp||!box)return;
+  if(!sp.showRef){box.innerHTML="";return;}
+  const orig=sp.w.examples[sp.ex][0].replace(/\*/g,"").split(/\s+/).filter(Boolean);let unk=0;
+  box.innerHTML=`<div class="refbox"><b>👂 이렇게 말해 보세요</b>
+    <div class="rbtn"><button class="reset" id="rsay" data-rsay>🔊 원어민 발음 듣기</button><button class="reset ghost" data-rslow>🐢 천천히</button></div>
+    <div>${orig.map(o=>{const t=nw(o).join(""),h=t?hgw(t):"";if(t&&!h)unk++;return `<span class="rw"><small>${esc(o)}</small><b>${h?esc(h):"·"}</b></span>`;}).join("")}</div>
+    ${unk?'<p class="note">· 표시는 한글 표기를 만들지 못한 단어예요. 원어민 발음을 들어 보세요.</p>':'<p class="note">한글 표기는 발음기호를 바탕으로 한 대략적인 발음이에요.</p>'}</div>`;
+}
+// 점수가 너무 낮으면 "다시 해보세요"를 3번까지 자동으로 이어 가고, 그 뒤로는 버튼을 눌러야만 다시 시작한다
+// 두 번째 실패부터는 참고 자료를 보여 주고, 처음 보여 줄 때는 원어민 발음을 한 번 들려준 뒤 이어서 듣기 시작한다
+function afterFail(why){
+  const sp=SP;sp.fails++;
+  const reveal=sp.fails>=2&&!sp.showRef;
+  if(sp.fails>=2){sp.showRef=true;renderRef();}
+  if(sp.fails<=3){const t0=sp.tok;setMsg(why+" 다시 해보세요 ("+sp.fails+"/3)"+(reveal?" 먼저 원어민 발음을 들어 볼게요.":""));setMic("🎤 다시 말하기");
+    const go=()=>{if(SP===sp&&sp.tok===t0&&!sp.busy)startListen(false);};
+    if(reveal){const b=$("rsay");if(b){say(sp.w.examples[sp.ex][0],[0.9],b,go);setTimeout(go,15000);}else setTimeout(go,1800);}
+    else setTimeout(go,1800);}
+  else{setMsg(why+" 3번 다시 해 봤어요. 준비되면 아래 버튼을 눌러서 다시 말해 보세요. (천천히, 또박또박!)");setMic("🎤 눌러서 다시 말하기");}
+}
+function evalSpeak(alts){
+  const sp=SP,w=sp.w,target=w.examples[sp.ex][0].replace(/\*/g,"");
+  let best=null;alts.forEach(a=>{const r=scoreSpeech(target,a);if(!best||r.score>best.score)best=r;});
+  const sc=best.score,key=w.id+":"+sp.ex,rec=S.speak[key]||(S.speak[key]={n:0,best:0});
+  rec.n++;rec.best=Math.max(rec.best,sc);rec.last=today();if(sc>=80)rec.ok=1;
+  const st=stat();st.s++;st.ss+=sc;trimDaily();save();
+  const orig=target.split(/\s+/).filter(Boolean),miss=[...new Set(orig.filter((o,i)=>best.marks[i]===false).map(o=>nw(o).join("")))];
+  const mh=miss.filter(m=>wordIpa(m)).map(m=>`<li><b>${esc(m)}</b> ${esc(wordIpa(m))} → ${esc(hgw(m))}</li>`).join("");
+  $("spres").innerHTML=`<div class="score ${sc>=80?"g":sc>=60?"m":"b"}">${sc}점</div>
+    <p class="note">정답 문장 — <span class="okw">초록</span> 잘 말함 · <span class="badw">빨강</span> 놓침</p>
+    <p class="tg">${orig.map((o,i)=>`<span class="${best.marks[i]===null?"":best.marks[i]?"okw":"badw"}">${esc(o)}</span>`).join(" ")}</p>
+    ${mh?`<p class="note">놓친 단어의 한글 발음</p><ul>${mh}</ul>`:""}`;
+  if(sc>=80){
+    const n=$("snext");if(n)n.classList.add("hl");
+    const fresh=!S.levels[w.lv].done.includes(w.id);
+    if(fresh){setDone(w.lv,w.id,true);trimDaily();save();} // 80점 이상이면 단어도 완료 처리
+    sp.fails=0;setMsg("👏 잘했어요! 이 예문을 외웠어요."+(fresh?" 단어도 완료 처리했어요.":"")+(sp.ex===0&&w.examples.length>1?" 다른 예문도 도전해 볼까요?":""));setMic("🎤 한 번 더 말하기");}
+  else if(sc>=60){sp.fails=0;setMsg("거의 다 됐어요! 빨간 단어에 신경 써서 다시 말해 보세요.");setMic("🎤 다시 말하기");}
+  else afterFail("점수가 조금 낮아요.");
+}
+
+/* ---------- 학습 리포트 (부모·선생님용) ---------- */
+function streakOf(st){let n=0,d=new Date();const dl=st.daily||{};if(!dl[dstr(d)])d.setDate(d.getDate()-1);while(dl[dstr(d)]>0){n++;d.setDate(d.getDate()-1);}return n;}
+const num=x=>{x=+x;return isFinite(x)&&x>0?x:0;};
+function buildReport(st){
+  const t=today(),stats=st.stats||{},dl=st.daily||{},days=[];
+  for(let i=13;i>=0;i--){const d=addDays(t,-i);days.push({d,n:num(dl[d])});}
+  const sum=(k,span)=>{let s=0;for(let i=0;i<span;i++){const x=stats[addDays(t,-i)];if(x)s+=num(x[k]);}return s;};
+  const levels=Object.keys(LEVELS).map(lv=>{const L=(st.levels||{})[lv]||{};return {name:LEVELS[lv],done:Array.isArray(L.done)?L.done.filter(id=>WBY[id]).length:0,total:WORDS[lv].length};});
+  const rv=st.review||{},rids=Object.keys(rv).filter(id=>WBY[id]&&rv[id]);
+  return {date:t,streak:streakOf(st),today:num(dl[t]),week:days.slice(7).reduce((s,x)=>s+x.n,0),days,levels,
+    totalDone:levels.reduce((s,l)=>s+l.done,0),
+    q7:sum("q",7),c7:sum("c",7),s7:sum("s",7),ss7:sum("ss",7),
+    memo:Object.values(st.speak||{}).filter(x=>x&&x.ok).length,
+    due:dueIds(st).length,inReview:rids.length,longTerm:rids.filter(id=>num(rv[id].b)>=3).length,
+    weak:Object.entries(st.weak||{}).filter(([id,n])=>WBY[id]&&num(n)).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([id,n])=>[WBY[id],num(n)])};
+}
+const pct=(a,b)=>b?Math.round(a/b*100):0;
+function reportText(r){
+  return ["📘 자투리 영단어 학습 리포트 ("+r.date+")",
+    "• 연속 학습 "+r.streak+"일 · 오늘 "+r.today+"개 · 최근 7일 "+r.week+"개",
+    "• 누적 완료 "+r.totalDone+"개 ("+r.levels.map(l=>l.name+" "+l.done+"/"+l.total).join(", ")+")",
+    "• 퀴즈(최근 7일) "+(r.q7?r.q7+"문제 중 "+r.c7+"개, 정답률 "+pct(r.c7,r.q7)+"%":"기록 없음"),
+    "• 말하기(최근 7일) "+(r.s7?r.s7+"회, 평균 "+Math.round(r.ss7/r.s7)+"점":"기록 없음")+" · 외운 예문 "+r.memo+"개",
+    "• 복습: 오늘 할 것 "+r.due+"개 · 복습 중 "+r.inReview+"개 · 장기 기억 단계 "+r.longTerm+"개",
+    "• 자주 틀린 단어: "+(r.weak.length?r.weak.map(([w,n])=>w.word+"("+n+")").join(", "):"없음")].join("\n");
+}
+let reportSt=null;
+function openReport(st,ro){
+  reportSt=st;const r=buildReport(st),mx=Math.max(5,...r.days.map(x=>x.n)),acc=pct(r.c7,r.q7);
+  showOv();
+  $("ov").innerHTML=`<div class="ovw"><div class="ovh"><b>📊 학습 리포트</b><button class="reset ghost" data-close>닫기</button></div>
+    ${ro?'<div class="banner">👀 불러온 파일의 기록을 <b>읽기 전용</b>으로 보고 있어요. (이 기기의 기록은 바뀌지 않아요) <button class="reset ghost" data-rmine>내 기록 보기</button></div>':""}
+    <div class="grid">
+      <div class="tile"><b>${r.streak}일</b><span>연속 학습</span></div>
+      <div class="tile"><b>${r.today}개</b><span>오늘 완료 (최근 7일 ${r.week}개)</span></div>
+      <div class="tile"><b>${r.q7?acc+"%":"-"}</b><span>퀴즈 정답률 (최근 7일${r.q7?", "+r.q7+"문제":""})</span></div>
+      <div class="tile"><b>${r.s7?Math.round(r.ss7/r.s7)+"점":"-"}</b><span>말하기 평균 (${r.s7}회) · 외운 예문 ${r.memo}개</span></div>
+      <div class="tile"><b>${r.due}개</b><span>오늘 복습할 단어</span></div>
+      <div class="tile"><b>${r.longTerm}개</b><span>장기 기억 단계 (복습 ${r.inReview}개 중)</span></div>
+    </div>
+    <div class="card"><b>최근 14일 완료 단어</b><div class="chart">${r.days.map(x=>`<div class="col" title="${x.d}: ${x.n}개"><i style="height:${x.n/mx*100}%"></i><small>${x.d.slice(8)}</small></div>`).join("")}</div></div>
+    <div class="card"><b>단계별 진행</b>${r.levels.map(l=>`<div class="prog"><span>${l.name}</span><span>${l.done} / ${l.total}</span></div><div class="bar"><i style="width:${pct(l.done,l.total)}%"></i></div>`).join("")}</div>
+    <div class="card"><b>자주 틀린 단어</b>${r.weak.length?r.weak.map(([w,n])=>`<div class="prog" style="margin-top:6px"><span><b>${esc(w.word)}</b> ${esc(w.meanings[0][1])}</span><span>${n}회</span></div>`).join(""):'<div class="note">아직 없어요.</div>'}</div>
+    <div class="note" style="margin-top:10px">💡 보는 법: 퀴즈 정답률 80% 이상이면 잘 익히고 있는 거예요. 복습할 단어가 계속 쌓이면 복습 퀴즈부터 하게 해 주세요. 말하기 평균은 음성 인식 결과 기준의 참고 점수예요.</div>
+    <div class="rbtn"><button class="reset" data-rcopy>📋 리포트 복사</button>${navigator.share?'<button class="reset" data-rshare>📤 공유</button>':""}<button class="reset ghost" data-rprint>🖨 인쇄</button>
+      <button class="reset ghost" data-rsave>💾 기록 파일 저장</button><button class="reset ghost" data-rload>📂 다른 기기 기록 열기</button><input type="file" id="impf" accept=".json,application/json" hidden></div>
+    <div id="ovt"></div></div>`;
+  $("impf").onchange=e=>{const f=e.target.files[0];if(!f)return;const fr=new FileReader();
+    fr.onload=()=>{try{const o=JSON.parse(fr.result);if(!o||o.version!==1||typeof o.levels!=="object"||!o.levels)throw 0;openReport(o,true);}catch(x){ovToast("올바른 기록 파일이 아니에요.");}};fr.readAsText(f);};
+}
+async function copyText(t){try{await navigator.clipboard.writeText(t);ovToast("복사했어요. 메신저에 붙여 넣어 보내세요.");}catch(e){window.prompt("복사해서 사용하세요",t);}}
+
 /* ---------- 이벤트 ---------- */
+$("ov").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;const d=b.dataset;
+  if("close" in d)return closeOv();
+  if(b.classList.contains("ch")&&Q)return answerQ(+d.i);
+  if("qnext" in d){Q.i++;return renderQ();}
+  if("qsay" in d)return say(Q.qs[Q.i].w.word,[0.9,0.75],b);
+  if("qgo" in d){closeOv();return $("next").click();}
+  if("qmore" in d)return openQuiz("review");
+  if(SP){
+    if("ex" in d){abortRec();SP.ex=+d.ex;SP.fails=0;SP.showRef=false;return renderSpeak();}
+    if("rsay" in d||"rslow" in d){if(SP.busy){abortRec();setMic("🎤 말하기 시작");}return say(SP.w.examples[SP.ex][0],"rslow" in d?[0.6]:[0.9],b);}
+    if("hint" in d){const h=$("hint");h.hidden=!h.hidden;b.textContent=h.hidden?"👀 힌트 보기":"🙈 힌트 숨기기";return;}
+    if("hsay" in d)return say(SP.w.examples[SP.ex][0],[0.9],b);
+    if("mic" in d)return startListen(true);
+    if("snext" in d)return moveSpeak(1);
+    if("sprev" in d)return moveSpeak(-1);
+  }
+  if("rcopy" in d)return copyText(reportText(buildReport(reportSt)));
+  if("rshare" in d)return navigator.share({title:"자투리 영단어 학습 리포트",text:reportText(buildReport(reportSt))}).catch(()=>{});
+  if("rprint" in d)return window.print();
+  if("rsave" in d){const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(reportSt)],{type:"application/json"}));a.download="jatuori-"+today()+".json";a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);return;}
+  if("rload" in d)return $("impf").click();
+  if("rmine" in d)return openReport(S,false);
+});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("ov").hidden)closeOv();});
+$("quizb").onclick=()=>openQuiz("set");
+$("revb").onclick=()=>openQuiz("review");
+$("repb").onclick=()=>openReport(S,false);
 $("list").addEventListener("click",e=>{
   const card=e.target.closest(".card");if(!card)return;
   const id=card.dataset.id,lv=S.lastLevel,L=S.levels[lv],w=WORDS[lv].find(x=>x.id===id);
@@ -235,10 +581,9 @@ $("list").addEventListener("click",e=>{
     if(k==="w")say(w.word,[0.9,0.75],sp);
     else{const i=+k[1];card.querySelector(`[data-ko="${i}"]`).classList.add("open");say(w.examples[i][0],[0.9],sp);}
     return;}
+  if(e.target.closest("[data-speak]")){openSpeak(w,0);return;}
   if(e.target.closest("[data-done]")){
-    const t=today(),idx=L.done.indexOf(id);
-    if(idx<0){L.done.push(id);S.daily[t]=(S.daily[t]||0)+1;}
-    else{L.done.splice(idx,1);if(S.daily[t]>0)S.daily[t]--;}
+    setDone(lv,id,L.done.indexOf(id)<0);
     trimDaily();save();
     // 카드는 제자리에 두고 상태만 갱신 (열린 해석 유지)
     const open=[...card.querySelectorAll(".ko.open")].map(x=>x.dataset.ko);

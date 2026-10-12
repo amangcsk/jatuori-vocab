@@ -6,4 +6,10 @@
 - `build.js` : 난이도를 3등분해 `../words-*.js` 를 생성 (`node build.js`)
 - 단어를 고친 뒤에는 `build.js` 실행 → `sw.js` 의 `VERSION` 올리기 → 커밋·푸시
 
-- 참고: validate.js 가 보고하는 'headword?' 항목 22건은 blew·caught·fell 같은 불규칙 변화형이라 정상입니다.
+- 참고: validate.js 가 보고하는 'headword?' 항목 18건은 blew·caught·fell 같은 불규칙 변화형이라 정상입니다.
+
+## 학습 기능 메모 (index.html)
+
+- 저장 키 `jatuori-vocab:v1` 에 `review`(복습 일정) · `stats`(날짜별 퀴즈·말하기 통계) · `weak`(틀린 횟수) · `speak`(예문별 말하기 기록) 필드가 추가됐다. 기존 기록은 그대로 읽는다.
+- 복습 간격은 `INT=[1,3,7,14,30,60]`일. 퀴즈를 맞히면 다음 간격, 틀리면 처음(1일)부터.
+- 말하기는 브라우저 음성 인식(Web Speech API)으로 점수를 매기므로 인터넷·마이크 권한이 필요하고 Firefox 는 지원하지 않는다. 한글 발음은 발음기호를 규칙으로 바꾼 근사 표기다.
