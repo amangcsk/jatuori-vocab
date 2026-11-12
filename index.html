@@ -97,6 +97,8 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 .chart small{font-size:10px;color:var(--sub)}
 .rbtn{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
 .banner{background:var(--soft);border-radius:10px;padding:8px 12px;margin-top:8px;font-size:14px}
+.voice{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;margin-top:14px}
+.voice select{font:inherit;font-size:13px;max-width:240px;min-height:36px;padding:0 8px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}
 @media print{.wrap,.bottom,.rbtn,.ovh button{display:none!important}#ov{position:static}}
 </style>
 </head>
@@ -112,6 +114,7 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
   <div id="toast"></div>
   <main id="list"></main>
   <div style="text-align:center;margin-top:18px"><span id="resetArea"></span></div>
+  <div class="voice" id="voiceArea"></div>
   <div style="text-align:center;margin-top:10px" id="install"></div>
 </div>
 <div class="bottom"><div class="brow"><button class="quizb" id="quizb">📝 퀴즈</button><button class="next" id="next">다음 5개 →</button></div></div>
@@ -185,14 +188,46 @@ function compute(){
 
 /* ---------- 음성 (PRD 8) ---------- */
 const hasTTS="speechSynthesis" in window;
-let voice=null,speakTok=0,activeBtn=null,ttsNoted=false;
+// voice: 실제로 읽을 음성 · localVoice: 기기에 내장된 음성(온라인 음성이 실패할 때 대신 쓴다) · enVoices: 듣기 좋은 순서의 영어 음성
+let voice=null,localVoice=null,enVoices=[],speakTok=0,activeBtn=null,ttsNoted=false;
+const VKEY="jatuori-vocab:voice";
+// 듣기 좋은 정도를 점수로 매긴다: 미국 영어 > 자연스러운(신경망) 음성 > 고품질 음성 > 기본 음성, 장난스러운 효과 음성은 뒤로
+function vscore(v){
+  const n=v.name;let s=0;
+  if(/^en[-_]US/i.test(v.lang))s+=100;else if(/^en[-_](GB|AU|CA)/i.test(v.lang))s+=30;
+  if(/natural|neural/i.test(n))s+=60;
+  if(/premium|enhanced|siri/i.test(n))s+=50;
+  if(/Google US English/i.test(n))s+=40;
+  if(/\b(Ava|Jenny|Aria|Emma|Samantha|Allison|Zoe|Andrew|Brian)\b/i.test(n))s+=20;
+  if(/multilingual/i.test(n))s-=5;
+  if(/Zira/i.test(n))s+=10;
+  if(/compact|eloquence|albert|bad news|bahh|bells|boing|bubbles|cellos|good news|jester|junior|kathy|organ|ralph|superstar|trinoids|whisper|wobble|zarvox|fred/i.test(n))s-=90;
+  return s;
+}
 function pickVoice(){
   if(!hasTTS)return;const vs=speechSynthesis.getVoices();if(!vs.length)return;
-  const us=vs.filter(v=>/^en[-_]US/i.test(v.lang)),en=vs.filter(v=>/^en/i.test(v.lang));
-  const pool=us.length?us:en;
-  const local=pool.filter(v=>v.localService!==false);
-  const pick=l=>l.find(v=>/natural|neural|premium|enhanced/i.test(v.name))||l.find(v=>/Samantha|Aria|Jenny|Google US English/i.test(v.name))||l[0]||null;
-  voice=pick(local)||pick(pool);
+  enVoices=vs.filter(v=>/^en/i.test(v.lang)).map(v=>({v,s:vscore(v)})).sort((a,b)=>b.s-a.s).map(x=>x.v);
+  let want=null;try{want=localStorage.getItem(VKEY);}catch(e){}
+  voice=(want&&enVoices.find(v=>v.name===want))||enVoices[0]||null;
+  localVoice=enVoices.find(v=>v.localService)||null;
+  renderVoice(want);
+}
+// 발음 목소리 고르기 (자동 = 가장 듣기 좋은 음성)
+function vlabel(v){return v.name.replace(/^Microsoft /,"").replace(/ Online \(Natural\)/," · 자연스러운 음성").replace(/ - English \(United States\)/,"")+(/^en[-_]US/i.test(v.lang)?"":" ("+v.lang+")");}
+function renderVoice(want){
+  const box=document.getElementById("voiceArea");if(!box||!enVoices.length)return;
+  box.textContent="";
+  const lab=document.createElement("label");lab.className="stat";lab.textContent="🔈 발음 목소리 ";
+  const sel=document.createElement("select");sel.id="vsel";
+  const add=(val,txt)=>{const o=document.createElement("option");o.value=val;o.textContent=txt;sel.appendChild(o);};
+  add("","자동 (추천: "+vlabel(enVoices[0])+")");
+  enVoices.slice(0,30).forEach(v=>add(v.name,vlabel(v)));
+  sel.value=want&&enVoices.slice(0,30).some(v=>v.name===want)?want:"";
+  sel.onchange=()=>{try{if(sel.value)localStorage.setItem(VKEY,sel.value);else localStorage.removeItem(VKEY);}catch(e){}
+    voice=enVoices.find(v=>v.name===sel.value)||enVoices[0]||null;say("This is how the words will sound.",[0.9],btn);};
+  const btn=document.createElement("button");btn.className="reset ghost";btn.textContent="들어 보기";
+  btn.onclick=()=>say("This is how the words will sound.",[0.9],btn);
+  lab.appendChild(sel);box.appendChild(lab);box.appendChild(btn);
 }
 if(hasTTS){pickVoice();speechSynthesis.onvoiceschanged=pickVoice;}
 let curUtter=null,hintTimer=null;
@@ -208,19 +243,29 @@ function say(text,rates,btn,cb){
   if(!hasTTS){if(!ttsNoted){ttsNoted=true;toast("이 브라우저는 발음 듣기를 지원하지 않아요. 크롬이나 사파리에서 열어 주세요.");}return;}
   const tok=speakTok;activeBtn=btn;btn.classList.add("on");
   const plain=text.replace(/\*/g,"");
-  let i=0,started=false,tries=0;
+  // lvl: 어떤 음성으로 읽을지 (0 고른 음성 → 1 기기 내장 음성 → 2 음성 지정 없이 언어만). 같은 단계에서 두 번 실패하면 다음 단계로 넘어간다.
+  // 우리가 끊은 재생은 speakTok 이 바뀌어 걸러지므로, 여기까지 온 "interrupted"·"canceled" 는 브라우저가 스스로 중단한 것이다
+  // (엣지는 몇 초 쉬었다 재생하면 첫 시도를 거의 매번 중단한다). 그래서 끝난 것으로 치지 않고 다시 시도한다.
+  let i=0,started=false,lvl=0,n=0;
   const finish=()=>{btn.classList.remove("on");if(activeBtn===btn)activeBtn=null;};
   const run=()=>{
     if(tok!==speakTok)return;
-    const u=new SpeechSynthesisUtterance(plain);u.lang=tries>=2?"en":"en-US";if(voice&&tries===0)u.voice=voice;u.rate=rates[i];
+    if(lvl===0&&!voice)lvl=1;if(lvl===1&&(!localVoice||localVoice===voice))lvl=2;
+    const v=lvl===0?voice:lvl===1?localVoice:null;
+    const u=new SpeechSynthesisUtterance(plain);u.lang=v?v.lang:(n>0?"en":"en-US");if(v)u.voice=v;u.rate=rates[i];
     curUtter=u; // 재생이 끝나기 전에 객체가 수거되어 이벤트가 끊기는 문제 방지
-    u.onstart=()=>{started=true;clearTimeout(hintTimer);};
-    u.onend=()=>{if(tok!==speakTok)return;i++;if(i<rates.length)setTimeout(run,600);else{finish();if(cb)setTimeout(cb,800);}};
-    u.onerror=e=>{if(tok!==speakTok)return;
-      if(e.error==="canceled"||e.error==="interrupted"){finish();return;}
-      if(tries<2){tries++;speechSynthesis.cancel();setTimeout(run,120);return;}
-      finish();toast("발음을 재생하지 못했어요 (오류: "+(e.error||"알 수 없음")+"). 기기의 영어 음성 설정을 확인해 주세요.");};
-    try{speechSynthesis.resume();speechSynthesis.speak(u);}catch(err){finish();toast("발음을 재생하지 못했어요.");}
+    let dead=false,startT=null;
+    const fail=why=>{
+      if(dead||tok!==speakTok)return;dead=true;clearTimeout(startT);
+      n++;if(n>=2&&lvl<2){lvl++;n=0;}
+      if(n<2){if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel();setTimeout(run,150);return;}
+      finish();toast("발음을 재생하지 못했어요 (오류: "+(why||"알 수 없음")+"). 기기의 영어 음성 설정을 확인해 주세요.");};
+    u.onstart=()=>{if(dead)return;started=true;clearTimeout(hintTimer);clearTimeout(startT);};
+    u.onend=()=>{if(dead||tok!==speakTok)return;dead=true;clearTimeout(startT);n=0;i++;if(i<rates.length)setTimeout(run,600);else{finish();if(cb)setTimeout(cb,800);}};
+    u.onerror=e=>fail(e.error);
+    // 온라인 음성은 연결이 안 되면 오류도 없이 조용히 멈출 수 있어, 3초 안에 시작하지 않으면 실패로 본다
+    if(v&&v.localService===false)startT=setTimeout(()=>fail("시간 초과"),3000);
+    try{speechSynthesis.resume();speechSynthesis.speak(u);}catch(err){dead=true;clearTimeout(startT);finish();toast("발음을 재생하지 못했어요.");}
   };
   // 이전 재생을 취소한 직후라면 아주 잠깐 뒤에 시작
   if(wasBusy)setTimeout(run,80);else run();
@@ -397,7 +442,9 @@ const hgw=w=>{const p=wordIpa(w);return p?ipaHangul(p):"";};
 
 /* ---------- 말하기 (외워서 말하기 + 인식 점수) ---------- */
 const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
-const nw=s=>s.toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9\s]/g," ").split(/\s+/).filter(Boolean);
+// 음성 인식은 숫자를 "2"처럼 돌려주는 일이 많아, 글자로 쓴 숫자와 같게 본다
+const NUMW={0:"zero",1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight",9:"nine",10:"ten",11:"eleven",12:"twelve",13:"thirteen",14:"fourteen",15:"fifteen",16:"sixteen",17:"seventeen",18:"eighteen",19:"nineteen",20:"twenty",30:"thirty",40:"forty",50:"fifty",60:"sixty",70:"seventy",80:"eighty",90:"ninety"};
+const nw=s=>s.toLowerCase().replace(/[’']/g,"").replace(/[^a-z0-9\s]/g," ").split(/\s+/).filter(Boolean).map(t=>NUMW[t]||t);
 // 정답 문장 단어와 인식 결과를 순서대로 맞춰(LCS) 점수(0~100)와 단어별 일치 여부를 구한다
 function scoreSpeech(target,said){
   const a=nw(target),b=nw(said),m=a.length,n=b.length,dp=Array.from({length:m+1},()=>new Array(n+1).fill(0));
